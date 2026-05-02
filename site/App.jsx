@@ -199,17 +199,32 @@ function App() {
   const [lang, setLang] = useState('ar');
   const [route, setRoute] = useState('home');
   const [article, setArticle] = useState(null);
+  const [theme, setTheme] = useState('default');
 
   useEffect(() => {
     document.documentElement.lang = lang;
     document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr';
   }, [lang]);
 
+  useEffect(() => {
+    if (theme === 'default') {
+      document.documentElement.removeAttribute('data-theme');
+    } else {
+      document.documentElement.setAttribute('data-theme', theme);
+    }
+    localStorage.setItem('hadaf-theme', theme);
+  }, [theme]);
+
+  useEffect(() => {
+    const savedTheme = localStorage.getItem('hadaf-theme') || 'default';
+    setTheme(savedTheme);
+  }, []);
+
   const openArticle = (a) => { setArticle(a); setRoute('article'); window.scrollTo(0,0); };
 
   return (
     <div className="hd-app">
-      <HdNav lang={lang} setLang={setLang} route={route} setRoute={setRoute}/>
+      <HdNav lang={lang} setLang={setLang} route={route} setRoute={setRoute} theme={theme} setTheme={setTheme}/>
       {route === 'home' && <HomeView lang={lang} setRoute={setRoute} openArticle={openArticle}/>}
       {route === 'league' && <LeagueView lang={lang} setRoute={setRoute}/>}
       {route === 'article' && <ArticleView lang={lang} article={article} setRoute={setRoute}/>}

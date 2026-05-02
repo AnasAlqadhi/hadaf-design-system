@@ -5,7 +5,7 @@ function MatchCard({ home, away, scoreHome, scoreAway, status, minute, lang, com
   const isFinal = status === 'final';
   const isUpcoming = status === 'upcoming';
   return (
-    <div className={`hd-match ${compact ? 'is-compact' : ''}`}>
+    <div className={`hd-match ${compact ? 'is-compact' : ''} ${isLive ? 'is-live' : ''}`}>
       <div className="hd-match-team">
         <img src={home.crest} alt=""/>
         <span>{lang==='ar' ? home.ar : home.en}</span>
