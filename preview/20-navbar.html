@@ -1,0 +1,33 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<title>Nav bar</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:0;background:var(--paper);font-family:var(--font-ar-body);color:var(--ink)}
+  nav{background:rgba(250,247,241,.85);backdrop-filter:blur(16px);border-bottom:1px solid var(--border);display:flex;align-items:center;gap:24px;padding:0 24px;height:64px}
+  .logo img{height:36px}
+  ul{display:flex;gap:18px;list-style:none;margin:0;padding:0;font-size:14px;font-weight:600}
+  li.active{color:var(--hadaf-green)}
+  li.active::after{content:"";display:block;height:2px;background:var(--hadaf-gold);margin-top:18px}
+  .live{margin-inline-start:auto;display:flex;align-items:center;gap:8px;font-size:12px;color:var(--live-red);font-weight:700}
+  .live::before{content:"";width:8px;height:8px;background:var(--live-red);border-radius:50%;animation:hadaf-pulse 1.6s var(--ease-in-out) infinite}
+  .pad{padding:30px 24px;color:var(--fg-3);font-size:13px;font-family:var(--font-mono)}
+</style>
+</head>
+<body>
+  <nav>
+    <div class="logo"><img src="../assets/logo/hadaf-wordmark.svg" alt="Hadaf"></div>
+    <ul>
+      <li class="active">الرئيسية</li>
+      <li>دوري روشن</li>
+      <li>أبطال أوروبا</li>
+      <li>كأس العالم</li>
+      <li>الفيديوهات</li>
+    </ul>
+    <span class="live">مباشر · ٣ مباريات</span>
+  </nav>
+  <div class="pad">--nav-h: 64px · backdrop-blur 16px · paper @ 85%</div>
+</body>
+</html>

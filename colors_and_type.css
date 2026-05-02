@@ -1,0 +1,252 @@
+/* =============================================================
+   Hadaf (هدف) Design Tokens
+   Arabic-first football news. Cairo + IBM Plex Sans Arabic for
+   Arabic; Bebas Neue + Inter for Latin; JetBrains Mono for stats.
+   ============================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;500;600;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Bebas+Neue&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap');
+
+:root {
+  /* ---------- Color: Brand ---------- */
+  --hadaf-green-900: #082E1D;   /* deepest, on dark surfaces */
+  --hadaf-green-800: #0B4329;
+  --hadaf-green-700: #0E5C3A;   /* PRIMARY — signature green */
+  --hadaf-green-600: #157049;
+  --hadaf-green-500: #1E8C5E;
+  --hadaf-green-400: #46AE82;
+  --hadaf-green-300: #84CDAB;
+  --hadaf-green-200: #BCE3D0;
+  --hadaf-green-100: #E3F2EA;
+  --hadaf-green-50:  #F2F9F5;
+
+  --hadaf-gold-900: #6E4F0E;
+  --hadaf-gold-700: #A07E1D;
+  --hadaf-gold-500: #D4A437;   /* ACCENT — championship gold */
+  --hadaf-gold-300: #E8C778;
+  --hadaf-gold-100: #F7EBC7;
+
+  --hadaf-green: var(--hadaf-green-700);
+  --hadaf-gold:  var(--hadaf-gold-500);
+
+  /* ---------- Color: Ink & Paper (neutrals) ---------- */
+  --ink:        #0B0F0D;       /* near-black, warm-cool blend */
+  --ink-2:      #1F2622;       /* lifted ink, surface-2 on dark */
+  --ink-3:      #2C342F;
+  --ink-muted:  #4B544F;
+  --paper:      #FAF7F1;       /* warm off-white, newsprint */
+  --paper-2:    #F2EDE2;       /* slightly recessed paper */
+  --paper-3:    #E6E1D7;       /* hairline border on paper */
+  --white-pure: #FFFFFF;       /* avoid except inside photos */
+
+  /* ---------- Semantic colors ---------- */
+  --fg-1:       var(--ink);
+  --fg-2:       #2C342F;       /* secondary text */
+  --fg-3:       #4B544F;       /* tertiary, captions */
+  --fg-on-dark: #F5F1E8;
+  --fg-on-dark-2: #B8B4AB;
+
+  --bg-1:       var(--paper);
+  --bg-2:       var(--paper-2);
+  --bg-dark-1:  var(--ink);
+  --bg-dark-2:  var(--ink-2);
+
+  --border:     var(--paper-3);
+  --border-dark: var(--ink-3);
+
+  --link:       #1A6FB8;       /* readable on paper, in articles */
+  --link-hover: #134F84;
+
+  --live-red:   #E03131;       /* breaking / live */
+  --warn:       #D97706;
+  --success:    var(--hadaf-green-500);
+
+  /* ---------- Pattern overlay (8-pt star tile) ---------- */
+  --pattern-opacity: 0.05;
+
+  /* ---------- Spacing (4px base) ---------- */
+  --sp-0:  0;
+  --sp-1:  4px;
+  --sp-2:  8px;
+  --sp-3:  12px;
+  --sp-4:  16px;
+  --sp-5:  20px;
+  --sp-6:  24px;
+  --sp-7:  32px;
+  --sp-8:  40px;
+  --sp-9:  48px;
+  --sp-10: 64px;
+  --sp-11: 80px;
+  --sp-12: 96px;
+
+  /* ---------- Radii ---------- */
+  --radius-sm:   4px;
+  --radius-md:   8px;
+  --radius-lg:   12px;
+  --radius-xl:   20px;
+  --radius-full: 999px;
+
+  /* ---------- Shadows (warm-tinted) ---------- */
+  --shadow-0: 0 1px 0 0 rgba(11,15,13,0.04);
+  --shadow-1: 0 1px 2px rgba(11,15,13,0.06), 0 2px 8px rgba(11,15,13,0.05);
+  --shadow-2: 0 2px 4px rgba(11,15,13,0.08), 0 8px 24px rgba(11,15,13,0.10);
+  --shadow-3: 0 8px 16px rgba(11,15,13,0.12), 0 24px 48px rgba(11,15,13,0.14);
+  --shadow-inset: inset 0 0 0 1px rgba(11,15,13,0.06);
+
+  /* ---------- Gradients (limited use) ---------- */
+  --protect-grad: linear-gradient(180deg, rgba(11,15,13,0) 0%, rgba(11,15,13,0.15) 40%, rgba(11,15,13,0.85) 100%);
+  --protect-grad-rtl: linear-gradient(270deg, rgba(11,15,13,0) 0%, rgba(11,15,13,0.85) 100%);
+
+  /* ---------- Animation ---------- */
+  --ease-out:     cubic-bezier(0.2, 0.8, 0.2, 1);
+  --ease-in-out:  cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-fast:     150ms;
+  --dur-base:     240ms;
+  --dur-slow:     400ms;
+
+  /* ---------- Type families ---------- */
+  --font-ar-display: 'El Messiri', 'Tahoma', 'Geeza Pro', system-ui, sans-serif;
+  --font-ar-body:    'IBM Plex Sans Arabic', 'El Messiri', system-ui, sans-serif;
+  --font-en-display: 'Bebas Neue', 'Inter', system-ui, sans-serif;
+  --font-en-body:    'Inter', system-ui, sans-serif;
+  --font-mono:       'JetBrains Mono', ui-monospace, Menlo, monospace;
+
+  /* ---------- Type scale (semantic) ----------
+     Arabic naturally reads ~10% larger than Latin at the same px;
+     these tokens assume mixed content. Override for pure-Latin UI. */
+  --fs-display:   clamp(40px, 6vw, 72px);   /* hero headlines */
+  --fs-h1:        clamp(32px, 4vw, 48px);
+  --fs-h2:        clamp(24px, 3vw, 32px);
+  --fs-h3:        20px;
+  --fs-h4:        18px;
+  --fs-body:      16px;
+  --fs-body-sm:   14px;
+  --fs-caption:   13px;
+  --fs-micro:     11px;
+
+  --lh-tight:     1.1;
+  --lh-snug:      1.25;
+  --lh-normal:    1.5;
+  --lh-loose:     1.7;
+
+  --tracking-tight:  -0.02em;
+  --tracking-normal: 0;
+  --tracking-wide:   0.04em;
+  --tracking-caps:   0.08em;
+
+  /* ---------- Layout ---------- */
+  --container-max: 1280px;
+  --gutter:        24px;
+  --nav-h:         64px;
+}
+
+/* ============ Element-level semantics ============ */
+html { font-family: var(--font-ar-body); color: var(--fg-1); background: var(--bg-1); }
+html[lang="en"] { font-family: var(--font-en-body); }
+
+body { font-size: var(--fs-body); line-height: var(--lh-normal); }
+
+h1, .h1 {
+  font-family: var(--font-ar-display);
+  font-weight: 800;
+  font-size: var(--fs-h1);
+  line-height: var(--lh-tight);
+  letter-spacing: var(--tracking-tight);
+  color: var(--fg-1);
+  margin: 0;
+}
+html[lang="en"] h1, html[lang="en"] .h1 {
+  font-family: var(--font-en-display);
+  font-weight: 400;          /* Bebas Neue is single-weight */
+  letter-spacing: var(--tracking-normal);
+}
+
+h2, .h2 {
+  font-family: var(--font-ar-display);
+  font-weight: 700;
+  font-size: var(--fs-h2);
+  line-height: var(--lh-snug);
+  margin: 0;
+}
+html[lang="en"] h2, html[lang="en"] .h2 {
+  font-family: var(--font-en-display);
+  font-weight: 400;
+}
+
+h3, .h3 {
+  font-family: var(--font-ar-display);
+  font-weight: 700;
+  font-size: var(--fs-h3);
+  line-height: var(--lh-snug);
+  margin: 0;
+}
+
+h4, .h4 {
+  font-weight: 700;
+  font-size: var(--fs-h4);
+  line-height: var(--lh-snug);
+  margin: 0;
+}
+
+p { margin: 0 0 var(--sp-4) 0; line-height: var(--lh-loose); }
+.lead { font-size: 18px; line-height: var(--lh-loose); color: var(--fg-2); }
+
+small, .caption { font-size: var(--fs-caption); color: var(--fg-3); }
+.micro { font-size: var(--fs-micro); letter-spacing: var(--tracking-caps); text-transform: uppercase; color: var(--fg-3); }
+
+a { color: var(--link); text-decoration: none; transition: color var(--dur-fast) var(--ease-out); }
+a:hover { color: var(--link-hover); text-decoration: underline; text-underline-offset: 3px; }
+
+.kicker {
+  font-family: var(--font-en-body);
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  color: var(--hadaf-green);
+}
+
+.score, code, .mono {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Arabic-Indic numerals helper (use on .ar-num element) */
+.ar-num { font-feature-settings: "ss01"; }
+
+/* Pattern overlay utility (apply to a positioned ancestor) */
+.bg-pattern {
+  position: relative;
+}
+.bg-pattern::before {
+  content: "";
+  position: absolute; inset: 0;
+  background-image: url("assets/patterns/star-tile.svg");
+  background-size: 64px 64px;
+  opacity: var(--pattern-opacity);
+  pointer-events: none;
+}
+
+/* Live pulse animation */
+@keyframes hadaf-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.45; }
+}
+.is-live { animation: hadaf-pulse 1.6s var(--ease-in-out) infinite; }
+
+/* Score flash on update */
+@keyframes hadaf-score-flash {
+  0% { transform: scale(1); }
+  40% { transform: scale(1.06); }
+  100% { transform: scale(1); }
+}
+.score-flash { animation: hadaf-score-flash 200ms var(--ease-out); }
+
+/* Focus ring (gold, always visible) */
+:focus-visible {
+  outline: 2px solid var(--hadaf-gold);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* RTL adjustments */
+[dir="rtl"] .protect-grad { background: var(--protect-grad-rtl); }

@@ -1,0 +1,24 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<title>Gold scale</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:20px;background:var(--paper);font-family:var(--font-en-body)}
+  .scale{display:grid;grid-template-columns:repeat(5,1fr);gap:8px}
+  .step{height:104px;border-radius:8px;padding:10px;display:flex;flex-direction:column;justify-content:flex-end;font-family:var(--font-mono);font-size:11px;color:var(--paper)}
+  .step.lt{color:var(--ink)}
+  .step .n{font-weight:700;font-size:12px}
+</style>
+</head>
+<body>
+  <div class="scale">
+    <div class="step lt" style="background:var(--hadaf-gold-100)"><div class="n">100</div>F7EBC7</div>
+    <div class="step lt" style="background:var(--hadaf-gold-300)"><div class="n">300</div>E8C778</div>
+    <div class="step lt" style="background:var(--hadaf-gold-500);outline:2px solid var(--hadaf-green);outline-offset:-2px"><div class="n">500★</div>D4A437</div>
+    <div class="step" style="background:var(--hadaf-gold-700)"><div class="n">700</div>A07E1D</div>
+    <div class="step" style="background:var(--hadaf-gold-900)"><div class="n">900</div>6E4F0E</div>
+  </div>
+</body>
+</html>

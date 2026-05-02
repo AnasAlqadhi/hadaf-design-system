@@ -1,0 +1,61 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1612"></stop>
+      <stop offset="0.5" stop-color="#0E2B22"></stop>
+      <stop offset="1" stop-color="#0E5C3A"></stop>
+    </linearGradient>
+    <radialGradient id="flood" cx="50%" cy="0%" r="80%">
+      <stop offset="0" stop-color="#F5E9C0" stop-opacity="0.35"></stop>
+      <stop offset="0.4" stop-color="#F5E9C0" stop-opacity="0.08"></stop>
+      <stop offset="1" stop-color="#F5E9C0" stop-opacity="0"></stop>
+    </radialGradient>
+    <pattern id="grass" x="0" y="500" width="60" height="40" patternUnits="userSpaceOnUse">
+      <rect width="60" height="40" fill="#0E5C3A"></rect>
+      <rect width="30" height="40" fill="#0B4929"></rect>
+    </pattern>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)"></rect>
+  
+  <path d="M0 380 Q600 320 1200 380 L1200 500 L0 500 Z" fill="#070D0A" opacity="0.85"></path>
+  <path d="M0 360 Q600 300 1200 360 L1200 380 Q600 320 0 380 Z" fill="#1F2622" opacity="0.7"></path>
+  
+  <g fill="#F5E9C0" opacity="0.12">
+    <circle cx="100" cy="420" r="2"></circle><circle cx="160" cy="430" r="2"></circle><circle cx="220" cy="415" r="2"></circle>
+    <circle cx="280" cy="425" r="2"></circle><circle cx="340" cy="420" r="2"></circle><circle cx="400" cy="430" r="2"></circle>
+    <circle cx="460" cy="418" r="2"></circle><circle cx="520" cy="422" r="2"></circle><circle cx="580" cy="415" r="2"></circle>
+    <circle cx="640" cy="420" r="2"></circle><circle cx="700" cy="425" r="2"></circle><circle cx="760" cy="418" r="2"></circle>
+    <circle cx="820" cy="422" r="2"></circle><circle cx="880" cy="415" r="2"></circle><circle cx="940" cy="420" r="2"></circle>
+    <circle cx="1000" cy="425" r="2"></circle><circle cx="1060" cy="418" r="2"></circle><circle cx="1120" cy="422" r="2"></circle>
+    <circle cx="120" cy="450" r="2"></circle><circle cx="200" cy="455" r="2"></circle><circle cx="300" cy="448" r="2"></circle>
+    <circle cx="380" cy="452" r="2"></circle><circle cx="480" cy="450" r="2"></circle><circle cx="560" cy="455" r="2"></circle>
+    <circle cx="660" cy="448" r="2"></circle><circle cx="740" cy="452" r="2"></circle><circle cx="840" cy="450" r="2"></circle>
+    <circle cx="920" cy="455" r="2"></circle><circle cx="1020" cy="448" r="2"></circle><circle cx="1100" cy="452" r="2"></circle>
+  </g>
+  
+  <ellipse cx="600" cy="0" rx="900" ry="500" fill="url(#flood)"></ellipse>
+  
+  <rect x="0" y="500" width="1200" height="300" fill="url(#grass)"></rect>
+  
+  <g stroke="#F5E9C0" stroke-width="3" fill="none" opacity="0.6">
+    <line x1="600" y1="500" x2="600" y2="800"></line>
+    <circle cx="600" cy="640" r="60"></circle>
+  </g>
+  
+  <g fill="#0B0F0D" transform="translate(560 420)">
+    <circle cx="40" cy="20" r="14"></circle> 
+    <path d="M28 36 L52 36 L58 90 L48 90 L44 60 L36 60 L32 90 L22 90 Z"></path> 
+    <path d="M28 40 L8 70 L14 76 L34 50 Z"></path> 
+    <path d="M52 40 L72 30 L78 38 L58 52 Z"></path> 
+  </g>
+  
+  <circle cx="700" cy="540" r="14" fill="#F5F1E8" stroke="#0B0F0D" stroke-width="2"></circle>
+  <path d="M690 535 L710 545 M695 530 L705 550" stroke="#0B0F0D" stroke-width="1"></path>
+  
+  <radialGradient id="vig" cx="50%" cy="50%" r="70%">
+    <stop offset="0.6" stop-color="#000" stop-opacity="0"></stop>
+    <stop offset="1" stop-color="#000" stop-opacity="0.5"></stop>
+  </radialGradient>
+  <rect width="1200" height="800" fill="url(#vig)"></rect>
+</svg>

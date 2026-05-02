@@ -1,0 +1,26 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<title>Neutrals — Ink &amp; Paper</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:20px;background:var(--paper);font-family:var(--font-en-body)}
+  .row{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+  .sw{height:104px;border-radius:8px;padding:10px;display:flex;flex-direction:column;justify-content:flex-end;font-family:var(--font-mono);font-size:11px;border:1px solid var(--border)}
+  .sw .n{font-weight:700;font-size:12px;font-family:var(--font-en-body)}
+  .ink{background:var(--ink);color:var(--paper);border:none}
+  .ink2{background:var(--ink-2);color:var(--paper);border:none}
+  .paper{background:var(--paper);color:var(--ink)}
+  .paper2{background:var(--paper-2);color:var(--ink)}
+</style>
+</head>
+<body>
+  <div class="row">
+    <div class="sw ink"><div class="n">Ink</div>#0B0F0D · --ink</div>
+    <div class="sw ink2"><div class="n">Ink-2</div>#1F2622 · --ink-2</div>
+    <div class="sw paper"><div class="n">Paper</div>#FAF7F1 · --paper</div>
+    <div class="sw paper2"><div class="n">Paper-2</div>#F2EDE2 · --paper-2</div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<title>Pattern motif</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:0;background:var(--paper);color:var(--ink);font-family:var(--font-en-body);height:100vh;display:grid;grid-template-columns:1fr 1fr}
+  .panel{position:relative;display:flex;align-items:center;justify-content:center;font-family:var(--font-ar-display);font-weight:900;font-size:28px}
+  .panel.lt{background:var(--paper);color:var(--ink)}
+  .panel.dk{background:var(--ink);color:var(--paper)}
+  .panel::before{content:"";position:absolute;inset:0;background-image:url("../assets/patterns/star-tile.svg");background-size:64px;opacity:.06}
+  .panel.dk::before{filter:invert(1);opacity:.08}
+  .lbl{position:absolute;bottom:12px;right:12px;font-family:var(--font-mono);font-size:10px;opacity:.6}
+</style>
+</head>
+<body>
+  <div class="panel lt"><span style="position:relative">٨ نجوم</span><span class="lbl">opacity .06</span></div>
+  <div class="panel dk"><span style="position:relative">8-pt star</span><span class="lbl">opacity .08 inverted</span></div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<title>Shadows / Elevation</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:32px 24px;background:var(--paper);font-family:var(--font-en-body);color:var(--ink)}
+  .row{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;text-align:center}
+  .card{background:var(--paper);height:80px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-family:var(--font-mono);font-size:11px;color:var(--fg-3);border:1px solid var(--border)}
+  .lbl{margin-top:10px;font-family:var(--font-mono);font-size:11px;color:var(--fg-3)}
+</style>
+</head>
+<body>
+  <div class="row">
+    <div><div class="card" style="box-shadow:var(--shadow-0)">0</div><div class="lbl">--shadow-0</div></div>
+    <div><div class="card" style="box-shadow:var(--shadow-1)">1</div><div class="lbl">--shadow-1</div></div>
+    <div><div class="card" style="box-shadow:var(--shadow-2)">2</div><div class="lbl">--shadow-2 · hover</div></div>
+    <div><div class="card" style="box-shadow:var(--shadow-3)">3</div><div class="lbl">--shadow-3 · modal</div></div>
+  </div>
+</body>
+</html>

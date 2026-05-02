@@ -1,0 +1,31 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<title>Buttons</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:24px;background:var(--paper);font-family:var(--font-ar-body);color:var(--ink)}
+  .grid{display:grid;grid-template-columns:repeat(3,auto);gap:14px;justify-content:start;align-items:center}
+  .btn{font-family:var(--font-ar-body);font-weight:700;font-size:15px;padding:12px 20px;border-radius:var(--radius-md);border:1px solid transparent;cursor:pointer;transition:all var(--dur-fast) var(--ease-out);display:inline-flex;align-items:center;gap:8px}
+  .btn.primary{background:var(--hadaf-green);color:var(--paper)}
+  .btn.primary:hover{background:var(--hadaf-green-800)}
+  .btn.gold{background:var(--hadaf-gold);color:var(--ink)}
+  .btn.ghost{background:transparent;border-color:var(--ink);color:var(--ink)}
+  .btn.ghost:hover{background:rgba(11,15,13,.06)}
+  .btn.danger{background:var(--live-red);color:var(--paper)}
+  .btn.sm{font-size:13px;padding:8px 14px}
+  .lbl{font-family:var(--font-mono);font-size:10px;color:var(--fg-3);grid-column:1/-1;margin-top:4px}
+</style>
+</head>
+<body>
+  <div class="grid">
+    <button class="btn primary">تابع كل المباريات</button>
+    <button class="btn gold">اشترك الآن</button>
+    <button class="btn ghost">المزيد</button>
+    <button class="btn primary sm">حفظ</button>
+    <button class="btn ghost sm">إلغاء</button>
+    <button class="btn danger sm">عاجل</button>
+  </div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<title>Semantic colors</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:20px;background:var(--paper);font-family:var(--font-en-body)}
+  .row{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+  .sw{height:104px;border-radius:8px;padding:10px;display:flex;flex-direction:column;justify-content:space-between;font-family:var(--font-mono);font-size:11px;color:var(--paper)}
+  .sw .name{font-weight:700;font-size:12px;font-family:var(--font-en-body)}
+  .live{background:var(--live-red)}
+  .link{background:var(--link)}
+  .warn{background:var(--warn)}
+  .succ{background:var(--success)}
+</style>
+</head>
+<body>
+  <div class="row">
+    <div class="sw live"><div class="name">Live / مباشر</div>#E03131</div>
+    <div class="sw link"><div class="name">Link</div>#1A6FB8</div>
+    <div class="sw warn"><div class="name">Warn</div>#D97706</div>
+    <div class="sw succ"><div class="name">Success</div>#1E8C5E</div>
+  </div>
+</body>
+</html>

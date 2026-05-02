@@ -1,0 +1,30 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<title>Badges &amp; tags</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:24px;background:var(--paper);font-family:var(--font-ar-body);color:var(--ink)}
+  .row{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+  .badge{display:inline-flex;align-items:center;gap:6px;font-weight:700;font-size:12px;padding:5px 10px;border-radius:var(--radius-full);font-family:var(--font-ar-body)}
+  .live{background:var(--live-red);color:var(--paper)}
+  .live::before{content:"";width:6px;height:6px;background:var(--paper);border-radius:50%;animation:hadaf-pulse 1.6s var(--ease-in-out) infinite}
+  .breaking{background:var(--ink);color:var(--paper);letter-spacing:.04em}
+  .league{background:var(--hadaf-green-100);color:var(--hadaf-green-800)}
+  .gold{background:var(--hadaf-gold);color:var(--ink)}
+  .tag{background:var(--paper-2);color:var(--fg-2);border:1px solid var(--border);border-radius:var(--radius-sm);padding:4px 10px;font-size:12px}
+</style>
+</head>
+<body>
+  <div class="row">
+    <span class="badge live">مباشر</span>
+    <span class="badge breaking">عاجل</span>
+    <span class="badge gold">مميز</span>
+    <span class="badge league">دوري روشن</span>
+    <span class="tag">دوري أبطال أوروبا</span>
+    <span class="tag">كأس العالم</span>
+    <span class="tag">ميسي</span>
+  </div>
+</body>
+</html>

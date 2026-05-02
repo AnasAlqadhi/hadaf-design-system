@@ -1,0 +1,30 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<title>Form inputs</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:24px;background:var(--paper);font-family:var(--font-ar-body);color:var(--ink)}
+  .stack{display:flex;flex-direction:column;gap:12px;max-width:420px}
+  label{font-size:12px;font-weight:600;color:var(--fg-2);margin-bottom:4px;display:block}
+  .input{width:100%;font-family:var(--font-ar-body);font-size:15px;padding:11px 14px;border:1px solid var(--border);border-radius:var(--radius-md);background:var(--paper);color:var(--ink);transition:border-color var(--dur-fast) var(--ease-out);box-sizing:border-box}
+  .input:focus{outline:none;border-color:var(--hadaf-green);box-shadow:0 0 0 3px rgba(14,92,58,.12)}
+  .search{position:relative}
+  .search .icon{position:absolute;right:12px;top:50%;transform:translateY(-50%);color:var(--fg-3)}
+  .search .input{padding-right:38px}
+</style>
+</head>
+<body>
+  <div class="stack">
+    <div class="search">
+      <input class="input" placeholder="ابحث عن لاعب أو فريق…">
+      <svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    </div>
+    <div>
+      <label>البريد الإلكتروني</label>
+      <input class="input" placeholder="you@example.com" type="email">
+    </div>
+  </div>
+</body>
+</html>

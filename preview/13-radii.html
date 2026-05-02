@@ -1,0 +1,23 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<title>Radii</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:24px;background:var(--paper);font-family:var(--font-en-body);color:var(--ink)}
+  .row{display:grid;grid-template-columns:repeat(5,1fr);gap:14px;text-align:center}
+  .box{background:var(--hadaf-green);height:88px;display:flex;align-items:center;justify-content:center;color:var(--paper);font-family:var(--font-mono);font-size:12px}
+  .lbl{margin-top:6px;font-family:var(--font-mono);font-size:11px;color:var(--fg-3)}
+</style>
+</head>
+<body>
+  <div class="row">
+    <div><div class="box" style="border-radius:4px">4</div><div class="lbl">--radius-sm</div></div>
+    <div><div class="box" style="border-radius:8px">8</div><div class="lbl">--radius-md</div></div>
+    <div><div class="box" style="border-radius:12px">12</div><div class="lbl">--radius-lg</div></div>
+    <div><div class="box" style="border-radius:20px">20</div><div class="lbl">--radius-xl</div></div>
+    <div><div class="box" style="border-radius:999px">∞</div><div class="lbl">--radius-full</div></div>
+  </div>
+</body>
+</html>

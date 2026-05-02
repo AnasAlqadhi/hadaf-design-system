@@ -1,0 +1,20 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<title>Hadaf — Logo</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:24px;background:var(--paper);display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:center}
+  .tile{display:flex;align-items:center;justify-content:center;border-radius:var(--radius-lg);border:1px solid var(--border);height:160px;overflow:hidden}
+  .tile.dark{background:var(--ink);border-color:var(--ink-3)}
+  .tile.paper{background:var(--paper);position:relative}
+  .tile.paper::before{content:"";position:absolute;inset:0;background-image:url("../assets/patterns/star-tile.svg");background-size:48px;opacity:.06;color:var(--ink)}
+  img{max-width:80%;max-height:88px}
+</style>
+</head>
+<body>
+  <div class="tile paper"><img src="../assets/logo/hadaf-wordmark.svg" alt=""></div>
+  <div class="tile dark"><img src="../assets/logo/hadaf-wordmark-dark.svg" alt=""></div>
+</body>
+</html>

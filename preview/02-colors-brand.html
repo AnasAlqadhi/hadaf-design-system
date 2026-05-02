@@ -1,0 +1,23 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<title>Brand colors</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:24px;background:var(--paper);font-family:var(--font-en-body)}
+  .row{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+  .swatch{height:120px;border-radius:var(--radius-lg);padding:14px;display:flex;flex-direction:column;justify-content:space-between;color:var(--paper);box-shadow:var(--shadow-1)}
+  .swatch .name{font-weight:700;font-size:14px}
+  .swatch .hex{font-family:var(--font-mono);font-size:12px;opacity:.85}
+  .green{background:var(--hadaf-green)}
+  .gold{background:var(--hadaf-gold);color:var(--ink)}
+</style>
+</head>
+<body>
+  <div class="row">
+    <div class="swatch green"><div class="name">Hadaf Green / الأخضر</div><div class="hex">#0E5C3A · --hadaf-green-700</div></div>
+    <div class="swatch gold"><div class="name">Hadaf Gold / الذهبي</div><div class="hex">#D4A437 · --hadaf-gold-500</div></div>
+  </div>
+</body>
+</html>

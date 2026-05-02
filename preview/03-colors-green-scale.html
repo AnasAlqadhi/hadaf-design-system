@@ -1,0 +1,29 @@
+<!doctype html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="utf-8">
+<title>Green scale</title>
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+  body{margin:0;padding:20px;background:var(--paper);font-family:var(--font-en-body)}
+  .scale{display:grid;grid-template-columns:repeat(10,1fr);gap:6px}
+  .step{height:96px;border-radius:8px;padding:8px;display:flex;flex-direction:column;justify-content:flex-end;font-family:var(--font-mono);font-size:10px;color:var(--paper)}
+  .step.lt{color:var(--ink)}
+  .step .n{font-weight:700;font-size:11px}
+</style>
+</head>
+<body>
+  <div class="scale">
+    <div class="step lt" style="background:var(--hadaf-green-50)"><div class="n">50</div>F2F9F5</div>
+    <div class="step lt" style="background:var(--hadaf-green-100)"><div class="n">100</div>E3F2EA</div>
+    <div class="step lt" style="background:var(--hadaf-green-200)"><div class="n">200</div>BCE3D0</div>
+    <div class="step lt" style="background:var(--hadaf-green-300)"><div class="n">300</div>84CDAB</div>
+    <div class="step lt" style="background:var(--hadaf-green-400)"><div class="n">400</div>46AE82</div>
+    <div class="step" style="background:var(--hadaf-green-500)"><div class="n">500</div>1E8C5E</div>
+    <div class="step" style="background:var(--hadaf-green-600)"><div class="n">600</div>157049</div>
+    <div class="step" style="background:var(--hadaf-green-700);outline:2px solid var(--hadaf-gold);outline-offset:-2px"><div class="n">700★</div>0E5C3A</div>
+    <div class="step" style="background:var(--hadaf-green-800)"><div class="n">800</div>0B4329</div>
+    <div class="step" style="background:var(--hadaf-green-900)"><div class="n">900</div>082E1D</div>
+  </div>
+</body>
+</html>

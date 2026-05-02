@@ -1,0 +1,22 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="bg-p" cx="50%" cy="40%" r="70%">
+      <stop offset="0" stop-color="#1E8C5E"></stop>
+      <stop offset="1" stop-color="#082E1D"></stop>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg-p)"></rect>
+  
+  <g opacity="0.08" fill="none" stroke="#F5E9C0" stroke-width="1">
+    <path d="M40 40 L60 50 L80 40 L60 30 Z M120 80 L140 90 L160 80 L140 70 Z M220 60 L240 70 L260 60 L240 50 Z M320 100 L340 110 L360 100 L340 90 Z"></path>
+    <path d="M40 200 L60 210 L80 200 L60 190 Z M120 240 L140 250 L160 240 L140 230 Z"></path>
+  </g>
+  
+  <g fill="#0B0F0D">
+    <circle cx="200" cy="150" r="56"></circle>
+    <path d="M120 230 Q200 210 280 230 L300 400 L100 400 Z"></path>
+  </g>
+  
+  <text x="200" y="340" text-anchor="middle" font-family="Bebas Neue,sans-serif" font-size="80" fill="#D4A437">10</text>
+</svg>
