@@ -7,7 +7,36 @@
 <link rel="stylesheet" href="colors_and_type.css">
 <style>
   *,*::before,*::after{box-sizing:border-box}
-  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--font-en-body)}
+  body{margin:0;background:var(--bg-1);color:var(--fg-1);font-family:var(--font-en-body);transition:background var(--dur-base),color var(--dur-base)}
+  
+  .theme-switcher-header{
+    position:fixed;
+    top:24px;
+    right:24px;
+    z-index:100;
+    display:flex;
+    gap:12px;
+    background:var(--bg-2);
+    border:1px solid var(--border);
+    border-radius:var(--radius-full);
+    padding:8px;
+  }
+  
+  .theme-btn{
+    width:36px;
+    height:36px;
+    border:none;
+    border-radius:var(--radius-full);
+    background:transparent;
+    color:var(--fg-2);
+    cursor:pointer;
+    font-size:18px;
+    transition:all var(--dur-fast) var(--ease-out);
+  }
+  
+  .theme-btn:hover{color:var(--fg-1)}
+  .theme-btn.active{background:var(--hadaf-green);color:var(--white-pure)}
+  
   .hero{position:relative;padding:80px 48px 64px;background:var(--hadaf-green);color:var(--paper);overflow:hidden}
   .hero::after{content:"";position:absolute;inset:0;background:radial-gradient(circle at 80% 20%,rgba(212,164,55,.18),transparent 50%);pointer-events:none}
   .hero-inner{position:relative;max-width:1200px;margin:0 auto}
@@ -19,33 +48,39 @@
 
   main{max-width:1200px;margin:0 auto;padding:64px 48px 96px}
   section{margin-bottom:64px}
-  h2{font-family:var(--font-en-display);font-size:36px;letter-spacing:.04em;margin:0 0 6px;text-transform:uppercase}
+  h2{font-family:var(--font-en-display);font-size:36px;letter-spacing:.04em;margin:0 0 6px;text-transform:uppercase;color:var(--fg-1)}
   .sect-sub{color:var(--fg-3);font-size:14px;margin:0 0 28px}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}
-  a.card{display:block;text-decoration:none;color:inherit;background:#fff;border:1px solid var(--border);border-radius:12px;padding:20px;transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease}
+  a.card{display:block;text-decoration:none;color:inherit;background:var(--bg-2);border:1px solid var(--border);border-radius:12px;padding:20px;transition:transform var(--dur-fast) var(--ease-out),box-shadow var(--dur-fast) var(--ease-out),border-color var(--dur-fast) var(--ease-out)}
   a.card:hover{transform:translateY(-2px);box-shadow:var(--shadow-2);border-color:var(--hadaf-green)}
   .card .num{font-family:var(--font-mono);font-size:11px;color:var(--fg-3);letter-spacing:.1em}
-  .card h3{font-family:var(--font-en-body);font-size:16px;font-weight:600;margin:6px 0 4px;letter-spacing:.01em}
+  .card h3{font-family:var(--font-en-body);font-size:16px;font-weight:600;margin:6px 0 4px;letter-spacing:.01em;color:var(--fg-1)}
   .card p{font-size:13px;color:var(--fg-2);margin:0;line-height:1.5}
   .card .swatch{display:flex;gap:4px;margin-top:14px;height:6px;border-radius:3px;overflow:hidden}
   .card .swatch span{flex:1}
 
-  footer{padding:32px 48px;background:var(--ink);color:rgba(250,247,241,.6);font-family:var(--font-mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;text-align:center}
+  footer{padding:32px 48px;background:var(--bg-dark-1);color:var(--fg-on-dark-2);font-family:var(--font-mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;text-align:center;border-top:1px solid var(--border)}
   footer b{color:var(--hadaf-gold)}
 </style>
 </head>
 <body>
 
+<div class="theme-switcher-header" id="themeSwitch">
+  <button class="theme-btn active" data-theme="default" title="Default">☀️</button>
+  <button class="theme-btn" data-theme="dark" title="Dark">🌙</button>
+  <button class="theme-btn" data-theme="match-night" title="Match Night">⚽</button>
+</div>
+
 <header class="hero">
   <div class="hero-inner">
-    <p class="kicker">Brand · Design System · v0.1</p>
+    <p class="kicker">Brand · Design System · v0.2</p>
     <h1>Hadaf<br>Football News</h1>
-    <p>A bilingual design system for Arabic football journalism — built around a passionate fan voice, breaking-news urgency, and the visual heritage of the Saudi game.</p>
+    <p>A premium bilingual design system for Arabic football journalism — built around a passionate fan voice, breaking-news urgency, and the visual heritage of the Saudi game. Now with three themes: Default, Dark, and Match-Night.</p>
     <div class="meta">
-      <div>Status<b>In review</b></div>
-      <div>Direction<b>RTL · LTR</b></div>
-      <div>Sport<b>Football · كرة القدم</b></div>
-      <div>License<b>Internal · WIP</b></div>
+      <div>Status<b>Enhanced</b></div>
+      <div>Themes<b>3 modes</b></div>
+      <div>Language<b>RTL · LTR</b></div>
+      <div>Sport<b>Football</b></div>
     </div>
   </div>
 </header>
@@ -54,7 +89,7 @@
 
   <section>
     <h2>Brand</h2>
-    <p class="sect-sub">Identity marks, color foundation, and surface tone.</p>
+    <p class="sect-sub">Identity marks, color foundation, and surface tone. Now with dynamic theming.</p>
     <div class="grid">
       <a class="card" href="preview/01-logo.html"><div class="num">01</div><h3>Logo</h3><p>Wordmark, star mark, lockups, and clearspace.</p></a>
       <a class="card" href="preview/02-colors-brand.html"><div class="num">02</div><h3>Brand colors</h3><p>Hadaf green, gold, ivory, ink — the four pillars.</p>
@@ -63,61 +98,87 @@
       <a class="card" href="preview/03-colors-green-scale.html"><div class="num">03</div><h3>Green scale</h3><p>50–900 tints and shades of Hadaf green.</p></a>
       <a class="card" href="preview/04-colors-gold-scale.html"><div class="num">04</div><h3>Gold scale</h3><p>Accent ramp for highlights and emphasis.</p></a>
       <a class="card" href="preview/05-colors-neutrals.html"><div class="num">05</div><h3>Neutrals</h3><p>Paper, ink, and the warm gray scale.</p></a>
-      <a class="card" href="preview/06-colors-semantic.html"><div class="num">06</div><h3>Semantic</h3><p>Live, breaking, success, warning, danger.</p></a>
+      <a class="card" href="preview/06-colors-semantic.html"><div class="num">06</div><h3>Semantic</h3><p>Live updates, alerts, success, and warnings. Enhanced with theme support.</p></a>
     </div>
   </section>
 
   <section>
-    <h2>Type</h2>
-    <p class="sect-sub">Bilingual type stack — Arabic display, Arabic body, Latin display, mono.</p>
+    <h2>Typography</h2>
+    <p class="sect-sub">Bilingual typefaces — El Messiri and IBM Plex for Arabic, Bebas and Inter for Latin. Enhanced shadow system for visual hierarchy.</p>
     <div class="grid">
-      <a class="card" href="preview/07-type-arabic-display.html"><div class="num">07</div><h3>Arabic display</h3><p>El Messiri — editorial, premium, distinctive.</p></a>
-      <a class="card" href="preview/08-type-arabic-body.html"><div class="num">08</div><h3>Arabic body</h3><p>IBM Plex Sans Arabic — readable at any size.</p></a>
-      <a class="card" href="preview/09-type-latin-display.html"><div class="num">09</div><h3>Latin display</h3><p>Bebas Neue + Inter — sport headline pairing.</p></a>
-      <a class="card" href="preview/10-type-mono.html"><div class="num">10</div><h3>Mono</h3><p>JetBrains Mono — scores, stats, timestamps.</p></a>
-      <a class="card" href="preview/11-type-scale.html"><div class="num">11</div><h3>Type scale</h3><p>Modular scale and line-height tokens.</p></a>
+      <a class="card" href="preview/07-type-arabic-display.html"><div class="num">07</div><h3>Arabic display</h3><p>El Messiri — bold, dramatic headlines.</p></a>
+      <a class="card" href="preview/08-type-arabic-body.html"><div class="num">08</div><h3>Arabic body</h3><p>IBM Plex Sans Arabic — readable and refined.</p></a>
+      <a class="card" href="preview/09-type-latin-display.html"><div class="num">09</div><h3>Latin display</h3><p>Bebas Neue — sport aesthetic, tight tracking.</p></a>
+      <a class="card" href="preview/10-type-mono.html"><div class="num">10</div><h3>Monospace</h3><p>JetBrains Mono — scores, stats, live updates.</p></a>
+      <a class="card" href="preview/11-type-scale.html"><div class="num">11</div><h3>Type scale</h3><p>Sizes from caption to hero. Responsive steps.</p></a>
     </div>
   </section>
 
   <section>
-    <h2>Spacing &amp; Surface</h2>
-    <p class="sect-sub">Spacing scale, radii, and elevation.</p>
+    <h2>Tokens &amp; Foundations</h2>
+    <p class="sect-sub">Space, radius, shadows — now with five-level hierarchy. Animations smooth and intentional.</p>
     <div class="grid">
-      <a class="card" href="preview/12-spacing.html"><div class="num">12</div><h3>Spacing</h3><p>4-px base scale, semantic gap names.</p></a>
-      <a class="card" href="preview/13-radii.html"><div class="num">13</div><h3>Radii</h3><p>Corner radius scale.</p></a>
-      <a class="card" href="preview/14-shadows.html"><div class="num">14</div><h3>Shadows</h3><p>Three-layer elevation system.</p></a>
+      <a class="card" href="preview/12-spacing.html"><div class="num">12</div><h3>Spacing</h3><p>4px scale from 0–48px. Logical rhythm.</p></a>
+      <a class="card" href="preview/13-radii.html"><div class="num">13</div><h3>Radii</h3><p>Rounded corners — sm, md, lg, xl, full.</p></a>
+      <a class="card" href="preview/14-shadows.html"><div class="num">14</div><h3>Shadows</h3><p>Shadow 0–4 hierarchy. Warm tint, soft falloff. Theme-aware elevations.</p></a>
     </div>
   </section>
 
   <section>
     <h2>Components</h2>
-    <p class="sect-sub">The building blocks of every Hadaf surface.</p>
+    <p class="sect-sub">Buttons, badges, cards, inputs. Polished with smooth transitions and premium interactions.</p>
     <div class="grid">
-      <a class="card" href="preview/15-buttons.html"><div class="num">15</div><h3>Buttons</h3><p>Primary, secondary, ghost, destructive.</p></a>
-      <a class="card" href="preview/16-badges.html"><div class="num">16</div><h3>Badges</h3><p>Live, breaking, score, status pills.</p></a>
-      <a class="card" href="preview/17-match-card.html"><div class="num">17</div><h3>Match card</h3><p>The hero unit — fixtures, live scores, results.</p></a>
-      <a class="card" href="preview/18-article-card.html"><div class="num">18</div><h3>Article card</h3><p>Headline + image + meta. Three densities.</p></a>
+      <a class="card" href="preview/15-buttons.html"><div class="num">15</div><h3>Buttons</h3><p>Primary, secondary, tertiary. States: default, hover, active, disabled.</p></a>
+      <a class="card" href="preview/16-badges.html"><div class="num">16</div><h3>Badges</h3><p>Inline tags: teams, league, category, status.</p></a>
+      <a class="card" href="preview/17-match-card.html"><div class="num">17</div><h3>Match cards</h3><p>Results + fixtures. Live state with red border. Premium elevation.</p></a>
+      <a class="card" href="preview/18-article-card.html"><div class="num">18</div><h3>Article cards</h3><p>Image, headline, lede. Hover lift and smooth transform.</p></a>
       <a class="card" href="preview/19-inputs.html"><div class="num">19</div><h3>Inputs</h3><p>Text, search, select. RTL-aware.</p></a>
-      <a class="card" href="preview/20-navbar.html"><div class="num">20</div><h3>Navigation</h3><p>Top bar, section nav, mobile drawer.</p></a>
-    </div>
-  </section>
-
-  <section>
-    <h2>Imagery &amp; Iconography</h2>
-    <p class="sect-sub">Visual language beyond type and color.</p>
-    <div class="grid">
-      <a class="card" href="preview/21-pattern.html"><div class="num">21</div><h3>Pattern</h3><p>Pitch grid — the signature surface texture.</p></a>
-      <a class="card" href="preview/22-iconography.html"><div class="num">22</div><h3>Iconography</h3><p>Stroke icons + custom sport set.</p></a>
-      <a class="card" href="preview/23-imagery.html"><div class="num">23</div><h3>Imagery</h3><p>Photo treatment, scrims, focal rules.</p></a>
-      <a class="card" href="preview/24-crests.html"><div class="num">24</div><h3>Team crests</h3><p>Placeholder marks for SPL clubs.</p></a>
+      <a class="card" href="preview/20-navbar.html"><div class="num">20</div><h3>Navigation</h3><p>Global nav with theme switcher and language toggle.</p></a>
+      <a class="card" href="preview/21-pattern.html"><div class="num">21</div><h3>Patterns</h3><p>Background elements and decorations.</p></a>
+      <a class="card" href="preview/22-iconography.html"><div class="num">22</div><h3>Icons</h3><p>SVG library and usage guide.</p></a>
+      <a class="card" href="preview/23-imagery.html"><div class="num">23</div><h3>Imagery</h3><p>Photos and background treatment.</p></a>
+      <a class="card" href="preview/24-crests.html"><div class="num">24</div><h3>Crests</h3><p>Team identity marks.</p></a>
     </div>
   </section>
 
 </main>
 
 <footer>
-  Hadaf <b>·</b> Design System <b>·</b> v0.1 <b>·</b> Built with care
+  <b>Hadaf</b> Design System v0.2 — Premium themes enabled · Built for bilingual football journalism
 </footer>
+
+<script>
+  const themeSwitch = document.getElementById('themeSwitch');
+  const buttons = themeSwitch.querySelectorAll('.theme-btn');
+  
+  // Load saved theme
+  const savedTheme = localStorage.getItem('hadaf-theme') || 'default';
+  setTheme(savedTheme);
+  
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const theme = btn.dataset.theme;
+      setTheme(theme);
+    });
+  });
+  
+  function setTheme(theme) {
+    if (theme === 'default') {
+      document.documentElement.removeAttribute('data-theme');
+    } else {
+      document.documentElement.setAttribute('data-theme', theme);
+    }
+    localStorage.setItem('hadaf-theme', theme);
+    
+    // Update active button
+    buttons.forEach(btn => {
+      btn.classList.remove('active');
+      if (btn.dataset.theme === theme) {
+        btn.classList.add('active');
+      }
+    });
+  }
+</script>
 
 </body>
 </html>
