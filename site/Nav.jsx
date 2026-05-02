@@ -28,23 +28,26 @@ function ThemeSwitcher({ theme, setTheme }) {
       <button 
         className={`hd-theme-btn ${theme === 'default' ? 'is-active' : ''}`}
         onClick={() => setTheme('default')}
-        title="Default"
+        title="Light"
+        aria-pressed={theme === 'default'}
       >
-        ☀️
+        <Icon name="sun" size={15}/>
       </button>
       <button 
         className={`hd-theme-btn ${theme === 'dark' ? 'is-active' : ''}`}
         onClick={() => setTheme('dark')}
         title="Dark"
+        aria-pressed={theme === 'dark'}
       >
-        🌙
+        <Icon name="moon" size={15}/>
       </button>
       <button 
         className={`hd-theme-btn ${theme === 'match-night' ? 'is-active' : ''}`}
         onClick={() => setTheme('match-night')}
         title="Match Night"
+        aria-pressed={theme === 'match-night'}
       >
-        ⚽
+        <Icon name="fire" size={15}/>
       </button>
     </div>
   );

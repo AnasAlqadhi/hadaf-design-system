@@ -1,6 +1,32 @@
 /* global React */
 
-function LeagueTable({ rows, lang }) {
+function LeagueTable({ rows, lang, compact }) {
+  if (compact) {
+    return (
+      <table className="hd-table hd-table-compact">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th className="hd-t-team">{lang==='ar' ? 'الفريق' : 'Team'}</th>
+            <th>{lang==='ar' ? 'نقاط' : 'Pts'}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {rows.map((r, i) => (
+            <tr key={i} className={r.highlight ? 'is-highlight' : ''}>
+              <td className="hd-t-pos">{i+1}</td>
+              <td className="hd-t-team">
+                <img src={r.crest} alt=""/>
+                <span>{lang==='ar' ? r.ar : r.en}</span>
+              </td>
+              <td className="hd-t-pts">{r.pts}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    );
+  }
+
   const headers = lang==='ar'
     ? ['#','الفريق','لعب','ف','ت','خ','له','عليه','نقاط']
     : ['#','Team','P','W','D','L','GF','GA','Pts'];

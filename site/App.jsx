@@ -98,8 +98,9 @@ function HomeView({ lang, setRoute, openArticle }) {
           <HdAdSlot size="300x250"/>
           <div className="hd-aside-block">
             <h3 className="hd-aside-title">{lang==='ar' ? 'ترتيب دوري روشن' : 'Roshn League table'}</h3>
-            <button className="hd-link-btn" onClick={() => setRoute('league')}>
-              {lang==='ar' ? 'عرض الترتيب الكامل' : 'View full standings'} <HdIcon name={lang==='ar'?'chevronL':'chevron'} size={14}/>
+            <HdLeagueTable rows={STANDINGS.slice(0,5)} lang={lang} compact/>
+            <button className="hd-link-btn hd-mt-sm" onClick={() => setRoute('league')}>
+              {lang==='ar' ? 'عرض الترتيب الكامل' : 'Full standings'} <HdIcon name={lang==='ar'?'chevronL':'chevron'} size={14}/>
             </button>
           </div>
         </aside>
