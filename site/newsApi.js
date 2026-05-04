@@ -27,16 +27,6 @@ async function fetchRSS(feedUrl) {
 }
 
 const NEWS_FEEDS = {
-  guardian_en: {
-    name: { ar: 'الغارديان', en: 'The Guardian' },
-    url: 'https://www.theguardian.com/football/rss',
-    lang: 'en',
-  },
-  bbc_en: {
-    name: { ar: 'BBC Sport', en: 'BBC Sport' },
-    url: 'https://feeds.bbci.co.uk/sport/football/rss.xml',
-    lang: 'en',
-  },
   sky_en: {
     name: { ar: 'سكاي سبورتس', en: 'Sky Sports' },
     url: 'https://www.skysports.com/rss/12040',
@@ -93,8 +83,8 @@ async function getLatestNews(feedKeys = ['guardian_en', 'bbc_en'], count = 8) {
 // Convenience: pick feeds by UI language
 function getFeedKeysForLang(lang) {
   return lang === 'ar'
-    ? ['bbc_ar', 'aljazeera_ar', 'guardian_en']
-    : ['guardian_en', 'bbc_en', 'sky_en'];
+    ? ['bbc_ar', 'aljazeera_ar', 'russia_today_ar']
+    : ['sky_en', 'espn'];
 }
 
 // Parse a single <item> node → Hadaf article shape
