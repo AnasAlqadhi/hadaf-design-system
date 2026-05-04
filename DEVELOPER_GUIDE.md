@@ -15,7 +15,7 @@
 | **Live URL** | https://anasalqadhi.github.io/hadaf-design-system/ |
 | **GitHub repo** | https://github.com/AnasAlqadhi/hadaf-design-system |
 | **Branch** | `main` (GitHub Pages serves from root) |
-| **Current version** | v0.3 |
+| **Current version** | v0.5 |
 
 ---
 
@@ -189,52 +189,74 @@ const t = (ar, en) => lang === 'ar' ? ar : en;
 
 ### `App.jsx`
 - **Role:** Root orchestrator
-- **State:** `theme`, `lang`
-- **Data:** All static mock data lives here as constants (`ARTICLES`, `MATCHES`, `STANDINGS`)
-- **Layout:** Renders `<Nav>` + route-based views (Home, League, Article) inside a `<main>`
-- **Sidebar:** On Home view, renders `<HdLeagueTable compact>` with top 5 standings
+- **State:** `theme`, `lang`, `route`, `article`
+- **Data:** Static mock constants (`ARTICLES`, `LIVE`, `FEED`, `STANDINGS`) used as fallback; `HomeView` fetches real news and replaces `feed` + `hero` state on load
+- **Error handling:** `ErrorBoundary` class wraps the entire render tree
+- **Routes:** `home` | `scores` | `league` | `article` | `ucl` | `wc` | `video`
 
 ### `Nav.jsx`
 - **Role:** Sticky top navigation
-- **Props:** `lang`, `setLang`, `theme`, `setTheme`
-- **Key parts:** Logo wordmark, nav links, language toggle button, `ThemeSwitcher`
+- **Props:** `lang`, `setLang`, `theme`, `setTheme`, `route`, `setRoute`
+- **Logo:** `<img src="assets/logo/hadaf-wordmark.png">` at 42px height
+- **Nav items:** Home, Scores (النتائج), Saudi, UCL, World Cup, Video
 - **CSS class:** `.hd-nav` (glassmorphic, `backdrop-filter: blur(16px)`)
 
 ### `Hero.jsx`
-- **Role:** Full-bleed hero section for the lead story
-- **Props:** `article` (object with `title`, `kicker`, `image`, `time`, `readTime`), `lang`
-- **Key parts:**
-  - `.hd-hero-kicker` — pulse-dot pill badge ("عاجل" / "Breaking")
-  - `.hd-hero-title` — large Arabic display headline
-  - `.hd-hero-read` — gold CTA button
-  - `.hd-hero-footer` — flex row with time + read time stats
-- **Background:** CSS `background-image` with dual scrim overlay. Falls back to green gradient if no image
+- **Role:** Full-bleed hero section for lead story
+- **Props:** `kicker`, `title`, `image`, `lang`, `onClick`
+- **Background:** `<img className="hd-hero-bg">` with `object-fit: cover`
 
 ### `MatchCard.jsx`
 - **Role:** Shows one match score
-- **Props:** `match` (object), `lang`, `compact` (bool)
-- **Live state:** If `match.minute` exists, adds `.is-live` class → red left-border + pulsing clock
-- **CSS classes:** `.hd-match`, `.hd-match.is-live`, `.hd-match.is-compact`
+- **Props:** `home`, `away`, `scoreHome`, `scoreAway`, `status`, `minute`, `lang`, `compact`
+- **Live state:** `.is-live` class → red left-border + pulsing clock
 
 ### `ArticleCard.jsx`
-- **Role:** Article preview card (image + headline + meta)
-- **Props:** `article` (object), `lang`, `variant` (`'default'` | `'feature'`)
-- **Fallback colors:** When no image, each card slot gets a unique green gradient via nth-child
+- **Role:** Article preview card (3 variants)
+- **Props:** `kicker`, `title`, `image`, `time`, `readMin`, `lang`, `variant`, `onClick`
+- **Variants:** `feature` (large), `standard` (medium), `compact` (list row)
+- **Image:** `<img>` tag with `object-fit: cover` inside `.hd-art-img`
 
 ### `LeagueTable.jsx`
 - **Role:** Standings table
-- **Props:** `rows` (array), `lang`, `compact` (bool)
-- **Compact mode:** Renders 3 columns only (rank, team name, points) — used in homepage sidebar
-- **Full mode:** 9 columns (rank, team, P, W, D, L, GF, GA, Pts)
+- **Props:** `rows`, `lang`, `compact`
+- **Compact mode:** 3 columns (rank, team, pts) for sidebar
+- **Full mode:** 9 columns
 
 ### `Bits.jsx`
-Three components in one file:
+Three components:
 
 | Export | Role | CSS class |
 |---|---|---|
 | `LiveTicker` | Scrolling horizontal news ticker | `.hd-ticker` |
 | `AdSlot` | Reserved ad space placeholder | `.hd-ad-slot` |
-| `Footer` | Page footer | `.hd-footer` |
+| `Footer` | Page footer with logo | `.hd-footer` |
+
+### `ScoresView.jsx` (NEW)
+- **Role:** Full scores page — 365scores-style
+- **Components:** `DateStrip` (Yesterday/Today/Tomorrow tabs), `CompetitionBlock` (collapsible), `MatchRow`
+- **Data:** Fetches from `HadafAPI.getFixturesByDate(dateStr)` on date change
+- **Export:** `window.HdScoresView`
+
+### `api.js` (NEW)
+- **Role:** API-Football v3 wrapper
+- **Key:** Read from `window.HADAF_CONFIG.API_FOOTBALL_KEY`
+- **Functions:** `getFixturesByDate(dateStr)`, `getLiveFixtures()`, `getStandings(leagueKey)`
+- **Leagues:** saudi (307), ucl (2), premier (39), laliga (140), seriea (135), bundesliga (78) — all season 2025
+- **Export:** `window.HadafAPI`
+
+### `newsApi.js` (NEW)
+- **Role:** RSS news fetcher — no auth needed
+- **Method:** Fetches RSS via CORS proxy chain (codetabs → corsproxy.io → thingproxy), parses XML with `DOMParser`
+- **Feeds:** `guardian_en`, `bbc_en`, `sky_en`, `espn`
+- **Functions:** `getFeedArticles(feedKey, count)`, `getLatestNews(feedKeys, count)`
+- **Export:** `window.HadafNews`
+
+### `config.js` (NEW)
+- **Role:** API key storage
+- **Content:** `window.HADAF_CONFIG = { API_FOOTBALL_KEY: '' }`
+- **Local dev:** Add your real key here; it will not affect GitHub Pages
+- **Note:** Empty key is committed. The inline fallback in `index.html` ensures the app never crashes if this file is missing
 
 ---
 
@@ -281,28 +303,34 @@ Examples:
 
 ---
 
-## 9. Data / Mock Content
+## 9. Data Architecture
 
-All data is mocked in `site/App.jsx`. When real APIs are ready, replace these constants:
+### Static mock data (in `App.jsx`)
+
+Used as fallback when APIs are unavailable:
 
 | Constant | Shape | Used by |
 |---|---|---|
-| `ARTICLES` | `[{ id, title, titleEn, kicker, image, time, readTime }]` | `Hero`, `ArticleCard` |
-| `MATCHES` | `[{ id, homeTeam, awayTeam, homeScore, awayScore, minute, status, competition }]` | `MatchCard` |
-| `STANDINGS` | `[{ rank, team, teamEn, p, w, d, l, gf, ga, pts }]` | `LeagueTable` |
+| `ARTICLES.hero` | `{ kicker, title, image, body }` | `Hero` (fallback) |
+| `LIVE` | `[{ home, away, scoreHome, scoreAway, minute }]` | `LiveTicker`, `MatchCard` |
+| `FEED` | `[{ kicker, title, image, time, readMin }]` | `ArticleCard` (fallback) |
+| `STANDINGS` | `[{ team, p, w, d, l, gf, ga, pts }]` | `LeagueTable` |
 
-### Hero article
+### Live data sources
 
-The first item in `ARTICLES` (`ARTICLES[0]`) is always used as the hero. To change the hero, edit the first array entry or restructure `App.jsx` to accept a `featuredId`.
+| Source | Module | What it provides |
+|---|---|---|
+| The Guardian Football RSS | `newsApi.js` | Real news articles, English |
+| BBC Sport Football RSS | `newsApi.js` | Real news articles, English |
+| API-Football v3 | `api.js` | Fixtures, live scores, standings |
 
-### Hero image
+### Home page data flow
 
-Currently: `assets/imagery/match-action-1.svg` (placeholder)
-
-To add a real photo:
-1. Drop the file into `assets/imagery/`
-2. Update `ARTICLES[0].image` in `App.jsx` to the new filename
-3. The hero CSS handles the rest (object-fit, scrim, etc.)
+1. `HomeView` renders instantly with mock `FEED` + `ARTICLES.hero`
+2. On mount, calls `HadafNews.getLatestNews(['guardian_en', 'bbc_en'])`
+3. On success: replaces `feed` state with real articles; updates `hero` if a good image is found
+4. On failure: keeps mock data silently
+5. Article clicks: if `article.url` exists, opens in new tab; otherwise opens internal article view
 
 ---
 
@@ -330,19 +358,26 @@ Standalone HTML page — does **not** use React. Pure HTML + CSS + vanilla JS.
 
 ## 12. How to Run Locally
 
-No install needed. Just serve the files over HTTP:
+No install needed. Serve the files over HTTP:
 
 ```powershell
 cd a:\hadaf
-python -m http.server 8000
+Start-Process python -ArgumentList "-m http.server 8000" -WindowStyle Hidden
+Start-Process "http://localhost:8000"
 ```
 
 Then open:
-- `http://localhost:8000/site/index.html` — the live website
+- `http://localhost:8000` — the live website (entry point is `index.html` at root)
 - `http://localhost:8000/design-system.html` — the design system showcase
 - `http://localhost:8000/preview/01-logo.html` — individual preview cards
 
 **Why not just open the HTML file directly?** Babel's runtime JSX compilation requires HTTP (not `file://`) to load modules correctly. Always use a local server.
+
+**API key for live scores:** Add your API-Football key to `site/config.js`:
+```js
+window.HADAF_CONFIG = { API_FOOTBALL_KEY: 'your-key-here' };
+```
+Get a free key at https://dashboard.api-football.com
 
 ---
 
@@ -367,14 +402,16 @@ GitHub Pages auto-publishes from the `main` branch root within ~30 seconds. No C
 
 | Item | Priority | Notes |
 |---|---|---|
-| Real hero photography | High | Drop into `assets/imagery/`, update `ARTICLES[0].image` |
-| Logo / wordmark for هدف | High | Currently typeset only — needs a proper SVG mark |
-| WCAG contrast audit | Medium | All 3 themes need to be checked against AA contrast ratios |
+| Scores API CORS | High | API-Football free tier may block browser requests — switch to football-data.org or add a proxy |
+| Article images from RSS | Medium | Guardian/BBC RSS rarely includes images — pull from `<meta og:image>` via proxy |
+| Mobile responsiveness | Medium | Nav and cards need breakpoint polish for small screens |
+| Arabic news sources | Medium | Al Jazeera Sport + Sky Arabia RSS feeds for native Arabic content |
+| WCAG contrast audit | Medium | All 3 themes need AA contrast check |
+| Page title + favicon | Low | Generic browser tab title currently |
 | Update 24 preview pages | Low | Add theme switcher + correct token link to each |
 | Replace Babel runtime | Low | Use Vite or Next.js when team grows — current runtime compile is slow on cold load |
-| Real API integration | Future | Replace mock constants in `App.jsx` with live data fetches |
-| Ad slot activation | Future | `AdSlot` component exists in `Bits.jsx` — hidden until monetization |
-| Article page | Future | Currently mocked as a view in `App.jsx` — needs real routing |
+| Ad slot activation | Future | `AdSlot` in `Bits.jsx` — hidden until monetization |
+| Real article routing | Future | Article page is a view in `App.jsx` — needs real URL routing |
 
 ---
 
@@ -383,12 +420,16 @@ GitHub Pages auto-publishes from the `main` branch root within ~30 seconds. No C
 If you are an AI assistant working on this codebase, follow these rules:
 
 1. **Always use design tokens** from `colors_and_type.css` — never hardcode hex values in CSS
-2. **Theme-aware by default** — any new CSS rule that sets a color MUST work across all 3 themes. If it doesn't adapt, add overrides in `[data-theme="dark"]` and `[data-theme="match-night"]`
+2. **Theme-aware by default** — any new CSS rule that sets a color MUST work across all 3 themes
 3. **RTL-first** — test layouts in Arabic (`dir="rtl"`) before checking English
 4. **No emoji in UI** — use Lucide SVG icons or custom SVGs from `assets/icons/sport/`
-5. **No colored card borders** — this is explicitly banned by the design system (see README Visual Foundations → Cards)
-6. **No decorative gradients** — the only gradient allowed is the hero photo scrim (`--protect-grad`)
+5. **No colored card borders** — explicitly banned by the design system
+6. **No decorative gradients** — only allowed gradient is the hero photo scrim (`--protect-grad`)
 7. **BEM naming** — new CSS classes follow `.hd-[block]-[element].is-[state]` pattern
-8. **Keep components in their files** — don't add new JSX to `index.html` directly
-9. **Mock data stays in App.jsx** — components receive data as props; they don't fetch or store data themselves
-10. **Short git commit messages** — PowerShell terminal has a display bug with long messages; keep under 72 chars
+8. **Keep components in their files** — don’t add JSX to `index.html` directly
+9. **Mock data stays in App.jsx** — components receive data as props; never fetch inside components except `HomeView` and `ScoresView`
+10. **Short git commit messages** — keep under 72 chars
+11. **API errors must surface** — never use `.catch(() => {})` silently; always log with `console.warn` or `console.error`
+12. **Proxy chain for RSS** — `newsApi.js` tries 3 proxies in sequence; if adding a new feed, test it with `HadafNews.getFeedArticles('key')` in the browser console first
+13. **Config key is empty on GitHub Pages** — never commit a real API key; scores page must gracefully handle an empty key
+14. **Entry point is `index.html` at root** — not `site/index.html`. All new `<script>` tags go in root `index.html` in correct load order: React → Babel → components → APIs → App
