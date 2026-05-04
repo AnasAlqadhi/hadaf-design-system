@@ -47,6 +47,22 @@ const NEWS_FEEDS = {
     url: 'https://www.espn.com/espn/rss/soccer/news',
     lang: 'en',
   },
+  // ---- Arabic feeds ----
+  bbc_ar: {
+    name: { ar: 'BBC عربي', en: 'BBC Arabic' },
+    url: 'https://feeds.bbci.co.uk/arabic/sport/rss.xml',
+    lang: 'ar',
+  },
+  aljazeera_ar: {
+    name: { ar: 'الجزيرة الرياضية', en: 'Al Jazeera Sport' },
+    url: 'https://www.aljazeera.net/xml/rss/sports.xml',
+    lang: 'ar',
+  },
+  russia_today_ar: {
+    name: { ar: 'RT عربي رياضة', en: 'RT Arabic Sport' },
+    url: 'https://arabic.rt.com/rss/sport/',
+    lang: 'ar',
+  },
 };
 
 // Fetch + parse one RSS feed
@@ -72,6 +88,13 @@ async function getLatestNews(feedKeys = ['guardian_en', 'bbc_en'], count = 8) {
   const merged = results.flat();
   merged.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   return merged;
+}
+
+// Convenience: pick feeds by UI language
+function getFeedKeysForLang(lang) {
+  return lang === 'ar'
+    ? ['bbc_ar', 'aljazeera_ar', 'guardian_en']
+    : ['guardian_en', 'bbc_en', 'sky_en'];
 }
 
 // Parse a single <item> node → Hadaf article shape
@@ -113,4 +136,4 @@ function stripHtml(str) {
   return str.replace(/<[^>]*>/g, '').replace(/&[a-z]+;/g, ' ').replace(/\s+/g, ' ').trim();
 }
 
-window.HadafNews = { NEWS_FEEDS, getFeedArticles, getLatestNews };
+window.HadafNews = { NEWS_FEEDS, getFeedArticles, getLatestNews, getFeedKeysForLang };

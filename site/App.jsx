@@ -67,10 +67,11 @@ function HomeView({ lang, setRoute, openArticle }) {
   const [newsLoading, setNewsLoading] = useState(true);
 
   useEffect(() => {
-    HadafNews.getLatestNews(['guardian_en', 'bbc_en'], 8)
+    setNewsLoading(true);
+    const keys = HadafNews.getFeedKeysForLang(lang);
+    HadafNews.getLatestNews(keys, 8)
       .then(articles => {
         if (!articles.length) return;
-        // Map to Hadaf article shape
         const mapped = articles.map(a => ({
           kicker: a.kicker,
           title:  a.title,
@@ -81,14 +82,13 @@ function HomeView({ lang, setRoute, openArticle }) {
           excerpt: a.excerpt,
           body: ARTICLES.hero.body,
         }));
-        // First article as hero if it has an image
         const heroCandidate = mapped.find(a => a.image && !a.image.startsWith('assets/'));
         if (heroCandidate) setHero({ ...heroCandidate, image: heroCandidate.image });
         setFeed(mapped);
       })
       .catch(() => {/* keep mock data */})
       .finally(() => setNewsLoading(false));
-  }, []);
+  }, [lang]);
 
   return (
     <>

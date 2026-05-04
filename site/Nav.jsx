@@ -54,30 +54,59 @@ function ThemeSwitcher({ theme, setTheme }) {
 }
 
 function Nav({ lang, setLang, route, setRoute, theme, setTheme }) {
+  const [menuOpen, setMenuOpen] = React.useState(false);
   const items = lang === 'ar'
     ? [['home','الرئيسية'],['scores','النتائج'],['saudi','دوري روشن'],['ucl','أبطال أوروبا'],['wc','كأس العالم'],['video','الفيديوهات']]
     : [['home','Home'],['scores','Scores'],['saudi','Saudi League'],['ucl','Champions League'],['wc','World Cup'],['video','Videos']];
+
+  function navigate(k) {
+    setRoute(k === 'saudi' ? 'league' : k);
+    setMenuOpen(false);
+  }
+
   return (
     <nav className="hd-nav">
       <div className="hd-nav-inner">
-        <a className="hd-logo" onClick={() => setRoute('home')}>
+        <a className="hd-logo" onClick={() => { setRoute('home'); setMenuOpen(false); }}>
           <img src="assets/logo/hadaf-wordmark.png" alt="هدف Hadaf"/>
         </a>
         <ul className="hd-nav-list">
           {items.map(([k,label]) => (
             <li key={k} className={route === k || (k==='saudi' && route==='league') ? 'is-active' : ''}
-                onClick={() => setRoute(k === 'saudi' ? 'league' : k)}>{label}</li>
+                onClick={() => navigate(k)}>{label}</li>
           ))}
         </ul>
         <div className="hd-nav-actions">
-          <button className="hd-icon-btn" title="search"><Icon name="search"/></button>
-          <button className="hd-icon-btn" title="notifications"><Icon name="bell"/></button>
+          <button className="hd-icon-btn" title="search" aria-label="search"><Icon name="search"/></button>
+          <button className="hd-icon-btn hd-icon-btn--hide-xs" title="notifications" aria-label="notifications"><Icon name="bell"/></button>
           <ThemeSwitcher theme={theme} setTheme={setTheme}/>
           <button className="hd-lang" onClick={() => setLang(lang==='ar'?'en':'ar')}>
             <Icon name="globe" size={16}/>
             <span>{lang === 'ar' ? 'EN' : 'AR'}</span>
           </button>
-          <button className="hd-btn hd-btn-primary hd-btn-sm">{lang==='ar'?'اشترك':'Subscribe'}</button>
+          <button className="hd-btn hd-btn-primary hd-btn-sm hd-btn--hide-xs">{lang==='ar'?'اشترك':'Subscribe'}</button>
+          <button
+            className={`hd-icon-btn hd-hamburger ${menuOpen ? 'is-open' : ''}`}
+            onClick={() => setMenuOpen(o => !o)}
+            aria-label={menuOpen ? 'Close menu' : 'Open menu'}
+            aria-expanded={menuOpen}
+          >
+            <span/><span/><span/>
+          </button>
+        </div>
+      </div>
+      {/* Mobile drawer */}
+      <div className={`hd-mobile-menu ${menuOpen ? 'is-open' : ''}`} aria-hidden={!menuOpen}>
+        <ul className="hd-mobile-nav-list">
+          {items.map(([k,label]) => (
+            <li key={k} className={route === k || (k==='saudi' && route==='league') ? 'is-active' : ''}
+                onClick={() => navigate(k)}>{label}</li>
+          ))}
+        </ul>
+        <div className="hd-mobile-menu-footer">
+          <button className="hd-btn hd-btn-primary" style={{width:'100%'}} onClick={() => setMenuOpen(false)}>
+            {lang==='ar'?'اشترك في النشرة':'Subscribe to newsletter'}
+          </button>
         </div>
       </div>
     </nav>

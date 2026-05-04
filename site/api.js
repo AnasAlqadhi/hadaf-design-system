@@ -5,22 +5,60 @@
 
 const BASE = 'https://v3.football.api-sports.io';
 
+// CORS proxy list — tried in order when direct call fails
+const CORS_PROXIES = [
+  url => `https://corsproxy.io/?url=${encodeURIComponent(url)}`,
+  url => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
+];
+
 function getKey() {
   return window.HADAF_CONFIG && window.HADAF_CONFIG.API_FOOTBALL_KEY;
 }
 
+// Build request options — API-Football requires the key in headers;
+// when going through a proxy the header is forwarded as a query param fallback
 async function apiFetch(path) {
   const key = getKey();
   if (!key) throw new Error('No API key — set window.HADAF_CONFIG.API_FOOTBALL_KEY');
-  const res = await fetch(`${BASE}${path}`, {
-    headers: {
-      'x-apisports-key': key
+  const fullUrl = `${BASE}${path}`;
+
+  // Try direct first (works on localhost / if CORS is allowed)
+  const opts = { headers: { 'x-apisports-key': key } };
+  try {
+    const ctrl = new AbortController();
+    const t = setTimeout(() => ctrl.abort(), 8000);
+    const res = await fetch(fullUrl, { ...opts, signal: ctrl.signal });
+    clearTimeout(t);
+    if (res.ok) {
+      const json = await res.json();
+      if (json.errors && Object.keys(json.errors).length) console.warn('API-Football errors:', json.errors);
+      return json;
     }
-  });
-  const json = await res.json();
-  if (!res.ok) throw new Error(`API error ${res.status}: ${JSON.stringify(json).slice(0,200)}`);
-  if (json.errors && Object.keys(json.errors).length) console.warn('API-Football errors:', json.errors);
-  return json;
+  } catch(e) {
+    if (e.name !== 'AbortError') console.warn('Direct API fetch failed, trying proxies...', e.message);
+  }
+
+  // Fallback: CORS proxies (free public proxies forward the URL, not headers;
+  // so we append the key as a query string — API-Football also accepts ?apisports-key=)
+  const proxyUrl = fullUrl + (path.includes('?') ? '&' : '?') + `apisports-key=${key}`;
+  for (const makeProxy of CORS_PROXIES) {
+    try {
+      const ctrl = new AbortController();
+      const t = setTimeout(() => ctrl.abort(), 10000);
+      const res = await fetch(makeProxy(proxyUrl), { signal: ctrl.signal });
+      clearTimeout(t);
+      if (!res.ok) continue;
+      const text = await res.text();
+      // Proxy may return HTML error page — validate JSON
+      if (!text.trim().startsWith('{')) continue;
+      const json = JSON.parse(text);
+      if (json.errors && Object.keys(json.errors).length) console.warn('API-Football errors:', json.errors);
+      return json;
+    } catch(e) {
+      console.warn('Proxy failed, trying next...', e.message);
+    }
+  }
+  throw new Error('All API fetch attempts failed for: ' + path);
 }
 
 // League IDs used by Hadaf
