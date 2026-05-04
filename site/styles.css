@@ -46,7 +46,10 @@ html[lang="en"] .hd-app { font-family: var(--font-en-body); }
 }
 .hd-logo { cursor: pointer; transition: transform var(--dur-base) var(--ease-out); }
 .hd-logo:hover { transform: scale(1.03); }
-.hd-logo img { height: 42px; width: auto; display: block; object-fit: contain; }
+.hd-logo img { height: 42px; width: auto; display: block; object-fit: contain; transition: filter var(--dur-base) var(--ease-out); }
+/* Logo is dark-ink on transparent — invert it on dark backgrounds */
+[data-theme="dark"] .hd-logo img,
+[data-theme="match-night"] .hd-logo img { filter: brightness(0) invert(1); }
 .hd-nav-list { 
   display: flex; 
   gap: 18px; 
@@ -526,6 +529,9 @@ html[lang="en"] .hd-hero-title {
   box-shadow: var(--shadow-1); 
   transition: all var(--dur-base) var(--ease-out); 
   color: var(--fg-1);
+  /* Reset anchor styles when card renders as <a> */
+  text-decoration: none;
+  display: block;
 }
 .hd-art:hover { 
   box-shadow: var(--shadow-3);
@@ -574,7 +580,9 @@ html[lang="en"] .hd-hero-title {
   letter-spacing: -.01em; 
   margin: 8px 0 10px; 
   color: var(--fg-1);
-  text-wrap: balance; 
+  text-wrap: balance;
+  /* Force strong contrast on card surfaces */
+  -webkit-font-smoothing: antialiased;
 }
 html[lang="en"] .hd-art-title { 
   font-family: var(--font-en-display); 
@@ -1014,6 +1022,8 @@ html[lang="en"] .hd-pullquote {
   height: 44px; 
   margin-bottom: 12px; 
   opacity: 0.9;
+  /* Logo is dark-ink PNG — always invert in dark footer */
+  filter: brightness(0) invert(1);
 }
 .hd-footer-brand p { 
   color: var(--fg-on-dark-2); 

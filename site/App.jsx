@@ -108,7 +108,8 @@ function HomeView({ lang, setRoute, openArticle }) {
               <HdArticleCard key={i} variant="feature" lang={lang}
                 kicker={t(a.kicker,lang)} title={t(a.title,lang)} image={a.image}
                 time={t(a.time,lang)} readMin={a.readMin}
-                onClick={() => a.url ? window.open(a.url,'_blank') : openArticle({...a, body:ARTICLES.hero.body})}/>
+                url={a.url || null}
+                onClick={a.url ? undefined : () => openArticle({...a, body:ARTICLES.hero.body})}/>
             ))}
           </div>
           <h2 className="hd-section-title hd-mt">{lang==='ar' ? 'المزيد' : 'More'}</h2>
@@ -117,7 +118,8 @@ function HomeView({ lang, setRoute, openArticle }) {
               <HdArticleCard key={i} variant="standard" lang={lang}
                 kicker={t(a.kicker,lang)} title={t(a.title,lang)} image={a.image}
                 time={t(a.time,lang)} readMin={a.readMin}
-                onClick={() => a.url ? window.open(a.url,'_blank') : openArticle({...a, body:ARTICLES.hero.body})}/>
+                url={a.url || null}
+                onClick={a.url ? undefined : () => openArticle({...a, body:ARTICLES.hero.body})}/>
             ))}
           </div>
         </main>
