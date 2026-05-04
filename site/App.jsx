@@ -52,6 +52,15 @@ const STANDINGS = [
 
 const t = (obj, lang) => obj && (obj[lang] !== undefined ? obj[lang] : obj);
 
+function ScoresPage({ lang }) {
+  return (
+    <div className="hd-container" style={{paddingTop:'var(--sp-6)',paddingBottom:'var(--sp-8)'}}>
+      <h2 className="hd-section-title">{lang==='ar' ? 'النتائج والمباريات' : 'Scores & Fixtures'}</h2>
+      <HdScoresView lang={lang}/>
+    </div>
+  );
+}
+
 function HomeView({ lang, setRoute, openArticle }) {
   return (
     <>
@@ -150,6 +159,15 @@ function LeagueView({ lang, setRoute }) {
   );
 }
 
+function ScoresPage({ lang }) {
+  return (
+    <div className="hd-container" style={{paddingTop:'var(--sp-6)',paddingBottom:'var(--sp-8)'}}>
+      <h2 className="hd-section-title">{lang==='ar' ? 'النتائج والمباريات' : 'Scores & Fixtures'}</h2>
+      <HdScoresView lang={lang}/>
+    </div>
+  );
+}
+
 function ArticleView({ lang, article, setRoute }) {
   if (!article) { setRoute('home'); return null; }
   return (
@@ -227,6 +245,7 @@ function App() {
     <div className="hd-app">
       <HdNav lang={lang} setLang={setLang} route={route} setRoute={setRoute} theme={theme} setTheme={setTheme}/>
       {route === 'home' && <HomeView lang={lang} setRoute={setRoute} openArticle={openArticle}/>}
+      {route === 'scores' && <ScoresPage lang={lang}/>}
       {route === 'league' && <LeagueView lang={lang} setRoute={setRoute}/>}
       {route === 'article' && <ArticleView lang={lang} article={article} setRoute={setRoute}/>}
       {(route === 'ucl' || route === 'wc' || route === 'video') && (

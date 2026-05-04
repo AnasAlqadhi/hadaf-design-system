@@ -55,8 +55,8 @@ function ThemeSwitcher({ theme, setTheme }) {
 
 function Nav({ lang, setLang, route, setRoute, theme, setTheme }) {
   const items = lang === 'ar'
-    ? [['home','الرئيسية'],['saudi','دوري روشن'],['ucl','أبطال أوروبا'],['wc','كأس العالم'],['video','الفيديوهات']]
-    : [['home','Home'],['saudi','Saudi League'],['ucl','Champions League'],['wc','World Cup'],['video','Videos']];
+    ? [['home','الرئيسية'],['scores','النتائج'],['saudi','دوري روشن'],['ucl','أبطال أوروبا'],['wc','كأس العالم'],['video','الفيديوهات']]
+    : [['home','Home'],['scores','Scores'],['saudi','Saudi League'],['ucl','Champions League'],['wc','World Cup'],['video','Videos']];
   return (
     <nav className="hd-nav">
       <div className="hd-nav-inner">
