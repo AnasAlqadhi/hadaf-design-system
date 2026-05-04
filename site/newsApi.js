@@ -1,21 +1,29 @@
 // -------------------------------------------------------
 // Hadaf — News API
-// Uses corsproxy.io CORS proxy + browser DOMParser
-// No auth, no build step, works from any origin
+// Tries multiple CORS proxies in sequence
 // -------------------------------------------------------
 
-const CORS = 'https://corsproxy.io/?url=';
+const PROXIES = [
+  url => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
+  url => `https://corsproxy.io/?url=${encodeURIComponent(url)}`,
+  url => `https://thingproxy.freeboard.io/fetch/${url}`,
+];
 
-// Fetch with timeout helper
-async function fetchWithTimeout(url, ms = 8000) {
-  const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), ms);
-  try {
-    const res = await fetch(url, { signal: ctrl.signal });
-    return res;
-  } finally {
-    clearTimeout(timer);
+async function fetchRSS(feedUrl) {
+  for (const makeProxy of PROXIES) {
+    try {
+      const ctrl = new AbortController();
+      const timer = setTimeout(() => ctrl.abort(), 10000);
+      const res = await fetch(makeProxy(feedUrl), { signal: ctrl.signal });
+      clearTimeout(timer);
+      if (!res.ok) continue;
+      const text = await res.text();
+      if (text && text.includes('<item>')) return text;
+    } catch(e) {
+      console.warn('Proxy failed, trying next...', e.message);
+    }
   }
+  throw new Error('All proxies failed for: ' + feedUrl);
 }
 
 const NEWS_FEEDS = {
@@ -46,12 +54,7 @@ async function getFeedArticles(feedKey, count = 10) {
   const feed = NEWS_FEEDS[feedKey];
   if (!feed) throw new Error(`Unknown feed: ${feedKey}`);
 
-  const proxyUrl = CORS + encodeURIComponent(feed.url);
-  const res = await fetchWithTimeout(proxyUrl);
-  if (!res.ok) throw new Error(`Proxy error ${res.status}`);
-  const text = await res.text();
-  if (!text) throw new Error('Empty proxy response');
-
+  const text = await fetchRSS(feed.url);
   const parser = new DOMParser();
   const doc = parser.parseFromString(text, 'text/xml');
   const items = Array.from(doc.querySelectorAll('item')).slice(0, count);
