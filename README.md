@@ -240,55 +240,88 @@ This system is a strong starting proposal. The next round should:
 
 ## Version History
 
-### v0.5 � Live News + API Integration (Current)
+### v0.9 — GitHub Actions + Real Articles + Sportmonks Live Data (Current)
 
 **Live URL:** https://anasalqadhi.github.io/hadaf-design-system/
 **GitHub:** https://github.com/AnasAlqadhi/hadaf-design-system
 
-**Focus:** Real live data replacing mock content. News from live RSS feeds; scores page architecture in place.
+**Focus:** Full production deployment with live API keys via GitHub Actions secrets; 12-article feed with smart relative timestamps; sidebar matches from Sportmonks; external article links open in new tab.
 
 **Key additions:**
-- **Live news feed:** Home page fetches real articles from The Guardian + BBC Sport via RSS + CORS proxy. Falls back to mock data if fetch fails
-- **News API module:** `site/newsApi.js` � `HadafNews.getLatestNews()`, `getFeedArticles()`. Multi-proxy fallback chain
-- **Scores page:** `site/ScoresView.jsx` � date strip (Yesterday / Today / Tomorrow), collapsible competition blocks, live match rows with minute display
-- **API-Football module:** `site/api.js` � fixtures, live scores, standings for Saudi 307, UCL 2, PL 39, LaLiga 140, Serie A 135, Bundesliga 78. Season 2025
-- **Config module:** `site/config.js` � `window.HADAF_CONFIG.API_FOOTBALL_KEY`. Empty on GitHub Pages; add real key locally
-- **Scores nav tab:** "??????? / Scores" added to navigation
-- **ErrorBoundary:** Wraps React root � crashes show readable error, not blank page
-- **Article clicks:** Real articles open source URL in new tab
+- **GitHub Actions deploy workflow** (`.github/workflows/deploy.yml`): injects `SPORTMONKS_KEY` + `API_FOOTBALL_KEY` from repo secrets on every push to `main`, every 6 hours, and on manual trigger. Keys are never stored in git.
+- **12-article RSS feed:** `getLatestNews(keys, 12)` — more content per page
+- **Relative timestamps:** `relativeTime()` — "قبل ساعتين" / "2h ago" replacing raw dates
+- **Local image fallback pool:** cycles through 5 real photos when RSS provides no image
+- **Hero external link fix:** hero article with a URL opens in new tab (not internal ArticleView)
+- **Sidebar live matches from Sportmonks:** `SidebarMatches` component fetches today's fixtures on mount, falls back to mock if unavailable
+- **Section heading updated:** "المزيد" → "المزيد من الأخبار" / "More stories"
+- **Loading indicator while news loads** (spinner + label)
+- **Developer docs updated:** DEVELOPER_GUIDE.md now covers Sportmonks integration, GitHub Actions setup, news feeds, API fallback chain
 
-**Files added:** `site/ScoresView.jsx`, `site/api.js`, `site/newsApi.js`, `site/config.js`, `.gitignore`
-**Files changed:** `site/App.jsx`, `site/Nav.jsx`, `site/Bits.jsx`, `index.html`
+**Files added:** `.github/workflows/deploy.yml`
+**Files changed:** `site/App.jsx`, `DEVELOPER_GUIDE.md`, `README.md`
 
----
-
-### v0.4 � Visual Polish & Real Assets
-
-**Focus:** Premium readability, real photography, real logo.
-
-- **Cairo font** replaces El Messiri � supports weight 900 for hero headlines
-- **`--card-bg` token** � white cards visible on warm paper background
-- **Real photography:** 5 AI-generated images in `assets/imagery/` wired to all article cards
-- **Real logo:** `assets/logo/hadaf-wordmark.png` in nav + footer
-- **ArticleCard `<img>` tags** replace CSS `background-image` � images now actually render
-- **Font smoothing** and **kicker color fix** (green on light, gold on dark)
+**User action needed:**
+1. Go to GitHub repo → Settings → Pages → Source → select **"GitHub Actions"**
+2. Go to Settings → Secrets → Actions → add `SPORTMONKS_KEY` and `API_FOOTBALL_KEY`
+3. In Sportmonks dashboard → Plans → Manage Leagues → add **Saudi Pro League (ID 1452)** and **UEFA Champions League (ID 2)**
 
 ---
 
-### v0.3 � Full Stack Premium Overhaul
+### v0.8 — Sportmonks Integration + Arabic News Feeds
+
+- **Sportmonks v3 API wrapper:** `site/sportmonksApi.js` — primary scores data source
+- **ScoresView:** Sportmonks first, API-Football fallback, league logos in block headers
+- **Arabic RSS feeds:** BBC Arabic, Al Jazeera Sport, RT Arabic added
+- **Language-aware feed selection:** `getFeedKeysForLang(lang)` returns right feed set
+- **Guardian + BBC English removed** at owner's request
+- **config.js gitignored:** API keys never pushed to git; `config.example.js` committed as blank template
+
+---
+
+### v0.7 — Mobile Navigation + English News Feeds
+
+- Mobile hamburger nav with animated 3-span button + slide-down drawer
+- Sky Sports + ESPN RSS feeds for English mode
+- Re-fetches on language switch
+
+---
+
+### v0.6 — SEO + Contrast Fixes
+
+- Full SEO: OG, Twitter Card, JSON-LD WebSite schema, canonical, robots, theme-color
+- SVG favicon (green rounded square with gold Arabic "ه")
+- Logo invert on dark themes: `filter: brightness(0) invert(1)`
+- Footer always dark background with inverted logo
+
+---
+
+### v0.5 — Live News + API Integration
+
+- The Guardian + BBC Sport RSS feeds (since replaced by Sky/ESPN/Arabic feeds)
+- API-Football v3 wrapper for fixtures and standings
+- Scores page with date strip and competition blocks
+- `config.js` + `config.example.js` pattern established
+
+---
+
+### v0.4 — Visual Polish & Real Assets
+
+- Cairo font at weight 900 for hero headlines
+- Real photography (5 local PNGs) wired to all article cards
+- Real logo `hadaf-wordmark.png` in nav + footer
+- White card tokens (`--card-bg`)
+
+---
+
+### v0.3 — Full Stack Premium Overhaul
 
 - Three-theme system: Default (warm light), Dark, Match-Night
-- 5-level shadow hierarchy, animation token system
-- Hero rebuild: full-bleed image, dual scrim, pulse-dot kicker, gold CTA
-- Glassmorphic nav, Live Ticker, compact League Table, `.is-live` state
-- SVG theme icons, localStorage persistence, GitHub Pages deployment
+- 5-level shadow hierarchy, animation tokens
+- Hero rebuild, glassmorphic nav, Live Ticker, League Table
 
 ---
 
-### v0.2 � Premium Theme System
+### v0.1–v0.2 — Foundation
 
-Three-theme CSS variable system, enhanced shadows and animation tokens.
-
-### v0.1 � Foundation
-
-Initial design system: brand colors, bilingual typography, spacing grid, base components, 24 preview cards.
+Initial design system: brand colors, bilingual typography, spacing grid, base components, 24 preview cards, three-theme CSS variable system.

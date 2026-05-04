@@ -1,4 +1,4 @@
-/* global React, HdNav, HdHero, HdMatchCard, HdArticleCard, HdLeagueTable, HdLiveTicker, HdAdSlot, HdFooter, HdIcon, HdScoresView, HadafNews */
+/* global React, HdNav, HdHero, HdMatchCard, HdArticleCard, HdLeagueTable, HdLiveTicker, HdAdSlot, HdFooter, HdIcon, HdScoresView, HadafNews, HadafSportmonks */
 const { useState, useEffect } = React;
 
 const TEAMS = {
@@ -10,10 +10,10 @@ const TEAMS = {
   ettifaq:  { ar:'الاتفاق',  en:'Al-Ettifaq',  crest:'assets/crests/team-red.svg' },
 };
 
-const LIVE = [
+// Fallback mock matches shown only when API unavailable
+const MOCK_LIVE = [
   { home:TEAMS.hilal, away:TEAMS.nassr, scoreHome:2, scoreAway:1, minute:78 },
   { home:TEAMS.ittihad, away:TEAMS.ahli, scoreHome:1, scoreAway:1, minute:62 },
-  { home:TEAMS.shabab, away:TEAMS.ettifaq, scoreHome:0, scoreAway:0, minute:34 },
 ];
 
 const ARTICLES = {
@@ -28,12 +28,12 @@ const ARTICLES = {
     ], en:[
       'On an unforgettable night at Kingdom Arena, Al-Hilal stole the Riyadh derby from Al-Nassr 2–1 in front of a charged home crowd.',
       'Aleksandar Mitrović struck in the 23rd minute, with Salem Al-Dawsari adding a stunning header in the 56th. Cristiano Ronaldo pulled one back from the spot in the 78th.',
-      'The win pushes Al-Hilal one step closer to retaining the Roshn League title, capitalizing on Al-Nassr\'s recent stumble. Saturday\'s Jeddah clásico won\'t be any less heated.',
+      'The win pushes Al-Hilal one step closer to retaining the Roshn League title, capitalizing on Al-Nassr\'s recent stumble.',
     ]}
   },
 };
 
-const FEED = [
+const FEED_MOCK = [
   { kicker:{ar:'دوري روشن',en:'Saudi League'}, title:{ar:'الاتحاد يستعيد الصدارة بثلاثية أمام الأهلي',en:'Al-Ittihad reclaim top spot with 3–0 win over Al-Ahli'}, image:'assets/imagery/stadium-night.png', time:{ar:'قبل ساعة',en:'1h ago'}, readMin:3 },
   { kicker:{ar:'دوري الأبطال',en:'Champions League'}, title:{ar:'ريال مدريد يتجاوز السيتي في معركة الجبابرة',en:'Real Madrid edge past City in clash of giants'}, image:'assets/imagery/match-action-strike.png', time:{ar:'قبل 3 ساعات',en:'3h ago'}, readMin:5 },
   { kicker:{ar:'انتقالات',en:'Transfers'}, title:{ar:'صفقة كبرى في الأفق: الهلال يتفاوض مع نجم البريميرليغ',en:'Major deal looms: Al-Hilal in talks with Premier League star'}, image:'assets/imagery/player-portrait.png', time:{ar:'قبل 5 ساعات',en:'5h ago'}, readMin:2 },
@@ -52,6 +52,38 @@ const STANDINGS = [
 
 const t = (obj, lang) => obj && (obj[lang] !== undefined ? obj[lang] : obj);
 
+// Format a pubDate string into a human-readable relative time
+function relativeTime(dateStr, lang) {
+  if (!dateStr) return '';
+  const d = new Date(dateStr);
+  if (isNaN(d)) return dateStr;
+  const diff = Date.now() - d.getTime();
+  const mins = Math.floor(diff / 60000);
+  const hrs  = Math.floor(diff / 3600000);
+  const days = Math.floor(diff / 86400000);
+  if (lang === 'ar') {
+    if (mins < 2)  return 'الآن';
+    if (mins < 60) return `قبل ${mins} دقيقة`;
+    if (hrs < 24)  return `قبل ${hrs} ساعة`;
+    if (days === 1) return 'أمس';
+    return d.toLocaleDateString('ar-SA');
+  }
+  if (mins < 2)  return 'just now';
+  if (mins < 60) return `${mins}m ago`;
+  if (hrs < 24)  return `${hrs}h ago`;
+  if (days === 1) return 'yesterday';
+  return d.toLocaleDateString('en-GB');
+}
+
+// Local fallback image pool — used when RSS provides no image
+const LOCAL_IMAGES = [
+  'assets/imagery/match-action-goal.png',
+  'assets/imagery/stadium-night.png',
+  'assets/imagery/match-action-strike.png',
+  'assets/imagery/player-portrait.png',
+  'assets/imagery/ball-macro.png',
+];
+
 function ScoresPage({ lang }) {
   return (
     <div className="hd-container" style={{paddingTop:'var(--sp-6)',paddingBottom:'var(--sp-8)'}}>
@@ -61,47 +93,103 @@ function ScoresPage({ lang }) {
   );
 }
 
+// Sidebar live matches — fetches from Sportmonks, falls back to mock
+function SidebarMatches({ lang }) {
+  const [matches, setMatches] = useState(MOCK_LIVE);
+  useEffect(() => {
+    const smKey = window.HADAF_CONFIG && window.HADAF_CONFIG.SPORTMONKS_KEY;
+    if (!smKey || typeof HadafSportmonks === 'undefined') return;
+    const today = new Date().toISOString().slice(0, 10);
+    HadafSportmonks.getSmFixturesByDate(today)
+      .then(blocks => {
+        // Flatten all matches, prioritise live ones first
+        const all = blocks.flatMap(b => b.matches);
+        const live = all.filter(m => m.status === 'live');
+        const upcoming = all.filter(m => m.status === 'scheduled');
+        const shown = [...live, ...upcoming].slice(0, 4);
+        if (shown.length) {
+          setMatches(shown.map(m => ({
+            home: { ar: m.home.name.ar, en: m.home.name.en, crest: m.home.logo },
+            away: { ar: m.away.name.ar, en: m.away.name.en, crest: m.away.logo },
+            scoreHome: m.scoreHome,
+            scoreAway: m.scoreAway,
+            status: m.status,
+            minute: m.minute,
+            time: m.time,
+          })));
+        }
+      })
+      .catch(() => {});
+  }, []);
+
+  return (
+    <div className="hd-match-list">
+      {matches.map((m, i) => (
+        <HdMatchCard key={i}
+          home={m.home} away={m.away}
+          scoreHome={m.scoreHome} scoreAway={m.scoreAway}
+          status={m.status === 'live' ? 'live' : m.status === 'ft' ? 'final' : 'upcoming'}
+          minute={m.minute || m.time}
+          lang={lang}/>
+      ))}
+    </div>
+  );
+}
+
 function HomeView({ lang, setRoute, openArticle }) {
-  const [feed, setFeed] = useState(FEED);
+  const [feed, setFeed] = useState(FEED_MOCK);
   const [hero, setHero] = useState(ARTICLES.hero);
-  const [newsLoading, setNewsLoading] = useState(true);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    setNewsLoading(true);
+    setLoading(true);
     const keys = HadafNews.getFeedKeysForLang(lang);
-    HadafNews.getLatestNews(keys, 8)
+    HadafNews.getLatestNews(keys, 12)
       .then(articles => {
         if (!articles.length) return;
-        const mapped = articles.map(a => ({
-          kicker: a.kicker,
-          title:  a.title,
-          image:  a.image || 'assets/imagery/match-action-goal.png',
-          time:   { ar: new Date(a.pubDate).toLocaleDateString('ar-SA'), en: new Date(a.pubDate).toLocaleDateString('en-GB') },
-          readMin: 3,
-          url: a.url,
+        const mapped = articles.map((a, idx) => ({
+          kicker:  a.kicker,
+          title:   a.title,
+          // Use RSS image if available; cycle through local pool as fallback
+          image:   (a.image && a.image.startsWith('http')) ? a.image : LOCAL_IMAGES[idx % LOCAL_IMAGES.length],
+          time:    { ar: relativeTime(a.pubDate, 'ar'), en: relativeTime(a.pubDate, 'en') },
+          readMin: Math.max(2, Math.round((a.excerpt?.en || a.excerpt || '').split(' ').length / 200) + 2),
+          url:     a.url,
           excerpt: a.excerpt,
-          body: ARTICLES.hero.body,
         }));
-        const heroCandidate = mapped.find(a => a.image && !a.image.startsWith('assets/'));
-        if (heroCandidate) setHero({ ...heroCandidate, image: heroCandidate.image });
+        // Pick hero: first article with a real remote image, else first article
+        const heroCandidate = mapped.find(a => a.image.startsWith('http')) || mapped[0];
+        if (heroCandidate) setHero(heroCandidate);
         setFeed(mapped);
       })
-      .catch(() => {/* keep mock data */})
-      .finally(() => setNewsLoading(false));
+      .catch(() => {/* keep mock */})
+      .finally(() => setLoading(false));
   }, [lang]);
+
+  // Hero click — external articles open in new tab, internal open ArticleView
+  function onHeroClick() {
+    if (hero.url) window.open(hero.url, '_blank', 'noopener,noreferrer');
+    else openArticle(hero);
+  }
 
   return (
     <>
-      <HdLiveTicker matches={LIVE} lang={lang} onMatchClick={() => setRoute('league')}/>
+      <HdLiveTicker matches={MOCK_LIVE} lang={lang} onMatchClick={() => setRoute('scores')}/>
       <HdHero
         kicker={t(hero.kicker, lang)}
         title={t(hero.title, lang)}
         image={hero.image}
         lang={lang}
-        onClick={() => openArticle(hero)}
+        onClick={onHeroClick}
       />
       <div className="hd-container hd-grid-main">
         <main className="hd-main">
+          {loading && (
+            <div style={{display:'flex',alignItems:'center',gap:10,color:'var(--fg-3)',marginBottom:24}}>
+              <span className="hd-spinner"/>
+              <span style={{fontSize:14}}>{lang==='ar' ? 'جارٍ تحميل الأخبار…' : 'Loading latest news…'}</span>
+            </div>
+          )}
           <h2 className="hd-section-title">{lang==='ar' ? 'أبرز الأخبار' : 'Top stories'}</h2>
           <div className="hd-feed">
             {feed.slice(0,2).map((a, i) => (
@@ -112,7 +200,7 @@ function HomeView({ lang, setRoute, openArticle }) {
                 onClick={a.url ? undefined : () => openArticle({...a, body:ARTICLES.hero.body})}/>
             ))}
           </div>
-          <h2 className="hd-section-title hd-mt">{lang==='ar' ? 'المزيد' : 'More'}</h2>
+          <h2 className="hd-section-title hd-mt">{lang==='ar' ? 'المزيد من الأخبار' : 'More stories'}</h2>
           <div className="hd-feed-list">
             {feed.slice(2).map((a,i) => (
               <HdArticleCard key={i} variant="standard" lang={lang}
@@ -126,13 +214,10 @@ function HomeView({ lang, setRoute, openArticle }) {
         <aside className="hd-aside">
           <div className="hd-aside-block">
             <h3 className="hd-aside-title">{lang==='ar' ? 'مباريات اليوم' : "Today's matches"}</h3>
-            <div className="hd-match-list">
-              {LIVE.map((m,i) => (
-                <HdMatchCard key={i} home={m.home} away={m.away}
-                  scoreHome={m.scoreHome} scoreAway={m.scoreAway}
-                  status="live" minute={m.minute} lang={lang}/>
-              ))}
-            </div>
+            <SidebarMatches lang={lang}/>
+            <button className="hd-link-btn hd-mt-sm" onClick={() => setRoute('scores')}>
+              {lang==='ar' ? 'جميع النتائج' : 'All scores'} <HdIcon name={lang==='ar'?'chevronL':'chevron'} size={14}/>
+            </button>
           </div>
           <HdAdSlot size="300x250"/>
           <div className="hd-aside-block">
@@ -164,7 +249,7 @@ function LeagueView({ lang, setRoute }) {
           <HdLeagueTable rows={STANDINGS} lang={lang}/>
           <h2 className="hd-section-title hd-mt">{lang==='ar' ? 'مباريات اليوم' : 'Live & today'}</h2>
           <div className="hd-match-list">
-            {LIVE.map((m,i) => (
+            {MOCK_LIVE.map((m,i) => (
               <HdMatchCard key={i} home={m.home} away={m.away}
                 scoreHome={m.scoreHome} scoreAway={m.scoreAway}
                 status="live" minute={m.minute} lang={lang}/>

@@ -14,8 +14,8 @@
 | **Secondary language** | English (LTR) |
 | **Live URL** | https://anasalqadhi.github.io/hadaf-design-system/ |
 | **GitHub repo** | https://github.com/AnasAlqadhi/hadaf-design-system |
-| **Branch** | `main` (GitHub Pages serves from root) |
-| **Current version** | v0.5 |
+| **Branch** | `main` (GitHub Actions deploys to GitHub Pages) |
+| **Current version** | v0.9 |
 
 ---
 
@@ -51,15 +51,19 @@ a:\hadaf\
 ├── design-system.html          ← Visual showcase of all 24 design system cards
 │
 ├── site/                       ← THE LIVE WEBSITE (served by GitHub Pages)
-│   ├── index.html              ← Entry point — loads fonts, CSS, all JSX
-│   ├── styles.css              ← All component CSS (~1000 lines)
+│   ├── styles.css              ← All component CSS (~1400 lines)
 │   ├── App.jsx                 ← Root component: routing, theme state, data
-│   ├── Nav.jsx                 ← Top navigation bar + theme switcher
+│   ├── Nav.jsx                 ← Top navigation bar + theme switcher + mobile hamburger
 │   ├── Hero.jsx                ← Full-bleed hero section
 │   ├── MatchCard.jsx           ← Individual match score card
-│   ├── ArticleCard.jsx         ← News article preview card
+│   ├── ArticleCard.jsx         ← News article preview card (opens external URLs in new tab)
 │   ├── LeagueTable.jsx         ← Standings table (full + compact modes)
-│   └── Bits.jsx                ← Small shared components: LiveTicker, AdSlot, Footer
+│   ├── Bits.jsx                ← Small shared components: LiveTicker, AdSlot, Footer
+│   ├── api.js                  ← API-Football v3 wrapper (fallback sports data)
+│   ├── sportmonksApi.js        ← Sportmonks v3 wrapper (primary sports data)
+│   ├── newsApi.js              ← RSS news feed fetcher (multi-proxy CORS chain)
+│   ├── config.js               ← LOCAL ONLY — gitignored, holds real API keys
+│   └── config.example.js       ← Safe blank template committed to git
 │
 ├── preview/                    ← 24 standalone HTML preview cards for design tokens
 │   ├── 01-logo.html
@@ -190,21 +194,23 @@ const t = (ar, en) => lang === 'ar' ? ar : en;
 ### `App.jsx`
 - **Role:** Root orchestrator
 - **State:** `theme`, `lang`, `route`, `article`
-- **Data:** Static mock constants (`ARTICLES`, `LIVE`, `FEED`, `STANDINGS`) used as fallback; `HomeView` fetches real news and replaces `feed` + `hero` state on load
+- **Data:** Static mock constants (`ARTICLES`, `MOCK_LIVE`, `FEED_MOCK`, `STANDINGS`) used as initial state; `HomeView` fetches real RSS news on mount and on language change
 - **Error handling:** `ErrorBoundary` class wraps the entire render tree
 - **Routes:** `home` | `scores` | `league` | `article` | `ucl` | `wc` | `video`
+- **Hero click:** Opens external URL in new tab when `hero.url` is set; otherwise opens internal `ArticleView`
+- **Sidebar matches (`SidebarMatches`):** Fetches today's fixtures from Sportmonks on mount; falls back to `MOCK_LIVE`
 
 ### `Nav.jsx`
-- **Role:** Sticky top navigation
+- **Role:** Sticky top navigation + mobile hamburger drawer
 - **Props:** `lang`, `setLang`, `theme`, `setTheme`, `route`, `setRoute`
-- **Logo:** `<img src="assets/logo/hadaf-wordmark.png">` at 42px height
+- **Logo:** `<img src="assets/logo/hadaf-wordmark.png">` at 42px height (inverted on dark themes)
 - **Nav items:** Home, Scores (النتائج), Saudi, UCL, World Cup, Video
 - **CSS class:** `.hd-nav` (glassmorphic, `backdrop-filter: blur(16px)`)
+- **Mobile:** `.hd-hamburger` button, `.hd-mobile-menu` slide-down drawer below 900px
 
 ### `Hero.jsx`
 - **Role:** Full-bleed hero section for lead story
 - **Props:** `kicker`, `title`, `image`, `lang`, `onClick`
-- **Background:** `<img className="hd-hero-bg">` with `object-fit: cover`
 
 ### `MatchCard.jsx`
 - **Role:** Shows one match score
@@ -213,9 +219,9 @@ const t = (ar, en) => lang === 'ar' ? ar : en;
 
 ### `ArticleCard.jsx`
 - **Role:** Article preview card (3 variants)
-- **Props:** `kicker`, `title`, `image`, `time`, `readMin`, `lang`, `variant`, `onClick`
+- **Props:** `kicker`, `title`, `image`, `time`, `readMin`, `lang`, `variant`, `url`, `onClick`
 - **Variants:** `feature` (large), `standard` (medium), `compact` (list row)
-- **Image:** `<img>` tag with `object-fit: cover` inside `.hd-art-img`
+- **External links:** When `url` prop is set, the card renders as `<a href target="_blank" rel="noopener noreferrer">` (SEO + security best practice)
 
 ### `LeagueTable.jsx`
 - **Role:** Standings table
@@ -232,31 +238,11 @@ Three components:
 | `AdSlot` | Reserved ad space placeholder | `.hd-ad-slot` |
 | `Footer` | Page footer with logo | `.hd-footer` |
 
-### `ScoresView.jsx` (NEW)
-- **Role:** Full scores page — 365scores-style
-- **Components:** `DateStrip` (Yesterday/Today/Tomorrow tabs), `CompetitionBlock` (collapsible), `MatchRow`
-- **Data:** Fetches from `HadafAPI.getFixturesByDate(dateStr)` on date change
+### `ScoresView.jsx`
+- **Role:** Full scores page — date strip + competition blocks + match rows
+- **Components:** `DateStrip` (Yesterday/Today/Tomorrow tabs), `CompetitionBlock` (collapsible with league logo), `MatchRow`
+- **Data priority:** Sportmonks first → API-Football fallback → empty state
 - **Export:** `window.HdScoresView`
-
-### `api.js` (NEW)
-- **Role:** API-Football v3 wrapper
-- **Key:** Read from `window.HADAF_CONFIG.API_FOOTBALL_KEY`
-- **Functions:** `getFixturesByDate(dateStr)`, `getLiveFixtures()`, `getStandings(leagueKey)`
-- **Leagues:** saudi (307), ucl (2), premier (39), laliga (140), seriea (135), bundesliga (78) — all season 2025
-- **Export:** `window.HadafAPI`
-
-### `newsApi.js` (NEW)
-- **Role:** RSS news fetcher — no auth needed
-- **Method:** Fetches RSS via CORS proxy chain (codetabs → corsproxy.io → thingproxy), parses XML with `DOMParser`
-- **Feeds:** `guardian_en`, `bbc_en`, `sky_en`, `espn`
-- **Functions:** `getFeedArticles(feedKey, count)`, `getLatestNews(feedKeys, count)`
-- **Export:** `window.HadafNews`
-
-### `config.js` (NEW)
-- **Role:** API key storage
-- **Content:** `window.HADAF_CONFIG = { API_FOOTBALL_KEY: '' }`
-- **Local dev:** Add your real key here; it will not affect GitHub Pages
-- **Note:** Empty key is committed. The inline fallback in `index.html` ensures the app never crashes if this file is missing
 
 ---
 
@@ -272,87 +258,117 @@ BEM-inspired with `hd-` prefix:
 .hd-[block].is-[state]   → state modifier
 ```
 
-Examples:
-- `.hd-nav`, `.hd-nav-logo`, `.hd-nav-links`
-- `.hd-match`, `.hd-match.is-live`, `.hd-match.is-compact`
-- `.hd-card`, `.hd-card-img`, `.hd-card-title`
-
-### File structure (in order)
-
-1. Reset & base (`*, body, ::selection`)
-2. Layout utilities (`.hd-container`, `.hd-grid`, `.hd-mt-sm`)
-3. Navigation (`.hd-nav`)
-4. Hero (`.hd-hero`, `.hd-hero-*`)
-5. Live Ticker (`.hd-ticker`)
-6. Article Cards (`.hd-card`)
-7. Match Cards (`.hd-match`)
-8. League Table (`.hd-table`)
-9. Buttons (`.hd-btn`, `.hd-btn-*`)
-10. Badges (`.hd-badge`)
-11. Theme Switcher (`.hd-theme-switcher`)
-12. Footer (`.hd-footer`)
-13. Ad slot (`.hd-ad-slot`)
-14. Responsive breakpoints (`@media (max-width: 900px)`, `@media (max-width: 600px)`)
-
 ### Rules
 
 - **No hardcoded colors** — always `var(--token-name)`
 - **No `!important`** unless overriding third-party styles
-- **No `z-index` over 1000** without a comment explaining why
 - **All transitions** use `var(--dur-base)` and `var(--ease-out)` unless intentionally different
 
 ---
 
-## 9. Data Architecture
+## 9. API Architecture
 
-### Static mock data (in `App.jsx`)
+### `site/config.js` — API key storage (gitignored)
 
-Used as fallback when APIs are unavailable:
+**Never committed to git.** Holds real keys only on your local machine and on GitHub Pages (injected by GitHub Actions).
 
-| Constant | Shape | Used by |
-|---|---|---|
-| `ARTICLES.hero` | `{ kicker, title, image, body }` | `Hero` (fallback) |
-| `LIVE` | `[{ home, away, scoreHome, scoreAway, minute }]` | `LiveTicker`, `MatchCard` |
-| `FEED` | `[{ kicker, title, image, time, readMin }]` | `ArticleCard` (fallback) |
-| `STANDINGS` | `[{ team, p, w, d, l, gf, ga, pts }]` | `LeagueTable` |
+```js
+// site/config.js — LOCAL ONLY, gitignored
+window.HADAF_CONFIG = {
+  API_FOOTBALL_KEY: 'your-api-football-key-here',
+  SPORTMONKS_KEY:   'your-sportmonks-key-here',
+};
+```
 
-### Live data sources
+Copy `site/config.example.js` to `site/config.js` and fill in your keys for local development.
 
-| Source | Module | What it provides |
-|---|---|---|
-| The Guardian Football RSS | `newsApi.js` | Real news articles, English |
-| BBC Sport Football RSS | `newsApi.js` | Real news articles, English |
-| API-Football v3 | `api.js` | Fixtures, live scores, standings |
+### `site/sportmonksApi.js` — Sportmonks v3 (primary)
 
-### Home page data flow
+- **Base URL:** `https://api.sportmonks.com/v3/football`
+- **Auth:** Bearer token via `Authorization` header
+- **Key:** `window.HADAF_CONFIG.SPORTMONKS_KEY`
+- **Free-tier leagues (confirmed):** Premier League (8), Bundesliga (82), La Liga (564), AFC Champions League Elite (1085), Saudi Reserve League (3225)
+- **Needs adding in Sportmonks dashboard:** Saudi Pro League (1452), UEFA Champions League (2)
+- **Functions:** `getSmFixturesByDate(dateStr)`, `getSmLiveFixtures()`
+- **Returns:** Normalised fixture blocks sorted by league priority
+- **Export:** `window.HadafSportmonks`
 
-1. `HomeView` renders instantly with mock `FEED` + `ARTICLES.hero`
-2. On mount, calls `HadafNews.getLatestNews(['guardian_en', 'bbc_en'])`
-3. On success: replaces `feed` state with real articles; updates `hero` if a good image is found
-4. On failure: keeps mock data silently
-5. Article clicks: if `article.url` exists, opens in new tab; otherwise opens internal article view
+### `site/api.js` — API-Football v3 (fallback)
+
+- **Base URL:** `https://v3.football.api-sports.io`
+- **Auth:** `x-apisports-key` header; key passed as query param when using CORS proxy
+- **Key:** `window.HADAF_CONFIG.API_FOOTBALL_KEY`
+- **CORS chain:** direct → corsproxy.io → codetabs.com (10s timeouts)
+- **Leagues:** saudi(307), ucl(2), premier(39), laliga(140), seriea(135), bundesliga(78), season 2025
+- **Functions:** `getFixturesByDate(dateStr)`, `getLiveFixtures()`, `getStandings(leagueKey)`
+- **Export:** `window.HadafAPI`
+
+### `site/newsApi.js` — RSS news (no auth)
+
+- **Method:** Fetches RSS XML via CORS proxy chain (codetabs → corsproxy.io → thingproxy), parsed with browser `DOMParser`
+- **Feeds:**
+  | Key | Source | Language |
+  |---|---|---|
+  | `sky_en` | Sky Sports Football RSS | English |
+  | `espn` | ESPN Soccer RSS | English |
+  | `bbc_ar` | BBC Arabic Sport RSS | Arabic |
+  | `aljazeera_ar` | Al Jazeera Sport RSS | Arabic |
+  | `russia_today_ar` | RT Arabic Sport RSS | Arabic |
+- **Functions:** `getFeedArticles(feedKey, count)`, `getLatestNews(feedKeys, count)`, `getFeedKeysForLang(lang)`
+- **Export:** `window.HadafNews`
+- **To add a new feed:** Add an entry to the `NEWS_FEEDS` object with `{ url, lang }`.
+
+### Data flow: Home page articles
+
+1. `HomeView` renders with mock `FEED_MOCK` + `ARTICLES.hero` immediately
+2. On mount (and on language change), calls `HadafNews.getLatestNews(keys, 12)` — 12 articles
+3. RSS articles: mapped to `{ kicker, title, image, time, readMin, url, excerpt }`
+4. `relativeTime()` formats pub dates as "2h ago" / "قبل ساعتين" etc.
+5. Local image pool (`LOCAL_IMAGES`) fills in when RSS provides no image
+6. Hero is set to first article with a real remote image
+7. Article clicks: `url` present → open in new tab; no `url` → internal `ArticleView`
 
 ---
 
-## 10. Design System Showcase (`design-system.html`)
+## 10. GitHub Actions Deployment
+
+### Workflow: `.github/workflows/deploy.yml`
+
+Triggers on:
+- Push to `main`
+- Schedule: every 6 hours (keeps scores/articles fresh)
+- Manual dispatch (GitHub Actions tab → "Run workflow")
+
+**What it does:**
+1. Checks out the repo
+2. Generates `site/config.js` from GitHub Secrets (so keys are never stored in git)
+3. Uploads the whole repo root as a GitHub Pages artifact
+4. Deploys to GitHub Pages via the official `actions/deploy-pages` action
+
+### One-time setup required (GitHub web UI)
+
+**Step 1 — Switch Pages source to "GitHub Actions":**
+> Repo → Settings → Pages → Source → select **"GitHub Actions"** (not "Deploy from branch")
+
+**Step 2 — Add secrets:**
+> Repo → Settings → Secrets and variables → Actions → New repository secret
+
+| Secret name | Value |
+|---|---|
+| `SPORTMONKS_KEY` | Your Sportmonks API key |
+| `API_FOOTBALL_KEY` | Your API-Football key |
+
+Once done, every push to `main` will automatically deploy with both API keys injected.
+
+---
+
+## 11. Design System Showcase (`design-system.html`)
 
 Standalone HTML page — does **not** use React. Pure HTML + CSS + vanilla JS.
 
 - Imports `colors_and_type.css` for all tokens
-- Has a fixed-position theme switcher (`id="themeSwitch"`) that writes `data-theme` to `<html>`
+- Has a fixed-position theme switcher that writes `data-theme` to `<html>`
 - 24 component cards organized in 4 sections: Brand, Color, Typography, Components
-- Self-contained — safe to share, screenshot, or print
-
----
-
-## 11. Preview Pages (`preview/`)
-
-24 individual HTML files, one per design token category or component. Each:
-- Is standalone HTML
-- Should import `../colors_and_type.css`
-- Currently may not have a theme switcher — this is a known gap
-
-**Known issue:** Some preview pages may not correctly inherit the v0.3 token system. They need to be updated to link `colors_and_type.css` and add the theme switcher JS. This is low priority — the `design-system.html` page is the canonical showcase.
 
 ---
 
@@ -362,37 +378,37 @@ No install needed. Serve the files over HTTP:
 
 ```powershell
 cd a:\hadaf
-Start-Process python -ArgumentList "-m http.server 8000" -WindowStyle Hidden
-Start-Process "http://localhost:8000"
+python -m http.server 8000
 ```
 
 Then open:
-- `http://localhost:8000` — the live website (entry point is `index.html` at root)
+- `http://localhost:8000` — the live website
 - `http://localhost:8000/design-system.html` — the design system showcase
-- `http://localhost:8000/preview/01-logo.html` — individual preview cards
 
-**Why not just open the HTML file directly?** Babel's runtime JSX compilation requires HTTP (not `file://`) to load modules correctly. Always use a local server.
+**API key setup for local development:**
 
-**API key for live scores:** Add your API-Football key to `site/config.js`:
-```js
-window.HADAF_CONFIG = { API_FOOTBALL_KEY: 'your-key-here' };
+```powershell
+Copy-Item site\config.example.js site\config.js
+# Now edit site\config.js and fill in your real keys
 ```
-Get a free key at https://dashboard.api-football.com
+
+**Why not open HTML directly?** Babel's runtime JSX compilation requires HTTP (not `file://`). Always use a local server.
 
 ---
 
 ## 13. How to Deploy
 
-After making changes:
-
 ```powershell
 cd a:\hadaf
 git add -A
-git commit -m "your short message"
+git commit -m "feat: short description"
 git push
 ```
 
-GitHub Pages auto-publishes from the `main` branch root within ~30 seconds. No CI/CD, no build step needed.
+GitHub Actions picks up the push, injects API keys from secrets, and publishes to GitHub Pages within ~1–2 minutes. No manual deploy step needed.
+
+**Manual deploy (without push):** Go to GitHub repo → Actions → "Deploy Hadaf to GitHub Pages" → "Run workflow".
+
 
 **Note:** The site root is `a:\hadaf\`, NOT `a:\hadaf\site\`. GitHub Pages serves `index.html` from the root. The main site entry point is `site/index.html` — you navigate to it manually or via links.
 
