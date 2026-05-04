@@ -1,4 +1,4 @@
-# Hadaf (هدف) — Design System
+﻿# Hadaf (هدف) — Design System
 
 > **Hadaf** (هدف) means *"goal"* in Arabic — punchy, direct, and instantly recognizable to any Arab football fan. The brand serves Arabic-speaking football audiences with passionate, hype coverage of the Saudi Pro League, top European leagues (Premier League, La Liga, Serie A, Bundesliga, Ligue 1), the Champions League, and the World Cup — plus star coverage (Messi, Ronaldo, Saudi-based stars, etc).
 
@@ -235,3 +235,53 @@ This system is a strong starting proposal. The next round should:
 2. Replace the placeholder match photography with real licensed imagery.
 3. Sketch a logo / wordmark for **هدف** — currently the system uses a typeset wordmark only.
 4. Validate the Arabic display font choice (Cairo) against your editorial preference.
+
+
+## Version History
+
+### v0.3 — Full Stack Premium Overhaul (Current)
+
+**Live site:** https://anasalqadhi.github.io/hadaf-design-system/
+**GitHub:** https://github.com/AnasAlqadhi/hadaf-design-system
+
+**Focus:** Complete visual redesign, 3-mode theme system, React component polish, and public GitHub Pages deployment.
+
+**Key additions:**
+- **Three-theme system:** Default (warm light), Dark (modern dark), Match-Night (high-contrast stadium atmosphere)
+- **5-level shadow hierarchy:** --shadow-0 through --shadow-4 with warm green-tinted falloff
+- **Animation token system:** --dur-fast (120ms) / --dur-base (200ms) / --dur-slow (350ms) / --dur-slower (500ms) + easing curves
+- **Hero component rebuild:** Full-bleed image, dual scrim, star overlay, pulse-dot kicker pill, gold CTA, hero-footer stats row
+- **Glassmorphic navigation:** Sticky nav with backdrop-filter blur and paper at 80% alpha
+- **Live Ticker:** Dark bar, sticky label, glass chips, hidden scrollbar
+- **Compact League Table:** New compact prop — 3-column sidebar mode (rank, team, pts)
+- **Live match state:** .is-live class applies red left-border glow on match cards
+- **SVG theme icons:** Replaced emoji buttons with inline SVG sun/moon/fire icons + aria-pressed
+- **Theme persistence:** localStorage key hadaf-theme; survives page reload
+- **Design System page:** 24 component cards fully rebuilt; working JS theme switcher
+- **GitHub Pages deployment:** Site is live and publicly accessible
+
+**Files changed:**
+- colors_and_type.css — 3 complete theme variable blocks, animation tokens, 5-level shadows
+- site/styles.css — ~1000 lines, full component coverage across all 3 themes
+- site/App.jsx — theme useState + localStorage + compact league table in aside
+- site/Nav.jsx — SVG Icon components, aria-pressed, ThemeSwitcher
+- site/Hero.jsx — complete rewrite with kicker, gold CTA, hero-footer
+- site/MatchCard.jsx — is-live conditional class
+- site/LeagueTable.jsx — compact prop, 3-col table mode
+- design-system.html — deleted and recreated clean; 24 cards, working theme JS
+
+**Git commits (on main):**
+- 74253a3 — final premium push
+- edecf1d — Complete design-system.html with working theme switcher
+-  7c9db3 — feat: Add premium theme system with dark and match-night modes
+- 8c20bb2 — initial commit
+
+### v0.2 — Premium Theme System
+
+- Three-theme CSS variable system introduced
+- Enhanced shadow hierarchy and animation tokens
+- React theme management with localStorage
+
+### v0.1 — Foundation
+
+Initial design system with brand colors, typography (bilingual), spacing grid, base components, and preview system.

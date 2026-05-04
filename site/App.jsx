@@ -20,7 +20,7 @@ const ARTICLES = {
   hero: {
     kicker:{ ar:'حصري · ديربي الرياض', en:'Exclusive · Riyadh Derby' },
     title:{ ar:'ليلة لا تُنسى يكتبها الهلال في ديربي الرياض', en:'A historic night for Al-Hilal in the Riyadh Derby' },
-    image:'assets/imagery/match-action-1.svg',
+    image:'assets/imagery/match-action-goal.png',
     body:{ ar:[
       'في ليلة لا تُنسى على ملعب المملكة أرينا، خطف الهلال فوز الديربي أمام النصر بهدفين مقابل واحد، وسط أجواء مشحونة بالحماس الجماهيري.',
       'سجّل الهدفين النجم ميتروفيتش في الدقيقة 23، وسالم الدوسري في الدقيقة 56 بضربة رأس مذهلة، فيما رد كريستيانو رونالدو لأصحاب الأرض في الدقيقة 78 من ركلة جزاء.',
@@ -34,11 +34,11 @@ const ARTICLES = {
 };
 
 const FEED = [
-  { kicker:{ar:'دوري روشن',en:'Saudi League'}, title:{ar:'الاتحاد يستعيد الصدارة بثلاثية أمام الأهلي',en:'Al-Ittihad reclaim top spot with 3–0 win over Al-Ahli'}, image:'assets/imagery/stadium-crowd.svg', time:{ar:'قبل ساعة',en:'1h ago'}, readMin:3 },
-  { kicker:{ar:'دوري الأبطال',en:'Champions League'}, title:{ar:'ريال مدريد يتجاوز السيتي في معركة الجبابرة',en:'Real Madrid edge past City in clash of giants'}, image:'assets/imagery/match-action-1.svg', time:{ar:'قبل 3 ساعات',en:'3h ago'}, readMin:5 },
-  { kicker:{ar:'انتقالات',en:'Transfers'}, title:{ar:'صفقة كبرى في الأفق: الهلال يتفاوض مع نجم البريميرليغ',en:'Major deal looms: Al-Hilal in talks with Premier League star'}, image:'assets/imagery/player-portrait.svg', time:{ar:'قبل 5 ساعات',en:'5h ago'}, readMin:2 },
-  { kicker:{ar:'كأس العالم',en:'World Cup'}, title:{ar:'ميسي يلمح إلى المشاركة في مونديال 2026',en:'Messi hints at playing in the 2026 World Cup'}, image:'assets/imagery/player-portrait.svg', time:{ar:'أمس',en:'Yesterday'}, readMin:4 },
-  { kicker:{ar:'تحليل',en:'Analysis'}, title:{ar:'لماذا تغير أسلوب المنتخب السعودي تحت قيادة المدرب الجديد',en:'Why the Saudi NT style has shifted under the new boss'}, image:'assets/imagery/match-action-1.svg', time:{ar:'أمس',en:'Yesterday'}, readMin:6 },
+  { kicker:{ar:'دوري روشن',en:'Saudi League'}, title:{ar:'الاتحاد يستعيد الصدارة بثلاثية أمام الأهلي',en:'Al-Ittihad reclaim top spot with 3–0 win over Al-Ahli'}, image:'assets/imagery/stadium-night.png', time:{ar:'قبل ساعة',en:'1h ago'}, readMin:3 },
+  { kicker:{ar:'دوري الأبطال',en:'Champions League'}, title:{ar:'ريال مدريد يتجاوز السيتي في معركة الجبابرة',en:'Real Madrid edge past City in clash of giants'}, image:'assets/imagery/match-action-strike.png', time:{ar:'قبل 3 ساعات',en:'3h ago'}, readMin:5 },
+  { kicker:{ar:'انتقالات',en:'Transfers'}, title:{ar:'صفقة كبرى في الأفق: الهلال يتفاوض مع نجم البريميرليغ',en:'Major deal looms: Al-Hilal in talks with Premier League star'}, image:'assets/imagery/player-portrait.png', time:{ar:'قبل 5 ساعات',en:'5h ago'}, readMin:2 },
+  { kicker:{ar:'كأس العالم',en:'World Cup'}, title:{ar:'ميسي يلمح إلى المشاركة في مونديال 2026',en:'Messi hints at playing in the 2026 World Cup'}, image:'assets/imagery/ball-macro.png', time:{ar:'أمس',en:'Yesterday'}, readMin:4 },
+  { kicker:{ar:'تحليل',en:'Analysis'}, title:{ar:'لماذا تغير أسلوب المنتخب السعودي تحت قيادة المدرب الجديد',en:'Why the Saudi NT style has shifted under the new boss'}, image:'assets/imagery/match-action-goal.png', time:{ar:'أمس',en:'Yesterday'}, readMin:6 },
 ];
 
 const STANDINGS = [
