@@ -61,7 +61,7 @@ function Nav({ lang, setLang, route, setRoute, theme, setTheme }) {
     <nav className="hd-nav">
       <div className="hd-nav-inner">
         <a className="hd-logo" onClick={() => setRoute('home')}>
-          <img src="assets/logo/hadaf-wordmark.svg" alt="Hadaf"/>
+          <img src="assets/logo/hadaf-wordmark.png" alt="هدف Hadaf"/>
         </a>
         <ul className="hd-nav-list">
           {items.map(([k,label]) => (

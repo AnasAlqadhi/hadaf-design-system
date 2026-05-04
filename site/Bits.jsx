@@ -36,7 +36,7 @@ function Footer({ lang }) {
     <footer className="hd-footer">
       <div className="hd-footer-inner">
         <div className="hd-footer-brand">
-          <img src="assets/logo/hadaf-wordmark-dark.svg" alt="Hadaf"/>
+          <img src="assets/logo/hadaf-wordmark.png" alt="هدف Hadaf"/>
           <p>{lang==='ar'
             ? 'هدف — أخبار كرة القدم العربية والعالمية بصوت عربي.'
             : 'Hadaf — Arab and global football news, in an Arab voice.'}</p>

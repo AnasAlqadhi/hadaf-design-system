@@ -46,7 +46,7 @@ html[lang="en"] .hd-app { font-family: var(--font-en-body); }
 }
 .hd-logo { cursor: pointer; transition: transform var(--dur-base) var(--ease-out); }
 .hd-logo:hover { transform: scale(1.03); }
-.hd-logo img { height: 38px; display: block; }
+.hd-logo img { height: 42px; width: auto; display: block; object-fit: contain; }
 .hd-nav-list { 
   display: flex; 
   gap: 18px; 
