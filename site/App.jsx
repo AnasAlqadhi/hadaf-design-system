@@ -1,4 +1,4 @@
-/* global React, HdNav, HdHero, HdMatchCard, HdArticleCard, HdLeagueTable, HdLiveTicker, HdAdSlot, HdFooter, HdIcon, HdScoresView */
+/* global React, HdNav, HdHero, HdMatchCard, HdArticleCard, HdLeagueTable, HdLiveTicker, HdAdSlot, HdFooter, HdIcon, HdScoresView, HadafNews */
 const { useState, useEffect } = React;
 
 const TEAMS = {
@@ -62,34 +62,62 @@ function ScoresPage({ lang }) {
 }
 
 function HomeView({ lang, setRoute, openArticle }) {
+  const [feed, setFeed] = useState(FEED);
+  const [hero, setHero] = useState(ARTICLES.hero);
+  const [newsLoading, setNewsLoading] = useState(true);
+
+  useEffect(() => {
+    HadafNews.getLatestNews(['guardian_en', 'bbc_en'], 8)
+      .then(articles => {
+        if (!articles.length) return;
+        // Map to Hadaf article shape
+        const mapped = articles.map(a => ({
+          kicker: a.kicker,
+          title:  a.title,
+          image:  a.image || 'assets/imagery/match-action-goal.png',
+          time:   { ar: new Date(a.pubDate).toLocaleDateString('ar-SA'), en: new Date(a.pubDate).toLocaleDateString('en-GB') },
+          readMin: 3,
+          url: a.url,
+          excerpt: a.excerpt,
+          body: ARTICLES.hero.body,
+        }));
+        // First article as hero if it has an image
+        const heroCandidate = mapped.find(a => a.image && !a.image.startsWith('assets/'));
+        if (heroCandidate) setHero({ ...heroCandidate, image: heroCandidate.image });
+        setFeed(mapped);
+      })
+      .catch(() => {/* keep mock data */})
+      .finally(() => setNewsLoading(false));
+  }, []);
+
   return (
     <>
       <HdLiveTicker matches={LIVE} lang={lang} onMatchClick={() => setRoute('league')}/>
       <HdHero
-        kicker={t(ARTICLES.hero.kicker, lang)}
-        title={t(ARTICLES.hero.title, lang)}
-        image={ARTICLES.hero.image}
+        kicker={t(hero.kicker, lang)}
+        title={t(hero.title, lang)}
+        image={hero.image}
         lang={lang}
-        onClick={() => openArticle(ARTICLES.hero)}
+        onClick={() => openArticle(hero)}
       />
       <div className="hd-container hd-grid-main">
         <main className="hd-main">
           <h2 className="hd-section-title">{lang==='ar' ? 'أبرز الأخبار' : 'Top stories'}</h2>
           <div className="hd-feed">
-            {FEED.slice(0,2).map((a, i) => (
+            {feed.slice(0,2).map((a, i) => (
               <HdArticleCard key={i} variant="feature" lang={lang}
                 kicker={t(a.kicker,lang)} title={t(a.title,lang)} image={a.image}
                 time={t(a.time,lang)} readMin={a.readMin}
-                onClick={() => openArticle({...a, body:ARTICLES.hero.body})}/>
+                onClick={() => a.url ? window.open(a.url,'_blank') : openArticle({...a, body:ARTICLES.hero.body})}/>
             ))}
           </div>
           <h2 className="hd-section-title hd-mt">{lang==='ar' ? 'المزيد' : 'More'}</h2>
           <div className="hd-feed-list">
-            {FEED.slice(2).map((a,i) => (
+            {feed.slice(2).map((a,i) => (
               <HdArticleCard key={i} variant="standard" lang={lang}
                 kicker={t(a.kicker,lang)} title={t(a.title,lang)} image={a.image}
                 time={t(a.time,lang)} readMin={a.readMin}
-                onClick={() => openArticle({...a, body:ARTICLES.hero.body})}/>
+                onClick={() => a.url ? window.open(a.url,'_blank') : openArticle({...a, body:ARTICLES.hero.body})}/>
             ))}
           </div>
         </main>
