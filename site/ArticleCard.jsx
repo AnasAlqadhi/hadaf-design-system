@@ -3,8 +3,9 @@
 function ArticleCard({ kicker, title, image, time, readMin, variant = 'standard', onClick, lang }) {
   if (variant === 'feature') {
     return (
-      <article className="hd-art hd-art-feature" onClick={onClick}>
-        <div className="hd-art-img" style={{ backgroundImage: `url(${image})` }}>
+      <article className="hd-art hd-art-feature" onClick={onClick} tabIndex={0} role="button">
+        <div className="hd-art-img">
+          {image && <img src={image} alt="" loading="lazy"/>}
           <div className="hd-art-img-scrim"/>
         </div>
         <div className="hd-art-body">
@@ -21,19 +22,23 @@ function ArticleCard({ kicker, title, image, time, readMin, variant = 'standard'
   }
   if (variant === 'compact') {
     return (
-      <article className="hd-art hd-art-compact" onClick={onClick}>
+      <article className="hd-art hd-art-compact" onClick={onClick} tabIndex={0} role="button">
         <div className="hd-art-body">
           <div className="hd-kicker">{kicker}</div>
           <h3 className="hd-art-title">{title}</h3>
           <div className="hd-art-meta"><span>{time}</span></div>
         </div>
-        <div className="hd-art-img" style={{ backgroundImage: `url(${image})` }}/>
+        <div className="hd-art-img">
+          {image && <img src={image} alt="" loading="lazy"/>}
+        </div>
       </article>
     );
   }
   return (
-    <article className="hd-art hd-art-standard" onClick={onClick}>
-      <div className="hd-art-img" style={{ backgroundImage: `url(${image})` }}/>
+    <article className="hd-art hd-art-standard" onClick={onClick} tabIndex={0} role="button">
+      <div className="hd-art-img">
+        {image && <img src={image} alt="" loading="lazy"/>}
+      </div>
       <div className="hd-art-body">
         <div className="hd-kicker">{kicker}</div>
         <h3 className="hd-art-title">{title}</h3>
@@ -48,3 +53,4 @@ function ArticleCard({ kicker, title, image, time, readMin, variant = 'standard'
 }
 
 window.HdArticleCard = ArticleCard;
+
