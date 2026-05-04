@@ -56,7 +56,7 @@ async function getFixturesByDate(dateStr) {
   const requests = leagueIds.map(id =>
     apiFetch(`/fixtures?league=${id}&date=${dateStr}&timezone=Asia/Riyadh`)
       .then(data => ({ id, fixtures: data.response || [] }))
-      .catch(() => ({ id, fixtures: [] }))
+      .catch(err => { console.error(`League ${id} failed:`, err.message); return { id, fixtures: [] }; })
   );
   const results = await Promise.all(requests);
 
