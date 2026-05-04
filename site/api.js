@@ -17,18 +17,20 @@ async function apiFetch(path) {
       'x-apisports-key': key
     }
   });
-  if (!res.ok) throw new Error(`API error ${res.status}`);
-  return res.json();
+  const json = await res.json();
+  if (!res.ok) throw new Error(`API error ${res.status}: ${JSON.stringify(json).slice(0,200)}`);
+  if (json.errors && Object.keys(json.errors).length) console.warn('API-Football errors:', json.errors);
+  return json;
 }
 
 // League IDs used by Hadaf
 const LEAGUES = {
-  saudi:    { id: 307, name: { ar: 'دوري روشن',      en: 'Saudi Pro League' },  season: 2024 },
-  ucl:      { id: 2,   name: { ar: 'دوري الأبطال',   en: 'Champions League' },  season: 2024 },
-  premier:  { id: 39,  name: { ar: 'البريميرليغ',    en: 'Premier League' },    season: 2024 },
-  laliga:   { id: 140, name: { ar: 'الليغا',          en: 'La Liga' },           season: 2024 },
-  seriea:   { id: 135, name: { ar: 'السيريا آ',       en: 'Serie A' },           season: 2024 },
-  bundesliga:{ id: 78, name: { ar: 'البوندسليغا',    en: 'Bundesliga' },        season: 2024 },
+  saudi:      { id: 307, name: { ar: 'دوري روشن',      en: 'Saudi Pro League' },  season: 2025 },
+  ucl:        { id: 2,   name: { ar: 'دوري الأبطال',   en: 'Champions League' },  season: 2025 },
+  premier:    { id: 39,  name: { ar: 'البريميرليغ',    en: 'Premier League' },    season: 2025 },
+  laliga:     { id: 140, name: { ar: 'الليغا',          en: 'La Liga' },           season: 2025 },
+  seriea:     { id: 135, name: { ar: 'السيريا آ',       en: 'Serie A' },           season: 2025 },
+  bundesliga: { id: 78,  name: { ar: 'البوندسليغا',    en: 'Bundesliga' },        season: 2025 },
 };
 
 // Returns today's date as YYYY-MM-DD
