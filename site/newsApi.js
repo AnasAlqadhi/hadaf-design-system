@@ -1,10 +1,22 @@
 // -------------------------------------------------------
 // Hadaf — News API
-// Uses allorigins.win CORS proxy + browser DOMParser
+// Uses corsproxy.io CORS proxy + browser DOMParser
 // No auth, no build step, works from any origin
 // -------------------------------------------------------
 
-const CORS = 'https://api.allorigins.win/get?url=';
+const CORS = 'https://corsproxy.io/?url=';
+
+// Fetch with timeout helper
+async function fetchWithTimeout(url, ms = 8000) {
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), ms);
+  try {
+    const res = await fetch(url, { signal: ctrl.signal });
+    return res;
+  } finally {
+    clearTimeout(timer);
+  }
+}
 
 const NEWS_FEEDS = {
   guardian_en: {
@@ -35,13 +47,13 @@ async function getFeedArticles(feedKey, count = 10) {
   if (!feed) throw new Error(`Unknown feed: ${feedKey}`);
 
   const proxyUrl = CORS + encodeURIComponent(feed.url);
-  const res = await fetch(proxyUrl);
+  const res = await fetchWithTimeout(proxyUrl);
   if (!res.ok) throw new Error(`Proxy error ${res.status}`);
-  const json = await res.json();
-  if (!json.contents) throw new Error('Empty proxy response');
+  const text = await res.text();
+  if (!text) throw new Error('Empty proxy response');
 
   const parser = new DOMParser();
-  const doc = parser.parseFromString(json.contents, 'text/xml');
+  const doc = parser.parseFromString(text, 'text/xml');
   const items = Array.from(doc.querySelectorAll('item')).slice(0, count);
 
   return items.map(item => normalizeItem(item, feed));
