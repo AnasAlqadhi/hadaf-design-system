@@ -1,5 +1,5 @@
 # API keys — never commit these
-site/config.js
+# site/config.js  ← uncomment to keep your real API key out of git
 
 # OS
 .DS_Store

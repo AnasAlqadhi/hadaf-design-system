@@ -1,4 +1,4 @@
-/* global React, HdNav, HdHero, HdMatchCard, HdArticleCard, HdLeagueTable, HdLiveTicker, HdAdSlot, HdFooter, HdIcon */
+/* global React, HdNav, HdHero, HdMatchCard, HdArticleCard, HdLeagueTable, HdLiveTicker, HdAdSlot, HdFooter, HdIcon, HdScoresView */
 const { useState, useEffect } = React;
 
 const TEAMS = {
@@ -159,15 +159,6 @@ function LeagueView({ lang, setRoute }) {
   );
 }
 
-function ScoresPage({ lang }) {
-  return (
-    <div className="hd-container" style={{paddingTop:'var(--sp-6)',paddingBottom:'var(--sp-8)'}}>
-      <h2 className="hd-section-title">{lang==='ar' ? 'النتائج والمباريات' : 'Scores & Fixtures'}</h2>
-      <HdScoresView lang={lang}/>
-    </div>
-  );
-}
-
 function ArticleView({ lang, article, setRoute }) {
   if (!article) { setRoute('home'); return null; }
   return (
@@ -259,4 +250,19 @@ function App() {
   );
 }
 
-ReactDOM.createRoot(document.getElementById('root')).render(<App/>);
+class ErrorBoundary extends React.Component {
+  constructor(props) { super(props); this.state = { error: null }; }
+  static getDerivedStateFromError(e) { return { error: e }; }
+  render() {
+    if (this.state.error) {
+      return React.createElement('div', {
+        style: { fontFamily:'monospace', padding:'40px', color:'red', background:'#fff', whiteSpace:'pre-wrap' }
+      }, '\u274C JS Error:\n' + this.state.error.message + '\n\n' + (this.state.error.stack || ''));
+    }
+    return this.props.children;
+  }
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+  React.createElement(ErrorBoundary, null, React.createElement(App))
+);
