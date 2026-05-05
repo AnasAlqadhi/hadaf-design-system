@@ -24,18 +24,38 @@ const SM_LEAGUE_META = {
   3225: { ar: 'الدوري السعودي الاحتياطي', en: 'Saudi Reserve League', order: 9 },
 };
 
+// CORS proxies — Sportmonks does not send Access-Control-Allow-Origin,
+// so direct browser requests are blocked. Route through a proxy chain.
+const SM_PROXIES = [
+  url => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+  url => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
+  url => `https://thingproxy.freeboard.io/fetch/${url}`,
+];
+
 async function smFetch(path) {
   const key = getSMKey();
-  if (!key) throw new Error('No Sportmonks key — set window.HADAF_CONFIG.SPORTMONKS_KEY');
-  const url = `${SM_BASE}${path}`;
-  const res = await fetch(url, {
-    headers: { Authorization: key }
-  });
-  if (!res.ok) {
-    const text = await res.text().catch(() => '');
-    throw new Error(`Sportmonks ${res.status}: ${text.slice(0, 200)}`);
+  if (!key) throw new Error('No Sportmonks key');
+  // api_token in query string works through proxies (no custom headers needed)
+  const sep = path.includes('?') ? '&' : '?';
+  const directUrl = `${SM_BASE}${path}${sep}api_token=${key}`;
+
+  // Try direct first (works in Node / server environments), then proxies
+  const attempts = [
+    () => fetch(directUrl, { signal: AbortSignal.timeout(8000) }),
+    ...SM_PROXIES.map(p => () => fetch(p(directUrl), { signal: AbortSignal.timeout(10000) })),
+  ];
+
+  let lastErr;
+  for (const attempt of attempts) {
+    try {
+      const res = await attempt();
+      if (!res.ok) { lastErr = new Error(`Sportmonks ${res.status}`); continue; }
+      const json = await res.json();
+      if (json.data !== undefined) return json;   // success
+      lastErr = new Error(json.message || 'Bad response');
+    } catch (e) { lastErr = e; }
   }
-  return res.json();
+  throw lastErr;
 }
 
 // Normalize a Sportmonks fixture → Hadaf internal shape
