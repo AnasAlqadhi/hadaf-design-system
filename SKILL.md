@@ -19,7 +19,8 @@ Key files:
 - `assets/crests/` — placeholder team crests (Saudi Pro League four)
 - `assets/imagery/` — placeholder match photography
 - `assets/patterns/star-tile.svg` — 8-point star tessellation, use at 4–8% opacity
-- `ui_kits/website/` — full interactive component kit (Nav, Hero, MatchCard, ArticleCard, LeagueTable, LiveTicker, AdSlot, Footer)
+- `site/` — the live website and canonical component source (Nav, Hero carousel, MatchCard, ArticleCard, LeagueTable, plus Bits: LiveTicker, BreakingBar, MostRead, MatchDayCard, SkeletonCard, AdSlot, Footer, DataStatus)
+- `ui_kits/website/` — frozen legacy snapshot, do not use for new work
 - `preview/` — small spec cards for individual tokens/components
 
 Avoid: emoji, bluish-purple gradients, decorative gradients, colored left-border accent cards, Inter/Roboto fallbacks for headlines (use Cairo/Bebas Neue).

@@ -15,7 +15,7 @@
 | **Live URL** | https://anasalqadhi.github.io/hadaf-design-system/ |
 | **GitHub repo** | https://github.com/AnasAlqadhi/hadaf-design-system |
 | **Branch** | `main` (GitHub Actions deploys to GitHub Pages) |
-| **Current version** | v0.9 |
+| **Current version** | v1.2 |
 
 ---
 
@@ -32,7 +32,7 @@
 | Fonts | Google Fonts | `<link href="https://fonts.googleapis.com/css2?family=...">` |
 | Hosting | GitHub Pages | Auto-serves from repo root on `main` |
 
-**Why no build step?** Speed of iteration. The entire site runs by opening `site/index.html` (or any `preview/*.html`) in a browser — no terminal needed for basic viewing.
+**Why no build step?** Speed of iteration. The entire site runs by serving the repo root over HTTP and opening `index.html` (or any `preview/*.html`) — no terminal-side compile, no node_modules.
 
 **Limitation:** All JSX files use `type="text/babel"` in the HTML `<script>` tags. Babel compiles them in the browser at runtime. This is fine for development and a small-to-medium production site, but should be replaced with Vite or Next.js when the team grows.
 
@@ -49,30 +49,41 @@ a:\hadaf\
 │
 ├── colors_and_type.css         ← MASTER TOKEN FILE — all CSS custom properties
 ├── design-system.html          ← Visual showcase of all 24 design system cards
+├── index.html                  ← LIVE SITE ENTRY POINT — script load order lives here
 │
-├── site/                       ← THE LIVE WEBSITE (served by GitHub Pages)
-│   ├── styles.css              ← All component CSS (~1400 lines)
-│   ├── App.jsx                 ← Root component: routing, theme state, data
-│   ├── Nav.jsx                 ← Top navigation bar + theme switcher + mobile hamburger
-│   ├── Hero.jsx                ← Full-bleed hero section
+├── .github/workflows/
+│   └── deploy.yml              ← GitHub Actions: injects API keys, deploys on every push
+│
+├── data/
+│   └── articles.json           ← Admin-curated overrides (custom articles + hide/feature/hero rules)
+│
+├── site/                       ← THE LIVE WEBSITE
+│   ├── styles.css              ← All component CSS (~2700 lines)
+│   ├── App.jsx                 ← Root: routing, theme/lang state, HomeView, view components
+│   ├── Nav.jsx                 ← Sticky nav + theme switcher + mobile hamburger + search modal
+│   ├── Hero.jsx                ← Auto-rotating carousel (3–5 slides, swipe, dots, arrows)
 │   ├── MatchCard.jsx           ← Individual match score card
-│   ├── ArticleCard.jsx         ← News article preview card (opens external URLs in new tab)
+│   ├── ArticleCard.jsx         ← News article preview card (3 variants: feature, standard, compact)
 │   ├── LeagueTable.jsx         ← Standings table (full + compact modes)
-│   ├── Bits.jsx                ← Small shared components: LiveTicker, AdSlot, Footer
+│   ├── Bits.jsx                ← Shared components: LiveTicker, BreakingBar, AdSlot, MostRead,
+│   │                             SkeletonCard, Footer, MatchDayCard, DataStatus chip
+│   ├── ScoresView.jsx          ← Full /scores page — date strip, league blocks, match rows
+│   ├── Admin.jsx               ← Hidden #admin editor (passcode + GitHub PAT)
+│   │                             — manage RSS, write custom articles, publish via Contents API
+│   ├── articleStore.js         ← Loads data/articles.json + applies overrides to RSS feed
+│   ├── cache.js                ← localStorage TTL cache + per-source status tracker
+│   │                             (used by every API call; backs the freshness chip in footer)
 │   ├── api.js                  ← API-Football v3 wrapper (fallback sports data)
-│   ├── sportmonksApi.js        ← Sportmonks v3 wrapper (primary sports data)
-│   ├── newsApi.js              ← RSS news feed fetcher (multi-proxy CORS chain)
+│   ├── sportmonksApi.js        ← Sportmonks v3 wrapper (primary sports data, CORS proxy chain)
+│   ├── newsApi.js              ← RSS feeds + football-only keyword filter (multi-proxy)
 │   ├── config.js               ← LOCAL ONLY — gitignored, holds real API keys
 │   └── config.example.js       ← Safe blank template committed to git
 │
 ├── preview/                    ← 24 standalone HTML preview cards for design tokens
-│   ├── 01-logo.html
-│   ├── 02-colors-brand.html
-│   ├── ...
-│   └── 24-crests.html
+│   ├── 01-logo.html … 24-crests.html
 │
 ├── assets/
-│   ├── logo/                   ← Wordmark SVGs (placeholder)
+│   ├── logo/                   ← Wordmark SVGs + PNG
 │   ├── icons/sport/            ← Custom sport SVG icons
 │   ├── crests/                 ← Team crest placeholders
 │   ├── imagery/                ← Match photography (placeholders — replace before launch)
@@ -81,7 +92,7 @@ a:\hadaf\
 └── ui_kits/website/            ← Legacy copy of site/ — kept for reference only
 ```
 
-**Key rule:** `site/` is the canonical source of truth. `ui_kits/website/` is a frozen snapshot and should not be edited.
+**Key rule:** `site/` is the canonical source of truth. `ui_kits/website/` is a frozen snapshot and should not be edited. **`data/articles.json` is the only file the admin UI mutates** — never hand-edit it unless you know exactly what you're doing; the admin's "Publish" flow expects to round-trip the schema cleanly.
 
 ---
 
@@ -191,26 +202,40 @@ const t = (ar, en) => lang === 'ar' ? ar : en;
 
 ## 7. Component Reference
 
-### `App.jsx`
-- **Role:** Root orchestrator
-- **State:** `theme`, `lang`, `route`, `article`
-- **Data:** Static mock constants (`ARTICLES`, `MOCK_LIVE`, `FEED_MOCK`, `STANDINGS`) used as initial state; `HomeView` fetches real RSS news on mount and on language change
+### `App.jsx` (~915 lines)
+- **Role:** Root orchestrator + all view components
+- **Top-level state:** `theme`, `lang`, `route`, `article`, `searchOpen`, `feed`
+- **Routes:** `home` | `scores` | `league` | `article` | `ucl` | `wc` | `video` | `transfers` | `admin`
+  - `admin` is full-screen — nav and footer are hidden when this route is active
+  - `#admin` URL hash is detected on load via a `hashchange` listener
+- **Static data constants:** `TEAMS`, `MOCK_LIVE`, `BREAKING_ITEMS`, `MOCK_HERO_SLIDES`, `MOCK_FEED`, `TRANSFERS`, `STANDINGS`, `LOCAL_IMAGES` — used as initial state and fallbacks
+- **Helpers:** `t(obj, lang)` (bilingual selector), `relativeTime(dateStr, lang)` ("2h ago"/"قبل ساعتين")
+- **View components defined in this file:**
+  - `HomeView` — breaking bar, live ticker, hero carousel, comp tabs, featured grid, transfer section, more stories list, sidebar (match-day card, today's matches, league table, most read, ad slot)
+  - `LeagueView`, `UCLView`, `TransfersView`, `VideoView`, `WorldCupView`, `ArticleView`
+  - `BottomNav` — mobile-only fixed nav with 5 tabs
+  - `SidebarMatches`, `SectionHeader`, `TransferSection` — internal helpers
+- **Data fetching:**
+  - Home `useEffect` runs on mount + language change. Calls `HadafNews.getLatestNews()` AND `HadafArticleStore.loadOverrides()` in parallel; merges results via `applyOverrides()`.
+  - A separate `useEffect` calls `HadafSportmonks.getSmFixturesByDate(today)` once and shares the result with both `LiveTicker` and `MatchDayCard` (lifted state — avoids two parallel fetches).
 - **Error handling:** `ErrorBoundary` class wraps the entire render tree
-- **Routes:** `home` | `scores` | `league` | `article` | `ucl` | `wc` | `video`
-- **Hero click:** Opens external URL in new tab when `hero.url` is set; otherwise opens internal `ArticleView`
-- **Sidebar matches (`SidebarMatches`):** Fetches today's fixtures from Sportmonks on mount; falls back to `MOCK_LIVE`
 
 ### `Nav.jsx`
-- **Role:** Sticky top navigation + mobile hamburger drawer
-- **Props:** `lang`, `setLang`, `theme`, `setTheme`, `route`, `setRoute`
-- **Logo:** `<img src="assets/logo/hadaf-wordmark.png">` at 42px height (inverted on dark themes)
-- **Nav items:** Home, Scores (النتائج), Saudi, UCL, World Cup, Video
-- **CSS class:** `.hd-nav` (glassmorphic, `backdrop-filter: blur(16px)`)
-- **Mobile:** `.hd-hamburger` button, `.hd-mobile-menu` slide-down drawer below 900px
+- **Role:** Sticky top nav + theme switcher + mobile hamburger + search modal
+- **Props:** `lang`, `setLang`, `theme`, `setTheme`, `route`, `setRoute`, `feed`, `searchOpen`, `setSearchOpen`
+- **Search modal:** Lifted to App level via `searchOpen` so it works across all pages; filters `feed` by title/kicker as you type
+- **Icons:** Inline SVG `Icon` component with ~20 named paths (search, menu, bell, chevron, play, clock, share, bookmark, globe, fire, sun, moon, trophy, home, score, table, transfer, video, close, ucl, wc, saudiflag)
+- **Exports:** `window.HdNav`, `window.HdIcon`, `window.HdThemeSwitcher`, `window.HdSearchModal`
 
-### `Hero.jsx`
-- **Role:** Full-bleed hero section for lead story
-- **Props:** `kicker`, `title`, `image`, `lang`, `onClick`
+### `Hero.jsx` — auto-rotating carousel
+- **Role:** Full-bleed hero carousel (replaced the single static hero in v1.0)
+- **Props:** `slides` (array of `{kicker, title, image, time, readMin, url?}`), `lang`, `onSlideClick`
+- **Behaviour:**
+  - Auto-rotates every 6 s, pauses on mouse hover
+  - Touch swipe with RTL-aware direction (right-swipe goes back in RTL)
+  - Dot indicators + arrow buttons (arrows visible on hover)
+  - `2 / 4` slide counter badge
+- **Click:** External `slide.url` opens in new tab; otherwise calls `onSlideClick(slide)` for in-app navigation
 
 ### `MatchCard.jsx`
 - **Role:** Shows one match score
@@ -229,20 +254,42 @@ const t = (ar, en) => lang === 'ar' ? ar : en;
 - **Compact mode:** 3 columns (rank, team, pts) for sidebar
 - **Full mode:** 9 columns
 
-### `Bits.jsx`
-Three components:
+### `Bits.jsx` — shared components
 
-| Export | Role | CSS class |
+| Export | Component | Role |
 |---|---|---|
-| `LiveTicker` | Scrolling horizontal news ticker | `.hd-ticker` |
-| `AdSlot` | Reserved ad space placeholder | `.hd-ad-slot` |
-| `Footer` | Page footer with logo | `.hd-footer` |
+| `HdLiveTicker` | `LiveTicker` | Scrolling horizontal score ticker (returns `null` for empty input) |
+| `HdBreakingBar` | `BreakingBar` | Red marquee bar that scrolls breaking-news headlines (CSS `@keyframes hd-marquee`) |
+| `HdAdSlot` | `AdSlot` | Reserved ad space placeholder (300×250 default) |
+| `HdMostRead` | `MostRead` | Numbered list widget for sidebar "Most Read" |
+| `HdSkeleton` | `SkeletonCard` | Shimmer loading placeholder; `variant: 'feature' \| 'standard'` |
+| `HdFooter` | `Footer` | Page footer + social icons (X, Instagram, YouTube, TikTok). Renders the data-status chip. |
+| `HdMatchDayCard` | `MatchDayCard` | Dark gradient featured-match card with crests + score + CTA |
+| `HdDataStatus` | `DataStatus` | Tiny chip showing freshness of API data; subscribes to `HadafCache` (see §9b) |
 
 ### `ScoresView.jsx`
 - **Role:** Full scores page — date strip + competition blocks + match rows
 - **Components:** `DateStrip` (Yesterday/Today/Tomorrow tabs), `CompetitionBlock` (collapsible with league logo), `MatchRow`
 - **Data priority:** Sportmonks first → API-Football fallback → empty state
 - **Export:** `window.HdScoresView`
+
+### `Admin.jsx` — hidden CMS UI
+- **Role:** Lets one operator hide / feature / pin RSS articles and write custom ones, then publishes to GitHub.
+- **Gate:** Passcode constant `ADMIN_PASSCODE` at top of file (default `'hadaf2026'`); enter via the `Gate` component before the editor mounts.
+- **Tabs:** `ManageRssTab` (toggle hide/feature/hero on RSS rows), `CustomTab` (CRUD on `overrides.custom`), `SettingsTab` (PAT input, cache clear).
+- **Publish flow:** `ghGetFile()` → mutate JSON in memory → `ghPutFile()`. Uses base64 helpers `b64Encode` / `b64Decode` that survive Arabic/Unicode (UTF-8 round-trip via `encodeURIComponent`). Calls `HadafArticleStore.setOverrides()` on success so the home page reflects the change locally; visitors see it after the deploy lands ~30 s later.
+- **PAT storage key:** `localStorage['hadaf:github_pat']`. The PAT is never sent anywhere except `api.github.com`.
+- **Repo constants:** `GH_REPO_OWNER`, `GH_REPO_NAME`, `GH_BRANCH`, `GH_FILE_PATH` — change these if you fork.
+- **Export:** `window.HdAdmin`
+
+### `articleStore.js` — overrides loader
+- **Role:** Loads `data/articles.json` and applies its rules to the RSS-derived feed.
+- **API:** `loadOverrides()` (cached + cache-busted with `?t=…`), `setOverrides(next)` (in-memory sync after admin publish), `applyOverrides(rss, overrides) → { feed, hero }`.
+- **Merge order:** custom-featured → RSS-featured → custom-rest → RSS-rest. `hidden_urls` are filtered out entirely. `hero_urls` (in order) become the hero carousel slides if any are set; otherwise the carousel falls back to the first articles with remote images.
+- **Export:** `window.HadafArticleStore`
+
+### `cache.js` — TTL cache + status tracker
+See §9b — important enough that it has its own subsection.
 
 ---
 
@@ -285,48 +332,107 @@ Copy `site/config.example.js` to `site/config.js` and fill in your keys for loca
 ### `site/sportmonksApi.js` — Sportmonks v3 (primary)
 
 - **Base URL:** `https://api.sportmonks.com/v3/football`
-- **Auth:** Bearer token via `Authorization` header
+- **Auth:** `api_token` query string (so it works through CORS proxies — no custom headers)
 - **Key:** `window.HADAF_CONFIG.SPORTMONKS_KEY`
 - **Free-tier leagues (confirmed):** Premier League (8), Bundesliga (82), La Liga (564), AFC Champions League Elite (1085), Saudi Reserve League (3225)
 - **Needs adding in Sportmonks dashboard:** Saudi Pro League (1452), UEFA Champions League (2)
-- **Functions:** `getSmFixturesByDate(dateStr)`, `getSmLiveFixtures()`
-- **Returns:** Normalised fixture blocks sorted by league priority
+- **CORS chain:** direct → corsproxy.io → codetabs.com → thingproxy (8–10 s timeouts)
+- **Functions:** `getSmFixturesByDate(dateStr)` (5 min cache), `getSmLiveFixtures()` (1 min cache)
+- **Both wrap `HadafCache.cachedFetch()`** — see §9b. Status reported under source `'sportmonks'`.
 - **Export:** `window.HadafSportmonks`
 
 ### `site/api.js` — API-Football v3 (fallback)
 
 - **Base URL:** `https://v3.football.api-sports.io`
-- **Auth:** `x-apisports-key` header; key passed as query param when using CORS proxy
+- **Auth:** `x-apisports-key` header; key passed as query param `?apisports-key=` when using CORS proxy
 - **Key:** `window.HADAF_CONFIG.API_FOOTBALL_KEY`
-- **CORS chain:** direct → corsproxy.io → codetabs.com (10s timeouts)
+- **CORS chain:** direct → corsproxy.io → codetabs.com (10 s timeouts)
 - **Leagues:** saudi(307), ucl(2), premier(39), laliga(140), seriea(135), bundesliga(78), season 2025
-- **Functions:** `getFixturesByDate(dateStr)`, `getLiveFixtures()`, `getStandings(leagueKey)`
+- **Functions:** `getFixturesByDate(dateStr)` (5 min cache), `getLiveFixtures()` (1 min), `getStandings(leagueKey)` (1 hour)
+- **All wrap `HadafCache.cachedFetch()`.** Status reported under source `'api-football'`.
 - **Export:** `window.HadafAPI`
 
-### `site/newsApi.js` — RSS news (no auth)
+### `site/newsApi.js` — RSS news + football filter (no auth)
 
 - **Method:** Fetches RSS XML via CORS proxy chain (codetabs → corsproxy.io → thingproxy), parsed with browser `DOMParser`
 - **Feeds:**
-  | Key | Source | Language |
-  |---|---|---|
-  | `sky_en` | Sky Sports Football RSS | English |
-  | `espn` | ESPN Soccer RSS | English |
-  | `bbc_ar` | BBC Arabic Sport RSS | Arabic |
-  | `aljazeera_ar` | Al Jazeera Sport RSS | Arabic |
-  | `russia_today_ar` | RT Arabic Sport RSS | Arabic |
-- **Functions:** `getFeedArticles(feedKey, count)`, `getLatestNews(feedKeys, count)`, `getFeedKeysForLang(lang)`
+  | Key | Source | Language | Football-only? |
+  |---|---|---|---|
+  | `sky_en` | Sky Sports Football RSS | English | ✓ (URL is football feed) |
+  | `espn` | ESPN Soccer RSS | English | ✓ (URL is soccer feed) |
+  | `bbc_ar` | BBC Arabic Sport RSS | Arabic | filtered by keyword |
+  | `aljazeera_ar` | Al Jazeera Sport RSS | Arabic | filtered by keyword |
+  | `russia_today_ar` | RT Arabic Sport RSS | Arabic | filtered by keyword |
+- **Football filter:** Mixed-sport feeds (BBC AR, Al Jazeera, RT) are passed through `isFootballArticle()`, which checks the title + excerpt against two regexes: `FOOTBALL_INCLUDE_RX` (positive terms — football vocab, club + player names, AR + EN) and `FOOTBALL_EXCLUDE_RX` (clear non-football sports — tennis, basketball, F1, NBA, etc.). Items must hit the include regex AND not the exclude regex.
+- **`feed.footballOnly: true`** marker bypasses the filter entirely (saves a regex pass for already-football-only feeds).
+- **Item count:** `getFeedArticles()` pulls `count * 4` items from the source so the football filter still leaves enough to display.
+- **Functions:** `getFeedArticles(feedKey, count)`, `getLatestNews(feedKeys, count)` (5 min cache), `getFeedKeysForLang(lang)`
+- **Status:** reported under source `'news'`.
 - **Export:** `window.HadafNews`
-- **To add a new feed:** Add an entry to the `NEWS_FEEDS` object with `{ url, lang }`.
+- **To add a new feed:** Add an entry to the `NEWS_FEEDS` object with `{ name, url, lang, footballOnly? }`.
 
 ### Data flow: Home page articles
 
-1. `HomeView` renders with mock `FEED_MOCK` + `ARTICLES.hero` immediately
-2. On mount (and on language change), calls `HadafNews.getLatestNews(keys, 12)` — 12 articles
-3. RSS articles: mapped to `{ kicker, title, image, time, readMin, url, excerpt }`
-4. `relativeTime()` formats pub dates as "2h ago" / "قبل ساعتين" etc.
-5. Local image pool (`LOCAL_IMAGES`) fills in when RSS provides no image
-6. Hero is set to first article with a real remote image
-7. Article clicks: `url` present → open in new tab; no `url` → internal `ArticleView`
+1. `HomeView` renders immediately with `MOCK_HERO_SLIDES` and `MOCK_FEED` so the page never looks empty
+2. On mount (and on language change), runs **two requests in parallel** via `Promise.all`:
+   - `HadafNews.getLatestNews(keys, 15)` — 15 articles, football-filtered, 5 min cached
+   - `HadafArticleStore.loadOverrides()` — admin-curated `data/articles.json`
+3. RSS articles mapped to `{ kicker, title, image, time, readMin, url, excerpt, pubDate }`. Missing images fall back to one of the 5 `LOCAL_IMAGES`.
+4. `applyOverrides(rss, overrides)` produces the final feed: custom-featured → RSS-featured → custom-rest → RSS-rest, with `hidden_urls` filtered out.
+5. Hero carousel: `overrides.rules.hero_urls` wins if set; otherwise first 4 articles with remote images.
+6. `relativeTime()` formats pub dates as "2h ago" / "قبل ساعتين".
+7. Article clicks: `url` present → open in new tab; otherwise internal `ArticleView`.
+
+---
+
+## 9b. Cache Layer (`site/cache.js`)
+
+A small, framework-free module that wraps every API call. Every fetcher in this codebase goes through it.
+
+### Why
+
+- **Don't hammer APIs on every page load.** Sportmonks free tier is rate-limited; a 5 min cache means a tab refresh costs zero requests.
+- **Survive transient failures.** When a CORS proxy is briefly down, the cache serves the last good response (marked "stale") instead of an error page.
+- **Surface freshness in the UI.** The `HdDataStatus` chip subscribes to status events so users (and admins) can see whether the data they're looking at is live, cached, or stale.
+
+### API
+
+```js
+// Wrap any async function with TTL cache + fallback + status reporting
+const data = await window.HadafCache.cachedFetch(
+  'sm:fixtures:2026-05-06', // unique cache key
+  5 * 60 * 1000,            // ttl in ms
+  async () => { /* the actual network call */ },
+  'sportmonks'              // source label for the status tracker
+);
+
+// Other helpers
+window.HadafCache.getStatus('sportmonks');   // { state, age, ts, errorMsg }
+window.HadafCache.getAllStatuses();          // { sportmonks: {...}, news: {...} }
+window.HadafCache.worstStatus();             // worst across all sources (for the global chip)
+window.HadafCache.subscribe(cb);             // returns unsubscribe fn
+window.HadafCache.clearAll();                // wipes all hadaf cache entries from localStorage
+```
+
+### Status state machine
+
+| State | Meaning | Chip color |
+|---|---|---|
+| `live` | Just fetched fresh from upstream | green, pulsing |
+| `cached` | Served from a fresh cache hit (< TTL) | grey |
+| `stale` | Upstream failed; served older cache | gold |
+| `down` | No cache and upstream failed | red |
+| `idle` | Source has not been queried this session | (chip hidden) |
+
+### Storage
+
+Entries live in `localStorage` under the prefix `hadaf:cache:v1:`. The cache layer is defensive — it gracefully skips writes if storage is full or disabled. Bumping the prefix version invalidates everything cached by older builds.
+
+### When to bypass it
+
+If you add a new fetcher, the default is to wrap it. Skip the cache only when:
+- The data must be live for every call (e.g. publishing to GitHub).
+- The result depends on user input that changes every keystroke (use a hook-level memo instead).
 
 ---
 
@@ -410,24 +516,27 @@ GitHub Actions picks up the push, injects API keys from secrets, and publishes t
 **Manual deploy (without push):** Go to GitHub repo → Actions → "Deploy Hadaf to GitHub Pages" → "Run workflow".
 
 
-**Note:** The site root is `a:\hadaf\`, NOT `a:\hadaf\site\`. GitHub Pages serves `index.html` from the root. The main site entry point is `site/index.html` — you navigate to it manually or via links.
+**Note:** The site root is `a:\hadaf\`, NOT `a:\hadaf\site\`. The entry point is `index.html` at the repo root, which loads everything from the `site/` directory in the right order. GitHub Pages also serves the rest of the repo, so `data/articles.json` and `assets/*` are reachable via the same origin (this is what the admin Publish flow + the article-store loader rely on).
 
 ---
 
 ## 14. Known Gaps & Future Work
 
+Sorted by priority. Items shipped in v1.0–v1.2 have been removed.
+
 | Item | Priority | Notes |
 |---|---|---|
-| Scores API CORS | High | API-Football free tier may block browser requests — switch to football-data.org or add a proxy |
-| Article images from RSS | Medium | Guardian/BBC RSS rarely includes images — pull from `<meta og:image>` via proxy |
-| Mobile responsiveness | Medium | Nav and cards need breakpoint polish for small screens |
-| Arabic news sources | Medium | Al Jazeera Sport + Sky Arabia RSS feeds for native Arabic content |
-| WCAG contrast audit | Medium | All 3 themes need AA contrast check |
-| Page title + favicon | Low | Generic browser tab title currently |
+| Real Transfers / UCL / Videos / WC data | High | These views still use static mock data. Wire to Sportmonks (UCL bracket, WC groups), API-Football (transfer market is **not** in either free tier — need a third source), and YouTube Data API for videos. |
+| Image upload in admin | High | Currently the admin only accepts external image URLs. To accept file uploads we need either GitHub LFS or an image host (Cloudinary free tier, ImgBB) — same pattern as Publish: PUT base64 via Contents API to `/assets/imagery/`. |
+| RSS source diversity | Medium | Add Goal.com Arabic, Kooora, Yallakora feeds. They lack public RSS — would need scraping, which exceeds CORS proxy capability. |
+| WCAG contrast audit | Medium | All 3 themes need AA contrast check, especially Match-Night |
+| Real URL routing | Medium | Pages are state-driven (`route` in App.jsx). Should map to real URLs (`/scores`, `/article/:slug`) so pages are linkable and back-button works. Move to React Router or hash-based routing for all routes (currently only `#admin` uses hash). |
+| Service worker / PWA | Medium | Offline support for mobile + add-to-home-screen. Cache static assets aggressively; use `cache.js` already-cached API responses. |
+| Schedule auto-publish | Low | Admin could draft articles with a `publishAt` date and a daily Action job moves them into the live feed. |
 | Update 24 preview pages | Low | Add theme switcher + correct token link to each |
 | Replace Babel runtime | Low | Use Vite or Next.js when team grows — current runtime compile is slow on cold load |
-| Ad slot activation | Future | `AdSlot` in `Bits.jsx` — hidden until monetization |
-| Real article routing | Future | Article page is a view in `App.jsx` — needs real URL routing |
+| Ad slot activation | Future | `AdSlot` in `Bits.jsx` — placeholder in place; replace dotted border with a real ad-network embed when monetization is ready |
+| Multi-admin / audit log | Future | Today the passcode + PAT model assumes one admin. For multiple editors, use GitHub OAuth instead and log who published what. |
 
 ---
 
@@ -495,10 +604,22 @@ If you are an AI assistant working on this codebase, follow these rules:
 5. **No colored card borders** — explicitly banned by the design system
 6. **No decorative gradients** — only allowed gradient is the hero photo scrim (`--protect-grad`)
 7. **BEM naming** — new CSS classes follow `.hd-[block]-[element].is-[state]` pattern
-8. **Keep components in their files** — don’t add JSX to `index.html` directly
-9. **Mock data stays in App.jsx** — components receive data as props; never fetch inside components except `HomeView` and `ScoresView`
-10. **Short git commit messages** — keep under 72 chars
-11. **API errors must surface** — never use `.catch(() => {})` silently; always log with `console.warn` or `console.error`
-12. **Proxy chain for RSS** — `newsApi.js` tries 3 proxies in sequence; if adding a new feed, test it with `HadafNews.getFeedArticles('key')` in the browser console first
-13. **Config key is empty on GitHub Pages** — never commit a real API key; scores page must gracefully handle an empty key
-14. **Entry point is `index.html` at root** — not `site/index.html`. All new `<script>` tags go in root `index.html` in correct load order: React → Babel → components → APIs → App
+8. **Keep components in their files** — don't add JSX to `index.html` directly
+9. **Mock data stays in App.jsx** — components receive data as props; never fetch inside components except `HomeView`, `ScoresView`, `SidebarMatches`, and the admin views
+10. **Short git commit messages** — keep under 72 chars on the subject line; use the body for detail
+11. **Wrap new API calls with `HadafCache.cachedFetch`** — see §9b. Pick a reasonable TTL and a unique source label so the freshness chip stays informative.
+12. **API errors must surface** — never use `.catch(() => {})` silently; always log with `console.warn` or `console.error`. The cache layer's stale-fallback should be enough for most user-facing flows, so an unhandled error is a bug.
+13. **Proxy chain for RSS** — `newsApi.js` tries 3 proxies in sequence; if adding a new feed, test it with `HadafNews.getFeedArticles('key')` in the browser console first
+14. **Config key is empty on GitHub Pages** — never commit a real API key; pages must gracefully handle an empty key. The same applies to the admin: don't read `localStorage['hadaf:github_pat']` from any non-admin code path.
+15. **Entry point is `index.html` at root** — not `site/index.html`. New `<script>` tags go in root `index.html` in this load order:
+    1. React + ReactDOM (UMD)
+    2. Babel Standalone
+    3. JSX components: `Nav.jsx` → `Hero.jsx` → `MatchCard.jsx` → `ArticleCard.jsx` → `LeagueTable.jsx` → `Bits.jsx`
+    4. `config.js` (creates `window.HADAF_CONFIG`)
+    5. `cache.js` (must come before any API module — every API call uses `HadafCache.cachedFetch`)
+    6. `api.js`, `sportmonksApi.js`, `newsApi.js`
+    7. `articleStore.js` (must come before App.jsx — HomeView calls it)
+    8. `ScoresView.jsx`, `Admin.jsx`
+    9. `App.jsx` (creates the React root — must be last)
+16. **The admin's only source of truth is `data/articles.json`** — don't sneak admin state into `localStorage` or other side channels. The `hadaf:github_pat` localStorage key is the *only* admin-related thing that lives outside the JSON file.
+17. **Football-only filter** — when adding a new RSS source: if the URL is already a football/soccer-specific feed, set `footballOnly: true` to skip the keyword filter. Otherwise let the filter do its job (test with `HadafNews.getFeedArticles('key')` and inspect the results in the console).

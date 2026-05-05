@@ -21,16 +21,20 @@ If you have any of the following, drop them in and I'll align the system to them
 
 ## Index
 
-| File | What's in it |
+| File / folder | What's in it |
 |---|---|
-| `README.md` | This file � context, content + visual foundations, iconography, manifest |
-| `DEVELOPER_GUIDE.md` | Full technical reference for developers and AI assistants |
+| `README.md` | This file — context, content + visual foundations, iconography, manifest, version history |
+| `DEVELOPER_GUIDE.md` | Full technical reference for developers and AI assistants (architecture, components, APIs, admin) |
 | `SKILL.md` | Skill manifest for invoking this system from Claude/Claude Code |
 | `colors_and_type.css` | All design tokens: colors, type scale, spacing, radii, shadows |
-| `assets/` | Logo, icons, illustrations, real photography |
-| `preview/` | Design-system preview cards (registered, shown in Design System tab) |
-| `site/` | The live website � all JSX components, styles, APIs |
-| `ui_kits/website/` | Legacy frozen snapshot � do not edit |
+| `index.html` | Live site entry point — script load order lives here |
+| `design-system.html` | Visual showcase of all 24 design system cards |
+| `.github/workflows/deploy.yml` | GitHub Actions deploy: injects API keys from secrets, publishes to Pages |
+| `data/articles.json` | Admin-curated overrides (custom articles + hide/feature/hero rules) |
+| `site/` | The live website — JSX components, styles, APIs, cache layer, admin editor |
+| `assets/` | Logo, sport icons, team crests, match imagery, geometric patterns |
+| `preview/` | 24 standalone design-system preview cards |
+| `ui_kits/website/` | Legacy frozen snapshot — do not edit |
 
 ---
 
@@ -211,31 +215,58 @@ For sport-specific things Lucide doesn't cover (e.g. football pitch, jersey, whi
 ## Manifest
 
 ```
-README.md                    ? you are here
-SKILL.md                     ? skill manifest for Claude / Claude Code
-colors_and_type.css          ? design tokens (colors, type, spacing, radii, shadows)
+README.md                       ← you are here
+DEVELOPER_GUIDE.md              ← full technical reference (architecture, components, APIs, admin)
+SKILL.md                        ← skill manifest for Claude / Claude Code
+colors_and_type.css             ← design tokens (colors, type, spacing, radii, shadows)
+index.html                      ← LIVE SITE ENTRY — script load order
+design-system.html              ← visual showcase of design tokens
+
+.github/workflows/
+  deploy.yml                    ← Actions: inject keys → publish to Pages on every push
+
+data/
+  articles.json                 ← admin-curated overrides (custom articles + rules)
+
+site/                           ← THE LIVE WEBSITE
+  styles.css                    ← ~2700 lines of component CSS
+  App.jsx                       ← root: routing, theme/lang state, all view components
+  Nav.jsx                       ← sticky nav + theme switcher + search modal
+  Hero.jsx                      ← auto-rotating hero carousel (3–5 slides)
+  MatchCard.jsx, ArticleCard.jsx, LeagueTable.jsx
+  Bits.jsx                      ← LiveTicker, BreakingBar, AdSlot, MostRead, SkeletonCard,
+                                   Footer, MatchDayCard, DataStatus chip
+  ScoresView.jsx                ← /scores page
+  Admin.jsx                     ← hidden #admin editor (passcode + GitHub PAT)
+  articleStore.js               ← loads data/articles.json + applies overrides
+  cache.js                      ← localStorage TTL cache + status tracker (every API uses it)
+  api.js                        ← API-Football v3 wrapper (fallback)
+  sportmonksApi.js              ← Sportmonks v3 wrapper (primary)
+  newsApi.js                    ← RSS fetcher + football-only keyword filter
+  config.js                     ← LOCAL ONLY (gitignored); GitHub Actions generates it from secrets
+  config.example.js             ← blank template
+
 assets/
-  logo/                      ? wordmark light + dark, mark
-  icons/sport/               ? ball, pitch, jersey, whistle, trophy-shield
-  crests/                    ? team-blue, team-yellow, team-black, team-red (placeholders)
-  imagery/                   ? match-action-1, stadium-crowd, player-portrait (placeholders)
-  patterns/                  ? star-tile.svg (8-pt geometric pattern)
-preview/                     ? 24 spec cards: type, colors, spacing, components, brand
-ui_kits/
-  website/                   ? interactive Hadaf news website
-    index.html               ? entry � Home, League, Article (RTL/LTR toggle)
-    Nav.jsx, Hero.jsx, MatchCard.jsx, ArticleCard.jsx,
-    LeagueTable.jsx, Bits.jsx (LiveTicker, AdSlot, Footer), App.jsx
-    styles.css
+  logo/                         ← wordmark light + dark, mark
+  icons/sport/                  ← ball, pitch, jersey, whistle, trophy-shield
+  crests/                       ← team-blue, team-yellow, team-black, team-red (placeholders)
+  imagery/                      ← match-action, stadium-crowd, player-portrait, etc.
+  patterns/                     ← star-tile.svg (8-pt geometric pattern)
+
+preview/                        ← 24 spec cards: type, colors, spacing, components, brand
+ui_kits/website/                ← legacy frozen snapshot — do not edit
 ```
 
 ## Iteration
 
-This system is a strong starting proposal. The next round should:
-1. Confirm the color palette (especially the green � Saudi-green vs. pitch-green is a real choice).
-2. Replace the placeholder match photography with real licensed imagery.
-3. Sketch a logo / wordmark for **???** � currently the system uses a typeset wordmark only.
-4. Validate the Arabic display font choice (Cairo) against your editorial preference.
+The brand and visual system have stabilized; current focus is on real data and editorial control. Open work:
+
+1. **Replace mock data** in Transfers / UCL / Videos / World Cup pages with real APIs (Sportmonks for fixtures and brackets, third source for transfer market — neither Sportmonks nor API-Football covers transfers in the free tier, YouTube Data API for videos).
+2. **Image upload in admin** — today the editor accepts external image URLs only; add file uploads via the GitHub Contents API (the same channel publishing already uses) or a free image host like ImgBB.
+3. **Real URL routing** — pages are state-driven (`route` in `App.jsx`); they should map to real URLs (`/scores`, `/article/:slug`) so pages are linkable and the back button works. Only `#admin` currently uses hash-based routing.
+4. **Service worker / PWA** — offline support for mobile + add-to-home-screen.
+5. **WCAG contrast audit** across all 3 themes, especially Match-Night.
+6. **Replace placeholder match photography** with real licensed imagery before the public launch.
 
 
 ## Version History
