@@ -86,62 +86,80 @@ function offsetDay(n) {
 // ------------------------------------------------------------------
 
 /**
- * Get fixtures for a specific date across all Hadaf leagues.
- * Returns array of competition blocks: [{ league, matches }]
+ * Get fixtures for a specific date across all Hadaf leagues. (5-min cache)
  */
 async function getFixturesByDate(dateStr) {
-  const leagueIds = Object.values(LEAGUES).map(l => l.id);
-  const requests = leagueIds.map(id =>
-    apiFetch(`/fixtures?league=${id}&date=${dateStr}&timezone=Asia/Riyadh`)
-      .then(data => ({ id, fixtures: data.response || [] }))
-      .catch(err => { console.error(`League ${id} failed:`, err.message); return { id, fixtures: [] }; })
+  return window.HadafCache.cachedFetch(
+    `af:fixtures:${dateStr}`,
+    5 * 60 * 1000,
+    async () => {
+      const leagueIds = Object.values(LEAGUES).map(l => l.id);
+      const requests = leagueIds.map(id =>
+        apiFetch(`/fixtures?league=${id}&date=${dateStr}&timezone=Asia/Riyadh`)
+          .then(data => ({ id, fixtures: data.response || [] }))
+          .catch(err => { console.error(`League ${id} failed:`, err.message); return { id, fixtures: [] }; })
+      );
+      const results = await Promise.all(requests);
+      const blocks = [];
+      for (const [key, meta] of Object.entries(LEAGUES)) {
+        const found = results.find(r => r.id === meta.id);
+        const matches = (found?.fixtures || []).map(normalizeFixture);
+        if (matches.length > 0) blocks.push({ key, league: meta, matches });
+      }
+      if (!blocks.length) throw new Error('No fixtures returned (likely API quota/auth issue)');
+      return blocks;
+    },
+    'api-football'
   );
-  const results = await Promise.all(requests);
-
-  // Group into blocks, skip empty leagues
-  const blocks = [];
-  for (const [key, meta] of Object.entries(LEAGUES)) {
-    const found = results.find(r => r.id === meta.id);
-    const matches = (found?.fixtures || []).map(normalizeFixture);
-    if (matches.length > 0) {
-      blocks.push({ key, league: meta, matches });
-    }
-  }
-  return blocks;
 }
 
 /**
- * Get live fixtures right now across all Hadaf leagues.
+ * Get live fixtures right now across all Hadaf leagues. (60s cache)
  */
 async function getLiveFixtures() {
-  const data = await apiFetch('/fixtures?live=all');
-  const fixtures = (data.response || []).filter(f =>
-    Object.values(LEAGUES).some(l => l.id === f.league.id)
+  return window.HadafCache.cachedFetch(
+    'af:fixtures:live',
+    60 * 1000,
+    async () => {
+      const data = await apiFetch('/fixtures?live=all');
+      const fixtures = (data.response || []).filter(f =>
+        Object.values(LEAGUES).some(l => l.id === f.league.id)
+      );
+      return fixtures.map(normalizeFixture);
+    },
+    'api-football'
   );
-  return fixtures.map(normalizeFixture);
 }
 
 /**
- * Get standings for a league.
+ * Get standings for a league. (1-hour cache — rarely changes mid-day)
  */
 async function getStandings(leagueKey) {
   const meta = LEAGUES[leagueKey];
   if (!meta) throw new Error(`Unknown league: ${leagueKey}`);
-  const data = await apiFetch(`/standings?league=${meta.id}&season=${meta.season}`);
-  const raw = data.response?.[0]?.league?.standings?.[0] || [];
-  return raw.map(row => ({
-    rank: row.rank,
-    team: row.team.name,
-    teamAr: row.team.name, // API doesn't provide Arabic names — keep English
-    logo: row.team.logo,
-    p: row.all.played,
-    w: row.all.win,
-    d: row.all.draw,
-    l: row.all.lose,
-    gf: row.all.goals.for,
-    ga: row.all.goals.against,
-    pts: row.points,
-  }));
+  return window.HadafCache.cachedFetch(
+    `af:standings:${leagueKey}:${meta.season}`,
+    60 * 60 * 1000,
+    async () => {
+      const data = await apiFetch(`/standings?league=${meta.id}&season=${meta.season}`);
+      const raw = data.response?.[0]?.league?.standings?.[0] || [];
+      if (!raw.length) throw new Error('No standings rows returned');
+      return raw.map(row => ({
+        rank: row.rank,
+        team: row.team.name,
+        teamAr: row.team.name,
+        logo: row.team.logo,
+        p: row.all.played,
+        w: row.all.win,
+        d: row.all.draw,
+        l: row.all.lose,
+        gf: row.all.goals.for,
+        ga: row.all.goals.against,
+        pts: row.points,
+      }));
+    },
+    'api-football'
+  );
 }
 
 // ------------------------------------------------------------------

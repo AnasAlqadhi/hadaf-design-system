@@ -191,6 +191,7 @@ function Footer({ lang, setRoute }) {
       <div className="hd-footer-base">
         <span>© ٢٠٢٦ هدف · Hadaf</span>
         <span>{lang === 'ar' ? 'جميع الحقوق محفوظة' : 'All rights reserved'}</span>
+        <DataStatus lang={lang}/>
       </div>
     </footer>
   );
@@ -252,6 +253,50 @@ function MatchDayCard({ match, lang, onViewClick }) {
   );
 }
 
+/* ========== DATA STATUS CHIP ========== */
+// Tiny indicator showing freshness of API data (live / cached / stale / mock).
+// Subscribes to window.HadafCache so it refreshes automatically.
+function DataStatus({ lang }) {
+  const [status, setStatus] = useState({ source: null, state: 'idle', age: 0 });
+  const [tick, setTick] = useState(0);
+
+  useEffect(() => {
+    if (!window.HadafCache) return;
+    const update = () => setStatus(window.HadafCache.worstStatus());
+    update();
+    const unsub = window.HadafCache.subscribe(update);
+    // re-tick every 30s so "Xm ago" stays accurate
+    const interval = setInterval(() => setTick(t => t + 1), 30000);
+    return () => { unsub(); clearInterval(interval); };
+  }, []);
+
+  if (status.state === 'idle') return null;
+
+  const ageMin = Math.floor(status.age / 60000);
+  const ageSec = Math.floor(status.age / 1000);
+  const ageStr = ageMin >= 1
+    ? (lang === 'ar' ? `قبل ${ageMin}د` : `${ageMin}m ago`)
+    : (lang === 'ar' ? `قبل ${ageSec || 0}ث` : `${ageSec || 0}s ago`);
+
+  const labels = {
+    live:   lang === 'ar' ? 'مباشر'    : 'Live',
+    cached: lang === 'ar' ? 'مخزّن'    : 'Cached',
+    stale:  lang === 'ar' ? 'قديم'      : 'Stale',
+    down:   lang === 'ar' ? 'غير متاح' : 'Offline',
+  };
+
+  return (
+    <div className={`hd-data-status hd-ds-${status.state}`} title={status.source || ''}>
+      <span className="hd-ds-dot"/>
+      <span className="hd-ds-label">{labels[status.state] || status.state}</span>
+      {status.state !== 'live' && status.age > 0 && status.age < Infinity && (
+        <span className="hd-ds-age">· {ageStr}</span>
+      )}
+      <span className="hd-ds-tick" style={{display:'none'}}>{tick}</span>
+    </div>
+  );
+}
+
 window.HdLiveTicker  = LiveTicker;
 window.HdBreakingBar = BreakingBar;
 window.HdAdSlot      = AdSlot;
@@ -259,3 +304,4 @@ window.HdMostRead    = MostRead;
 window.HdSkeleton    = SkeletonCard;
 window.HdFooter      = Footer;
 window.HdMatchDayCard = MatchDayCard;
+window.HdDataStatus  = DataStatus;

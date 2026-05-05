@@ -115,44 +115,54 @@ function normalizeSmFixture(f) {
  * Returns [ { leagueId, leagueName, leagueLogo, order, matches: [...] } ]
  */
 async function getSmFixturesByDate(dateStr) {
-  const data = await smFetch(
-    `/fixtures/date/${dateStr}?include=participants;scores;league;state&per_page=100`
+  return window.HadafCache.cachedFetch(
+    `sm:fixtures:${dateStr}`,
+    5 * 60 * 1000, // 5 min
+    async () => {
+      const data = await smFetch(
+        `/fixtures/date/${dateStr}?include=participants;scores;league;state&per_page=100`
+      );
+      const fixtures = (data.data || []).map(normalizeSmFixture);
+
+      // Group by league
+      const byLeague = {};
+      for (const f of fixtures) {
+        if (!byLeague[f.leagueId]) {
+          const meta = SM_LEAGUE_META[f.leagueId] || {};
+          byLeague[f.leagueId] = {
+            leagueId: f.leagueId,
+            leagueName: f.leagueName,
+            leagueLogo: f.leagueLogo,
+            order: meta.order ?? 99,
+            matches: [],
+          };
+        }
+        byLeague[f.leagueId].matches.push(f);
+      }
+
+      const blocks = Object.values(byLeague).sort((a, b) => a.order - b.order);
+      for (const b of blocks) b.matches.sort((a, c) => a.startTs - c.startTs);
+      return blocks;
+    },
+    'sportmonks'
   );
-  const fixtures = (data.data || []).map(normalizeSmFixture);
-
-  // Group by league
-  const byLeague = {};
-  for (const f of fixtures) {
-    if (!byLeague[f.leagueId]) {
-      const meta = SM_LEAGUE_META[f.leagueId] || {};
-      byLeague[f.leagueId] = {
-        leagueId: f.leagueId,
-        leagueName: f.leagueName,
-        leagueLogo: f.leagueLogo,
-        order: meta.order ?? 99,
-        matches: [],
-      };
-    }
-    byLeague[f.leagueId].matches.push(f);
-  }
-
-  // Sort leagues by priority order, then matches by kick-off time
-  const blocks = Object.values(byLeague)
-    .sort((a, b) => a.order - b.order);
-  for (const b of blocks) {
-    b.matches.sort((a, c) => a.startTs - c.startTs);
-  }
-  return blocks;
 }
 
 /**
- * Get live fixtures right now.
+ * Get live fixtures right now (60s cache — live data should stay fresh).
  */
 async function getSmLiveFixtures() {
-  const data = await smFetch(
-    `/fixtures/live?include=participants;scores;league;state&per_page=100`
+  return window.HadafCache.cachedFetch(
+    'sm:fixtures:live',
+    60 * 1000, // 1 min
+    async () => {
+      const data = await smFetch(
+        `/fixtures/live?include=participants;scores;league;state&per_page=100`
+      );
+      return (data.data || []).map(normalizeSmFixture);
+    },
+    'sportmonks'
   );
-  return (data.data || []).map(normalizeSmFixture);
 }
 
 window.HadafSportmonks = { getSmFixturesByDate, getSmLiveFixtures, SM_LEAGUE_META };

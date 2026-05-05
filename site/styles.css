@@ -2541,6 +2541,40 @@ html[lang="en"] .hd-load-more-btn { font-family: var(--font-en-body); }
 }
 ::-webkit-scrollbar-thumb:hover { background: var(--fg-3); }
 
+/* ========== DATA STATUS CHIP ========== */
+.hd-data-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.12);
+  color: rgba(245,241,232,0.7);
+  user-select: none;
+}
+.hd-data-status .hd-ds-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+  box-shadow: 0 0 6px currentColor;
+}
+.hd-data-status .hd-ds-age { opacity: 0.6; }
+.hd-ds-live   { color: #4ade80; }
+.hd-ds-live .hd-ds-dot { animation: hd-ds-pulse 1.6s ease-in-out infinite; }
+.hd-ds-cached { color: #94a3b8; }
+.hd-ds-stale  { color: #fbbf24; }
+.hd-ds-down   { color: var(--live-red, #E03131); }
+@keyframes hd-ds-pulse {
+  0%, 100% { opacity: 1; box-shadow: 0 0 6px currentColor; }
+  50%      { opacity: 0.55; box-shadow: 0 0 2px currentColor; }
+}
+
 /* ========== GLOBAL MOBILE FIXES ========== */
 @media (max-width: 900px) {
   .hd-transfer-section { padding: 16px 18px 20px; }

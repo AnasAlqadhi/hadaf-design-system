@@ -233,6 +233,29 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
   const [loading, setLoading]   = useState(true);
   const [visibleCount, setVisibleCount] = useState(8);
   const [activeComp, setActiveComp] = useState('all');
+  const [liveMatches, setLiveMatches] = useState(MOCK_LIVE);
+
+  // Pull today's live + scheduled matches from Sportmonks (cached 5 min by HadafCache)
+  useEffect(() => {
+    const smKey = window.HADAF_CONFIG && window.HADAF_CONFIG.SPORTMONKS_KEY;
+    if (!smKey || typeof HadafSportmonks === 'undefined') return;
+    const today = new Date().toISOString().slice(0, 10);
+    HadafSportmonks.getSmFixturesByDate(today)
+      .then(blocks => {
+        const all = blocks.flatMap(b => b.matches);
+        const live = all.filter(m => m.status === 'live');
+        const next = all.filter(m => m.status === 'scheduled');
+        const shown = [...live, ...next].slice(0, 6);
+        if (!shown.length) return;
+        setLiveMatches(shown.map(m => ({
+          home: { ar: m.home.name.ar, en: m.home.name.en, crest: m.home.logo },
+          away: { ar: m.away.name.ar, en: m.away.name.en, crest: m.away.logo },
+          scoreHome: m.scoreHome, scoreAway: m.scoreAway,
+          status: m.status, minute: m.minute, time: m.time,
+        })));
+      })
+      .catch(() => {});
+  }, []);
 
   const COMP_TABS = lang === 'ar'
     ? [['all','الكل'],['saudi','دوري روشن'],['ucl','أبطال أوروبا'],['transfers','الانتقالات'],['pl','البريميرليغ']]
@@ -289,7 +312,7 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
   return (
     <>
       <HdBreakingBar items={BREAKING_ITEMS} lang={lang}/>
-      <HdLiveTicker matches={MOCK_LIVE} lang={lang} onMatchClick={() => setRoute('scores')}/>
+      <HdLiveTicker matches={liveMatches} lang={lang} onMatchClick={() => setRoute('scores')}/>
 
       <HdHero
         slides={heroSlides}
@@ -375,7 +398,7 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
         <aside className="hd-aside">
           {/* Today's feature match */}
           <HdMatchDayCard
-            match={{...MOCK_LIVE[0], status:'live'}}
+            match={liveMatches[0] || MOCK_LIVE[0]}
             lang={lang}
             onViewClick={() => setRoute('scores')}
           />
