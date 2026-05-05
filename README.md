@@ -240,7 +240,30 @@ This system is a strong starting proposal. The next round should:
 
 ## Version History
 
-### v0.9 — GitHub Actions + Real Articles + Sportmonks Live Data (Current)
+### v1.2 — Admin / GitHub-as-CMS (Current)
+
+Hidden admin route at `#admin` (passcode-gated) lets a single operator hide RSS articles, feature them, pin items to the hero carousel, and write fully custom bilingual articles — published via the GitHub Contents API which auto-deploys through the existing Actions workflow. See [DEVELOPER_GUIDE.md §14b](DEVELOPER_GUIDE.md) for details.
+
+**Files added:** `data/articles.json`, `site/articleStore.js`, `site/Admin.jsx`
+**Files changed:** `site/App.jsx` (admin route, hash listener, override-aware feed), `site/styles.css`, `index.html`, `DEVELOPER_GUIDE.md`
+
+### v1.1 — API Hardening + Football-Only News
+
+- localStorage 5-min cache on every API call, with stale-fallback when upstream is down
+- `HdDataStatus` chip in footer shows freshness: Live · Cached · Stale · Offline
+- Football-only keyword filter for mixed-sport Arabic feeds (BBC AR, Al Jazeera, RT)
+- LiveTicker + MatchDayCard now share one Sportmonks fetch — both update from real data
+- New file: `site/cache.js`
+
+### v1.0 — Hero Carousel + Transfers / UCL / Videos / WC Pages + Search Modal
+
+- Hero rewritten as auto-rotating carousel (3–5 slides, 6 s autoplay, hover pause, RTL-aware swipe)
+- New views: UCL bracket, transfer market, videos grid, World Cup groups
+- Mobile bottom nav (5 tabs), search modal with live filtering
+- New components in Bits.jsx: HdBreakingBar, HdMostRead, HdSkeleton, HdMatchDayCard
+- `~1100` lines of new CSS
+
+### v0.9 — GitHub Actions + Real Articles + Sportmonks Live Data
 
 **Live URL:** https://anasalqadhi.github.io/hadaf-design-system/
 **GitHub:** https://github.com/AnasAlqadhi/hadaf-design-system

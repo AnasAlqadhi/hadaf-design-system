@@ -1,7 +1,7 @@
 /* global React, HdNav, HdHero, HdMatchCard, HdArticleCard, HdLeagueTable,
           HdLiveTicker, HdBreakingBar, HdAdSlot, HdFooter, HdIcon,
           HdScoresView, HadafNews, HadafSportmonks, HdMostRead, HdSkeleton,
-          HdMatchDayCard */
+          HdMatchDayCard, HdAdmin */
 const { useState, useEffect, useRef, useCallback } = React;
 
 /* ===== TEAM REGISTRY ===== */
@@ -264,10 +264,14 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
   useEffect(() => {
     setLoading(true);
     const keys = HadafNews.getFeedKeysForLang(lang);
-    HadafNews.getLatestNews(keys, 15)
-      .then(articles => {
-        if (!articles.length) return;
-        const mapped = articles.map((a, idx) => ({
+    Promise.all([
+      HadafNews.getLatestNews(keys, 15).catch(() => []),
+      window.HadafArticleStore
+        ? window.HadafArticleStore.loadOverrides()
+        : Promise.resolve(null),
+    ])
+      .then(([articles, overrides]) => {
+        const mappedRss = (articles || []).map((a, idx) => ({
           kicker:  a.kicker,
           title:   a.title,
           image:   (a.image && a.image.startsWith('http')) ? a.image : LOCAL_IMAGES[idx % LOCAL_IMAGES.length],
@@ -275,15 +279,34 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
           readMin: Math.max(2, Math.round((a.excerpt?.en || a.excerpt || '').split(' ').length / 200) + 2),
           url:     a.url,
           excerpt: a.excerpt,
+          pubDate: a.pubDate,
         }));
-        // Build hero slides from first 4 articles with remote images
-        const remoteImgArticles = mapped.filter(a => a.image.startsWith('http'));
-        const slidePool = remoteImgArticles.length >= 3
-          ? remoteImgArticles.slice(0, 4)
-          : [...remoteImgArticles, ...MOCK_HERO_SLIDES].slice(0, 4);
+
+        // Apply admin overrides (hide / feature / merge custom articles)
+        let merged = mappedRss;
+        let heroOverride = [];
+        if (overrides && window.HadafArticleStore) {
+          const result = window.HadafArticleStore.applyOverrides(mappedRss, overrides);
+          merged = result.feed;
+          heroOverride = result.hero;
+          // Custom articles need image normalization (admin may not provide one)
+          merged = merged.map((a, idx) =>
+            a.image ? a : { ...a, image: LOCAL_IMAGES[idx % LOCAL_IMAGES.length] });
+        }
+
+        // Hero: admin's hero_urls win; otherwise first 4 with remote images
+        let slidePool;
+        if (heroOverride && heroOverride.length) {
+          slidePool = heroOverride.slice(0, 5);
+        } else {
+          const remoteImgArticles = merged.filter(a => a.image && a.image.startsWith('http'));
+          slidePool = remoteImgArticles.length >= 3
+            ? remoteImgArticles.slice(0, 4)
+            : [...remoteImgArticles, ...MOCK_HERO_SLIDES].slice(0, 4);
+        }
         if (slidePool.length) setHeroSlides(slidePool);
-        setFeed(mapped);
-        onFeedLoad && onFeedLoad(mapped);
+        if (merged.length) setFeed(merged);
+        onFeedLoad && onFeedLoad(merged);
       })
       .catch(() => {})
       .finally(() => setLoading(false));
@@ -882,7 +905,26 @@ function App() {
     setTheme(savedTheme);
   }, []);
 
+  // Hash-based route hook for #admin (kept off the main nav so visitors don't see it)
+  useEffect(() => {
+    const sync = () => {
+      if (window.location.hash === '#admin') setRoute('admin');
+    };
+    sync();
+    window.addEventListener('hashchange', sync);
+    return () => window.removeEventListener('hashchange', sync);
+  }, []);
+
   const openArticle = (a) => { setArticle(a); setRoute('article'); window.scrollTo(0, 0); };
+
+  // Admin route is full-screen — hide nav/footer/bottom-nav
+  if (route === 'admin') {
+    return (
+      <div className="hd-app">
+        <HdAdmin lang={lang} setRoute={setRoute} feed={feed}/>
+      </div>
+    );
+  }
 
   return (
     <div className="hd-app">

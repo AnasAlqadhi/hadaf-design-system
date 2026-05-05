@@ -431,6 +431,59 @@ GitHub Actions picks up the push, injects API keys from secrets, and publishes t
 
 ---
 
+## 14b. Admin / Editor (v1.2)
+
+The site has a hidden admin route that lets a single operator hide RSS articles, feature them, pin items to the hero carousel, and write fully custom articles — without ever touching code. It uses the GitHub Contents API as a CMS, so publishing is just a commit that the existing GitHub Actions workflow auto-deploys.
+
+### How to access it
+
+1. Visit the live site and append `#admin` to the URL: `https://anasalqadhi.github.io/hadaf-design-system/#admin`
+2. Enter the passcode (default `hadaf2026`, change in [`site/Admin.jsx`](site/Admin.jsx) → `ADMIN_PASSCODE`)
+3. First-time setup: open the **Settings** tab and paste a GitHub Personal Access Token (Settings → Developer settings → Personal access tokens, classic, scope `repo`). The token is stored in `localStorage` under `hadaf:github_pat` — never sent anywhere except `api.github.com`.
+
+### What admins can do
+
+| Tab | Capability |
+|---|---|
+| Manage news | Hide / Feature / Pin-to-hero any RSS article currently shown on the home feed |
+| Custom articles | Write fully custom articles (bilingual title, kicker, image, excerpt, body). Mark as featured to pin to the top |
+| Settings | Manage GitHub PAT, clear API cache |
+
+### How publishing works
+
+Click **Publish**. The admin component:
+1. `GET`s the current `data/articles.json` from GitHub (for the SHA needed to update)
+2. Builds the new JSON in memory
+3. `PUT`s it back via `api.github.com/repos/.../contents/data/articles.json`
+4. The repo's `.github/workflows/deploy.yml` fires on every push to `main` and rebuilds GitHub Pages
+5. Within ~30 s the site re-deploys with the new article rules
+
+### Storage schema (`data/articles.json`)
+
+```json
+{
+  "version": 1,
+  "updated": "2026-05-06T00:00:00.000Z",
+  "custom": [ /* admin-written articles */ ],
+  "rules": {
+    "hidden_urls":   ["https://…"],
+    "featured_urls": ["https://…"],
+    "hero_urls":     ["https://…"]
+  }
+}
+```
+
+`site/articleStore.js` loads this file with `?t={timestamp}` to bypass the browser cache, and `applyOverrides(rss, overrides)` produces the final feed shown on the home page (custom-featured first, then RSS-featured, then customs, then everything else; hidden URLs filtered).
+
+### Security notes
+
+- The passcode is **NOT** real auth — it's a UX speed bump. The actual gate to publishing is the GitHub PAT, which only the admin should know.
+- The PAT lives only in the admin's browser `localStorage`. It is **not committed**, **not embedded in any deployed asset**, and the GitHub Actions deploy does not touch it.
+- Anyone with the live URL + the passcode + a valid PAT for the repo can publish. Treat the PAT like a password.
+- To revoke: rotate the PAT on GitHub (Settings → tokens → revoke) or change `ADMIN_PASSCODE` in `Admin.jsx` and redeploy.
+
+---
+
 ## 15. Conventions for AI Assistants
 
 If you are an AI assistant working on this codebase, follow these rules:
