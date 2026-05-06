@@ -1,7 +1,7 @@
 {
   "name": "hadaf-automation",
   "version": "1.0.0",
-  "description": "Build-time automation scripts for Hadaf — fetches RSS, rewrites in Arabic via Claude, bakes into static JSON",
+  "description": "Build-time automation for Hadaf — fetches RSS, rewrites in Arabic via Gemini Flash, bakes into static JSON",
   "type": "module",
   "private": true,
   "scripts": {
@@ -9,7 +9,6 @@
     "fetch:dry": "node scripts/fetch-rewrite.mjs --dry-run"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.38.0",
     "fast-xml-parser": "^4.5.0"
   }
 }
