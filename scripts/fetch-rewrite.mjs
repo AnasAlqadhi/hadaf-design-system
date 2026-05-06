@@ -33,39 +33,11 @@ const MAX_AGE_DAYS      = 7;   // drop articles older than this
 
 // ─── RSS SOURCES ──────────────────────────────────────────────────────────────
 const FEEDS = [
-  {
-    key: 'sky_en',
-    url: 'https://www.skysports.com/rss/12040',
-    name: { ar: 'سكاي سبورتس', en: 'Sky Sports' },
-    lang: 'en',
-    footballOnly: true,
-  },
-  {
-    key: 'espn',
-    url: 'https://www.espn.com/espn/rss/soccer/news',
-    name: { ar: 'ESPN', en: 'ESPN FC' },
-    lang: 'en',
-    footballOnly: true,
-  },
-  {
-    key: 'bbc_ar',
-    url: 'https://feeds.bbci.co.uk/arabic/sport/rss.xml',
-    name: { ar: 'BBC عربي', en: 'BBC Arabic' },
-    lang: 'ar',
-  },
-  {
-    key: 'aljazeera_ar',
-    url: 'https://www.aljazeera.net/xml/rss/sports.xml',
-    name: { ar: 'الجزيرة الرياضية', en: 'Al Jazeera Sport' },
-    lang: 'ar',
-  },
-  {
-    key: 'goal_en',
-    url: 'https://www.goal.com/feeds/en/news',
-    name: { ar: 'Goal', en: 'Goal.com' },
-    lang: 'en',
-    footballOnly: true,
-  },
+  { key: 'sky_en',       url: 'https://www.skysports.com/rss/12040',             name: { ar: 'سكاي سبورتس',       en: 'Sky Sports'      }, lang: 'en' },
+  { key: 'espn',         url: 'https://www.espn.com/espn/rss/soccer/news',       name: { ar: 'ESPN',               en: 'ESPN FC'         }, lang: 'en' },
+  { key: 'bbc_ar',       url: 'https://feeds.bbci.co.uk/arabic/sport/rss.xml',   name: { ar: 'BBC عربي',           en: 'BBC Arabic'      }, lang: 'ar' },
+  { key: 'aljazeera_ar', url: 'https://www.aljazeera.net/xml/rss/sports.xml',    name: { ar: 'الجزيرة الرياضية', en: 'Al Jazeera Sport' }, lang: 'ar' },
+  { key: 'goal_en',      url: 'https://www.goal.com/feeds/en/news',              name: { ar: 'Goal',               en: 'Goal.com'        }, lang: 'en' },
 ];
 
 // ─── FOOTBALL FILTER ──────────────────────────────────────────────────────────
@@ -285,10 +257,10 @@ async function main() {
   const allRaw = [];
   for (const feed of FEEDS) {
     try {
-      const items = await fetchFeed(feed);
-      const football = feed.footballOnly ? items : items.filter(a => isFootball(a.title + ' ' + a.desc));
+      const items   = await fetchFeed(feed);
+      const football = items.filter(a => isFootball(a.title + ' ' + a.desc));
       allRaw.push(...football);
-      console.log(`   ✓ ${feed.key}: ${football.length} football articles`);
+      console.log(`   ✓ ${feed.key}: ${football.length}/${items.length} football articles`);
     } catch (err) {
       console.warn(`   ✗ ${feed.key}: ${err.message}`);
     }
