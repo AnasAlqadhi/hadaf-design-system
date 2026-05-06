@@ -290,9 +290,25 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
 
   useEffect(() => {
     setLoading(true);
+
+    // Try pre-baked feed.json first (built by GitHub Actions — instant, no CORS)
+    // Fall back to live RSS if the file is empty or fails
+    async function loadNews() {
+      try {
+        const res = await fetch(`data/feed.json?v=${Date.now()}`);
+        if (res.ok) {
+          const json = await res.json();
+          if (json.articles && json.articles.length > 0) return json.articles;
+        }
+      } catch {}
+      // Fallback: fetch live RSS in the browser
+      const keys = HadafNews.getFeedKeysForLang(lang);
+      return HadafNews.getLatestNews(keys, 15).catch(() => []);
+    }
+
     const keys = HadafNews.getFeedKeysForLang(lang);
     Promise.all([
-      HadafNews.getLatestNews(keys, 15).catch(() => []),
+      loadNews(),
       window.HadafArticleStore
         ? window.HadafArticleStore.loadOverrides()
         : Promise.resolve(null),
@@ -946,7 +962,14 @@ function ArticleView({ lang, article, setRoute }) {
           <div className="hd-kicker">{kicker}</div>
           <h1 className="hd-article-title">{title}</h1>
           <div className="hd-article-meta">
-            <span>{lang === 'ar' ? 'بقلم سعد العتيبي' : 'By Saad Al-Otaibi'}</span>
+            {article.source && (
+              <>
+                <span style={{fontWeight:700}}>
+                  {typeof article.source === 'object' ? (article.source[lang] || article.source.ar || article.source.en) : article.source}
+                </span>
+                <span aria-hidden>·</span>
+              </>
+            )}
             <span aria-hidden>·</span>
             <span>{t(article.time, lang) || (lang === 'ar' ? 'قبل ساعتين' : '2h ago')}</span>
             <span aria-hidden>·</span>
