@@ -27,6 +27,9 @@ const GEMINI_KEY      = process.env.GEMINI_API_KEY || '';
 const GEMINI_MODEL    = 'gemini-2.0-flash';
 const GEMINI_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_KEY}`;
 
+// Log key status upfront so we can see it in Actions logs
+console.log(`🔑 GEMINI_API_KEY: ${GEMINI_KEY ? `set (${GEMINI_KEY.length} chars, starts with ${GEMINI_KEY.slice(0,8)}…)` : '⚠ NOT SET'}`);
+
 const MAX_NEW_PER_RUN   = 10;  // AI rewrites per run (free tier is generous)
 const MAX_ARTICLES_KEPT = 80;  // total articles stored in feed.json
 const MAX_AGE_DAYS      = 7;   // drop articles older than this
@@ -271,19 +274,50 @@ async function main() {
     .filter(a => !existingUrls.has(a.link))
     .sort((a, b) => new Date(b.pub) - new Date(a.pub));
 
-  console.log(`\n📰 ${newRaw.length} new articles to process (${existing.length} already in feed)\n`);
+  // Existing articles that failed rewrite — retry them if Gemini key is now available
+  const existingFallbacks = (!DRY_RUN && GEMINI_KEY)
+    ? existing.filter(a => !a.rewritten)
+    : [];
 
-  // Rewrite with Gemini
-  const toRewrite  = DRY_RUN ? [] : newRaw.slice(0, MAX_NEW_PER_RUN);
+  console.log(`\n📰 ${newRaw.length} new articles | ${existingFallbacks.length} fallbacks to retry | ${existing.length} in feed\n`);
+
+  // Rewrite new articles first, then retry fallbacks up to the per-run cap
+  const toRewriteNew = DRY_RUN ? [] : newRaw.slice(0, MAX_NEW_PER_RUN);
+  const slotsLeft    = Math.max(0, MAX_NEW_PER_RUN - toRewriteNew.length);
+  const toRetry      = existingFallbacks.slice(0, slotsLeft);
   const passthroughRaw = newRaw.slice(DRY_RUN ? 0 : MAX_NEW_PER_RUN);
 
+  // Rewrite new articles
   const rewritten = [];
-  for (let i = 0; i < toRewrite.length; i++) {
-    const raw = toRewrite[i];
-    console.log(`   ✍  [${i+1}/${toRewrite.length}] "${raw.title.slice(0, 65)}…"`);
+  const allToWrite = [...toRewriteNew];
+  for (let i = 0; i < allToWrite.length; i++) {
+    const raw = allToWrite[i];
+    console.log(`   ✍  [${i+1}/${allToWrite.length}] "${raw.title.slice(0, 65)}…"`);
     rewritten.push(await rewriteWithGemini(raw));
-    if (i < toRewrite.length - 1) await new Promise(r => setTimeout(r, 400)); // rate-limit pause
+    if (i < allToWrite.length - 1) await new Promise(r => setTimeout(r, 400));
   }
+
+  // Retry existing fallbacks — convert stored article back to raw format
+  const retried = new Map();
+  for (let i = 0; i < toRetry.length; i++) {
+    const a = toRetry[i];
+    const raw = {
+      title: a.title?.en || a.title?.ar || '',
+      desc:  a.excerpt?.en || a.excerpt?.ar || '',
+      link:  a.id || a.url,
+      pub:   a.pubDate,
+      image: a.image || '',
+      source: a.source,
+      lang:  a.lang || 'en',
+    };
+    console.log(`   🔄 retry [${i+1}/${toRetry.length}] "${raw.title.slice(0, 65)}…"`);
+    const result = await rewriteWithGemini(raw);
+    retried.set(a.id || a.url, result);
+    if (i < toRetry.length - 1) await new Promise(r => setTimeout(r, 400));
+  }
+
+  // Apply retries back into existing
+  existing = existing.map(a => retried.get(a.id || a.url) || a);
 
   const passthrough = passthroughRaw.map(buildFallback);
 
@@ -301,10 +335,11 @@ async function main() {
   // Stats
   const nRewritten = rewritten.filter(a => a.rewritten).length;
   const nFallback  = rewritten.filter(a => !a.rewritten).length;
+  const nRetried   = [...retried.values()].filter(a => a.rewritten).length;
   console.log(`\n📊 Results:`);
-  console.log(`   Rewritten by Gemini : ${nRewritten}`);
+  console.log(`   Rewritten (new)     : ${nRewritten}`);
+  console.log(`   Retried fallbacks   : ${nRetried}/${toRetry.length}`);
   console.log(`   Fallback (no AI)    : ${nFallback + passthrough.length}`);
-  console.log(`   Existing kept       : ${existing.length}`);
   console.log(`   Total in feed       : ${final.length}`);
 
   if (!DRY_RUN) {
