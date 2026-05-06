@@ -1,8 +1,308 @@
 {
   "version": 2,
-  "updated": "2026-05-06T15:26:26.535Z",
-  "count": 7,
+  "updated": "2026-05-06T15:27:38.064Z",
+  "count": 19,
   "articles": [
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48687699/arsenal-set-sights-champions-league-glory-win-atletico",
+      "title": {
+        "ar": "Arsenal set sights on Champions League glory with ...",
+        "en": "Arsenal set sights on Champions League glory with ..."
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48687699/arsenal-set-sights-champions-league-glory-win-atletico",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 6 May 2026 10:52:03 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48692428/fifa-extends-uefa-ban-argentina-gianluca-prestianni-world-cup",
+      "title": {
+        "ar": "FIFA extends Prestianni ban to World Cup matches",
+        "en": "FIFA extends Prestianni ban to World Cup matches"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48692428/fifa-extends-uefa-ban-argentina-gianluca-prestianni-world-cup",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 6 May 2026 10:51:52 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48687101/arsenal-atletico-madrid-champions-league-semifinal-final",
+      "title": {
+        "ar": "Saka fires Arsenal to 1st UCL final in 20 years",
+        "en": "Saka fires Arsenal to 1st UCL final in 20 years"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48687101/arsenal-atletico-madrid-champions-league-semifinal-final",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 6 May 2026 10:51:52 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48688187/atletico-say-no-excuses-bowing-arsenal-ucl",
+      "title": {
+        "ar": "Simeone: 'No excuses' as Arsenal eliminate Atleti",
+        "en": "Simeone: 'No excuses' as Arsenal eliminate Atleti"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48688187/atletico-say-no-excuses-bowing-arsenal-ucl",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 6 May 2026 10:51:52 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48686582/psg-bayern-munich-champions-league-semifinal-crazy-2nd-leg",
+      "title": {
+        "ar": "PSG, Bayern expecting another 'crazy' UCL clash",
+        "en": "PSG, Bayern expecting another 'crazy' UCL clash"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48686582/psg-bayern-munich-champions-league-semifinal-crazy-2nd-leg",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 6 May 2026 10:51:52 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48691545/neymar-apologies-robinho-jr-slap-part-game",
+      "title": {
+        "ar": "Neymar sorry for Robinho Jr. slap: 'Part of game'",
+        "en": "Neymar sorry for Robinho Jr. slap: 'Part of game'"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48691545/neymar-apologies-robinho-jr-slap-part-game",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 6 May 2026 10:51:52 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48109229/tracking-europe-top-soccer-leagues-2025-26-title-races-champions-league-relegation-premier-league-laliga-bundesliga",
+      "title": {
+        "ar": "👀What's at stake across Europe's top leagues?",
+        "en": "👀What's at stake across Europe's top leagues?"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48109229/tracking-europe-top-soccer-leagues-2025-26-title-races-champions-league-relegation-premier-league-laliga-bundesliga",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 6 May 2026 10:51:52 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48680386/the-usmnt-goalkeeper-problem-2026-world-cup",
+      "title": {
+        "ar": "The USMNT's weakness for the 2026 World Cup might ...",
+        "en": "The USMNT's weakness for the 2026 World Cup might ..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48680386/the-usmnt-goalkeeper-problem-2026-world-cup",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 6 May 2026 10:51:47 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48678489/uefa-champions-league-semifinal-live-updates-bayern-munich-host-paris-saint-germain",
+      "title": {
+        "ar": "Champions League semifinal live updates: Bayern Mu...",
+        "en": "Champions League semifinal live updates: Bayern Mu..."
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48678489/uefa-champions-league-semifinal-live-updates-bayern-munich-host-paris-saint-germain",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 6 May 2026 09:10:18 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/45022423/barcelona-vs-real-madrid-all-best-worst-clasico-kits",
+      "title": {
+        "ar": "Clásico kits: Barcelona, Real Madrid's all-time be...",
+        "en": "Clásico kits: Barcelona, Real Madrid's all-time be..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/45022423/barcelona-vs-real-madrid-all-best-worst-clasico-kits",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 6 May 2026 08:07:19 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48681496/should-liverpool-sack-slot-weighing-arguments-against",
+      "title": {
+        "ar": "Should Liverpool sack Arne Slot? Weighing the argu...",
+        "en": "Should Liverpool sack Arne Slot? Weighing the argu..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48681496/should-liverpool-sack-slot-weighing-arguments-against",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 5 May 2026 15:36:59 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48678912/why-champions-league-tell-us-much-premier-league",
+      "title": {
+        "ar": "Why the Champions League tells us nothing about the Premier League",
+        "en": "Why the Champions League tells us nothing about the Premier League"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48678912/why-champions-league-tell-us-much-premier-league",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 5 May 2026 08:52:23 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13540295/chelsea-blues-need-manager-with-premier-league-experience-and-leaders-on-the-pitch-to-emerge-from-rock-bottom-reporter-notebook",
       "title": {
