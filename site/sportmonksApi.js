@@ -59,6 +59,7 @@ async function smFetch(path) {
 }
 
 // Normalize a Sportmonks fixture → Hadaf internal shape
+// If the fixture was fetched with include=round, f.round.name is populated.
 function normalizeSmFixture(f) {
   const home = (f.participants || []).find(p => p.meta?.location === 'home') || {};
   const away = (f.participants || []).find(p => p.meta?.location === 'away') || {};
@@ -106,7 +107,8 @@ function normalizeSmFixture(f) {
     state,
     minute: null,   // Sportmonks free tier doesn't include live minutes
     time: timeStr,
-    startTs: startUtc ? startUtc.getTime() : 0,
+    startTs:   startUtc ? startUtc.getTime() : 0,
+    roundName: f.round?.name || null,
   };
 }
 
@@ -165,4 +167,37 @@ async function getSmLiveFixtures() {
   );
 }
 
-window.HadafSportmonks = { getSmFixturesByDate, getSmLiveFixtures, SM_LEAGUE_META };
+/**
+ * Get fixtures for a league between two dates, grouped by round name.
+ * Great for knockout brackets (UCL, etc.).
+ * Returns { [roundName]: fixture[] } sorted by start time within each round.
+ * @param {number} leagueId  - Sportmonks league ID (e.g. 2 for UCL)
+ * @param {string} fromDate  - YYYY-MM-DD
+ * @param {string} toDate    - YYYY-MM-DD
+ */
+async function getSmLeagueFixtures(leagueId, fromDate, toDate) {
+  return window.HadafCache.cachedFetch(
+    `sm:league:${leagueId}:${fromDate}:${toDate}`,
+    30 * 60 * 1000, // 30 min — knockout fixtures don't change often
+    async () => {
+      const data = await smFetch(
+        `/fixtures/between/${fromDate}/${toDate}?filters[league_id]=${leagueId}&include=participants;scores;league;state;round&per_page=150`
+      );
+      const fixtures = (data.data || []).map(normalizeSmFixture);
+
+      const byRound = {};
+      for (const f of fixtures) {
+        const key = f.roundName || 'Unknown';
+        if (!byRound[key]) byRound[key] = [];
+        byRound[key].push(f);
+      }
+      for (const key of Object.keys(byRound)) {
+        byRound[key].sort((a, b) => a.startTs - b.startTs);
+      }
+      return byRound;
+    },
+    'sportmonks'
+  );
+}
+
+window.HadafSportmonks = { getSmFixturesByDate, getSmLiveFixtures, getSmLeagueFixtures, SM_LEAGUE_META };

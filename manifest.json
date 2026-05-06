@@ -1,0 +1,53 @@
+{
+  "name": "هدف | Hadaf",
+  "short_name": "هدف",
+  "description": "أخبار كرة القدم السعودية والعالمية، نتائج مباشرة، وترتيب الدوري.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/hadaf-design-system/",
+  "scope": "/hadaf-design-system/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0E5C3A",
+  "theme_color": "#0E5C3A",
+  "categories": ["news", "sports"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='32' fill='%230E5C3A'/%3E%3Ctext x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial,sans-serif' font-weight='900' font-size='120' fill='%23D4A437'%3E%D9%87%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='80' fill='%230E5C3A'/%3E%3Ctext x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial,sans-serif' font-weight='900' font-size='320' fill='%23D4A437'%3E%D9%87%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/imagery/stadium-night.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Hadaf home page"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "النتائج",
+      "short_name": "نتائج",
+      "description": "نتائج ومباريات اليوم",
+      "url": "/hadaf-design-system/#scores",
+      "icons": [{ "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'%3E%3Crect width='96' height='96' fill='%230E5C3A'/%3E%3Ctext x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial' font-size='60' fill='white'%3EN%3C/text%3E%3C/svg%3E", "sizes": "96x96" }]
+    },
+    {
+      "name": "دوري روشن",
+      "short_name": "الدوري",
+      "description": "ترتيب دوري روشن السعودي",
+      "url": "/hadaf-design-system/#league",
+      "icons": [{ "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'%3E%3Crect width='96' height='96' fill='%230E5C3A'/%3E%3Ctext x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial' font-size='60' fill='white'%3EL%3C/text%3E%3C/svg%3E", "sizes": "96x96" }]
+    }
+  ]
+}

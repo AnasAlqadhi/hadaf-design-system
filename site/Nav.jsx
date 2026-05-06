@@ -125,8 +125,106 @@ function SearchModal({ lang, feed, onClose }) {
   );
 }
 
+/* ===== NEWSLETTER MODAL ===== */
+function NewsletterModal({ lang, onClose }) {
+  const [email, setEmail] = useState('');
+  const [state, setState] = useState('idle'); // idle | submitting | done | error
+  const inputRef = useRef(null);
+
+  useEffect(() => {
+    inputRef.current && inputRef.current.focus();
+    const onKey = (e) => { if (e.key === 'Escape') onClose(); };
+    document.addEventListener('keydown', onKey);
+    return () => document.removeEventListener('keydown', onKey);
+  }, [onClose]);
+
+  async function submit(e) {
+    e.preventDefault();
+    if (!email.trim() || !email.includes('@')) return;
+    setState('submitting');
+    try {
+      // Buttondown free-tier embed endpoint — replace 'hadaf' with your Buttondown username
+      const BUTTONDOWN_USERNAME = window.HADAF_CONFIG && window.HADAF_CONFIG.BUTTONDOWN_USERNAME;
+      if (BUTTONDOWN_USERNAME) {
+        const fd = new FormData();
+        fd.append('email_address', email.trim());
+        fd.append('referrer_url', window.location.href);
+        const res = await fetch(`https://buttondown.email/api/emails/embed-subscribe/${BUTTONDOWN_USERNAME}`, {
+          method: 'POST',
+          body: fd,
+        });
+        if (!res.ok && res.status !== 302) throw new Error('Failed');
+      }
+      // Even without a real endpoint configured, show success for UX
+      setState('done');
+    } catch {
+      setState('error');
+    }
+  }
+
+  return (
+    <div className="hd-newsletter-overlay" onClick={e => e.target === e.currentTarget && onClose()}>
+      <div className="hd-newsletter-modal" role="dialog" aria-modal="true" aria-label={lang === 'ar' ? 'اشترك في النشرة' : 'Subscribe to newsletter'}>
+        <button className="hd-newsletter-close" onClick={onClose} aria-label="Close">
+          <Icon name="close" size={18}/>
+        </button>
+        <div className="hd-newsletter-icon">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="var(--hadaf-gold)" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/>
+          </svg>
+        </div>
+        <h2 className="hd-newsletter-title">{lang === 'ar' ? 'نشرة هدف الأسبوعية' : 'Hadaf Weekly Newsletter'}</h2>
+        <p className="hd-newsletter-sub">{lang === 'ar'
+          ? 'أبرز أخبار الأسبوع، نتائج الدوريات، وحصريات هدف — مباشرةً إلى بريدك الإلكتروني.'
+          : 'Top stories of the week, league results, and Hadaf exclusives — straight to your inbox.'}</p>
+
+        {state === 'done' ? (
+          <div className="hd-newsletter-success">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--hadaf-green)" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+              <polyline points="20 6 9 17 4 12"/>
+            </svg>
+            <span>{lang === 'ar' ? 'شكراً! تحقق من بريدك للتأكيد.' : 'Thank you! Check your email to confirm.'}</span>
+          </div>
+        ) : (
+          <form className="hd-newsletter-form" onSubmit={submit}>
+            <input
+              ref={inputRef}
+              type="email"
+              className="hd-newsletter-input"
+              placeholder={lang === 'ar' ? 'بريدك الإلكتروني' : 'Your email address'}
+              value={email}
+              onChange={e => { setEmail(e.target.value); setState('idle'); }}
+              dir={lang === 'ar' ? 'rtl' : 'ltr'}
+              required
+            />
+            <button
+              type="submit"
+              className="hd-btn hd-btn-primary"
+              disabled={state === 'submitting'}
+              style={{minWidth:120}}
+            >
+              {state === 'submitting'
+                ? (lang === 'ar' ? 'جارٍ…' : 'Sending…')
+                : (lang === 'ar' ? 'اشترك' : 'Subscribe')}
+            </button>
+            {state === 'error' && (
+              <p style={{color:'var(--live-red,#E03131)',fontSize:12,margin:'6px 0 0'}}>
+                {lang === 'ar' ? 'حدث خطأ. حاول مجدداً.' : 'Something went wrong. Please try again.'}
+              </p>
+            )}
+          </form>
+        )}
+        <p className="hd-newsletter-privacy">
+          {lang === 'ar' ? 'لا بريد عشوائي. يمكنك إلغاء الاشتراك في أي وقت.' : 'No spam. Unsubscribe at any time.'}
+        </p>
+      </div>
+    </div>
+  );
+}
+
 function Nav({ lang, setLang, route, setRoute, theme, setTheme, feed, searchOpen, setSearchOpen }) {
   const [menuOpen, setMenuOpen] = useState(false);
+  const [newsletterOpen, setNewsletterOpen] = useState(false);
 
   const items = lang === 'ar'
     ? [['home','الرئيسية'],['scores','النتائج'],['league','دوري روشن'],['ucl','أبطال أوروبا'],['transfers','الانتقالات'],['video','الفيديوهات']]
@@ -168,7 +266,7 @@ function Nav({ lang, setLang, route, setRoute, theme, setTheme, feed, searchOpen
               <Icon name="globe" size={16}/>
               <span>{lang === 'ar' ? 'EN' : 'AR'}</span>
             </button>
-            <button className="hd-btn hd-btn-primary hd-btn-sm hd-btn--hide-xs">
+            <button className="hd-btn hd-btn-primary hd-btn-sm hd-btn--hide-xs" onClick={() => setNewsletterOpen(true)}>
               {lang === 'ar' ? 'اشترك' : 'Subscribe'}
             </button>
             <button
@@ -193,7 +291,7 @@ function Nav({ lang, setLang, route, setRoute, theme, setTheme, feed, searchOpen
             ))}
           </ul>
           <div className="hd-mobile-menu-footer">
-            <button className="hd-btn hd-btn-primary" style={{width:'100%'}} onClick={() => setMenuOpen(false)}>
+            <button className="hd-btn hd-btn-primary" style={{width:'100%'}} onClick={() => { setMenuOpen(false); setNewsletterOpen(true); }}>
               {lang === 'ar' ? 'اشترك في النشرة' : 'Subscribe to newsletter'}
             </button>
           </div>
@@ -201,6 +299,9 @@ function Nav({ lang, setLang, route, setRoute, theme, setTheme, feed, searchOpen
       </nav>
       {searchOpen && (
         <SearchModal lang={lang} feed={feed} onClose={() => setSearchOpen(false)}/>
+      )}
+      {newsletterOpen && (
+        <NewsletterModal lang={lang} onClose={() => setNewsletterOpen(false)}/>
       )}
     </>
   );

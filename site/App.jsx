@@ -1,8 +1,35 @@
 /* global React, HdNav, HdHero, HdMatchCard, HdArticleCard, HdLeagueTable,
           HdLiveTicker, HdBreakingBar, HdAdSlot, HdFooter, HdIcon,
           HdScoresView, HadafNews, HadafSportmonks, HdMostRead, HdSkeleton,
-          HdMatchDayCard, HdAdmin */
+          HdMatchDayCard, HdAdmin, HadafVideoApi */
 const { useState, useEffect, useRef, useCallback } = React;
+
+/* ===== HASH ROUTING HELPERS ===== */
+const HASH_TO_ROUTE = {
+  '':            'home',
+  '#':           'home',
+  '#home':       'home',
+  '#scores':     'scores',
+  '#league':     'league',
+  '#ucl':        'ucl',
+  '#transfers':  'transfers',
+  '#video':      'video',
+  '#wc':         'wc',
+  '#admin':      'admin',
+  '#article':    'article',
+};
+const ROUTE_TO_HASH = {
+  home:      '#home',
+  scores:    '#scores',
+  league:    '#league',
+  ucl:       '#ucl',
+  transfers: '#transfers',
+  video:     '#video',
+  wc:        '#wc',
+  admin:     '#admin',
+  article:   '#article',
+};
+function hashToRoute(hash) { return HASH_TO_ROUTE[hash] || 'home'; }
 
 /* ===== TEAM REGISTRY ===== */
 const TEAMS = {
@@ -529,7 +556,61 @@ function LeagueView({ lang, setRoute }) {
 }
 
 /* ===== UCL PAGE ===== */
+const UCL_LEAGUE_ID = 2; // Sportmonks league ID for UEFA Champions League
+
 function UCLView({ lang }) {
+  const [rounds, setRounds] = useState(null); // null = not yet fetched
+  const [uclLoading, setUclLoading] = useState(false);
+
+  useEffect(() => {
+    const smKey = window.HADAF_CONFIG && window.HADAF_CONFIG.SPORTMONKS_KEY;
+    if (!smKey || typeof HadafSportmonks === 'undefined') return;
+    setUclLoading(true);
+    // Fetch the knockout phase — typically Jan → Jun for the current season
+    const now   = new Date();
+    const year  = now.getFullYear();
+    const from  = `${year}-01-01`;
+    const to    = `${year}-07-01`;
+    HadafSportmonks.getSmLeagueFixtures(UCL_LEAGUE_ID, from, to)
+      .then(byRound => {
+        if (byRound && Object.keys(byRound).length) setRounds(byRound);
+      })
+      .catch(() => {})
+      .finally(() => setUclLoading(false));
+  }, []);
+
+  // Convert live Sportmonks rounds → UCL_GROUPS-compatible shape
+  function buildLiveGroups() {
+    if (!rounds) return UCL_GROUPS;
+    const groups = [];
+    for (const [roundName, fixtures] of Object.entries(rounds)) {
+      for (const f of fixtures) {
+        const homeScore = f.scoreHome !== null ? f.scoreHome : null;
+        const awayScore = f.scoreAway !== null ? f.scoreAway : null;
+        let winner = null;
+        if (homeScore !== null && awayScore !== null) {
+          if (homeScore > awayScore) winner = 'home';
+          else if (awayScore > homeScore) winner = 'away';
+          else winner = 'draw';
+        }
+        groups.push({
+          round: roundName,
+          leg:   f.time || '',
+          home:  { name: f.home.name.en || f.home.name.ar, crest: f.home.logo || 'assets/crests/team-blue.svg' },
+          away:  { name: f.away.name.en || f.away.name.ar, crest: f.away.logo || 'assets/crests/team-yellow.svg' },
+          homeScore,
+          awayScore,
+          winner,
+          status: f.status,
+        });
+      }
+    }
+    return groups.length ? groups : UCL_GROUPS;
+  }
+
+  const liveGroups  = buildLiveGroups();
+  const roundNames  = rounds ? Object.keys(rounds) : ['QF', 'SF'];
+
   return (
     <div className="hd-container">
       <div className="hd-comp-page-header">
@@ -561,55 +642,41 @@ function UCLView({ lang }) {
 
       <div className="hd-grid-main">
         <main className="hd-main">
-          <div className="hd-bracket-section">
-            <div className="hd-bracket-title">{lang === 'ar' ? 'ربع النهائي' : 'Quarter-Finals'}</div>
-            <div className="hd-knockout-round">
-              {UCL_GROUPS.filter(g => g.round === 'QF').map((g, i) => (
-                <div key={i} className="hd-ko-tie">
-                  <div className="hd-ko-tie-header">{g.leg}</div>
-                  <div className={`hd-ko-team${g.winner === 'home' ? ' is-winner' : ''}`}>
-                    <div className="hd-ko-team-name">
-                      <img className="hd-ko-team-crest" src={g.home.crest} alt=""/>
-                      <span>{g.home.name}</span>
-                    </div>
-                    <span className="hd-ko-score">{g.homeScore !== null ? g.homeScore : '–'}</span>
-                  </div>
-                  <div className={`hd-ko-team${g.winner === 'away' ? ' is-winner' : ''}`}>
-                    <div className="hd-ko-team-name">
-                      <img className="hd-ko-team-crest" src={g.away.crest} alt=""/>
-                      <span>{g.away.name}</span>
-                    </div>
-                    <span className="hd-ko-score">{g.awayScore !== null ? g.awayScore : '–'}</span>
-                  </div>
-                </div>
-              ))}
+          {uclLoading && (
+            <div style={{padding:'24px 0',color:'var(--fg-3)',fontSize:13,textAlign:'center'}}>
+              {lang === 'ar' ? 'جارٍ تحميل مباريات دوري الأبطال…' : 'Loading Champions League fixtures…'}
             </div>
-          </div>
-
-          <div className="hd-bracket-section">
-            <div className="hd-bracket-title">{lang === 'ar' ? 'نصف النهائي' : 'Semi-Finals'}</div>
-            <div className="hd-knockout-round">
-              {UCL_GROUPS.filter(g => g.round === 'SF').map((g, i) => (
-                <div key={i} className="hd-ko-tie">
-                  <div className="hd-ko-tie-header">{g.leg}</div>
-                  <div className="hd-ko-team">
-                    <div className="hd-ko-team-name">
-                      <img className="hd-ko-team-crest" src={g.home.crest} alt=""/>
-                      <span>{g.home.name}</span>
+          )}
+          {/* Render one bracket section per round name */}
+          {(rounds ? Object.entries(rounds) : [['QF', UCL_GROUPS.filter(g=>g.round==='QF')], ['SF', UCL_GROUPS.filter(g=>g.round==='SF')]]).map(([roundName, fixtures]) => {
+            const items = rounds ? buildLiveGroups().filter(g => g.round === roundName) : fixtures;
+            return (
+              <div key={roundName} className="hd-bracket-section">
+                <div className="hd-bracket-title">{roundName}</div>
+                <div className="hd-knockout-round">
+                  {items.map((g, i) => (
+                    <div key={i} className="hd-ko-tie">
+                      {g.leg && <div className="hd-ko-tie-header">{g.leg}</div>}
+                      <div className={`hd-ko-team${g.winner === 'home' ? ' is-winner' : ''}${g.status === 'live' ? ' is-live' : ''}`}>
+                        <div className="hd-ko-team-name">
+                          <img className="hd-ko-team-crest" src={g.home.crest} alt="" onError={e => { e.target.style.display='none'; }}/>
+                          <span>{g.home.name}</span>
+                        </div>
+                        <span className="hd-ko-score">{g.homeScore !== null ? g.homeScore : '–'}</span>
+                      </div>
+                      <div className={`hd-ko-team${g.winner === 'away' ? ' is-winner' : ''}${g.status === 'live' ? ' is-live' : ''}`}>
+                        <div className="hd-ko-team-name">
+                          <img className="hd-ko-team-crest" src={g.away.crest} alt="" onError={e => { e.target.style.display='none'; }}/>
+                          <span>{g.away.name}</span>
+                        </div>
+                        <span className="hd-ko-score">{g.awayScore !== null ? g.awayScore : '–'}</span>
+                      </div>
                     </div>
-                    <span className="hd-ko-score" style={{color:'var(--fg-3)'}}>–</span>
-                  </div>
-                  <div className="hd-ko-team">
-                    <div className="hd-ko-team-name">
-                      <img className="hd-ko-team-crest" src={g.away.crest} alt=""/>
-                      <span>{g.away.name}</span>
-                    </div>
-                    <span className="hd-ko-score" style={{color:'var(--fg-3)'}}>–</span>
-                  </div>
+                  ))}
                 </div>
-              ))}
-            </div>
-          </div>
+              </div>
+            );
+          })}
         </main>
         <aside className="hd-aside">
           <HdAdSlot size="300x250"/>
@@ -675,6 +742,37 @@ function TransfersView({ lang }) {
 
 /* ===== VIDEO PAGE ===== */
 function VideoView({ lang }) {
+  const [videos, setVideos] = useState(VIDEOS);
+  const [loadingVid, setLoadingVid] = useState(false);
+  const [playingId, setPlayingId] = useState(null);
+
+  useEffect(() => {
+    const ytKey = window.HADAF_CONFIG && window.HADAF_CONFIG.YOUTUBE_KEY;
+    const ytCh  = window.HADAF_CONFIG && window.HADAF_CONFIG.YOUTUBE_CHANNEL_ID;
+    if (!ytKey || !ytCh || typeof HadafVideoApi === 'undefined') return;
+    setLoadingVid(true);
+    HadafVideoApi.getChannelVideos(ytCh, 12)
+      .then(items => {
+        if (!items.length) return;
+        setVideos(items.map(v => ({
+          title:   { ar: v.title, en: v.title },
+          thumb:   v.thumbnail,
+          duration:'',
+          views:   { ar: v.channelTitle, en: v.channelTitle },
+          videoId: v.videoId,
+          url:     v.url,
+          embedUrl:v.embedUrl,
+        })));
+      })
+      .catch(() => {})
+      .finally(() => setLoadingVid(false));
+  }, []);
+
+  function openVideo(v) {
+    if (v.videoId) setPlayingId(v.videoId);
+    else if (v.url) window.open(v.url, '_blank', 'noopener,noreferrer');
+  }
+
   return (
     <div className="hd-container" style={{paddingTop:'var(--sp-6)',paddingBottom:'var(--sp-8)'}}>
       <div className="hd-page-head">
@@ -684,23 +782,23 @@ function VideoView({ lang }) {
           : 'Match highlights, best goals, and tactical breakdowns.'}</p>
       </div>
       <div className="hd-video-grid" style={{marginTop:24}}>
-        {VIDEOS.map((v, i) => (
-          <div key={i} className="hd-video-card">
+        {videos.map((v, i) => (
+          <div key={i} className="hd-video-card" onClick={() => openVideo(v)} style={{cursor:'pointer'}}>
             <img className="hd-video-thumb" src={v.thumb} alt=""/>
             <div className="hd-video-play">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" stroke="none">
                 <path d="m9 8 6 4-6 4z"/>
               </svg>
             </div>
-            <div className="hd-video-duration">{v.duration}</div>
+            {v.duration && <div className="hd-video-duration">{v.duration}</div>}
             <div className="hd-video-info">
               <div className="hd-video-title">{t(v.title, lang)}</div>
               <div className="hd-video-meta">{t(v.views, lang)}</div>
             </div>
           </div>
         ))}
-        {/* Placeholder cards */}
-        {[0,1,2].map(i => (
+        {/* Coming-soon placeholders when we have fewer than 6 real videos */}
+        {videos.length < 6 && [0,1,2].slice(0, 6 - videos.length).map(i => (
           <div key={'ph'+i} className="hd-video-card" style={{background:'var(--card-bg)',border:'1px solid var(--border)'}}>
             <div style={{aspectRatio:'16/9',display:'flex',alignItems:'center',justifyContent:'center',flexDirection:'column',gap:8,color:'var(--fg-3)'}}>
               <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
@@ -711,6 +809,26 @@ function VideoView({ lang }) {
           </div>
         ))}
       </div>
+
+      {/* YouTube embed modal */}
+      {playingId && (
+        <div className="hd-video-overlay" onClick={() => setPlayingId(null)}>
+          <div className="hd-video-modal" onClick={e => e.stopPropagation()}>
+            <button className="hd-video-modal-close" onClick={() => setPlayingId(null)} aria-label="Close">
+              <HdIcon name="close" size={22}/>
+            </button>
+            <div className="hd-video-modal-frame">
+              <iframe
+                src={`https://www.youtube.com/embed/${playingId}?autoplay=1&rel=0`}
+                title="YouTube video"
+                allow="autoplay; encrypted-media; fullscreen"
+                allowFullScreen
+                style={{border:0,width:'100%',height:'100%'}}
+              />
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
@@ -784,6 +902,25 @@ function WorldCupView({ lang }) {
   );
 }
 
+/* ===== TWITTER EMBED ===== */
+function TweetEmbed({ url, lang }) {
+  const ref = useRef(null);
+  useEffect(() => {
+    if (!ref.current) return;
+    // twttr.widgets is injected by twitter widget.js loaded in index.html
+    if (window.twttr && window.twttr.widgets) {
+      window.twttr.widgets.load(ref.current);
+    }
+  }, [url]);
+  return (
+    <div ref={ref} style={{margin:'16px 0'}}>
+      <blockquote className="twitter-tweet" data-lang={lang}>
+        <a href={url}>{url}</a>
+      </blockquote>
+    </div>
+  );
+}
+
 /* ===== ARTICLE VIEW ===== */
 function ArticleView({ lang, article, setRoute }) {
   if (!article) { setRoute('home'); return null; }
@@ -791,6 +928,8 @@ function ArticleView({ lang, article, setRoute }) {
   const kicker  = t(article.kicker, lang);
   const body    = article.body ? t(article.body, lang) : null;
   const excerpt = typeof article.excerpt === 'string' ? article.excerpt : (article.excerpt && article.excerpt[lang]) || '';
+
+  const isTweet = article.url && /^https?:\/\/(twitter\.com|x\.com)\//.test(article.url);
 
   return (
     <article className="hd-article-page">
@@ -834,7 +973,8 @@ function ArticleView({ lang, article, setRoute }) {
           {body && body.slice(0, 1).map((p, i) => (
             <p key={'r'+i} className="hd-article-p">{p}</p>
           ))}
-          {article.url && (
+          {isTweet && <TweetEmbed url={article.url} lang={lang}/>}
+          {article.url && !isTweet && (
             <div style={{marginTop:24}}>
               <a href={article.url} target="_blank" rel="noopener noreferrer" className="hd-btn hd-btn-primary">
                 {lang === 'ar' ? 'قراءة المصدر الأصلي ←' : 'Read original source →'}
@@ -880,7 +1020,8 @@ function BottomNav({ lang, route, setRoute }) {
 /* ===== ROOT APP ===== */
 function App() {
   const [lang, setLang]         = useState('ar');
-  const [route, setRoute]       = useState('home');
+  // Initialise route from URL hash so bookmarks / direct links work
+  const [route, setRoute]       = useState(() => hashToRoute(window.location.hash));
   const [article, setArticle]   = useState(null);
   const [theme, setTheme]       = useState('default');
   const [searchOpen, setSearchOpen] = useState(false);
@@ -905,17 +1046,30 @@ function App() {
     setTheme(savedTheme);
   }, []);
 
-  // Hash-based route hook for #admin (kept off the main nav so visitors don't see it)
+  // Push hash to URL whenever route changes (enables bookmarks & share)
+  const skipHashPush = useRef(false);
   useEffect(() => {
-    const sync = () => {
-      if (window.location.hash === '#admin') setRoute('admin');
+    if (skipHashPush.current) { skipHashPush.current = false; return; }
+    const hash = ROUTE_TO_HASH[route] || '#home';
+    if (window.location.hash !== hash) {
+      history.pushState({ route }, '', hash);
+    }
+  }, [route]);
+
+  // Sync route from browser back/forward
+  useEffect(() => {
+    const onPop = (e) => {
+      const r = hashToRoute(window.location.hash);
+      skipHashPush.current = true;
+      setRoute(r);
     };
-    sync();
-    window.addEventListener('hashchange', sync);
-    return () => window.removeEventListener('hashchange', sync);
+    window.addEventListener('popstate', onPop);
+    return () => window.removeEventListener('popstate', onPop);
   }, []);
 
   const openArticle = (a) => { setArticle(a); setRoute('article'); window.scrollTo(0, 0); };
+  // Convenience wrapper so child components can navigate without importing setRoute
+  const navigate = useCallback((r) => setRoute(r), []);
 
   // Admin route is full-screen — hide nav/footer/bottom-nav
   if (route === 'admin') {

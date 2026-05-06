@@ -9,6 +9,9 @@
 <meta name="robots" content="index, follow">
 <meta name="theme-color" content="#0E5C3A">
 
+<!-- PWA manifest -->
+<link rel="manifest" href="manifest.json">
+
 <!-- Open Graph (Facebook, WhatsApp, LinkedIn) -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="هدف | Hadaf">
@@ -59,6 +62,12 @@
 
 <link rel="stylesheet" href="colors_and_type.css">
 <link rel="stylesheet" href="site/styles.css">
+
+<!-- Plausible analytics (privacy-friendly, no cookies) — replace data-domain if using a custom domain -->
+<script defer data-domain="anasalqadhi.github.io" src="https://plausible.io/js/script.js"></script>
+
+<!-- Twitter / X widget — loaded once, used by TweetEmbed component -->
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <style>
   /* Tiny ribbon to jump to the design system */
   .hd-ds-ribbon{position:fixed;inset-inline-end:16px;inset-block-end:16px;z-index:80;background:var(--ink);color:var(--paper);padding:10px 14px;border-radius:999px;font-family:var(--font-mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;box-shadow:var(--shadow-2);border:1px solid var(--ink-3);transition:transform .15s ease,background .15s ease}
@@ -87,14 +96,25 @@
 <script type="text/babel" src="site/LeagueTable.jsx"></script>
 <script type="text/babel" src="site/Bits.jsx"></script>
 <script>
-  // Override by creating site/config.js locally with your real key
+  // Override via site/config.js (never commit real keys).
+  // Supported keys: API_FOOTBALL_KEY, SPORTMONKS_KEY,
+  //                 YOUTUBE_KEY, YOUTUBE_CHANNEL_ID,
+  //                 BUTTONDOWN_USERNAME
   window.HADAF_CONFIG = window.HADAF_CONFIG || { API_FOOTBALL_KEY: '' };
+
+  // Register service worker for offline support / PWA
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('sw.js').catch(() => {});
+    });
+  }
 </script>
 <script src="site/config.js" onerror="console.warn('config.js not found — API features disabled')"></script>
 <script src="site/cache.js"></script>
 <script src="site/api.js"></script>
 <script src="site/sportmonksApi.js"></script>
 <script src="site/newsApi.js"></script>
+<script src="site/videoApi.js"></script>
 <script src="site/articleStore.js"></script>
 <script type="text/babel" src="site/ScoresView.jsx"></script>
 <script type="text/babel" src="site/Admin.jsx"></script>

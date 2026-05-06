@@ -180,16 +180,25 @@ function ManageRssTab({ feed, overrides, setOverrides, lang }) {
 // --- Editor: Custom articles tab ---
 function emptyCustom() {
   return {
-    id: 'custom-' + Date.now(),
-    title:   { ar: '', en: '' },
-    kicker:  { ar: 'هدف', en: 'Hadaf' },
-    image:   '',
-    excerpt: { ar: '', en: '' },
-    body:    { ar: [''], en: [''] },
-    pubDate: new Date().toISOString(),
-    featured: false,
-    hidden: false,
+    id:        'custom-' + Date.now(),
+    title:     { ar: '', en: '' },
+    kicker:    { ar: 'هدف', en: 'Hadaf' },
+    image:     '',
+    excerpt:   { ar: '', en: '' },
+    body:      { ar: [''], en: [''] },
+    pubDate:   new Date().toISOString(),
+    publishAt: '',   // ISO string; empty = publish immediately on next deploy
+    featured:  false,
+    hidden:    false,
   };
+}
+
+// Convert an ISO string to the value required by <input type="datetime-local">
+function isoToDatetimeLocal(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (isNaN(d)) return '';
+  return d.toISOString().slice(0, 16); // "YYYY-MM-DDTHH:MM"
 }
 
 function CustomTab({ overrides, setOverrides, lang }) {
@@ -301,6 +310,21 @@ function CustomTab({ overrides, setOverrides, lang }) {
             onChange={e => setEditing({...editing, body:{...editing.body, en:e.target.value.split('\n')}})}
             className="hd-admin-input" rows={6}
           />
+        </label>
+
+        <label className="hd-admin-field" style={{marginTop:8}}>
+          <span>{lang === 'ar' ? 'جدولة النشر (اختياري)' : 'Schedule publish (optional)'}</span>
+          <input
+            type="datetime-local"
+            value={isoToDatetimeLocal(editing.publishAt)}
+            onChange={e => setEditing({...editing, publishAt: e.target.value ? new Date(e.target.value).toISOString() : ''})}
+            className="hd-admin-input"
+          />
+          <small style={{opacity:0.7,marginTop:4,display:'block'}}>
+            {lang === 'ar'
+              ? 'اتركه فارغاً للنشر الفوري عند التحديث.'
+              : 'Leave blank to publish immediately on next deploy.'}
+          </small>
         </label>
 
         <label className="hd-admin-checkbox" style={{marginTop:8}}>
