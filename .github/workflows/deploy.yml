@@ -62,7 +62,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to feed.json — skipping commit"
           else
-            ARTICLE_COUNT=$(node -e "import('./data/feed.json', {assert:{type:'json'}}).then(m=>console.log(m.default.count))")
+            ARTICLE_COUNT=$(node -e "import('./data/feed.json', {with:{type:'json'}}).then(m=>console.log(m.default.count))")
             git commit -m "chore(data): auto-update feed.json [${ARTICLE_COUNT} articles] [skip ci]"
             git pull --rebase origin main
             git push
