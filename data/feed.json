@@ -1,8 +1,358 @@
 {
   "version": 2,
-  "updated": "2026-05-07T08:43:18.436Z",
-  "count": 27,
+  "updated": "2026-05-07T14:30:54.600Z",
+  "count": 41,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": {
+        "ar": "Chelsea latest: McFarlane responds to Carra's 'broken club' comments",
+        "en": "Chelsea latest: McFarlane responds to Carra's 'broken club' comments"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-premier-league-chelsea_7227885.jpg?20260423071903",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 04 May 2026 15:50:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13541073/kylian-mbappe-qa-why-have-over-30m-real-madrid-fans-signed-petition-for-strikers-exit",
+      "title": {
+        "ar": "Mbappe Q&A: Why have over 30m Real Madrid 'fans' signed petition for striker's exit?",
+        "en": "Mbappe Q&A: Why have over 30m Real Madrid 'fans' signed petition for striker's exit?"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/24/06/1920x1080/skysports-mbappe-real-madrid_6572497.jpg?20240603185821",
+      "url": "https://www.skysports.com/football/news/12040/13541073/kylian-mbappe-qa-why-have-over-30m-real-madrid-fans-signed-petition-for-strikers-exit",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 07 May 2026 13:57:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13540433/middlesbrough-vs-southampton-championship-semi-final-preview-neither-side-are-capable-of-playing-safe-football",
+      "title": {
+        "ar": "Middlesbrough vs Southampton: 'Neither side are capable of playing safe football'",
+        "en": "Middlesbrough vs Southampton: 'Neither side are capable of playing safe football'"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-middlesbrough-southampton_7240517.jpg?20260506131825",
+      "url": "https://www.skysports.com/football/news/12040/13540433/middlesbrough-vs-southampton-championship-semi-final-preview-neither-side-are-capable-of-playing-safe-football",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 07 May 2026 14:07:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13540987/psg-vs-arsenal-sky-sports-writers-select-combined-line-ups-ahead-of-champions-league-final-in-budapest",
+      "title": {
+        "ar": "Dembele or Saka? Gabriel misses out? Sky Sports' combined PSG and Arsenal XI",
+        "en": "Dembele or Saka? Gabriel misses out? Sky Sports' combined PSG and Arsenal XI"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-champions-league_7241235.jpg?20260507105139",
+      "url": "https://www.skysports.com/football/news/12040/13540987/psg-vs-arsenal-sky-sports-writers-select-combined-line-ups-ahead-of-champions-league-final-in-budapest",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 07 May 2026 10:02:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+      "title": {
+        "ar": "WSL latest: Chelsea and NWSL teams interested in Shaw",
+        "en": "WSL latest: Chelsea and NWSL teams interested in Shaw"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-wsl-womens-super-league_7199006.jpg?20260321124305",
+      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 07 May 2026 11:16:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48701397/fifa-drop-panini-world-cup-deal-fanatics-2031",
+      "title": {
+        "ar": "FIFA drops Panini, signs Fanatics for '31 WCup",
+        "en": "FIFA drops Panini, signs Fanatics for '31 WCup"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48701397/fifa-drop-panini-world-cup-deal-fanatics-2031",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 7 May 2026 10:08:14 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48700998/harry-kane-psg-favourites-arsenal-champions-league-final",
+      "title": {
+        "ar": "Kane: PSG 'favorites' against Arsenal in final",
+        "en": "Kane: PSG 'favorites' against Arsenal in final"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48700998/harry-kane-psg-favourites-arsenal-champions-league-final",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 7 May 2026 10:08:14 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48697127/paris-saint-germain-backs-best-team-world-talk",
+      "title": {
+        "ar": "Total recall: PSG backs up best team in world talk...",
+        "en": "Total recall: PSG backs up best team in world talk..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48697127/paris-saint-germain-backs-best-team-world-talk",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 7 May 2026 10:08:14 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48696372/fifa-president-gianni-infantino-2026-world-cup-ticket-prices-usa",
+      "title": {
+        "ar": "FIFA prez: WC tickets priced at U.S. market rate",
+        "en": "FIFA prez: WC tickets priced at U.S. market rate"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48696372/fifa-president-gianni-infantino-2026-world-cup-ticket-prices-usa",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 7 May 2026 10:08:14 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48694417/clasico-barcelona-real-madrid-combined-xi-lamine-yamal-kylian-mbappe",
+      "title": {
+        "ar": "Clásico combined XI: With no Yamal or Mbappé, who'...",
+        "en": "Clásico combined XI: With no Yamal or Mbappé, who'..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48694417/clasico-barcelona-real-madrid-combined-xi-lamine-yamal-kylian-mbappe",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 7 May 2026 09:50:12 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/worldcup/story/_/id/48686530/world-cup-hassles-expenses",
+      "title": {
+        "ar": "Fans question whether World Cup is worth the hassle",
+        "en": "Fans question whether World Cup is worth the hassle"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/worldcup/story/_/id/48686530/world-cup-hassles-expenses",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 7 May 2026 07:02:02 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48696551/paris-saint-germain-bayern-munich-champions-league-reaction-analysis-mark-ogden",
+      "title": {
+        "ar": "PSG are on brink of greatness if they can win Cham...",
+        "en": "PSG are on brink of greatness if they can win Cham..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48696551/paris-saint-germain-bayern-munich-champions-league-reaction-analysis-mark-ogden",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 7 May 2026 06:47:39 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48696218/var-review-bayern-munich-paris-saint-germain-penalized-apparent-handball-champions-league",
+      "title": {
+        "ar": "VAR review: Why weren't PSG penalized for apparent...",
+        "en": "VAR review: Why weren't PSG penalized for apparent..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48696218/var-review-bayern-munich-paris-saint-germain-penalized-apparent-handball-champions-league",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 7 May 2026 06:47:39 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48529852/the-story-how-manchester-city-won-wsl-season",
+      "title": {
+        "ar": "The inside story of how Manchester City won the WS...",
+        "en": "The inside story of how Manchester City won the WS..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48529852/the-story-how-manchester-city-won-wsl-season",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 6 May 2026 19:49:57 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13540913/psg-vs-arsenal-the-dismantling-of-bayern-munich-by-french-champions-is-a-champions-league-final-warning-for-mikel-arteta",
       "title": {
