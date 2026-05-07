@@ -1,8 +1,108 @@
 {
   "version": 2,
-  "updated": "2026-05-06T19:54:40.739Z",
-  "count": 23,
+  "updated": "2026-05-07T03:43:05.310Z",
+  "count": 27,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13540913/psg-vs-arsenal-the-dismantling-of-bayern-munich-by-french-champions-is-a-champions-league-final-warning-for-mikel-arteta",
+      "title": {
+        "ar": "Arsenal beware - PSG don't look like giving up their crown...",
+        "en": "Arsenal beware - PSG don't look like giving up their crown..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-psg-arsenal_7240988.jpg?20260506225912",
+      "url": "https://www.skysports.com/football/news/12040/13540913/psg-vs-arsenal-the-dismantling-of-bayern-munich-by-french-champions-is-a-champions-league-final-warning-for-mikel-arteta",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 06 May 2026 23:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13540905/mikel-arteta-contract-arsenal-set-to-hold-talks-with-manager-over-new-deal-this-summer-paper-talk",
+      "title": {
+        "ar": "Papers: Arsenal set to hold contract talks with Arteta",
+        "en": "Papers: Arsenal set to hold contract talks with Arteta"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "url": "https://www.skysports.com/football/news/12040/13540905/mikel-arteta-contract-arsenal-set-to-hold-talks-with-manager-over-new-deal-this-summer-paper-talk",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 06 May 2026 22:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/bayern-munich-vs-paris-saint-germain/report/554948",
+      "title": {
+        "ar": "PSG knock out Bayern to set up Champions League final with Arsenal",
+        "en": "PSG knock out Bayern to set up Champions League final with Arsenal"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-psg-bayern_7240937.jpg?20260506214047",
+      "url": "https://www.skysports.com/football/bayern-munich-vs-paris-saint-germain/report/554948",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 06 May 2026 22:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/brighton-and-hove-albion-women-vs-arsenal-women/report/545695",
+      "title": {
+        "ar": "Arsenal draw at Brighton to hand Man City WSL title",
+        "en": "Arsenal draw at Brighton to hand Man City WSL title"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arsenal-mariona-caldentey_7240964.jpg?20260506220449",
+      "url": "https://www.skysports.com/football/brighton-and-hove-albion-women-vs-arsenal-women/report/545695",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 06 May 2026 21:45:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/darts/news/12040/13540484/premier-league-darts-luke-humphries-relishes-adrenaline-amid-return-to-contention-for-spot-in-o2-final",
       "title": {
