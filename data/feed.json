@@ -1,8 +1,108 @@
 {
   "version": 2,
-  "updated": "2026-05-08T14:04:18.787Z",
-  "count": 58,
+  "updated": "2026-05-08T19:27:39.836Z",
+  "count": 62,
   "articles": [
+    {
+      "id": "https://www.skysports.com/watch/video/13541559/explained-how-nine-engish-clubs-could-qualify-for-europe-next-season",
+      "title": {
+        "ar": "How NINE English clubs could qualify for Europe next season!",
+        "en": "How NINE English clubs could qualify for Europe next season!"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-table_7242698.jpg?20260508151854",
+      "url": "https://www.skysports.com/watch/video/13541559/explained-how-nine-engish-clubs-could-qualify-for-europe-next-season",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 08 May 2026 15:09:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13541561/mikel-arteta-arsenal-boss-responds-to-celebration-police-over-champions-league-celebrations-after-wayne-rooney-dig",
+      "title": {
+        "ar": "Arteta: I will put criticism of Arsenal's celebrations where it belongs",
+        "en": "Arteta: I will put criticism of Arsenal's celebrations where it belongs"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arteta-arsenal-mikel_7242738.jpg?20260508161837",
+      "url": "https://www.skysports.com/football/news/12040/13541561/mikel-arteta-arsenal-boss-responds-to-celebration-police-over-champions-league-celebrations-after-wayne-rooney-dig",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 08 May 2026 15:08:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13541579/real-madrid-aurelien-tchouameni-and-federico-valverde-fined-for-training-ground-fight-following-investigation",
+      "title": {
+        "ar": "Real Madrid team-mates fined for training ground fight",
+        "en": "Real Madrid team-mates fined for training ground fight"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-aurelien-tchouameni_7241660.jpg?20260507181106",
+      "url": "https://www.skysports.com/football/news/12040/13541579/real-madrid-aurelien-tchouameni-and-federico-valverde-fined-for-training-ground-fight-following-investigation",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 08 May 2026 16:18:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13541489/fwa-footballer-of-the-year-2025-26-man-utd-midfielder-bruno-fernandes-and-man-city-striker-khadija-shaw-claim-awards",
+      "title": {
+        "ar": "Fernandes and Shaw win FWA Footballer of the Year awards",
+        "en": "Fernandes and Shaw win FWA Footballer of the Year awards"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-fwa-footballer-of-the-year_7242563.jpg?20260508132621",
+      "url": "https://www.skysports.com/football/news/12040/13541489/fwa-footballer-of-the-year-2025-26-man-utd-midfielder-bruno-fernandes-and-man-city-striker-khadija-shaw-claim-awards",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 08 May 2026 18:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13541070/bukayo-saka-returning-to-top-form-for-trophy-chasing-arsenal-thanks-in-part-to-ben-whites-service-the-radar",
       "title": {
