@@ -1,8 +1,108 @@
 {
   "version": 2,
-  "updated": "2026-05-07T19:48:40.114Z",
-  "count": 45,
+  "updated": "2026-05-08T03:36:46.100Z",
+  "count": 49,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/aston-villa-vs-nottingham-forest/report/554962",
+      "title": {
+        "ar": "Villa blow Forest away to reach Europa League final",
+        "en": "Villa blow Forest away to reach Europa League final"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ollie-watkins-villa_7241786.jpg?20260507204809",
+      "url": "https://www.skysports.com/football/aston-villa-vs-nottingham-forest/report/554962",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 07 May 2026 22:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/crystal-palace-vs-shakhtar-donetsk/report/554961",
+      "title": {
+        "ar": "Palace beat Shakhtar to book spot in first European final",
+        "en": "Palace beat Shakhtar to book spot in first European final"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-sarr-lacroix-palace_7241797.jpg?20260507211918",
+      "url": "https://www.skysports.com/football/crystal-palace-vs-shakhtar-donetsk/report/554961",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 07 May 2026 22:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13541072/explained-why-real-madrid-fans-wante-kylian-mbappe-out-of-the-club",
+      "title": {
+        "ar": "Why have Real Madrid fans started a petition to get rid of Mbappe?",
+        "en": "Why have Real Madrid fans started a petition to get rid of Mbappe?"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-kylian-mbappe-real_7241413.jpg?20260507142750",
+      "url": "https://www.skysports.com/watch/video/13541072/explained-why-real-madrid-fans-wante-kylian-mbappe-out-of-the-club",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 07 May 2026 14:19:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13541240/anthony-gordon-transfer-news-bayern-munich-open-talks-with-newcastle-for-england-international-over-potential-summer-move",
+      "title": {
+        "ar": "Bayern Munich open talks over Gordon move",
+        "en": "Bayern Munich open talks over Gordon move"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-anthony-gordon-newcastle_7191162.jpg?20260313114832",
+      "url": "https://www.skysports.com/football/news/12040/13541240/anthony-gordon-transfer-news-bayern-munich-open-talks-with-newcastle-for-england-international-over-potential-summer-move",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 07 May 2026 21:05:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/darts/live-blog/12040/13541182/premier-league-darts-in-leeds-live-updates-scores-results-from-night-14-with-luke-littler-luke-humphries-in-action",
       "title": {
