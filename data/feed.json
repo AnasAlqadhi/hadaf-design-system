@@ -1,8 +1,58 @@
 {
   "version": 2,
-  "updated": "2026-05-08T07:49:40.067Z",
-  "count": 56,
+  "updated": "2026-05-08T14:04:18.787Z",
+  "count": 58,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13541070/bukayo-saka-returning-to-top-form-for-trophy-chasing-arsenal-thanks-in-part-to-ben-whites-service-the-radar",
+      "title": {
+        "ar": "Has White unlocked Saka for Arsenal?",
+        "en": "Has White unlocked Saka for Arsenal?"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ben-white-bukayo_7242470.jpg?20260508112040",
+      "url": "https://www.skysports.com/football/news/12040/13541070/bukayo-saka-returning-to-top-form-for-trophy-chasing-arsenal-thanks-in-part-to-ben-whites-service-the-radar",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 07 May 2026 14:05:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13541451/danny-r246hl-rangers-head-coach-insists-full-focus-is-on-ibrox-club-and-rebuild-amid-bundesliga-links",
+      "title": {
+        "ar": "'My full focus is on Rangers' | Röhl on Ibrox future amid Bundesliga links",
+        "en": "'My full focus is on Rangers' | Röhl on Ibrox future amid Bundesliga links"
+      },
+      "kicker": {
+        "ar": "البوندسليغا",
+        "en": "Bundesliga"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-rangers-danny-rohl_7242402.jpg?20260508102442",
+      "url": "https://www.skysports.com/football/news/12040/13541451/danny-r246hl-rangers-head-coach-insists-full-focus-is-on-ibrox-club-and-rebuild-amid-bundesliga-links",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 08 May 2026 10:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.bbc.com/arabic/articles/c98r4v74zzgo?at_medium=RSS&at_campaign=rss",
       "title": {
