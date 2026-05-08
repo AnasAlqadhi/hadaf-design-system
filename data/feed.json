@@ -1,8 +1,183 @@
 {
   "version": 2,
-  "updated": "2026-05-08T03:36:46.100Z",
-  "count": 49,
+  "updated": "2026-05-08T07:49:40.067Z",
+  "count": 56,
   "articles": [
+    {
+      "id": "https://www.bbc.com/arabic/articles/c98r4v74zzgo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "مفوضة أوروبية ترفض إرغام اللاجئين السوريين على العودة، وتؤكد أهمية استقرار الشرق الأوسط لازدهار الاتحاد الأوروبي",
+        "en": "مفوضة أوروبية ترفض إرغام اللاجئين السوريين على العودة، وتؤكد أهمية استقرار الشرق الأوسط لازدهار الاتحاد الأوروبي"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7143/live/7c4f8410-4a49-11f1-9cf8-9bf0cf6f692d.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c98r4v74zzgo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Fri, 08 May 2026 06:44:36 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48707727/fifa-triples-best-available-world-cup-final-ticket-33k",
+      "title": {
+        "ar": "Amid backlash, FIFA lists WC final tickets at $33K...",
+        "en": "Amid backlash, FIFA lists WC final tickets at $33K..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48707727/fifa-triples-best-available-world-cup-final-ticket-33k",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 7 May 2026 22:16:11 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48705294/felix-hat-trick-al-nassr-ronaldo-5-point-lead",
+      "title": {
+        "ar": "Félix hat trick helps Al Nassr restore 5-point lea...",
+        "en": "Félix hat trick helps Al Nassr restore 5-point lea..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48705294/felix-hat-trick-al-nassr-ronaldo-5-point-lead",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 7 May 2026 22:16:11 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48704747/liverpool-scales-back-plans-ticket-price-increases-protests-fans",
+      "title": {
+        "ar": "Liverpool freeze ticket prices after fan protest",
+        "en": "Liverpool freeze ticket prices after fan protest"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48704747/liverpool-scales-back-plans-ticket-price-increases-protests-fans",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 7 May 2026 22:16:11 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/report/_/gameId/401862910",
+      "title": {
+        "ar": "Villa trounce Forest to reach Europa League final",
+        "en": "Villa trounce Forest to reach Europa League final"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401862910",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 7 May 2026 22:16:10 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48702097/champions-league-final-psg-arsenal-predictions-odds-analysis-more",
+      "title": {
+        "ar": "Champions League final: Predictions, odds, how the...",
+        "en": "Champions League final: Predictions, odds, how the..."
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48702097/champions-league-final-psg-arsenal-predictions-odds-analysis-more",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 7 May 2026 21:23:47 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48703911/fifa-world-cup-fever-hits-us-christian-pulisic-graces-cover-magazine",
+      "title": {
+        "ar": "World Cup fever hits U.S. as Pulisic graces cover ...",
+        "en": "World Cup fever hits U.S. as Pulisic graces cover ..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48703911/fifa-world-cup-fever-hits-us-christian-pulisic-graces-cover-magazine",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 7 May 2026 17:53:58 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/aston-villa-vs-nottingham-forest/report/554962",
       "title": {
