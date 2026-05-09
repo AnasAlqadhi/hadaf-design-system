@@ -1,8 +1,433 @@
 {
   "version": 2,
-  "updated": "2026-05-09T13:39:19.112Z",
-  "count": 65,
+  "updated": "2026-05-09T19:12:36.159Z",
+  "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/live-blog/12040/13509951/netball-super-league-2026-fixtures-results-dates-free-streams-and-podcasts-as-london-pulse-defend-title",
+      "title": {
+        "ar": "Netball Super League: Manchester Thunder beat London Pulse to go second",
+        "en": "Netball Super League: Manchester Thunder beat London Pulse to go second"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/02/1920x1080/skysports-netball-netball-super-league_7175436.jpg?20260226100215",
+      "url": "https://www.skysports.com/live-blog/12040/13509951/netball-super-league-2026-fixtures-results-dates-free-streams-and-podcasts-as-london-pulse-defend-title",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 09 May 2026 20:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/falkirk-vs-hibernian/report/555743",
+      "title": {
+        "ar": "Campbell scores twice on return as Hibernian beat Falkirk to boost Euro hopes",
+        "en": "Campbell scores twice on return as Hibernian beat Falkirk to boost Euro hopes"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-josh-campbell-hibernian_7243735.jpg?20260509173730",
+      "url": "https://www.skysports.com/football/falkirk-vs-hibernian/report/555743",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 09 May 2026 16:50:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/fulham-vs-bournemouth/report/531482",
+      "title": {
+        "ar": "Bournemouth close in on European place with crucial win at Fulham",
+        "en": "Bournemouth close in on European place with crucial win at Fulham"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-rayan-bournemouth_7243621.jpg?20260509162249",
+      "url": "https://www.skysports.com/football/fulham-vs-bournemouth/report/531482",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 09 May 2026 12:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/manchester-city-vs-brentford/report/531484",
+      "title": {
+        "ar": "Man City beat Brentford to move two points behind Arsenal",
+        "en": "Man City beat Brentford to move two points behind Arsenal"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-jeremy-doku-antoine-semenyo_7243865.jpg?20260509190125",
+      "url": "https://www.skysports.com/football/manchester-city-vs-brentford/report/531484",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 09 May 2026 12:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": {
+        "ar": "Liverpool latest: We don't deserve Anfield boos, says Gravenberch",
+        "en": "Liverpool latest: We don't deserve Anfield boos, says Gravenberch"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-liverpool-news-club_7039258.jpg?20251002160409",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 09 May 2026 17:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/report/_/gameId/740951",
+      "title": {
+        "ar": "Doku inspires 3-0 City win to cut Arsenal's PL lea...",
+        "en": "Doku inspires 3-0 City win to cut Arsenal's PL lea..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/report/_/gameId/740951",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 9 May 2026 14:42:22 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48721300/arne-slot-liverpool-boos-chelsea-draw-win-back-fans",
+      "title": {
+        "ar": "Slot on Liverpool boos: I can win back fans",
+        "en": "Slot on Liverpool boos: I can win back fans"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48721300/arne-slot-liverpool-boos-chelsea-draw-win-back-fans",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 9 May 2026 14:42:22 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48720318/barcelona-real-madrid-hansi-flick-el-clasico",
+      "title": {
+        "ar": "Flick praises 'special atmosphere' at Barcelona",
+        "en": "Flick praises 'special atmosphere' at Barcelona"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48720318/barcelona-real-madrid-hansi-flick-el-clasico",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 9 May 2026 14:42:22 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48721138/vinicius-junior-kylian-mbappe-barcelona-josep-bartomeu-talks",
+      "title": {
+        "ar": "Vinicius and Mbappé at Barça? Bartomeu on talks",
+        "en": "Vinicius and Mbappé at Barça? Bartomeu on talks"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48721138/vinicius-junior-kylian-mbappe-barcelona-josep-bartomeu-talks",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 9 May 2026 14:42:22 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48716793/katy-perry-headline-us-world-cup-opening-ceremony",
+      "title": {
+        "ar": "Katy Perry to headline U.S. World Cup opener",
+        "en": "Katy Perry to headline U.S. World Cup opener"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48716793/katy-perry-headline-us-world-cup-opening-ceremony",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 9 May 2026 14:42:22 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+      "title": {
+        "ar": "🤕Injury tracker: Who will miss 2026 World Cup?",
+        "en": "🤕Injury tracker: Who will miss 2026 World Cup?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 9 May 2026 14:42:22 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/match/_/gameId/761611/inter-miami-cf-toronto-fc",
+      "title": {
+        "ar": "Follow live: Messi, Miami face road test at Toront...",
+        "en": "Follow live: Messi, Miami face road test at Toront..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/match/_/gameId/761611/inter-miami-cf-toronto-fc",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 9 May 2026 13:17:06 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/cq6p7n6mne2o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "بوتين يهاجم الناتو خلال احتفالات \"محدودة\" بيوم النصر",
+        "en": "بوتين يهاجم الناتو خلال احتفالات \"محدودة\" بيوم النصر"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/52cb/live/6548ad80-4bbd-11f1-9fc1-69bab7136531.jpg",
+      "url": "https://www.bbc.com/arabic/articles/cq6p7n6mne2o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sat, 09 May 2026 17:06:58 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48720758/anfield-losing-patience-liverpool-slot-chelsea-snap-streak",
+      "title": {
+        "ar": "Anfield losing patience with Liverpool's Slot, whi...",
+        "en": "Anfield losing patience with Liverpool's Slot, whi..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48720758/anfield-losing-patience-liverpool-slot-chelsea-snap-streak",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 9 May 2026 11:11:33 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48704622/premier-league-live-updates-liverpool-chelsea-sunderland-manchester-united-manchester-city-brentford",
+      "title": {
+        "ar": "Premier League live updates: Liverpool host misfir...",
+        "en": "Premier League live updates: Liverpool host misfir..."
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48704622/premier-league-live-updates-liverpool-chelsea-sunderland-manchester-united-manchester-city-brentford",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 9 May 2026 09:59:59 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48701641/barcelona-clasico-history-la-liga-title-real-madrid-nightmare-week-tchouameni-valverde",
+      "title": {
+        "ar": "Copy of How Barcelona can make Clásico history and cap off...",
+        "en": "Copy of How Barcelona can make Clásico history and cap off..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48701641/barcelona-clasico-history-la-liga-title-real-madrid-nightmare-week-tchouameni-valverde",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 9 May 2026 06:38:52 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48705257/lamine-yamal-best-player-spain-barcelona-face-conundrum-it",
+      "title": {
+        "ar": "Teenager Lamine Yamal is among the world's best, and Barcelona face a dilemma because of it",
+        "en": "Teenager Lamine Yamal is among the world's best, and Barcelona face a dilemma because of it"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48705257/lamine-yamal-best-player-spain-barcelona-face-conundrum-it",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 9 May 2026 01:36:55 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/barcelona-vs-real-madrid/live/536306",
       "title": {
@@ -1575,56 +2000,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Wed, 06 May 2026 10:38:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13540684/aston-villa-vs-nottingham-forest-europa-league-semi-final-feels-like-competitions-final-says-paul-merson",
-      "title": {
-        "ar": "Merson: Villa vs Forest feels like Europa League final",
-        "en": "Merson: Villa vs Forest feels like Europa League final"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-europa-league-aston-villa_7240555.jpg?20260506140255",
-      "url": "https://www.skysports.com/football/news/12040/13540684/aston-villa-vs-nottingham-forest-europa-league-semi-final-feels-like-competitions-final-says-paul-merson",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 06 May 2026 11:38:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13540656/jamie-ohara-former-spurs-midfielder-questions-arsenals-route-to-the-champions-league-final",
-      "title": {
-        "ar": "'Well done... you've done nothing!' | 'Celeb Police' O'Hara questions Arsenal's CL run",
-        "en": "'Well done... you've done nothing!' | 'Celeb Police' O'Hara questions Arsenal's CL run"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-jamie-ohara-arsenal_7240361.jpg?20260506105936",
-      "url": "https://www.skysports.com/watch/video/13540656/jamie-ohara-former-spurs-midfielder-questions-arsenals-route-to-the-champions-league-final",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 06 May 2026 10:43:00 BST",
       "rewritten": false,
       "lang": "en"
     }
