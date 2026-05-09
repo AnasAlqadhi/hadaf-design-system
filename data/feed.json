@@ -1,8 +1,33 @@
 {
   "version": 2,
-  "updated": "2026-05-08T19:27:39.836Z",
-  "count": 62,
+  "updated": "2026-05-09T03:37:04.694Z",
+  "count": 63,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13541686/virgil-van-dijk-liverpool-captain-ready-to-leave-club-with-approach-from-european-club-imminent-paper-talk",
+      "title": {
+        "ar": "Papers: Van Dijk 'ready to leave' Liverpool",
+        "en": "Papers: Van Dijk 'ready to leave' Liverpool"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "url": "https://www.skysports.com/football/news/12040/13541686/virgil-van-dijk-liverpool-captain-ready-to-leave-club-with-approach-from-european-club-imminent-paper-talk",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 08 May 2026 22:15:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/watch/video/13541559/explained-how-nine-engish-clubs-could-qualify-for-europe-next-season",
       "title": {
