@@ -1,8 +1,133 @@
 {
   "version": 2,
-  "updated": "2026-05-10T13:42:03.627Z",
+  "updated": "2026-05-10T19:13:47.022Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": {
+        "ar": "Arsenal latest: Keane, Wright and Redknapp deliver verdicts on disallowed goal",
+        "en": "Arsenal latest: Keane, Wright and Redknapp deliver verdicts on disallowed goal"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-arsenal-news-club_7039237.jpg?20251002155710",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 10 May 2026 19:17:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13542470/disallowed-goal-c-wilson-905-west-ham-0-1-arsenal",
+      "title": {
+        "ar": "Goal or foul? The biggest VAR call of the Premier League era!",
+        "en": "Goal or foul? The biggest VAR call of the Premier League era!"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-raya-arsenal_7244884.jpg?20260510183139",
+      "url": "https://www.skysports.com/watch/video/13542470/disallowed-goal-c-wilson-905-west-ham-0-1-arsenal",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 10 May 2026 18:35:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13542465/goal-l-trossard-83-west-ham-0-1-arsenal",
+      "title": {
+        "ar": "MASSIVE goal! - Trossard gives Arsenal the lead late on",
+        "en": "MASSIVE goal! - Trossard gives Arsenal the lead late on"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-goal-arsenal_7244874.jpg?20260510181938",
+      "url": "https://www.skysports.com/watch/video/13542465/goal-l-trossard-83-west-ham-0-1-arsenal",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 10 May 2026 18:18:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/west-ham-united-vs-arsenal/report/531488",
+      "title": {
+        "ar": "Arsenal survive incredible late VAR drama to close in on PL title",
+        "en": "Arsenal survive incredible late VAR drama to close in on PL title"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-leandro-trossard_7244883.jpg?20260510183002",
+      "url": "https://www.skysports.com/football/west-ham-united-vs-arsenal/report/531488",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 10 May 2026 18:50:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13542483/west-ham-0-1-arsenal-premier-league-highlights",
+      "title": {
+        "ar": "Trossard gives Arsenal huge win despite late VAR controversy",
+        "en": "Trossard gives Arsenal huge win despite late VAR controversy"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-arsenal-west-ham_7244912.jpg?20260510184943",
+      "url": "https://www.skysports.com/watch/video/13542483/west-ham-0-1-arsenal-premier-league-highlights",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 10 May 2026 18:56:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/liverpool-women-vs-brighton-and-hove-albion-women/555727",
       "title": {
@@ -1875,131 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Wed, 6 May 2026 10:51:52 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48686582/psg-bayern-munich-champions-league-semifinal-crazy-2nd-leg",
-      "title": {
-        "ar": "PSG, Bayern expecting another 'crazy' UCL clash",
-        "en": "PSG, Bayern expecting another 'crazy' UCL clash"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48686582/psg-bayern-munich-champions-league-semifinal-crazy-2nd-leg",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 6 May 2026 10:51:52 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48691545/neymar-apologies-robinho-jr-slap-part-game",
-      "title": {
-        "ar": "Neymar sorry for Robinho Jr. slap: 'Part of game'",
-        "en": "Neymar sorry for Robinho Jr. slap: 'Part of game'"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48691545/neymar-apologies-robinho-jr-slap-part-game",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 6 May 2026 10:51:52 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48109229/tracking-europe-top-soccer-leagues-2025-26-title-races-champions-league-relegation-premier-league-laliga-bundesliga",
-      "title": {
-        "ar": "👀What's at stake across Europe's top leagues?",
-        "en": "👀What's at stake across Europe's top leagues?"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48109229/tracking-europe-top-soccer-leagues-2025-26-title-races-champions-league-relegation-premier-league-laliga-bundesliga",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 6 May 2026 10:51:52 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48680386/the-usmnt-goalkeeper-problem-2026-world-cup",
-      "title": {
-        "ar": "The USMNT's weakness for the 2026 World Cup might ...",
-        "en": "The USMNT's weakness for the 2026 World Cup might ..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48680386/the-usmnt-goalkeeper-problem-2026-world-cup",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 6 May 2026 10:51:47 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48678489/uefa-champions-league-semifinal-live-updates-bayern-munich-host-paris-saint-germain",
-      "title": {
-        "ar": "Champions League semifinal live updates: Bayern Mu...",
-        "en": "Champions League semifinal live updates: Bayern Mu..."
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48678489/uefa-champions-league-semifinal-live-updates-bayern-munich-host-paris-saint-germain",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 6 May 2026 09:10:18 EST",
       "rewritten": false,
       "lang": "en"
     }
