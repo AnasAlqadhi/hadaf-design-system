@@ -1,8 +1,133 @@
 {
   "version": 2,
-  "updated": "2026-05-10T19:13:47.022Z",
+  "updated": "2026-05-10T19:21:33.645Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48732180/cesc-fabregas-como-secure-spot-european-football-win-verona",
+      "title": {
+        "ar": "Fabregas' Como beat Verona, clinch European spot",
+        "en": "Fabregas' Como beat Verona, clinch European spot"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48732180/cesc-fabregas-como-secure-spot-european-football-win-verona",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sun, 10 May 2026 14:34:20 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/report/_/gameId/740955",
+      "title": {
+        "ar": "Arsenal near title after Trossard goal, VAR escape...",
+        "en": "Arsenal near title after Trossard goal, VAR escape..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/report/_/gameId/740955",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sun, 10 May 2026 14:34:19 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48729724/real-madrid-kylian-mbappe-miss-el-clasico-injury-barcelona-aim-title",
+      "title": {
+        "ar": "Mbappé ruled out of Clásico as Barça seek title",
+        "en": "Mbappé ruled out of Clásico as Barça seek title"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48729724/real-madrid-kylian-mbappe-miss-el-clasico-injury-barcelona-aim-title",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sun, 10 May 2026 14:34:19 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48704788/premier-league-live-updates-arsenal-face-west-ham-high-stakes-clash",
+      "title": {
+        "ar": "Premier League live updates: Arsenal face West Ham...",
+        "en": "Premier League live updates: Arsenal face West Ham..."
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48704788/premier-league-live-updates-arsenal-face-west-ham-high-stakes-clash",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sun, 10 May 2026 11:08:27 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48729140/transfer-rumors-news-real-madrid-bayern-munich-eye-man-city-gvardiol",
+      "title": {
+        "ar": "Transfer rumors, news: Real Madrid, Bayern Munich ...",
+        "en": "Transfer rumors, news: Real Madrid, Bayern Munich ..."
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48729140/transfer-rumors-news-real-madrid-bayern-munich-eye-man-city-gvardiol",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sun, 10 May 2026 05:03:57 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "title": {
@@ -1875,131 +2000,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Wed, 06 May 2026 16:40:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/brighton-and-hove-albion-women-vs-arsenal-women/live/545695",
-      "title": {
-        "ar": "Man City set to win WSL title with Arsenal behind at Brighton LIVE!",
-        "en": "Man City set to win WSL title with Arsenal behind at Brighton LIVE!"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-brighton-fuka-tsunoda_7240891.jpg?20260506204605",
-      "url": "https://www.skysports.com/football/brighton-and-hove-albion-women-vs-arsenal-women/live/545695",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 06 May 2026 19:05:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48687699/arsenal-set-sights-champions-league-glory-win-atletico",
-      "title": {
-        "ar": "Arsenal set sights on Champions League glory with ...",
-        "en": "Arsenal set sights on Champions League glory with ..."
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48687699/arsenal-set-sights-champions-league-glory-win-atletico",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 6 May 2026 10:52:03 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48692428/fifa-extends-uefa-ban-argentina-gianluca-prestianni-world-cup",
-      "title": {
-        "ar": "FIFA extends Prestianni ban to World Cup matches",
-        "en": "FIFA extends Prestianni ban to World Cup matches"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48692428/fifa-extends-uefa-ban-argentina-gianluca-prestianni-world-cup",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 6 May 2026 10:51:52 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48687101/arsenal-atletico-madrid-champions-league-semifinal-final",
-      "title": {
-        "ar": "Saka fires Arsenal to 1st UCL final in 20 years",
-        "en": "Saka fires Arsenal to 1st UCL final in 20 years"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48687101/arsenal-atletico-madrid-champions-league-semifinal-final",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 6 May 2026 10:51:52 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48688187/atletico-say-no-excuses-bowing-arsenal-ucl",
-      "title": {
-        "ar": "Simeone: 'No excuses' as Arsenal eliminate Atleti",
-        "en": "Simeone: 'No excuses' as Arsenal eliminate Atleti"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48688187/atletico-say-no-excuses-bowing-arsenal-ucl",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 6 May 2026 10:51:52 EST",
       "rewritten": false,
       "lang": "en"
     }
