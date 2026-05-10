@@ -30,17 +30,17 @@ const GEMINI_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models
 // Log key status upfront so we can see it in Actions logs
 console.log(`🔑 GEMINI_API_KEY: ${GEMINI_KEY ? `set (${GEMINI_KEY.length} chars, starts with ${GEMINI_KEY.slice(0,8)}…)` : '⚠ NOT SET'}`);
 
-const MAX_NEW_PER_RUN   = 10;  // AI rewrites per run (free tier is generous)
+const MAX_NEW_PER_RUN   = 5;   // AI rewrites per run (free tier: 15 req/min, 5s delay = safe)
 const MAX_ARTICLES_KEPT = 80;  // total articles stored in feed.json
 const MAX_AGE_DAYS      = 7;   // drop articles older than this
 
 // ─── RSS SOURCES ──────────────────────────────────────────────────────────────
 const FEEDS = [
-  { key: 'sky_en',       url: 'https://www.skysports.com/rss/12040',             name: { ar: 'سكاي سبورتس',       en: 'Sky Sports'      }, lang: 'en' },
-  { key: 'espn',         url: 'https://www.espn.com/espn/rss/soccer/news',       name: { ar: 'ESPN',               en: 'ESPN FC'         }, lang: 'en' },
-  { key: 'bbc_ar',       url: 'https://feeds.bbci.co.uk/arabic/sport/rss.xml',   name: { ar: 'BBC عربي',           en: 'BBC Arabic'      }, lang: 'ar' },
-  { key: 'aljazeera_ar', url: 'https://www.aljazeera.net/xml/rss/sports.xml',    name: { ar: 'الجزيرة الرياضية', en: 'Al Jazeera Sport' }, lang: 'ar' },
-  { key: 'goal_en',      url: 'https://www.goal.com/feeds/en/news',              name: { ar: 'Goal',               en: 'Goal.com'        }, lang: 'en' },
+  { key: 'sky_en',       url: 'https://www.skysports.com/rss/12040',                      name: { ar: 'سكاي سبورتس',       en: 'Sky Sports'      }, lang: 'en' },
+  { key: 'bbc_ar',       url: 'https://feeds.bbci.co.uk/arabic/sport/rss.xml',            name: { ar: 'BBC عربي',           en: 'BBC Arabic'      }, lang: 'ar' },
+  { key: 'espn',         url: 'https://www.espn.com/espn/rss/soccer/news',                name: { ar: 'ESPN',               en: 'ESPN FC'         }, lang: 'en' },
+  { key: 'guardian',     url: 'https://www.theguardian.com/football/rss',                 name: { ar: 'الغارديان',          en: 'The Guardian'    }, lang: 'en' },
+  { key: 'ultrasport',   url: 'https://ultrasport.com/feed/',                             name: { ar: 'الترا سبورت',        en: 'Ultra Sport'     }, lang: 'ar' },
 ];
 
 // ─── FOOTBALL FILTER ──────────────────────────────────────────────────────────
@@ -294,7 +294,7 @@ async function main() {
     const raw = allToWrite[i];
     console.log(`   ✍  [${i+1}/${allToWrite.length}] "${raw.title.slice(0, 65)}…"`);
     rewritten.push(await rewriteWithGemini(raw));
-    if (i < allToWrite.length - 1) await new Promise(r => setTimeout(r, 400));
+    if (i < allToWrite.length - 1) await new Promise(r => setTimeout(r, 5000));
   }
 
   // Retry existing fallbacks — convert stored article back to raw format
@@ -313,7 +313,7 @@ async function main() {
     console.log(`   🔄 retry [${i+1}/${toRetry.length}] "${raw.title.slice(0, 65)}…"`);
     const result = await rewriteWithGemini(raw);
     retried.set(a.id || a.url, result);
-    if (i < toRetry.length - 1) await new Promise(r => setTimeout(r, 400));
+    if (i < toRetry.length - 1) await new Promise(r => setTimeout(r, 5000));
   }
 
   // Apply retries back into existing
