@@ -1,8 +1,58 @@
 {
   "version": 2,
-  "updated": "2026-05-10T08:16:06.513Z",
+  "updated": "2026-05-10T13:42:03.627Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/liverpool-women-vs-brighton-and-hove-albion-women/555727",
+      "title": {
+        "ar": "Women's FA Cup: Brighton vs Liverpool - Latest score",
+        "en": "Women's FA Cup: Brighton vs Liverpool - Latest score"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-madison-haley-brighton_7244408.jpg?20260510135320",
+      "url": "https://www.skysports.com/football/liverpool-women-vs-brighton-and-hove-albion-women/555727",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 10 May 2026 12:10:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c202d8yl60mo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "الكلاسيكو: هل يحسم برشلونة اللقب أم يؤجل ريال مدريد احتفالات غريمه؟",
+        "en": "الكلاسيكو: هل يحسم برشلونة اللقب أم يؤجل ريال مدريد احتفالات غريمه؟"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3eaf/live/9badbbb0-4a1c-11f1-bd52-e755d604ece4.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c202d8yl60mo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sun, 10 May 2026 09:41:09 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
     {
       "id": "https://www.skysports.com/watch/video/13542135/come-on-you-irons-pep-guardiola-has-all-eyes-on-arsenals-west-ham-showdown",
       "title": {
@@ -1950,56 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Wed, 6 May 2026 09:10:18 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/45022423/barcelona-vs-real-madrid-all-best-worst-clasico-kits",
-      "title": {
-        "ar": "Clásico kits: Barcelona, Real Madrid's all-time be...",
-        "en": "Clásico kits: Barcelona, Real Madrid's all-time be..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/45022423/barcelona-vs-real-madrid-all-best-worst-clasico-kits",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 6 May 2026 08:07:19 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48681496/should-liverpool-sack-slot-weighing-arguments-against",
-      "title": {
-        "ar": "Should Liverpool sack Arne Slot? Weighing the argu...",
-        "en": "Should Liverpool sack Arne Slot? Weighing the argu..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48681496/should-liverpool-sack-slot-weighing-arguments-against",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 5 May 2026 15:36:59 EST",
       "rewritten": false,
       "lang": "en"
     }
