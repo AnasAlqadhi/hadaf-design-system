@@ -24,7 +24,7 @@ const FEED_PATH = resolve(ROOT, 'data', 'feed.json');
 const DRY_RUN   = process.argv.includes('--dry-run');
 
 const GEMINI_KEY      = process.env.GEMINI_API_KEY || '';
-const GEMINI_MODEL    = 'gemini-2.0-flash';
+const GEMINI_MODEL    = 'gemini-1.5-flash';
 const GEMINI_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_KEY}`;
 
 // Log key status upfront so we can see it in Actions logs
@@ -185,7 +185,7 @@ async function rewriteWithGemini(raw) {
 
     if (!res.ok) {
       const err = await res.text();
-      throw new Error(`Gemini ${res.status}: ${err.slice(0, 200)}`);
+      throw new Error(`Gemini ${res.status}: ${err.slice(0, 400)}`);
     }
 
     const data = await res.json();
