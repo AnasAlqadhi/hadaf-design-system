@@ -1,8 +1,283 @@
 {
   "version": 2,
-  "updated": "2026-05-11T15:26:07.327Z",
-  "count": 62,
+  "updated": "2026-05-11T19:56:56.980Z",
+  "count": 70,
   "articles": [
+    {
+      "id": "https://www.skysports.com/watch/video/13542846/paul-merson-makes-bold-prediction-on-man-utd-and-liverpool-next-season",
+      "title": {
+        "ar": "Man Utd or Liverpool: Who will finish higher next season? Merse makes BOLD prediction",
+        "en": "Man Utd or Liverpool: Who will finish higher next season? Merse makes BOLD prediction"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-football-man-utd_7245855.jpg?20260511200359",
+      "url": "https://www.skysports.com/watch/video/13542846/paul-merson-makes-bold-prediction-on-man-utd-and-liverpool-next-season",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 11 May 2026 20:01:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48739301/peter-schmeichel-arsenal-free-kick-decision-wrong-levels-west-ham",
+      "title": {
+        "ar": "Schmeichel: Arsenal call 'wrong on so many levels'...",
+        "en": "Schmeichel: Arsenal call 'wrong on so many levels'..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48739301/peter-schmeichel-arsenal-free-kick-decision-wrong-levels-west-ham",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 11 May 2026 14:49:25 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48739645/neymar-praised-santos-boss-goal-ahead-brazil-world-cup-squad-announcement",
+      "title": {
+        "ar": "'Brilliant' Neymar praised ahead of WC squad call",
+        "en": "'Brilliant' Neymar praised ahead of WC squad call"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48739645/neymar-praised-santos-boss-goal-ahead-brazil-world-cup-squad-announcement",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 11 May 2026 14:49:25 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/may/11/tottenham-v-leeds-premier-league-live",
+      "title": {
+        "ar": "Tottenham v Leeds: Premier League – live",
+        "en": "Tottenham v Leeds: Premier League – live"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p ⚽️ Premier League updates from 8pm BST br ⚽️ a href=\"https://www.theguardian.com/football/2026/may/11/antonin-kinsky-roberto-de-zerbi-spurs-premier-league-survival\" Kinsky exorcises demons after Atlético debacle /a | a href=\"mailto:simon.burnton@guardian.co.uk\" Mail Simon /a /p p strong 1 min: /strong Peeeeep! Leeds, clad all in black (well, blac",
+        "en": "p ⚽️ Premier League updates from 8pm BST br ⚽️ a href=\"https://www.theguardian.com/football/2026/may/11/antonin-kinsky-roberto-de-zerbi-spurs-premier-league-survival\" Kinsky exorcises demons after Atlético debacle /a | a href=\"mailto:simon.burnton@guardian.co.uk\" Mail Simon /a /p p strong 1 min: /strong Peeeeep! Leeds, clad all in black (well, blac"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/may/11/tottenham-v-leeds-premier-league-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 11 May 2026 19:44:53 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/may/11/millwall-v-hull-championship-playoff-semi-final-second-leg-live",
+      "title": {
+        "ar": "Millwall v Hull: Championship playoff semi-final, second leg – live",
+        "en": "Millwall v Hull: Championship playoff semi-final, second leg – live"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p ⚽️ Championship playoff updates from 8pm BST br ⚽️ a href=\"https://www.theguardian.com/football/2026/may/08/hull-millwall-championship-playoff-semi-final-match-report\" First leg match report /a | a href=\"mailto:daniel.harris.casual@guardian.co.uk\" Mail Daniel /a /p p strong The first leg saw some classic Grown Men action: /strong /p p strong And ",
+        "en": "p ⚽️ Championship playoff updates from 8pm BST br ⚽️ a href=\"https://www.theguardian.com/football/2026/may/08/hull-millwall-championship-playoff-semi-final-match-report\" First leg match report /a | a href=\"mailto:daniel.harris.casual@guardian.co.uk\" Mail Daniel /a /p p strong The first leg saw some classic Grown Men action: /strong /p p strong And "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/may/11/millwall-v-hull-championship-playoff-semi-final-second-leg-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 11 May 2026 19:41:48 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/11/premier-league-set-to-reject-extended-powers-for-var-next-season",
+      "title": {
+        "ar": "Premier League set to reject extended powers for VAR next season",
+        "en": "Premier League set to reject extended powers for VAR next season"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "ul li p VAR will rule on corners and second yellows at World Cup /p /li li p PGMO fears change will put more pressure on officials /p /li /ul p The Premier League is to reject a href=\"https://www.theguardian.com/football/2026/may/10/west-ham-var-offers-up-title-deciding-moment-for-arsenal-and-digital-mess-generation\" widening the scope of VAR /a ne",
+        "en": "ul li p VAR will rule on corners and second yellows at World Cup /p /li li p PGMO fears change will put more pressure on officials /p /li /ul p The Premier League is to reject a href=\"https://www.theguardian.com/football/2026/may/10/west-ham-var-offers-up-title-deciding-moment-for-arsenal-and-digital-mess-generation\" widening the scope of VAR /a ne"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/11/premier-league-set-to-reject-extended-powers-for-var-next-season",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 11 May 2026 18:00:01 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/11/benfica-jose-mourinho-marco-silva-real-madrid-fulham-chelsea",
+      "title": {
+        "ar": "Benfica to target Fulham’s Marco Silva if they lose José Mourinho to Real Madrid",
+        "en": "Benfica to target Fulham’s Marco Silva if they lose José Mourinho to Real Madrid"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Mourinho expected to return to Bernabéu /p /li li p Chelsea also keen on Silva, but Alonso is their first choice /p /li /ul p Benfica will target Fulham’s Marco Silva as their manager if they lose José Mourinho to Real Madrid. Mourinho is Madrid’s preferred choice and talks have taken place over the former Chelsea and Manchester United mana",
+        "en": "ul li p Mourinho expected to return to Bernabéu /p /li li p Chelsea also keen on Silva, but Alonso is their first choice /p /li /ul p Benfica will target Fulham’s Marco Silva as their manager if they lose José Mourinho to Real Madrid. Mourinho is Madrid’s preferred choice and talks have taken place over the former Chelsea and Manchester United mana"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/11/benfica-jose-mourinho-marco-silva-real-madrid-fulham-chelsea",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 11 May 2026 16:46:28 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/11/scotland-title-race-celtic-hearts",
+      "title": {
+        "ar": "Europe’s best title race is in Scotland: Explaining Hearts, Celtic and a decisive week",
+        "en": "Europe’s best title race is in Scotland: Explaining Hearts, Celtic and a decisive week"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p A traditional power and an upstart contender are leading a tense competition that could go down to the final day /p p The 12-team division splits into two groups of six for the final five matches of the season, with each team playing every other team in their group once. This creates some nail-biting tension down the stretch, as the relegation ri",
+        "en": "p A traditional power and an upstart contender are leading a tense competition that could go down to the final day /p p The 12-team division splits into two groups of six for the final five matches of the season, with each team playing every other team in their group once. This creates some nail-biting tension down the stretch, as the relegation ri"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/11/scotland-title-race-celtic-hearts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 11 May 2026 16:30:59 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/11/barcelona-la-liga-champions-hansi-flick-father-real-madrid-clasico-la-liga-title",
+      "title": {
+        "ar": "Hansi Flick turned Barcelona into a family – and runaway La Liga champions | Sid Lowe",
+        "en": "Hansi Flick turned Barcelona into a family – and runaway La Liga champions | Sid Lowe"
+      },
+      "kicker": {
+        "ar": "الليغا",
+        "en": "La Liga"
+      },
+      "excerpt": {
+        "ar": "p After learning of his father’s death on the morning of the em clásico /em , the manager watched his players respond with devotion that underlined the culture he has built /p p Early on Sunday morning Hansi Flick got a call from his mum telling him that his father had died overnight. Hansi Sr was 82 and he had been ill for some time. The day that ",
+        "en": "p After learning of his father’s death on the morning of the em clásico /em , the manager watched his players respond with devotion that underlined the culture he has built /p p Early on Sunday morning Hansi Flick got a call from his mum telling him that his father had died overnight. Hansi Sr was 82 and he had been ill for some time. The day that "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/11/barcelona-la-liga-champions-hansi-flick-father-real-madrid-clasico-la-liga-title",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 11 May 2026 15:57:58 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/11/arsenal-premier-league-football-daily-newsletter",
+      "title": {
+        "ar": "Football Daily | Arsenal emerge after being fed feet-first through the emotional wood-chipper",
+        "en": "Football Daily | Arsenal emerge after being fed feet-first through the emotional wood-chipper"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p Well, that escalated slowly. While Arsenal left it late to score their a href=\"https://www.theguardian.com/football/2026/may/10/west-ham-arsenal-premier-league-match-report\" winner against W",
+        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p Well, that escalated slowly. While Arsenal left it late to score their a href=\"https://www.theguardian.com/football/2026/may/10/west-ham-arsenal-premier-league-match-report\" winner against W"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/11/arsenal-premier-league-football-daily-newsletter",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 11 May 2026 15:01:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/11/arsenal-west-ham-premier-league-referees-var",
+      "title": {
+        "ar": "West Ham’s goal against Arsenal was correctly disallowed. The rest is just noise | Jonathan Wilson",
+        "en": "West Ham’s goal against Arsenal was correctly disallowed. The rest is just noise | Jonathan Wilson"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The Gunners’ title charge was strengthened by a goal called back, in a perfect encapsulation of what modern soccer has become /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p /li /ul p A",
+        "en": "p The Gunners’ title charge was strengthened by a goal called back, in a perfect encapsulation of what modern soccer has become /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p /li /ul p A"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/11/arsenal-west-ham-premier-league-referees-var",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 11 May 2026 15:00:59 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/cricket/news/12040/13542757/tilly-corteen-coleman-englands-18-year-old-spinner-and-her-nerves-of-steel-state-the-case-for-t20-world-cup-starting-spot",
       "title": {
@@ -825,81 +1100,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Fri, 08 May 2026 18:02:28 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
