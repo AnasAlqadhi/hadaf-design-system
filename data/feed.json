@@ -1,38 +1,38 @@
 {
   "version": 2,
-  "updated": "2026-05-11T12:15:52.904Z",
-  "count": 51,
+  "updated": "2026-05-11T15:26:07.327Z",
+  "count": 62,
   "articles": [
     {
-      "id": "https://www.espn.com/soccer/story/_/id/48739456/how-barcelona-won-laliga-how-get-even-better",
+      "id": "https://www.skysports.com/cricket/news/12040/13542757/tilly-corteen-coleman-englands-18-year-old-spinner-and-her-nerves-of-steel-state-the-case-for-t20-world-cup-starting-spot",
       "title": {
-        "ar": "How Barcelona won LaLiga, and how they can get eve...",
-        "en": "How Barcelona won LaLiga, and how they can get eve..."
+        "ar": "'Nerves of steel' - England's teen sensation states case for World Cup spot",
+        "en": "'Nerves of steel' - England's teen sensation states case for World Cup spot"
       },
       "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
+        "ar": "كأس العالم",
+        "en": "World Cup"
       },
       "excerpt": {
         "ar": "",
         "en": ""
       },
       "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48739456/how-barcelona-won-laliga-how-get-even-better",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-tilly-corteen-coleman_7245634.jpg?20260511154506",
+      "url": "https://www.skysports.com/cricket/news/12040/13542757/tilly-corteen-coleman-englands-18-year-old-spinner-and-her-nerves-of-steel-state-the-case-for-t20-world-cup-starting-spot",
       "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
       },
-      "pubDate": "Mon, 11 May 2026 06:18:49 EST",
+      "pubDate": "Mon, 11 May 2026 15:22:00 BST",
       "rewritten": false,
       "lang": "en"
     },
     {
-      "id": "https://www.espn.com/soccer/story/_/id/48732378/var-review-were-refs-right-disallow-west-ham-equalizer-vs-arsenal",
+      "id": "https://www.skysports.com/football/news/12040/13542755/jose-mourinho-portuguese-increasingly-likely-to-become-next-real-madrid-head-coach",
       "title": {
-        "ar": "VAR Review: Should West Ham equalizer vs. Arsenal ...",
-        "en": "VAR Review: Should West Ham equalizer vs. Arsenal ..."
+        "ar": "Mourinho increasingly likely to become next Real Madrid head coach",
+        "en": "Mourinho increasingly likely to become next Real Madrid head coach"
       },
       "kicker": {
         "ar": "أخبار",
@@ -43,21 +43,71 @@
         "en": ""
       },
       "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48732378/var-review-were-refs-right-disallow-west-ham-equalizer-vs-arsenal",
+      "image": "https://e0.365dm.com/19/03/1920x1080/skysports-jose-mourinho-real-madrid_4600442.jpg?20190312112729",
+      "url": "https://www.skysports.com/football/news/12040/13542755/jose-mourinho-portuguese-increasingly-likely-to-become-next-real-madrid-head-coach",
       "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
       },
-      "pubDate": "Mon, 11 May 2026 05:54:59 EST",
+      "pubDate": "Mon, 11 May 2026 15:11:00 BST",
       "rewritten": false,
       "lang": "en"
     },
     {
-      "id": "https://www.skysports.com/watch/video/13542687/xabi-alonso-andoni-iraola-and-marco-silva-on-chelsea-shortlist-as-blues-eye-new-boss",
+      "id": "https://www.skysports.com/cricket/news/12040/13542686/womens-t20-world-cup-2026-squads-england-scotland-ireland-australia-india-new-zealand-and-more",
       "title": {
-        "ar": "Alonso, Iraola and Silva on Chelsea shortlist as search for new manager steps up",
-        "en": "Alonso, Iraola and Silva on Chelsea shortlist as search for new manager steps up"
+        "ar": "Women's T20 World Cup squads: Scotland join England in naming squad",
+        "en": "Women's T20 World Cup squads: Scotland join England in naming squad"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-kathryn-bryce-scotland_7245550.jpg?20260511130827",
+      "url": "https://www.skysports.com/cricket/news/12040/13542686/womens-t20-world-cup-2026-squads-england-scotland-ireland-australia-india-new-zealand-and-more",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 11 May 2026 12:07:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/darts/news/12040/13542699/world-cup-of-darts-luke-littler-and-luke-humphries-lead-team-england-gerwyn-price-absent-from-june-tournament",
+      "title": {
+        "ar": "Littler, Humphries to combine for World Cup of Darts again; Price absent",
+        "en": "Littler, Humphries to combine for World Cup of Darts again; Price absent"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-darts-pdc-pdc-world-cup_7245621.jpg?20260511152557",
+      "url": "https://www.skysports.com/darts/news/12040/13542699/world-cup-of-darts-luke-littler-and-luke-humphries-lead-team-england-gerwyn-price-absent-from-june-tournament",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 11 May 2026 15:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13542624/beth-mead",
+      "title": {
+        "ar": "Mead to leave Arsenal at end of season",
+        "en": "Mead to leave Arsenal at end of season"
       },
       "kicker": {
         "ar": "أخبار",
@@ -68,63 +118,88 @@
         "en": ""
       },
       "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-chelsea-alonso-iraola_7245514.jpg?20260511122644",
-      "url": "https://www.skysports.com/watch/video/13542687/xabi-alonso-andoni-iraola-and-marco-silva-on-chelsea-shortlist-as-blues-eye-new-boss",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-beth-mead-arsenal_7201206.jpg?20260323162154",
+      "url": "https://www.skysports.com/football/news/12040/13542624/beth-mead",
       "source": {
         "ar": "سكاي سبورتس",
         "en": "Sky Sports"
       },
-      "pubDate": "Mon, 11 May 2026 12:13:00 BST",
+      "pubDate": "Mon, 11 May 2026 14:00:00 BST",
       "rewritten": false,
       "lang": "en"
     },
     {
-      "id": "https://www.skysports.com/football/news/12040/13542619/premier-league-has-a-clear-and-obvious-problem-with-how-referees-and-vars-penalise-grappling-and-holding-but-what-can-be-done",
+      "id": "https://www.theguardian.com/football/video/2026/may/11/arsenal-edge-closer-to-title-and-spygate-overshadows-playoffs-football-weekly-video",
       "title": {
-        "ar": "Premier League has clear and obvious problem with holding - what can be done?",
-        "en": "Premier League has clear and obvious problem with holding - what can be done?"
+        "ar": "Arsenal edge closer to title and ‘spygate’ overshadows playoffs | Football Weekly video",
+        "en": "Arsenal edge closer to title and ‘spygate’ overshadows playoffs | Football Weekly video"
       },
       "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
+        "ar": "أخبار",
+        "en": "Football"
       },
       "excerpt": {
-        "ar": "",
-        "en": ""
+        "ar": "p Max Rushden is joined by Barry Glendenning, Robyn Cowen and Philippe Auclair to discuss all the weekend’s football /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1 /p p /p p On today’s pod: Arsenal are two wins from the title after a dramatic late VAR call denies West Ham an injury",
+        "en": "p Max Rushden is joined by Barry Glendenning, Robyn Cowen and Philippe Auclair to discuss all the weekend’s football /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1 /p p /p p On today’s pod: Arsenal are two wins from the title after a dramatic late VAR call denies West Ham an injury"
       },
       "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-west-ham_7245467.jpg?20260511114357",
-      "url": "https://www.skysports.com/football/news/12040/13542619/premier-league-has-a-clear-and-obvious-problem-with-how-referees-and-vars-penalise-grappling-and-holding-but-what-can-be-done",
+      "image": "",
+      "url": "https://www.theguardian.com/football/video/2026/may/11/arsenal-edge-closer-to-title-and-spygate-overshadows-playoffs-football-weekly-video",
       "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
+        "ar": "الغارديان",
+        "en": "The Guardian"
       },
-      "pubDate": "Mon, 11 May 2026 07:35:00 BST",
+      "pubDate": "Mon, 11 May 2026 13:23:19 GMT",
       "rewritten": false,
       "lang": "en"
     },
     {
-      "id": "https://www.skysports.com/watch/video/13542573/barcelona-2-0-real-madrid-la-liga-highlights",
+      "id": "https://www.theguardian.com/football/2026/may/11/beth-mead-to-leave-arsenal-women",
       "title": {
-        "ar": "Rashford SCREAMER helps Barcelona to LaLiga title in El Clasico",
-        "en": "Rashford SCREAMER helps Barcelona to LaLiga title in El Clasico"
+        "ar": "Beth Mead to leave Arsenal this summer after nine trophy-laden years",
+        "en": "Beth Mead to leave Arsenal this summer after nine trophy-laden years"
       },
       "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
+        "ar": "أخبار",
+        "en": "Football"
       },
       "excerpt": {
-        "ar": "",
-        "en": ""
+        "ar": "ul li p England forward has played key role in several title wins /p /li li p ‘Beth is such a special person and will always be welcome’ /p /li /ul p Beth Mead will leave Arsenal after nine years when her contract expires this summer. The England forward has made 265 appearances and scored 86 goals since joining from Sunderland, winning a href=\"htt",
+        "en": "ul li p England forward has played key role in several title wins /p /li li p ‘Beth is such a special person and will always be welcome’ /p /li /ul p Beth Mead will leave Arsenal after nine years when her contract expires this summer. The England forward has made 265 appearances and scored 86 goals since joining from Sunderland, winning a href=\"htt"
       },
       "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-football-barcelona_7245168.jpg?20260510224340",
-      "url": "https://www.skysports.com/watch/video/13542573/barcelona-2-0-real-madrid-la-liga-highlights",
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/11/beth-mead-to-leave-arsenal-women",
       "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
+        "ar": "الغارديان",
+        "en": "The Guardian"
       },
-      "pubDate": "Sun, 10 May 2026 22:42:00 BST",
+      "pubDate": "Mon, 11 May 2026 13:00:55 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/11/bundesliga-managerial-carousel-ready-to-spin-before-dramatic-final-day",
+      "title": {
+        "ar": "Bundesliga’s managerial carousel ready to spin before dramatic penultimate day | Andy Brassell",
+        "en": "Bundesliga’s managerial carousel ready to spin before dramatic penultimate day | Andy Brassell"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p Bayer Leverkusen and Eintracht Frankfurt among teams facing a nervy Saturday with their managers precariously placed /p p Not the end, perhaps, but certainly the denouement. After the penultimate weekend of the Bundesliga season some big issues remain open; the confirmation of the fourth team to qualify for the Champions League, the two teams to ",
+        "en": "p Bayer Leverkusen and Eintracht Frankfurt among teams facing a nervy Saturday with their managers precariously placed /p p Not the end, perhaps, but certainly the denouement. After the penultimate weekend of the Bundesliga season some big issues remain open; the confirmation of the fourth team to qualify for the Champions League, the two teams to "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/11/bundesliga-managerial-carousel-ready-to-spin-before-dramatic-final-day",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 11 May 2026 12:43:05 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -179,6 +254,31 @@
       "lang": "en"
     },
     {
+      "id": "https://www.espn.com/soccer/story/_/id/48739456/how-barcelona-won-laliga-how-get-even-better",
+      "title": {
+        "ar": "How Barcelona won LaLiga, and how they can get eve...",
+        "en": "How Barcelona won LaLiga, and how they can get eve..."
+      },
+      "kicker": {
+        "ar": "الليغا",
+        "en": "La Liga"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48739456/how-barcelona-won-laliga-how-get-even-better",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 11 May 2026 06:18:49 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
       "id": "https://www.theguardian.com/football/2026/may/11/mls-weekend-wrap-new-england-revolution-james-rodriguez-minnesota-united",
       "title": {
         "ar": "New England’s Revolution are a surprise contender: MLS weekend wrap",
@@ -229,6 +329,31 @@
       "lang": "en"
     },
     {
+      "id": "https://www.espn.com/soccer/story/_/id/48732378/var-review-were-refs-right-disallow-west-ham-equalizer-vs-arsenal",
+      "title": {
+        "ar": "VAR Review: Should West Ham equalizer vs. Arsenal ...",
+        "en": "VAR Review: Should West Ham equalizer vs. Arsenal ..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48732378/var-review-were-refs-right-disallow-west-ham-equalizer-vs-arsenal",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 11 May 2026 05:54:59 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
       "id": "https://www.theguardian.com/football/2026/may/11/world-cup-2026-ticket-prices-fifa-sport-politics",
       "title": {
         "ar": "Soaring World Cup ticket prices for players’ families and guests leave several FAs stunned",
@@ -275,81 +400,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Mon, 11 May 2026 09:45:37 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/09/into-the-ronaldo-verse-sludge-of-content-is-eating-up-sport-and-the-adults-are-to-blame",
-      "title": {
-        "ar": "Into the Ronaldo-verse: sludge of content is eating up sport and the adults are to blame | Barney Ronay",
-        "en": "Into the Ronaldo-verse: sludge of content is eating up sport and the adults are to blame | Barney Ronay"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Footballer has 664 million followers but his boring presence is a reminder of how reel-life destroys what it touches /p p Buy the backpack airlines hate. Fawn strangely at a child athlete. This TV presenter drank olive oil for a month and absolutely nothing happened. The streets (no actual streets involved) won’t forget (robots can’t forget) Paul",
-        "en": "p Footballer has 664 million followers but his boring presence is a reminder of how reel-life destroys what it touches /p p Buy the backpack airlines hate. Fawn strangely at a child athlete. This TV presenter drank olive oil for a month and absolutely nothing happened. The streets (no actual streets involved) won’t forget (robots can’t forget) Paul"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/09/into-the-ronaldo-verse-sludge-of-content-is-eating-up-sport-and-the-adults-are-to-blame",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 09 May 2026 07:00:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/08/brighton-fran-kirby-fa-cup-semi-final-liverpool",
-      "title": {
-        "ar": "Brighton’s Fran Kirby: ‘Instead of running around like a headless chicken, I stand and assess’",
-        "en": "Brighton’s Fran Kirby: ‘Instead of running around like a headless chicken, I stand and assess’"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Former Chelsea forward is thriving on the south coast and targeting victory over Liverpool in the Women’s FA Cup /p p Fran Kirby knows what she brings. She always has. The Brighton forward is not young for a footballer but, at 32, she’s not old either and, injury free, is reminding people she still has it. “I know I am not the same player that I ",
-        "en": "p Former Chelsea forward is thriving on the south coast and targeting victory over Liverpool in the Women’s FA Cup /p p Fran Kirby knows what she brings. She always has. The Brighton forward is not young for a footballer but, at 32, she’s not old either and, injury free, is reminding people she still has it. “I know I am not the same player that I "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/08/brighton-fran-kirby-fa-cup-semi-final-liverpool",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 08 May 2026 18:02:28 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13541513/arne-slot-booed-at-anfield-liverpool-fans-unhappy-with-style-of-play-as-chelsea-draw-exposes-creativity-problems",
-      "title": {
-        "ar": "Liverpool's worrying lack of creativity under Slot analysed",
-        "en": "Liverpool's worrying lack of creativity under Slot analysed"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arne-slot-liverpool_7245321.jpg?20260511091224",
-      "url": "https://www.skysports.com/football/news/12040/13541513/arne-slot-booed-at-anfield-liverpool-fans-unhappy-with-style-of-play-as-chelsea-draw-exposes-creativity-problems",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 08 May 2026 13:38:00 BST",
       "rewritten": false,
       "lang": "en"
     },
@@ -604,31 +654,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.skysports.com/football/barcelona-vs-real-madrid/report/536306",
-      "title": {
-        "ar": "Rashford brilliance helps Barca beat Real to win LaLiga title",
-        "en": "Rashford brilliance helps Barca beat Real to win LaLiga title"
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-barcelona-real-madrid_7245169.jpg?20260510224423",
-      "url": "https://www.skysports.com/football/barcelona-vs-real-madrid/report/536306",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 10 May 2026 21:50:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.theguardian.com/football/2026/may/10/marcus-rashford-seals-title-for-barcelona-to-complete-week-to-forget-for-real-madrid",
       "title": {
         "ar": "Rashford seals title for Barcelona and completes week to forget for Real Madrid",
@@ -675,6 +700,331 @@
         "en": "The Guardian"
       },
       "pubDate": "Sun, 10 May 2026 20:35:17 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/10/is-premier-league-gobble-up-uefa-lower-tier-competitions",
+      "title": {
+        "ar": "Is the Premier League starting to gobble up Uefa’s lower-tier competitions? | Nick Ames",
+        "en": "Is the Premier League starting to gobble up Uefa’s lower-tier competitions? | Nick Ames"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "p Aston Villa and Crystal Palace’s runs to European finals are historic achievements, but symptomatic of a worrying trend /p p There will be no doubting Unai Emery’s supremacy in the Europa League if he is reacquainted with the trophy in Istanbul this month. A fifth title would add to the Aston Villa manager’s legend and it would show he can do it ",
+        "en": "p Aston Villa and Crystal Palace’s runs to European finals are historic achievements, but symptomatic of a worrying trend /p p There will be no doubting Unai Emery’s supremacy in the Europa League if he is reacquainted with the trophy in Istanbul this month. A fifth title would add to the Aston Villa manager’s legend and it would show he can do it "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/10/is-premier-league-gobble-up-uefa-lower-tier-competitions",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 10 May 2026 07:00:19 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/09/manchester-city-brentford-premier-league-match-report",
+      "title": {
+        "ar": "Manchester City keep pressure on Arsenal as Jérémy Doku sparks defeat of Brentford",
+        "en": "Manchester City keep pressure on Arsenal as Jérémy Doku sparks defeat of Brentford"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p After a biblical downpour, the skies cleared, and Manchester City executed the gameplan: secure victory and three points to keep their breath on Arsenal’s neck. /p p The clincher arrived via Erling Haaland’s 26th Premier League goal of the season – as with his side’s performance this was hardly pretty but no one in blue cared. Antoine Semenyo mar",
+        "en": "p After a biblical downpour, the skies cleared, and Manchester City executed the gameplan: secure victory and three points to keep their breath on Arsenal’s neck. /p p The clincher arrived via Erling Haaland’s 26th Premier League goal of the season – as with his side’s performance this was hardly pretty but no one in blue cared. Antoine Semenyo mar"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/09/manchester-city-brentford-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 09 May 2026 18:38:29 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/09/writers-on-their-world-cup-panini-collecting-days-we-all-remember-the-playground-twerp",
+      "title": {
+        "ar": "Writers on their World Cup Panini collecting days: ‘We all remember the playground twerp’",
+        "en": "Writers on their World Cup Panini collecting days: ‘We all remember the playground twerp’"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p The much-loved football sticker album is to be discontinued after 2030. Guardian writers recall their thrills and frustrations /p p With this summer’s World Cup already mired in controversy over a href=\"https://www.theguardian.com/football/2026/jan/18/embarrassment-fifa-donald-trump-peace-prize\" politicisation /a , potential a href=\"https://www.t",
+        "en": "p The much-loved football sticker album is to be discontinued after 2030. Guardian writers recall their thrills and frustrations /p p With this summer’s World Cup already mired in controversy over a href=\"https://www.theguardian.com/football/2026/jan/18/embarrassment-fifa-donald-trump-peace-prize\" politicisation /a , potential a href=\"https://www.t"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/09/writers-on-their-world-cup-panini-collecting-days-we-all-remember-the-playground-twerp",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 09 May 2026 12:00:56 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/09/into-the-ronaldo-verse-sludge-of-content-is-eating-up-sport-and-the-adults-are-to-blame",
+      "title": {
+        "ar": "Into the Ronaldo-verse: sludge of content is eating up sport and the adults are to blame | Barney Ronay",
+        "en": "Into the Ronaldo-verse: sludge of content is eating up sport and the adults are to blame | Barney Ronay"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Footballer has 664 million followers but his boring presence is a reminder of how reel-life destroys what it touches /p p Buy the backpack airlines hate. Fawn strangely at a child athlete. This TV presenter drank olive oil for a month and absolutely nothing happened. The streets (no actual streets involved) won’t forget (robots can’t forget) Paul",
+        "en": "p Footballer has 664 million followers but his boring presence is a reminder of how reel-life destroys what it touches /p p Buy the backpack airlines hate. Fawn strangely at a child athlete. This TV presenter drank olive oil for a month and absolutely nothing happened. The streets (no actual streets involved) won’t forget (robots can’t forget) Paul"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/09/into-the-ronaldo-verse-sludge-of-content-is-eating-up-sport-and-the-adults-are-to-blame",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 09 May 2026 07:00:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/08/brighton-fran-kirby-fa-cup-semi-final-liverpool",
+      "title": {
+        "ar": "Brighton’s Fran Kirby: ‘Instead of running around like a headless chicken, I stand and assess’",
+        "en": "Brighton’s Fran Kirby: ‘Instead of running around like a headless chicken, I stand and assess’"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Former Chelsea forward is thriving on the south coast and targeting victory over Liverpool in the Women’s FA Cup /p p Fran Kirby knows what she brings. She always has. The Brighton forward is not young for a footballer but, at 32, she’s not old either and, injury free, is reminding people she still has it. “I know I am not the same player that I ",
+        "en": "p Former Chelsea forward is thriving on the south coast and targeting victory over Liverpool in the Women’s FA Cup /p p Fran Kirby knows what she brings. She always has. The Brighton forward is not young for a footballer but, at 32, she’s not old either and, injury free, is reminding people she still has it. “I know I am not the same player that I "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/08/brighton-fran-kirby-fa-cup-semi-final-liverpool",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 08 May 2026 18:02:28 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13542687/xabi-alonso-andoni-iraola-and-marco-silva-on-chelsea-shortlist-as-blues-eye-new-boss",
+      "title": {
+        "ar": "Alonso, Iraola and Silva on Chelsea shortlist as search for new manager steps up",
+        "en": "Alonso, Iraola and Silva on Chelsea shortlist as search for new manager steps up"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-chelsea-alonso-iraola_7245514.jpg?20260511122644",
+      "url": "https://www.skysports.com/watch/video/13542687/xabi-alonso-andoni-iraola-and-marco-silva-on-chelsea-shortlist-as-blues-eye-new-boss",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 11 May 2026 12:13:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13542619/premier-league-has-a-clear-and-obvious-problem-with-how-referees-and-vars-penalise-grappling-and-holding-but-what-can-be-done",
+      "title": {
+        "ar": "Premier League has clear and obvious problem with holding - what can be done?",
+        "en": "Premier League has clear and obvious problem with holding - what can be done?"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-west-ham_7245467.jpg?20260511114357",
+      "url": "https://www.skysports.com/football/news/12040/13542619/premier-league-has-a-clear-and-obvious-problem-with-how-referees-and-vars-penalise-grappling-and-holding-but-what-can-be-done",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 11 May 2026 07:35:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13542573/barcelona-2-0-real-madrid-la-liga-highlights",
+      "title": {
+        "ar": "Rashford SCREAMER helps Barcelona to LaLiga title in El Clasico",
+        "en": "Rashford SCREAMER helps Barcelona to LaLiga title in El Clasico"
+      },
+      "kicker": {
+        "ar": "الليغا",
+        "en": "La Liga"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-football-barcelona_7245168.jpg?20260510224340",
+      "url": "https://www.skysports.com/watch/video/13542573/barcelona-2-0-real-madrid-la-liga-highlights",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 10 May 2026 22:42:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13541513/arne-slot-booed-at-anfield-liverpool-fans-unhappy-with-style-of-play-as-chelsea-draw-exposes-creativity-problems",
+      "title": {
+        "ar": "Liverpool's worrying lack of creativity under Slot analysed",
+        "en": "Liverpool's worrying lack of creativity under Slot analysed"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arne-slot-liverpool_7245321.jpg?20260511091224",
+      "url": "https://www.skysports.com/football/news/12040/13541513/arne-slot-booed-at-anfield-liverpool-fans-unhappy-with-style-of-play-as-chelsea-draw-exposes-creativity-problems",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 08 May 2026 13:38:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/barcelona-vs-real-madrid/report/536306",
+      "title": {
+        "ar": "Rashford brilliance helps Barca beat Real to win LaLiga title",
+        "en": "Rashford brilliance helps Barca beat Real to win LaLiga title"
+      },
+      "kicker": {
+        "ar": "الليغا",
+        "en": "La Liga"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-barcelona-real-madrid_7245169.jpg?20260510224423",
+      "url": "https://www.skysports.com/football/barcelona-vs-real-madrid/report/536306",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 10 May 2026 21:50:00 BST",
       "rewritten": false,
       "lang": "en"
     },
@@ -1129,31 +1479,6 @@
       "lang": "ar"
     },
     {
-      "id": "https://www.theguardian.com/football/2026/may/10/is-premier-league-gobble-up-uefa-lower-tier-competitions",
-      "title": {
-        "ar": "Is the Premier League starting to gobble up Uefa’s lower-tier competitions? | Nick Ames",
-        "en": "Is the Premier League starting to gobble up Uefa’s lower-tier competitions? | Nick Ames"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "p Aston Villa and Crystal Palace’s runs to European finals are historic achievements, but symptomatic of a worrying trend /p p There will be no doubting Unai Emery’s supremacy in the Europa League if he is reacquainted with the trophy in Istanbul this month. A fifth title would add to the Aston Villa manager’s legend and it would show he can do it ",
-        "en": "p Aston Villa and Crystal Palace’s runs to European finals are historic achievements, but symptomatic of a worrying trend /p p There will be no doubting Unai Emery’s supremacy in the Europa League if he is reacquainted with the trophy in Istanbul this month. A fifth title would add to the Aston Villa manager’s legend and it would show he can do it "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/10/is-premier-league-gobble-up-uefa-lower-tier-competitions",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 10 May 2026 07:00:19 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.theguardian.com/football/2026/may/09/football-manager-market-roberto-de-zerbi-vitor-pereira",
       "title": {
         "ar": "If the manager market is just a roll of the dice, why are De Zerbi and Pereira prospering? | Jonathan Wilson",
@@ -1179,31 +1504,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.theguardian.com/football/2026/may/09/manchester-city-brentford-premier-league-match-report",
-      "title": {
-        "ar": "Manchester City keep pressure on Arsenal as Jérémy Doku sparks defeat of Brentford",
-        "en": "Manchester City keep pressure on Arsenal as Jérémy Doku sparks defeat of Brentford"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p After a biblical downpour, the skies cleared, and Manchester City executed the gameplan: secure victory and three points to keep their breath on Arsenal’s neck. /p p The clincher arrived via Erling Haaland’s 26th Premier League goal of the season – as with his side’s performance this was hardly pretty but no one in blue cared. Antoine Semenyo mar",
-        "en": "p After a biblical downpour, the skies cleared, and Manchester City executed the gameplan: secure victory and three points to keep their breath on Arsenal’s neck. /p p The clincher arrived via Erling Haaland’s 26th Premier League goal of the season – as with his side’s performance this was hardly pretty but no one in blue cared. Antoine Semenyo mar"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/09/manchester-city-brentford-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 09 May 2026 18:38:29 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.theguardian.com/football/2026/may/09/arne-slot-rio-ngumoha-cramp-liverpool-chelsea-booed",
       "title": {
         "ar": "Arne Slot says Rio Ngumoha had cramp after Liverpool starlet’s substitution is booed",
@@ -1225,31 +1525,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Sat, 09 May 2026 15:56:12 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/09/writers-on-their-world-cup-panini-collecting-days-we-all-remember-the-playground-twerp",
-      "title": {
-        "ar": "Writers on their World Cup Panini collecting days: ‘We all remember the playground twerp’",
-        "en": "Writers on their World Cup Panini collecting days: ‘We all remember the playground twerp’"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p The much-loved football sticker album is to be discontinued after 2030. Guardian writers recall their thrills and frustrations /p p With this summer’s World Cup already mired in controversy over a href=\"https://www.theguardian.com/football/2026/jan/18/embarrassment-fifa-donald-trump-peace-prize\" politicisation /a , potential a href=\"https://www.t",
-        "en": "p The much-loved football sticker album is to be discontinued after 2030. Guardian writers recall their thrills and frustrations /p p With this summer’s World Cup already mired in controversy over a href=\"https://www.theguardian.com/football/2026/jan/18/embarrassment-fifa-donald-trump-peace-prize\" politicisation /a , potential a href=\"https://www.t"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/09/writers-on-their-world-cup-panini-collecting-days-we-all-remember-the-playground-twerp",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 09 May 2026 12:00:56 GMT",
       "rewritten": false,
       "lang": "en"
     },
