@@ -24,13 +24,13 @@ const FEED_PATH = resolve(ROOT, 'data', 'feed.json');
 const DRY_RUN   = process.argv.includes('--dry-run');
 
 const GEMINI_KEY      = process.env.GEMINI_API_KEY || '';
-const GEMINI_MODEL    = 'gemini-1.5-flash';
+const GEMINI_MODEL    = 'gemini-2.0-flash';
 const GEMINI_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_KEY}`;
 
 // Log key status upfront so we can see it in Actions logs
 console.log(`🔑 GEMINI_API_KEY: ${GEMINI_KEY ? `set (${GEMINI_KEY.length} chars, starts with ${GEMINI_KEY.slice(0,8)}…)` : '⚠ NOT SET'}`);
 
-const MAX_NEW_PER_RUN   = 5;   // AI rewrites per run (free tier: 15 req/min, 5s delay = safe)
+const MAX_NEW_PER_RUN   = 3;   // AI rewrites per run — very conservative for free tier
 const MAX_ARTICLES_KEPT = 80;  // total articles stored in feed.json
 const MAX_AGE_DAYS      = 7;   // drop articles older than this
 
@@ -294,7 +294,7 @@ async function main() {
     const raw = allToWrite[i];
     console.log(`   ✍  [${i+1}/${allToWrite.length}] "${raw.title.slice(0, 65)}…"`);
     rewritten.push(await rewriteWithGemini(raw));
-    if (i < allToWrite.length - 1) await new Promise(r => setTimeout(r, 5000));
+    if (i < allToWrite.length - 1) await new Promise(r => setTimeout(r, 8000));
   }
 
   // Retry existing fallbacks — convert stored article back to raw format
@@ -313,7 +313,7 @@ async function main() {
     console.log(`   🔄 retry [${i+1}/${toRetry.length}] "${raw.title.slice(0, 65)}…"`);
     const result = await rewriteWithGemini(raw);
     retried.set(a.id || a.url, result);
-    if (i < toRetry.length - 1) await new Promise(r => setTimeout(r, 5000));
+    if (i < toRetry.length - 1) await new Promise(r => setTimeout(r, 8000));
   }
 
   // Apply retries back into existing
