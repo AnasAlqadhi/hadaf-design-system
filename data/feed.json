@@ -1,8 +1,333 @@
 {
   "version": 2,
-  "updated": "2026-05-11T19:56:56.980Z",
-  "count": 70,
+  "updated": "2026-05-12T03:48:06.129Z",
+  "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13542862/jamie-carragher-david-raya-was-fouled-vs-west-ham-people-just-dont-want-arsenal-to-win-the-premier-league-title",
+      "title": {
+        "ar": "Carra: Only people who don't want Arsenal to win PL thought VAR call was wrong",
+        "en": "Carra: Only people who don't want Arsenal to win PL thought VAR call was wrong"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-david-raya-pablo_7245418.jpg?20260511110229",
+      "url": "https://www.skysports.com/football/news/12040/13542862/jamie-carragher-david-raya-was-fouled-vs-west-ham-people-just-dont-want-arsenal-to-win-the-premier-league-title",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 11 May 2026 20:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13542785/sergej-jakirovic-says-taking-hull-to-the-championship-play-off-final-is-the-best-thing-ive-experienced-in-football",
+      "title": {
+        "ar": "Jakirovic: Taking Hull to Wembley the best thing I've experienced in football",
+        "en": "Jakirovic: Taking Hull to Wembley the best thing I've experienced in football"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-sergej-jakirovic_7246082.jpg?20260511230558",
+      "url": "https://www.skysports.com/football/news/12040/13542785/sergej-jakirovic-says-taking-hull-to-the-championship-play-off-final-is-the-best-thing-ive-experienced-in-football",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 11 May 2026 23:15:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13542928/jarrod-bowen-transfer-news-three-premier-league-clubs-targeting-west-ham-forward-paper-talk",
+      "title": {
+        "ar": "Papers: Three Premier League clubs targeting Bowen",
+        "en": "Papers: Three Premier League clubs targeting Bowen"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "url": "https://www.skysports.com/football/news/12040/13542928/jarrod-bowen-transfer-news-three-premier-league-clubs-targeting-west-ham-forward-paper-talk",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 11 May 2026 22:58:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13542944/jamie-carragher-reacts-to-xabi-alonso-to-chelsea-links-if-liverpool-were-interested-hed-go",
+      "title": {
+        "ar": "'If Liverpool were interested, he'd go'  | Carra reacts to Alonso to Chelsea links",
+        "en": "'If Liverpool were interested, he'd go'  | Carra reacts to Alonso to Chelsea links"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-carra-alonso_7246093.jpg?20260511232013",
+      "url": "https://www.skysports.com/watch/video/13542944/jamie-carragher-reacts-to-xabi-alonso-to-chelsea-links-if-liverpool-were-interested-hed-go",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 11 May 2026 23:09:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48745620/chelsea-estevao-miss-world-cup-neymar-makes-brazil-preliminary-cut",
+      "title": {
+        "ar": "Sources: Estêvão out of Brazil squad for World Cup...",
+        "en": "Sources: Estêvão out of Brazil squad for World Cup..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48745620/chelsea-estevao-miss-world-cup-neymar-makes-brazil-preliminary-cut",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 11 May 2026 22:05:59 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48745056/sea-blaugrana-celebrates-barcelona-laliga-title",
+      "title": {
+        "ar": "'Sea of blaugrana' celebrate Barcelona LaLiga win",
+        "en": "'Sea of blaugrana' celebrate Barcelona LaLiga win"
+      },
+      "kicker": {
+        "ar": "الليغا",
+        "en": "La Liga"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48745056/sea-blaugrana-celebrates-barcelona-laliga-title",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 11 May 2026 22:05:59 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48744324/napoli-loss-crowded-serie-top-4-race",
+      "title": {
+        "ar": "Napoli loss sets up crowded Serie A top-4 sprint",
+        "en": "Napoli loss sets up crowded Serie A top-4 sprint"
+      },
+      "kicker": {
+        "ar": "الدوري الإيطالي",
+        "en": "Serie A"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48744324/napoli-loss-crowded-serie-top-4-race",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 11 May 2026 22:05:59 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/11/de-zerbis-impact-at-tottenham-is-stark-but-teams-fragile-self-destruction-remains",
+      "title": {
+        "ar": "De Zerbi’s impact at Spurs is undeniable but team’s fragile self-destruction remains | Jonathan Wilson",
+        "en": "De Zerbi’s impact at Spurs is undeniable but team’s fragile self-destruction remains | Jonathan Wilson"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Mathys Tel’s stupid penalty concession underlines being Spursy is just who Spurs are to leave them still within sight of West Ham /p p You’re 1-0 up with 20 minutes to go. You’re about to win your first home league game in 156 days. You’re well on top and playing your best football in 18 months. If you can just see it through you’ll be four point",
+        "en": "p Mathys Tel’s stupid penalty concession underlines being Spursy is just who Spurs are to leave them still within sight of West Ham /p p You’re 1-0 up with 20 minutes to go. You’re about to win your first home league game in 156 days. You’re well on top and playing your best football in 18 months. If you can just see it through you’ll be four point"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/11/de-zerbis-impact-at-tottenham-is-stark-but-teams-fragile-self-destruction-remains",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 11 May 2026 22:21:39 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/11/championship-play-off-semi-final-second-leg-millwall-hull-match-report",
+      "title": {
+        "ar": "Millwall’s curse continues as Mohamed Belloumi sends Hull into Championship playoff final",
+        "en": "Millwall’s curse continues as Mohamed Belloumi sends Hull into Championship playoff final"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Millwall’s Championship playoff curse continues. It is now three times they have come within touching distance of reaching the promised land of the Premier League only to fall at the semi-final stage. /p p After defeats in 1994 and 2002, this one will be especially hard to take given that Alex Neil’s side finished 10 points clear of Hull as they ",
+        "en": "p Millwall’s Championship playoff curse continues. It is now three times they have come within touching distance of reaching the promised land of the Premier League only to fall at the semi-final stage. /p p After defeats in 1994 and 2002, this one will be especially hard to take given that Alex Neil’s side finished 10 points clear of Hull as they "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/11/championship-play-off-semi-final-second-leg-millwall-hull-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 11 May 2026 21:14:56 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/11/ligue-1-sunglasses-fire-extinguishers-tragedy-aubameyang-emegha-bastia",
+      "title": {
+        "ar": "The week in Ligue 1: sunglasses, fire extinguishers, flares and firecrackers",
+        "en": "The week in Ligue 1: sunglasses, fire extinguishers, flares and firecrackers"
+      },
+      "kicker": {
+        "ar": "الدوري الفرنسي",
+        "en": "Ligue 1"
+      },
+      "excerpt": {
+        "ar": "p Pierre-Emerick Aubameyang’s rampage hurts Marseille, Strasbourg struggle and Bastia hit a new low /p p By a href=\"https://www.getfootballnewsfrance.com/\" Get French Football News /a /p p It was a dramatic weekend of football in France. Pierre-Emerick Aubameyang and Emanuel Emegha played starring roles; so too did the Bastia fans, as the club exit",
+        "en": "p Pierre-Emerick Aubameyang’s rampage hurts Marseille, Strasbourg struggle and Bastia hit a new low /p p By a href=\"https://www.getfootballnewsfrance.com/\" Get French Football News /a /p p It was a dramatic weekend of football in France. Pierre-Emerick Aubameyang and Emanuel Emegha played starring roles; so too did the Bastia fans, as the club exit"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/11/ligue-1-sunglasses-fire-extinguishers-tragedy-aubameyang-emegha-bastia",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 11 May 2026 15:21:25 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/watch/video/13542846/paul-merson-makes-bold-prediction-on-man-utd-and-liverpool-next-season",
       "title": {
@@ -1677,81 +2002,6 @@
       "pubDate": "Sun, 10 May 2026 09:41:09 GMT",
       "rewritten": false,
       "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/09/football-manager-market-roberto-de-zerbi-vitor-pereira",
-      "title": {
-        "ar": "If the manager market is just a roll of the dice, why are De Zerbi and Pereira prospering? | Jonathan Wilson",
-        "en": "If the manager market is just a roll of the dice, why are De Zerbi and Pereira prospering? | Jonathan Wilson"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The eggheads can argue the head coach is merely an interchangeable cog in a team’s fortunes – but emotion counts in an ever-changing game /p p Your manager has fallen out with the sporting director and results have gone awry, so you replace him. Easily done, it happens. But then it turns out that the new manager could not be more ill-suited to th",
-        "en": "p The eggheads can argue the head coach is merely an interchangeable cog in a team’s fortunes – but emotion counts in an ever-changing game /p p Your manager has fallen out with the sporting director and results have gone awry, so you replace him. Easily done, it happens. But then it turns out that the new manager could not be more ill-suited to th"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/09/football-manager-market-roberto-de-zerbi-vitor-pereira",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 09 May 2026 19:00:04 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/09/arne-slot-rio-ngumoha-cramp-liverpool-chelsea-booed",
-      "title": {
-        "ar": "Arne Slot says Rio Ngumoha had cramp after Liverpool starlet’s substitution is booed",
-        "en": "Arne Slot says Rio Ngumoha had cramp after Liverpool starlet’s substitution is booed"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "ul li p Teenager had performed well in 1-1 draw with Chelsea /p /li li p Coach: ‘He said that was enough … he was playing well’ /p /li /ul p Arne Slot said he understood the boos that greeted a href=\"https://www.theguardian.com/football/2026/may/09/liverpool-chelsea-premier-league-match-report\" Liverpool’s draw with Chelsea /a and his decision to s",
-        "en": "ul li p Teenager had performed well in 1-1 draw with Chelsea /p /li li p Coach: ‘He said that was enough … he was playing well’ /p /li /ul p Arne Slot said he understood the boos that greeted a href=\"https://www.theguardian.com/football/2026/may/09/liverpool-chelsea-premier-league-match-report\" Liverpool’s draw with Chelsea /a and his decision to s"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/09/arne-slot-rio-ngumoha-cramp-liverpool-chelsea-booed",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 09 May 2026 15:56:12 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/video/2026/may/06/arsenal-back-in-the-champions-league-final-during-a-week-to-savour-football-weekly-video",
-      "title": {
-        "ar": "Arsenal back in the Champions League final during a week to savour | Football Weekly – video",
-        "en": "Arsenal back in the Champions League final during a week to savour | Football Weekly – video"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Max Rushden is joined by Barry Glendenning, Nicky Bandini and Paul Watson as Arsenal make a first men’s Champions League final in 20 years … and get an edge in the Premier League. /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1 /p p /p p On today’s podcast: Arsenal reach the men’s",
-        "en": "p Max Rushden is joined by Barry Glendenning, Nicky Bandini and Paul Watson as Arsenal make a first men’s Champions League final in 20 years … and get an edge in the Premier League. /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1 /p p /p p On today’s podcast: Arsenal reach the men’s"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/video/2026/may/06/arsenal-back-in-the-champions-league-final-during-a-week-to-savour-football-weekly-video",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 06 May 2026 13:31:06 GMT",
-      "rewritten": false,
-      "lang": "en"
     }
   ]
 }
