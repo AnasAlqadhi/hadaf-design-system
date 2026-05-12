@@ -1,8 +1,533 @@
 {
   "version": 2,
-  "updated": "2026-05-12T08:48:49.218Z",
+  "updated": "2026-05-12T14:37:55.735Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13543053/xabi-alonso-former-real-madrid-and-bayer-leverkusen-coach-has-dilemma-of-moving-to-chelsea-or-waiting-for-dream-liverpool-job",
+      "title": {
+        "ar": "Join Chelsea or wait for 'dream' Liverpool job? Alonso's big dilemma",
+        "en": "Join Chelsea or wait for 'dream' Liverpool job? Alonso's big dilemma"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-xabi-alonso-chelsea_7246434.jpg?20260512120937",
+      "url": "https://www.skysports.com/football/news/12040/13543053/xabi-alonso-former-real-madrid-and-bayer-leverkusen-coach-has-dilemma-of-moving-to-chelsea-or-waiting-for-dream-liverpool-job",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 12 May 2026 14:40:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13543010/paul-merson-arne-slots-up-against-it-at-liverpool-but-they-will-finish-higher-than-man-utd-next-season",
+      "title": {
+        "ar": "Merson: Liverpool will finish above Man Utd next season",
+        "en": "Merson: Liverpool will finish above Man Utd next season"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-carrick_7236214.jpg?20260501145504",
+      "url": "https://www.skysports.com/football/news/12040/13543010/paul-merson-arne-slots-up-against-it-at-liverpool-but-they-will-finish-higher-than-man-utd-next-season",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 12 May 2026 09:34:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48677225/fifa-world-cup-power-rankings-spain-brazil-germany-england-argentina",
+      "title": {
+        "ar": "World Cup Power Rankings: Who are the front-runners with 30 days to go?",
+        "en": "World Cup Power Rankings: Who are the front-runners with 30 days to go?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48677225/fifa-world-cup-power-rankings-spain-brazil-germany-england-argentina",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 12 May 2026 09:54:04 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48749214/psg-ousmane-dembele-wins-ligue-1-award-starting-just-nine-games",
+      "title": {
+        "ar": "Dembélé named Ligue 1 POTY despite 9 starts",
+        "en": "Dembélé named Ligue 1 POTY despite 9 starts"
+      },
+      "kicker": {
+        "ar": "الدوري الفرنسي",
+        "en": "Ligue 1"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48749214/psg-ousmane-dembele-wins-ligue-1-award-starting-just-nine-games",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 12 May 2026 09:44:33 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48748075/xabi-alonso-andoni-iraola-frame-chelsea-job-no-preferred-candidate-sources",
+      "title": {
+        "ar": "Sources: Alonso, Iraola in frame for Chelsea job",
+        "en": "Sources: Alonso, Iraola in frame for Chelsea job"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48748075/xabi-alonso-andoni-iraola-frame-chelsea-job-no-preferred-candidate-sources",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 12 May 2026 09:44:33 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48748296/lionel-messi-included-argentina-55-player-provisional-world-cup-squad",
+      "title": {
+        "ar": "Messi in Argentina provisional World Cup squad",
+        "en": "Messi in Argentina provisional World Cup squad"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48748296/lionel-messi-included-argentina-55-player-provisional-world-cup-squad",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 12 May 2026 09:44:33 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48748480/spain-coach-allays-nico-williams-world-cup-injury-fears-ok",
+      "title": {
+        "ar": "Spain boss allays Williams World Cup injury fears",
+        "en": "Spain boss allays Williams World Cup injury fears"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48748480/spain-coach-allays-nico-williams-world-cup-injury-fears-ok",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 12 May 2026 09:44:33 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/film/2026/may/12/stormzy-producing-ian-wright-biopic",
+      "title": {
+        "ar": "‘He’s inspired generations’: Stormzy to produce biopic about football great Ian Wright",
+        "en": "‘He’s inspired generations’: Stormzy to produce biopic about football great Ian Wright"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The Crystal Palace, Arsenal and England striker says his life story – now in development with the rapper’s Merky Films – has ‘hard-hitting moments, but in the end I want it to give people hope and joy’ /p p Stormzy has announced he is to produce a biopic of former Arsenal, Crystal Palace and England striker Ian Wright. /p p Wright, who successful",
+        "en": "p The Crystal Palace, Arsenal and England striker says his life story – now in development with the rapper’s Merky Films – has ‘hard-hitting moments, but in the end I want it to give people hope and joy’ /p p Stormzy has announced he is to produce a biopic of former Arsenal, Crystal Palace and England striker Ian Wright. /p p Wright, who successful"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/film/2026/may/12/stormzy-producing-ian-wright-biopic",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 13:47:41 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/video/2026/may/12/spurs-drop-points-in-survival-battle-and-mayhem-at-madrid-football-weekly-video",
+      "title": {
+        "ar": "Spurs drop points in survival battle and mayhem at Madrid | Football Weekly – video",
+        "en": "Spurs drop points in survival battle and mayhem at Madrid | Football Weekly – video"
+      },
+      "kicker": {
+        "ar": "الليغا",
+        "en": "La Liga"
+      },
+      "excerpt": {
+        "ar": "p Max Rushden is joined by Barry Glendenning, Lars Sivertsen, Seb Hutchinson and Sid Lowe as Tottenham draw and Barça win La Liga /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1 /p p /p p On today’s podcast: the agony continues for Spurs as Roberto De Zerbi says they will fight unti",
+        "en": "p Max Rushden is joined by Barry Glendenning, Lars Sivertsen, Seb Hutchinson and Sid Lowe as Tottenham draw and Barça win La Liga /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1 /p p /p p On today’s podcast: the agony continues for Spurs as Roberto De Zerbi says they will fight unti"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/video/2026/may/12/spurs-drop-points-in-survival-battle-and-mayhem-at-madrid-football-weekly-video",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 12:44:01 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/12/world-cup-2026-pundits-bbc-itv-thomas-frank-ange-postecoglou",
+      "title": {
+        "ar": "Frank and Postecoglou going head to head as BBC and ITV pundits for World Cup",
+        "en": "Frank and Postecoglou going head to head as BBC and ITV pundits for World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p BBC to add Giroud to regular panel, including Frank /p /li li p Postecoglou will join ITV, who show England opener /p /li /ul p Former Tottenham managers Ange Postecoglou and Thomas Frank will go head to head in the TV studio this summer as rival World Cup pundits. The Guardian has learned that Frank has signed a deal with BBC Sport as one ",
+        "en": "ul li p BBC to add Giroud to regular panel, including Frank /p /li li p Postecoglou will join ITV, who show England opener /p /li /ul p Former Tottenham managers Ange Postecoglou and Thomas Frank will go head to head in the TV studio this summer as rival World Cup pundits. The Guardian has learned that Frank has signed a deal with BBC Sport as one "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/12/world-cup-2026-pundits-bbc-itv-thomas-frank-ange-postecoglou",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 11:45:49 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/12/usmnt-history-book",
+      "title": {
+        "ar": "I wrote a book about the last 40 years of US men’s soccer. Here is what I learned | Leander Schaerlaeckens",
+        "en": "I wrote a book about the last 40 years of US men’s soccer. Here is what I learned | Leander Schaerlaeckens"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p The US men’s national team have high expectations at the 2026 World Cup. To me, that signals miraculous progress /p p The mere notion that the United States men’s national team will enter this World Cup with a plausible chance of going on a deep run represents something of a sporting miracle. /p p Consider that after the USMNT placed third at the",
+        "en": "p The US men’s national team have high expectations at the 2026 World Cup. To me, that signals miraculous progress /p p The mere notion that the United States men’s national team will enter this World Cup with a plausible chance of going on a deep run represents something of a sporting miracle. /p p Consider that after the USMNT placed third at the"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/12/usmnt-history-book",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 11:15:45 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48739869/real-madrid-downward-spiral-infighting-disarray-no-trophies",
+      "title": {
+        "ar": "Inside Real Madrid's downward spiral into infighting, disarray and -- worst of all -- no trophies",
+        "en": "Inside Real Madrid's downward spiral into infighting, disarray and -- worst of all -- no trophies"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48739869/real-madrid-downward-spiral-infighting-disarray-no-trophies",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 12 May 2026 05:42:41 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/12/brighton-womens-fa-cup-final-ambition",
+      "title": {
+        "ar": "History makers Brighton are shaking up old order and not hiding ambition",
+        "en": "History makers Brighton are shaking up old order and not hiding ambition"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Seagulls are in their first Women’s FA Cup final but their coach, Dario Vidosic, is determined to keep aiming higher /p p As Brighton’s old song goes, “Hark to the merry bugles”, because there is something in the air in Sussex by the sea. A a href=\"https://www.theguardian.com/football/2026/apr/28/brighton-plan-europes-first-purpose-built-womens-f",
+        "en": "p Seagulls are in their first Women’s FA Cup final but their coach, Dario Vidosic, is determined to keep aiming higher /p p As Brighton’s old song goes, “Hark to the merry bugles”, because there is something in the air in Sussex by the sea. A a href=\"https://www.theguardian.com/football/2026/apr/28/brighton-plan-europes-first-purpose-built-womens-f"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/12/brighton-womens-fa-cup-final-ambition",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 10:20:53 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/picture/2026/may/12/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages",
+      "title": {
+        "ar": "David Squires on … Arsenal, West Ham and a Royal Rumble for the ages",
+        "en": "David Squires on … Arsenal, West Ham and a Royal Rumble for the ages"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Our cartoonist on the Premier League title potentially being decided by a lengthy VAR check after grappling /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires/products/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages\" strong Buy this cartoon here /strong /a strong | /strong a href=\"https://www.theguardian.",
+        "en": "p Our cartoonist on the Premier League title potentially being decided by a lengthy VAR check after grappling /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires/products/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages\" strong Buy this cartoon here /strong /a strong | /strong a href=\"https://www.theguardian."
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/picture/2026/may/12/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 10:02:36 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/12/usmnt-world-cup-squad-prediction-how-mauricio-pochettinos-call-ups-determine-the-26",
+      "title": {
+        "ar": "USMNT World Cup squad prediction: how Mauricio Pochettino’s call-ups determine the 26",
+        "en": "USMNT World Cup squad prediction: how Mauricio Pochettino’s call-ups determine the 26"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p The USMNT head coach has played 61 different players in his 24 games in charge – the trends among them could determine who makes the cut /p p In exactly two weeks, Mauricio Pochettino will determine which 26 players will represent the United States at this summer’s World Cup. The decision may be even harder than you’d expect /p p Across 24 games ",
+        "en": "p The USMNT head coach has played 61 different players in his 24 games in charge – the trends among them could determine who makes the cut /p p In exactly two weeks, Mauricio Pochettino will determine which 26 players will represent the United States at this summer’s World Cup. The decision may be even harder than you’d expect /p p Across 24 games "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/12/usmnt-world-cup-squad-prediction-how-mauricio-pochettinos-call-ups-determine-the-26",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 10:00:54 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/12/southampton-launch-internal-review-middlesbrough-spying-allegations",
+      "title": {
+        "ar": "Southampton launch internal review into Middlesbrough spying allegations",
+        "en": "Southampton launch internal review into Middlesbrough spying allegations"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Saints ‘request time to complete process thoroughly’ /p /li li p Playoff semi-final second leg at St Mary’s on Tuesday /p /li /ul p Southampton have confirmed they have launched an internal review into allegations that one of their analysts spied on a Middlesbrough training session. Southampton, who host Boro in their playoff semi-final sec",
+        "en": "ul li p Saints ‘request time to complete process thoroughly’ /p /li li p Playoff semi-final second leg at St Mary’s on Tuesday /p /li /ul p Southampton have confirmed they have launched an internal review into allegations that one of their analysts spied on a Middlesbrough training session. Southampton, who host Boro in their playoff semi-final sec"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/12/southampton-launch-internal-review-middlesbrough-spying-allegations",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 09:45:03 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/video/2026/may/12/world-cup-2026-is-it-possible-to-walk-to-metlife-stadium-from-new-york-city-video",
+      "title": {
+        "ar": "World Cup 2026: is it possible to walk to MetLife Stadium from New York City? – video",
+        "en": "World Cup 2026: is it possible to walk to MetLife Stadium from New York City? – video"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Now that the usually $13 train ticket has been hiked up to $105 for the World Cup, a lot of fans have been wondering whether it's possible to walk to MetLife Stadium from New York City. /p p To find out, we sent the intrepid a href=\"https://www.instagram.com/markmcposts/\" Mark McPartland /a on a scenic hike to New Jersey to see if America’s pedes",
+        "en": "p Now that the usually $13 train ticket has been hiked up to $105 for the World Cup, a lot of fans have been wondering whether it's possible to walk to MetLife Stadium from New York City. /p p To find out, we sent the intrepid a href=\"https://www.instagram.com/markmcposts/\" Mark McPartland /a on a scenic hike to New Jersey to see if America’s pedes"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/video/2026/may/12/world-cup-2026-is-it-possible-to-walk-to-metlife-stadium-from-new-york-city-video",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 09:38:15 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/11/de-zerbi-ready-for-relegation-fight-until-the-last-minute-after-leeds-frustrate-spurs",
+      "title": {
+        "ar": "De Zerbi ready for relegation fight ‘until the last minute’ after Leeds frustrate Spurs",
+        "en": "De Zerbi ready for relegation fight ‘until the last minute’ after Leeds frustrate Spurs"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "ul li p Tottenham two points ahead of 18th-placed West Ham /p /li li p ‘We can’t forget what was the situation just 15 days ago’ /p /li /ul p Roberto De Zerbi vowed that Tottenham will take their relegation battle to the wire after their hopes of staying up were dented by a href=\"https://www.theguardian.com/football/2026/may/11/premier-league-totte",
+        "en": "ul li p Tottenham two points ahead of 18th-placed West Ham /p /li li p ‘We can’t forget what was the situation just 15 days ago’ /p /li /ul p Roberto De Zerbi vowed that Tottenham will take their relegation battle to the wire after their hopes of staying up were dented by a href=\"https://www.theguardian.com/football/2026/may/11/premier-league-totte"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/11/de-zerbi-ready-for-relegation-fight-until-the-last-minute-after-leeds-frustrate-spurs",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 11 May 2026 22:48:00 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13542748/roberto-de-zerbi-says-match-officials-were-not-calm-during-tottenhams-draw-against-leeds-as-late-penalty-claim-waved-away",
       "title": {
@@ -1475,531 +2000,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Mon, 11 May 2026 12:13:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13542619/premier-league-has-a-clear-and-obvious-problem-with-how-referees-and-vars-penalise-grappling-and-holding-but-what-can-be-done",
-      "title": {
-        "ar": "Premier League has clear and obvious problem with holding - what can be done?",
-        "en": "Premier League has clear and obvious problem with holding - what can be done?"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-west-ham_7245467.jpg?20260511114357",
-      "url": "https://www.skysports.com/football/news/12040/13542619/premier-league-has-a-clear-and-obvious-problem-with-how-referees-and-vars-penalise-grappling-and-holding-but-what-can-be-done",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 11 May 2026 07:35:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13542573/barcelona-2-0-real-madrid-la-liga-highlights",
-      "title": {
-        "ar": "Rashford SCREAMER helps Barcelona to LaLiga title in El Clasico",
-        "en": "Rashford SCREAMER helps Barcelona to LaLiga title in El Clasico"
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-football-barcelona_7245168.jpg?20260510224340",
-      "url": "https://www.skysports.com/watch/video/13542573/barcelona-2-0-real-madrid-la-liga-highlights",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 10 May 2026 22:42:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13541513/arne-slot-booed-at-anfield-liverpool-fans-unhappy-with-style-of-play-as-chelsea-draw-exposes-creativity-problems",
-      "title": {
-        "ar": "Liverpool's worrying lack of creativity under Slot analysed",
-        "en": "Liverpool's worrying lack of creativity under Slot analysed"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arne-slot-liverpool_7245321.jpg?20260511091224",
-      "url": "https://www.skysports.com/football/news/12040/13541513/arne-slot-booed-at-anfield-liverpool-fans-unhappy-with-style-of-play-as-chelsea-draw-exposes-creativity-problems",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 08 May 2026 13:38:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/barcelona-vs-real-madrid/report/536306",
-      "title": {
-        "ar": "Rashford brilliance helps Barca beat Real to win LaLiga title",
-        "en": "Rashford brilliance helps Barca beat Real to win LaLiga title"
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-barcelona-real-madrid_7245169.jpg?20260510224423",
-      "url": "https://www.skysports.com/football/barcelona-vs-real-madrid/report/536306",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 10 May 2026 21:50:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "title": {
-        "ar": "Arsenal latest: Keane, Wright and Redknapp deliver verdicts on disallowed goal",
-        "en": "Arsenal latest: Keane, Wright and Redknapp deliver verdicts on disallowed goal"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-arsenal-news-club_7039237.jpg?20251002155710",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 10 May 2026 19:17:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/barcelona-vs-real-madrid/live/536306",
-      "title": {
-        "ar": "Ferran doubles Barca lead after stunning Rashford free-kick vs Real Madrid LIVE!",
-        "en": "Ferran doubles Barca lead after stunning Rashford free-kick vs Real Madrid LIVE!"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-ferran-barcelona_7245032.jpg?20260510203511",
-      "url": "https://www.skysports.com/football/barcelona-vs-real-madrid/live/536306",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 10 May 2026 19:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13542470/disallowed-goal-c-wilson-905-west-ham-0-1-arsenal",
-      "title": {
-        "ar": "Goal or foul? The biggest VAR call of the Premier League era!",
-        "en": "Goal or foul? The biggest VAR call of the Premier League era!"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-raya-arsenal_7244884.jpg?20260510183139",
-      "url": "https://www.skysports.com/watch/video/13542470/disallowed-goal-c-wilson-905-west-ham-0-1-arsenal",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 10 May 2026 18:35:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13542465/goal-l-trossard-83-west-ham-0-1-arsenal",
-      "title": {
-        "ar": "MASSIVE goal! - Trossard gives Arsenal the lead late on",
-        "en": "MASSIVE goal! - Trossard gives Arsenal the lead late on"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-goal-arsenal_7244874.jpg?20260510181938",
-      "url": "https://www.skysports.com/watch/video/13542465/goal-l-trossard-83-west-ham-0-1-arsenal",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 10 May 2026 18:18:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/west-ham-united-vs-arsenal/report/531488",
-      "title": {
-        "ar": "Arsenal survive incredible late VAR drama to close in on PL title",
-        "en": "Arsenal survive incredible late VAR drama to close in on PL title"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-leandro-trossard_7244883.jpg?20260510183002",
-      "url": "https://www.skysports.com/football/west-ham-united-vs-arsenal/report/531488",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 10 May 2026 18:50:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13542483/west-ham-0-1-arsenal-premier-league-highlights",
-      "title": {
-        "ar": "Trossard gives Arsenal huge win despite late VAR controversy",
-        "en": "Trossard gives Arsenal huge win despite late VAR controversy"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-arsenal-west-ham_7244912.jpg?20260510184943",
-      "url": "https://www.skysports.com/watch/video/13542483/west-ham-0-1-arsenal-premier-league-highlights",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 10 May 2026 18:56:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/live/2026/may/10/barcelona-v-real-madrid-la-liga-title-on-the-line-in-clasico-live",
-      "title": {
-        "ar": "Barcelona v Real Madrid: La Liga title on the line in clásico – live",
-        "en": "Barcelona v Real Madrid: La Liga title on the line in clásico – live"
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "p ⚽ Barça will win La Liga with a point from 8pm BST kick-off br ⚽ a href=\"https://www.theguardian.com/football/live\" Live scores /a | a href=\"https://bsky.app/profile/sport.theguardian.com\" Follow us over on Bluesky /a | And a href=\"mailto:john.brewin@theguardian.com\" email John /a /p p strong Pictures emerging of a fan in the stand with a Jose Mo",
-        "en": "p ⚽ Barça will win La Liga with a point from 8pm BST kick-off br ⚽ a href=\"https://www.theguardian.com/football/live\" Live scores /a | a href=\"https://bsky.app/profile/sport.theguardian.com\" Follow us over on Bluesky /a | And a href=\"mailto:john.brewin@theguardian.com\" email John /a /p p strong Pictures emerging of a fan in the stand with a Jose Mo"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/live/2026/may/10/barcelona-v-real-madrid-la-liga-title-on-the-line-in-clasico-live",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 10 May 2026 19:37:19 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/10/west-ham-arsenal-premier-league-match-report",
-      "title": {
-        "ar": "Leandro Trossard gives Arsenal dramatic win with West Ham denied by huge VAR call",
-        "en": "Leandro Trossard gives Arsenal dramatic win with West Ham denied by huge VAR call"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p It was the most extraordinary finale to an occasion when the tension seemed to override everything. The spectacle suffered. Was there even one to speak of? It came to feel purely like a slow stumble towards the end; towards something decisive. /p p Then there we were, the players from each team standing on the sideline behind Chris Kavanagh as he",
-        "en": "p It was the most extraordinary finale to an occasion when the tension seemed to override everything. The spectacle suffered. Was there even one to speak of? It came to feel purely like a slow stumble towards the end; towards something decisive. /p p Then there we were, the players from each team standing on the sideline behind Chris Kavanagh as he"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/10/west-ham-arsenal-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 10 May 2026 18:02:52 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/10/chelsea-manchester-city-womens-fa-cup-semi-final-match-report",
-      "title": {
-        "ar": "Manchester City’s Khadija Shaw sinks Chelsea in dramatic FA Cup semi-final",
-        "en": "Manchester City’s Khadija Shaw sinks Chelsea in dramatic FA Cup semi-final"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Khadija Shaw showed Manchester City what they are giving up and Chelsea what they are potentially getting in emphatic style at Stamford Bridge, scoring an injury-time equaliser and then an extra time winner as City came from two goals behind to earn a place in the FA Cup final against Brighton. /p p Shaw has dominated headlines this week: the Wom",
-        "en": "p Khadija Shaw showed Manchester City what they are giving up and Chelsea what they are potentially getting in emphatic style at Stamford Bridge, scoring an injury-time equaliser and then an extra time winner as City came from two goals behind to earn a place in the FA Cup final against Brighton. /p p Shaw has dominated headlines this week: the Wom"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/10/chelsea-manchester-city-womens-fa-cup-semi-final-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 10 May 2026 17:20:28 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/10/rochdale-return-to-football-league-in-shootout-after-boreham-wood-thriller",
-      "title": {
-        "ar": "Rochdale return to Football League in shootout after Boreham Wood thriller",
-        "en": "Rochdale return to Football League in shootout after Boreham Wood thriller"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Boreham Wood 2-2 Rochdale (Rochdale win 3-1 on pens) /p /li li p Rush 22, Abdulmalik 69; Smith 78, Dieseruvwe 90+7 /p /li /ul p Supporting Rochdale should come with a health warning. For all that football has a wonderful propensity for drama, few clubs have ever packed in the heartstopping tension of their past fortnight. But, after it all,",
-        "en": "ul li p Boreham Wood 2-2 Rochdale (Rochdale win 3-1 on pens) /p /li li p Rush 22, Abdulmalik 69; Smith 78, Dieseruvwe 90+7 /p /li /ul p Supporting Rochdale should come with a health warning. For all that football has a wonderful propensity for drama, few clubs have ever packed in the heartstopping tension of their past fortnight. But, after it all,"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/10/rochdale-return-to-football-league-in-shootout-after-boreham-wood-thriller",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 10 May 2026 17:01:14 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/10/european-football-como-psg-roma-milan",
-      "title": {
-        "ar": "European football: Como claim vital victory and keep up push for Champions League",
-        "en": "European football: Como claim vital victory and keep up push for Champions League"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "ul li p Fàbregas’s team up to fourth in Serie A before later action /p /li li p Hamburg get better of Europa League finalists Freiburg /p /li /ul p strong Como /strong kept up a href=\"https://www.theguardian.com/football/2026/may/07/we-bring-in-hungry-humble-players-how-cesc-fabregas-is-leading-the-incredible-rise-of-como\" their stunning bid for Ch",
-        "en": "ul li p Fàbregas’s team up to fourth in Serie A before later action /p /li li p Hamburg get better of Europa League finalists Freiburg /p /li /ul p strong Como /strong kept up a href=\"https://www.theguardian.com/football/2026/may/07/we-bring-in-hungry-humble-players-how-cesc-fabregas-is-leading-the-incredible-rise-of-como\" their stunning bid for Ch"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/10/european-football-como-psg-roma-milan",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 10 May 2026 15:53:23 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/10/crystal-palace-everton-premier-league-match-report",
-      "title": {
-        "ar": "Everton’s European hopes hit after Mateta’s equaliser for Crystal Palace",
-        "en": "Everton’s European hopes hit after Mateta’s equaliser for Crystal Palace"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p David Moyes’s European dream is now hanging by a slender thread. Against a Crystal Palace side who have been distracted by their a href=\"https://www.theguardian.com/football/2026/may/07/crystal-palace-shakhtar-donetsk-conference-league-match-report\" Conference League exploits /a , Everton were unable to take their opportunity to close the gap on ",
-        "en": "p David Moyes’s European dream is now hanging by a slender thread. Against a Crystal Palace side who have been distracted by their a href=\"https://www.theguardian.com/football/2026/may/07/crystal-palace-shakhtar-donetsk-conference-league-match-report\" Conference League exploits /a , Everton were unable to take their opportunity to close the gap on "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/10/crystal-palace-everton-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 10 May 2026 15:11:38 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/10/nottingham-forest-newcastle-premier-league-match-report",
-      "title": {
-        "ar": "Anderson stuns former club Newcastle with late equaliser as Forest seal safety",
-        "en": "Anderson stuns former club Newcastle with late equaliser as Forest seal safety"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Where did Elliot Anderson find the strength to score the goal that ­ultimately enabled Nottingham Forest to retain their Premier League status? Not only did he show incredible endeavour to start and finish the decisive move, propelling into the six-yard box with a couple of minutes of time to run, but the England midfielder, an ever-present for F",
-        "en": "p Where did Elliot Anderson find the strength to score the goal that ­ultimately enabled Nottingham Forest to retain their Premier League status? Not only did he show incredible endeavour to start and finish the decisive move, propelling into the six-yard box with a couple of minutes of time to run, but the England midfielder, an ever-present for F"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/10/nottingham-forest-newcastle-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 10 May 2026 15:10:21 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/10/burnley-aston-villa-premier-league-match-report",
-      "title": {
-        "ar": "Aston Villa frustrated by Zian Flemming strike as Burnley rally for rare point",
-        "en": "Aston Villa frustrated by Zian Flemming strike as Burnley rally for rare point"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p It was always going to be difficult to follow up the high of booking a Europa League final place for Aston Villa but a tired draw at Burnley fell below expectations. This was supposed to be the day Villa all-but-secured Champions League football by beating an already-relegated team but instead were held on an entertaining afternoon at Turf Moor .",
-        "en": "p It was always going to be difficult to follow up the high of booking a Europa League final place for Aston Villa but a tired draw at Burnley fell below expectations. This was supposed to be the day Villa all-but-secured Champions League football by beating an already-relegated team but instead were held on an entertaining afternoon at Turf Moor ."
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/10/burnley-aston-villa-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 10 May 2026 15:04:10 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/10/southampton-spygate-middlesbrough-championship-playoffs",
-      "title": {
-        "ar": "More Championship clubs fear they have been targets of Southampton’s spying",
-        "en": "More Championship clubs fear they have been targets of Southampton’s spying"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Middlesbrough apprehended alleged spy last week /p /li li p Saints may claim that the offender was an intern /p /li /ul p Middlesbrough have been approached by fellow Championship clubs who harbour suspicions that their pre-match training sessions may also have been spied on by Southampton. /p p The English Football League has a href=\"https",
-        "en": "ul li p Middlesbrough apprehended alleged spy last week /p /li li p Saints may claim that the offender was an intern /p /li /ul p Middlesbrough have been approached by fellow Championship clubs who harbour suspicions that their pre-match training sessions may also have been spied on by Southampton. /p p The English Football League has a href=\"https"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/10/southampton-spygate-middlesbrough-championship-playoffs",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 10 May 2026 14:21:09 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/10/liverpool-brighton-womens-fa-cup-semi-final-match-report",
-      "title": {
-        "ar": "Noordam stuns Liverpool to send Brighton into Women’s FA Cup final",
-        "en": "Noordam stuns Liverpool to send Brighton into Women’s FA Cup final"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Deep in stoppage time, Dario Vidosic’s staff tried to ask him about plans for extra time, but the Brighton head coach had a feeling. “Just wait ... I feel like it’s coming here.” He was right. Nadine Noordam pounced on a loose ball in the box from a free-kick and completed a remarkable comeback to book Brighton a place at Wembley for the first ti",
-        "en": "p Deep in stoppage time, Dario Vidosic’s staff tried to ask him about plans for extra time, but the Brighton head coach had a feeling. “Just wait ... I feel like it’s coming here.” He was right. Nadine Noordam pounced on a loose ball in the box from a free-kick and completed a remarkable comeback to book Brighton a place at Wembley for the first ti"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/10/liverpool-brighton-womens-fa-cup-semi-final-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 10 May 2026 13:16:53 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/10/fifa-world-cup-terrorism-risk-iran-war",
-      "title": {
-        "ar": "Fifa World Cup matches face heightened terror risk in US amid Iran conflict",
-        "en": "Fifa World Cup matches face heightened terror risk in US amid Iran conflict"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Experts warn of ‘soft target’ vulnerabilities and intelligence gaps as federal agencies prepare to secure 78 matches across 11 cities /p p a href=\"https://www.theguardian.com/football/fifa\" Fifa /a World Cup matches set to be held across the United States face heightened terrorism risks, with experts warning that vulnerabilities are being amplifi",
-        "en": "p Experts warn of ‘soft target’ vulnerabilities and intelligence gaps as federal agencies prepare to secure 78 matches across 11 cities /p p a href=\"https://www.theguardian.com/football/fifa\" Fifa /a World Cup matches set to be held across the United States face heightened terrorism risks, with experts warning that vulnerabilities are being amplifi"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/10/fifa-world-cup-terrorism-risk-iran-war",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 10 May 2026 12:00:26 GMT",
       "rewritten": false,
       "lang": "en"
     }
