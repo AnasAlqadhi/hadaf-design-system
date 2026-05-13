@@ -1,8 +1,133 @@
 {
   "version": 2,
-  "updated": "2026-05-13T14:49:10.541Z",
+  "updated": "2026-05-13T20:03:28.675Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/watch/video/13543709/goal-o-marmoush-40-manchester-city-2-0-crystal-palace",
+      "title": {
+        "ar": "Marmoush doubles City's lead to keep pressure on league leaders Arsenal",
+        "en": "Marmoush doubles City's lead to keep pressure on league leaders Arsenal"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-goal-city_7247998.jpg?20260513205232",
+      "url": "https://www.skysports.com/watch/video/13543709/goal-o-marmoush-40-manchester-city-2-0-crystal-palace",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 13 May 2026 20:44:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/may/13/hearts-v-falkirk-motherwell-v-celtic-scottish-premiership-live",
+      "title": {
+        "ar": "Hearts v Falkirk, Motherwell v Celtic: Scottish Premiership – live",
+        "en": "Hearts v Falkirk, Motherwell v Celtic: Scottish Premiership – live"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p ⚽ Updates on a crucial night in the Scottish Premiership br ⚽ a href=\"https://www.theguardian.com/football/live\" Live scores /a | a href=\"https://www.theguardian.com/football/scottish-premiership/table\" Table /a | a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" Read Football Daily /a | a href=\"mailto:simon.burnt",
+        "en": "p ⚽ Updates on a crucial night in the Scottish Premiership br ⚽ a href=\"https://www.theguardian.com/football/live\" Live scores /a | a href=\"https://www.theguardian.com/football/scottish-premiership/table\" Table /a | a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" Read Football Daily /a | a href=\"mailto:simon.burnt"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/may/13/hearts-v-falkirk-motherwell-v-celtic-scottish-premiership-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 13 May 2026 19:48:49 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/may/13/manchester-city-v-crystal-palace-premier-league-live",
+      "title": {
+        "ar": "Manchester City v Crystal Palace: Premier League – live",
+        "en": "Manchester City v Crystal Palace: Premier League – live"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p ⚽ Updates from the 8pm BST kick-off at the Etihad br ⚽ a href=\"https://www.theguardian.com/football/live\" Scores /a | a href=\"https://www.theguardian.com/football/premierleague/table\" Table /a | a href=\"https://bsky.app/profile/sport.theguardian.com\" Follow us on Bluesky /a | a href=\"mailto:michael.butler@theguardian.com\" Mail Michael /a /p p str",
+        "en": "p ⚽ Updates from the 8pm BST kick-off at the Etihad br ⚽ a href=\"https://www.theguardian.com/football/live\" Scores /a | a href=\"https://www.theguardian.com/football/premierleague/table\" Table /a | a href=\"https://bsky.app/profile/sport.theguardian.com\" Follow us on Bluesky /a | a href=\"mailto:michael.butler@theguardian.com\" Mail Michael /a /p p str"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/may/13/manchester-city-v-crystal-palace-premier-league-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 13 May 2026 19:48:45 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/13/world-cup-bonds-for-travelers-suspended",
+      "title": {
+        "ar": "Fans from five African World Cup countries will no longer face $15,000 bond to enter US",
+        "en": "Fans from five African World Cup countries will no longer face $15,000 bond to enter US"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p State department grants waiver for ticket holders /p /li li p Trump administration has cracked down on immigration /p /li /ul p The Trump administration is suspending a requirement that would have required visitors from five World Cup-qualified countries to a href=\"https://www.theguardian.com/football/2026/mar/25/fans-and-players-from-five-",
+        "en": "ul li p State department grants waiver for ticket holders /p /li li p Trump administration has cracked down on immigration /p /li /ul p The Trump administration is suspending a requirement that would have required visitors from five World Cup-qualified countries to a href=\"https://www.theguardian.com/football/2026/mar/25/fans-and-players-from-five-"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/13/world-cup-bonds-for-travelers-suspended",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 13 May 2026 17:37:27 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/13/manchester-united-michael-carrick-talks-permanent-head-coach",
+      "title": {
+        "ar": "Manchester United set for talks to make Michael Carrick permanent head coach",
+        "en": "Manchester United set for talks to make Michael Carrick permanent head coach"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Carrick has accrued 33 points from 15 league matches /p /li li p United hierarchy unconcerned by relative inexperience /p /li /ul p Manchester United will open ­formal discussions with Michael Carrick with a view to appointing him a href=\"https://www.theguardian.com/football/2026/may/07/michael-carrick-admits-clarity-important-manchester-un",
+        "en": "ul li p Carrick has accrued 33 points from 15 league matches /p /li li p United hierarchy unconcerned by relative inexperience /p /li /ul p Manchester United will open ­formal discussions with Michael Carrick with a view to appointing him a href=\"https://www.theguardian.com/football/2026/may/07/michael-carrick-admits-clarity-important-manchester-un"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/13/manchester-united-michael-carrick-talks-permanent-head-coach",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 13 May 2026 16:44:45 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/darts/news/12040/13535556/premier-league-darts-permutations-luke-humphries-chasing-down-michael-van-gerwen-or-gerwyn-price-for-play-off-spot",
       "title": {
@@ -575,81 +700,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Mon, 11 May 2026 17:27:27 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1950,56 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Mon, 11 May 2026 12:43:05 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/11/myles-lewis-skelly-writing-his-own-scripts-arsenal",
-      "title": {
-        "ar": "‘It’s how you bounce back from adversity’: Myles Lewis-Skelly back and writing his own scripts",
-        "en": "‘It’s how you bounce back from adversity’: Myles Lewis-Skelly back and writing his own scripts"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p After a tough season the 19-year-old has made his mark in Arsenal’s midfield at a crucial stage /p p The way Myles Lewis-Skelly framed the story, it was akin to an act of God. And what about Ian Wright? The Arsenal club legend can be relied upon for heart-on-the-sleeve hyperbole and did not disappoint on Sunday as he reflected on the West Ham goa",
-        "en": "p After a tough season the 19-year-old has made his mark in Arsenal’s midfield at a crucial stage /p p The way Myles Lewis-Skelly framed the story, it was akin to an act of God. And what about Ian Wright? The Arsenal club legend can be relied upon for heart-on-the-sleeve hyperbole and did not disappoint on Sunday as he reflected on the West Ham goa"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/11/myles-lewis-skelly-writing-his-own-scripts-arsenal",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 11 May 2026 11:47:44 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/11/ac-milan-serie-a-champions-league-paolo-maldini",
-      "title": {
-        "ar": "Maldini’s ghost hangs over uninspiring Milan as top-four place slips from view | Nicky Bandini",
-        "en": "Maldini’s ghost hangs over uninspiring Milan as top-four place slips from view | Nicky Bandini"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p San Siro emptied early after supporters once again sang the former director’s name as club faces lack of Champions League football … again /p p There were more than seven minutes left to play, plus injury time, in a crucial end-of-season game, yet San Siro was already half empty. Milan’s Ultras had deserted the em Curva Sud /em to prepare a post-",
-        "en": "p San Siro emptied early after supporters once again sang the former director’s name as club faces lack of Champions League football … again /p p There were more than seven minutes left to play, plus injury time, in a crucial end-of-season game, yet San Siro was already half empty. Milan’s Ultras had deserted the em Curva Sud /em to prepare a post-"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/11/ac-milan-serie-a-champions-league-paolo-maldini",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 11 May 2026 11:39:43 GMT",
       "rewritten": false,
       "lang": "en"
     }
