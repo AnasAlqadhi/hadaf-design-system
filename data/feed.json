@@ -1,8 +1,208 @@
 {
   "version": 2,
-  "updated": "2026-05-12T20:01:49.596Z",
+  "updated": "2026-05-13T03:56:50.632Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/watch/video/13543328/cristiano-ronaldo-stunned-as-goalkeeper-howler-denies-long-awaited-al-nassr-title",
+      "title": {
+        "ar": "Ronaldo left STUNNED as goalkeeper HOWLER denies long-awaited Al Nassr title!",
+        "en": "Ronaldo left STUNNED as goalkeeper HOWLER denies long-awaited Al Nassr title!"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-ronaldo-titke_7246967.jpg?20260512225014",
+      "url": "https://www.skysports.com/watch/video/13543328/cristiano-ronaldo-stunned-as-goalkeeper-howler-denies-long-awaited-al-nassr-title",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 12 May 2026 22:37:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48751227/late-bento-gaffe-costs-ronaldo-al-nassr-chance-clinch",
+      "title": {
+        "ar": "Late gaffe costs Ronaldo, Al Nassr chance to clinc...",
+        "en": "Late gaffe costs Ronaldo, Al Nassr chance to clinc..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48751227/late-bento-gaffe-costs-ronaldo-al-nassr-chance-clinch",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 12 May 2026 22:21:27 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/12/guardiola-wants-city-players-to-raise-their-game-rather-than-trust-flip-of-a-coin-officials",
+      "title": {
+        "ar": "Guardiola wants City players to raise their game rather than trust ‘flip of a coin’ officials",
+        "en": "Guardiola wants City players to raise their game rather than trust ‘flip of a coin’ officials"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Manager says ‘referees didn’t do their job’ in FA Cup finals /p /li li p Khusanov and Rodri doubts for crucial match with Palace /p /li /ul p Pep Guardiola believes officiating decisions are a “flip of a coin” and constantly urges his Manchester City players to perform better in order to overcome this. /p p Refereeing and the use of the vid",
+        "en": "ul li p Manager says ‘referees didn’t do their job’ in FA Cup finals /p /li li p Khusanov and Rodri doubts for crucial match with Palace /p /li /ul p Pep Guardiola believes officiating decisions are a “flip of a coin” and constantly urges his Manchester City players to perform better in order to overcome this. /p p Refereeing and the use of the vid"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/12/guardiola-wants-city-players-to-raise-their-game-rather-than-trust-flip-of-a-coin-officials",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 21:35:28 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/12/real-madrid-president-florentino-perez-calls-for-elections-in-bizarre-rant-media",
+      "title": {
+        "ar": "Real Madrid president Florentino Pérez calls for elections in bizarre rant",
+        "en": "Real Madrid president Florentino Pérez calls for elections in bizarre rant"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Club president launches scathing attack on media /p /li li p No mention of turmoil, fights or José Mourinho /p /li /ul p “Good afternoon, I regret to inform you that I’m not going to resign.” In a hot, packed press room at Valdebebas before an audience hurriedly summoned to witness a news conference so bizarre that they could barely believe",
+        "en": "ul li p Club president launches scathing attack on media /p /li li p No mention of turmoil, fights or José Mourinho /p /li /ul p “Good afternoon, I regret to inform you that I’m not going to resign.” In a hot, packed press room at Valdebebas before an audience hurriedly summoned to witness a news conference so bizarre that they could barely believe"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/12/real-madrid-president-florentino-perez-calls-for-elections-in-bizarre-rant-media",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 21:30:16 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48720758/anfield-losing-patience-liverpool-slot-chelsea-snap-streak",
+      "title": {
+        "ar": "Anfield losing patience with Liverpool's Slot; Che...",
+        "en": "Anfield losing patience with Liverpool's Slot; Che..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48720758/anfield-losing-patience-liverpool-slot-chelsea-snap-streak",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 11 May 2026 17:27:27 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/watch/video/13543121/match-officials-micd-up-listen-in-on-the-var-audio-after-benjamin-sesko-scored-against-liverpool",
       "title": {
@@ -1800,206 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Mon, 11 May 2026 03:58:08 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48733536/arsenal-hold-their-nerve-the-brink-premier-league-title",
-      "title": {
-        "ar": "Arsenal win could catapult them to Premier League ...",
-        "en": "Arsenal win could catapult them to Premier League ..."
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48733536/arsenal-hold-their-nerve-the-brink-premier-league-title",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 11 May 2026 03:19:16 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48735602/barcelona-cap-title-winning-season-historic-clasico-win",
-      "title": {
-        "ar": "Barcelona cap off LaLiga title with historic Clási...",
-        "en": "Barcelona cap off LaLiga title with historic Clási..."
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48735602/barcelona-cap-title-winning-season-historic-clasico-win",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 11 May 2026 03:17:42 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48733610/arteta-says-brave-var-call-alter-arsenal-history",
-      "title": {
-        "ar": "Arteta: 'Brave' VAR call could alter Arsenal histo...",
-        "en": "Arteta: 'Brave' VAR call could alter Arsenal histo..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48733610/arteta-says-brave-var-call-alter-arsenal-history",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 11 May 2026 03:13:48 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48735859/hansi-flick-mourns-father-day-barcelona-clinch-laliga",
-      "title": {
-        "ar": "'Tough day:' Flick mourns dad as Barça win LaLiga",
-        "en": "'Tough day:' Flick mourns dad as Barça win LaLiga"
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48735859/hansi-flick-mourns-father-day-barcelona-clinch-laliga",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 11 May 2026 03:13:48 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48732180/cesc-fabregas-como-secure-spot-european-football-win-verona",
-      "title": {
-        "ar": "Fabregas' Como beat Verona, clinch European spot",
-        "en": "Fabregas' Como beat Verona, clinch European spot"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48732180/cesc-fabregas-como-secure-spot-european-football-win-verona",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 11 May 2026 03:13:48 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
-      "title": {
-        "ar": "🤕Injury tracker: Who will miss 2026 World Cup?",
-        "en": "🤕Injury tracker: Who will miss 2026 World Cup?"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 11 May 2026 03:13:48 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/11/antonin-kinsky-roberto-de-zerbi-spurs-premier-league-survival",
-      "title": {
-        "ar": "Tottenham hope to exorcise demons just as Kinsky has done after Atlético debacle",
-        "en": "Tottenham hope to exorcise demons just as Kinsky has done after Atlético debacle"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Goalkeeper has begun to rebuild his reputation under Roberto De Zerbi, whose attitude has helped Spurs in fight for Premier League survival /p p When Antonin Kinsky had his a href=\"https://www.theguardian.com/football/2026/mar/10/humiliation-for-kinsky-as-tottenham-are-thrashed-by-atletico-madrid\" Madrid episode /a , there was an assumption that ",
-        "en": "p Goalkeeper has begun to rebuild his reputation under Roberto De Zerbi, whose attitude has helped Spurs in fight for Premier League survival /p p When Antonin Kinsky had his a href=\"https://www.theguardian.com/football/2026/mar/10/humiliation-for-kinsky-as-tottenham-are-thrashed-by-atletico-madrid\" Madrid episode /a , there was an assumption that "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/11/antonin-kinsky-roberto-de-zerbi-spurs-premier-league-survival",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 11 May 2026 06:09:30 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/11/premier-league-10-talking-points-from-the-weekends-action",
-      "title": {
-        "ar": "Premier League: 10 talking points from the weekend’s action",
-        "en": "Premier League: 10 talking points from the weekend’s action"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Jérémy Doku finds the net again, Joshua Zirkzee struggles at Sunderland and Ismaïla Sarr is fulfilling his potential /p p When Bruno Fernandes became the Football Writers’ Association player of the year on Friday, Declan Rice and David Raya could have been forgiven for feeling a touch aggrieved. They have been essential to Arsenal’s bid for a Pre",
-        "en": "p Jérémy Doku finds the net again, Joshua Zirkzee struggles at Sunderland and Ismaïla Sarr is fulfilling his potential /p p When Bruno Fernandes became the Football Writers’ Association player of the year on Friday, Declan Rice and David Raya could have been forgiven for feeling a touch aggrieved. They have been essential to Arsenal’s bid for a Pre"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/11/premier-league-10-talking-points-from-the-weekends-action",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 11 May 2026 06:09:16 GMT",
       "rewritten": false,
       "lang": "en"
     }
