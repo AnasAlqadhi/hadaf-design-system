@@ -1,8 +1,83 @@
 {
   "version": 2,
-  "updated": "2026-05-13T08:52:27.006Z",
+  "updated": "2026-05-13T14:49:10.541Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/darts/news/12040/13535556/premier-league-darts-permutations-luke-humphries-chasing-down-michael-van-gerwen-or-gerwyn-price-for-play-off-spot",
+      "title": {
+        "ar": "How Premier League Darts Play-Off spots could be decided on Thursday",
+        "en": "How Premier League Darts Play-Off spots could be decided on Thursday"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-luke-humphries-premier-league-darts_7242011.jpg?20260508022503",
+      "url": "https://www.skysports.com/darts/news/12040/13535556/premier-league-darts-permutations-luke-humphries-chasing-down-michael-van-gerwen-or-gerwyn-price-for-play-off-spot",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 13 May 2026 14:40:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13543070/world-cup-2026-squad-lists-england-scotland-brazil-usa-spain-france-germany-netherlands-argentina-portugal-and-more",
+      "title": {
+        "ar": "World Cup squads: England and Scotland set to announce selections",
+        "en": "World Cup squads: England and Scotland set to announce selections"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/25/12/1920x1080/skysports-tuchel-clarke-steve_7100741.jpg?20251204110914",
+      "url": "https://www.skysports.com/football/news/12040/13543070/world-cup-2026-squad-lists-england-scotland-brazil-usa-spain-france-germany-netherlands-argentina-portugal-and-more",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 12 May 2026 12:01:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/13/liverpool-arne-slot-time-change-league-title-defence",
+      "title": {
+        "ar": "Should Liverpool stick with Arne Slot or is it time for a change?",
+        "en": "Should Liverpool stick with Arne Slot or is it time for a change?"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Slot won the league in his first season but Liverpool’s title defence has been disappointing. Should he stay or go? /p p By a href=\"https://theanalyst.com/\" Opta Analyst /a /p p The rare sound of boos rang out at Anfield after the final whistle on Saturday. Normally, that would be an extreme response to a href=\"https://www.theguardian.com/footbal",
+        "en": "p Slot won the league in his first season but Liverpool’s title defence has been disappointing. Should he stay or go? /p p By a href=\"https://theanalyst.com/\" Opta Analyst /a /p p The rare sound of boos rang out at Anfield after the final whistle on Saturday. Normally, that would be an extreme response to a href=\"https://www.theguardian.com/footbal"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/13/liverpool-arne-slot-time-change-league-title-defence",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 13 May 2026 11:00:08 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.theguardian.com/football/2026/may/13/manchester-city-women-new-training-facility",
       "title": {
@@ -104,31 +179,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.skysports.com/watch/video/13543328/cristiano-ronaldo-stunned-as-goalkeeper-howler-denies-long-awaited-al-nassr-title",
-      "title": {
-        "ar": "Ronaldo left STUNNED as goalkeeper HOWLER denies long-awaited Al Nassr title!",
-        "en": "Ronaldo left STUNNED as goalkeeper HOWLER denies long-awaited Al Nassr title!"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-ronaldo-titke_7246967.jpg?20260512225014",
-      "url": "https://www.skysports.com/watch/video/13543328/cristiano-ronaldo-stunned-as-goalkeeper-howler-denies-long-awaited-al-nassr-title",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 12 May 2026 22:37:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.espn.com/soccer/story/_/id/48751227/late-bento-gaffe-costs-ronaldo-al-nassr-chance-clinch",
       "title": {
         "ar": "Late gaffe costs Ronaldo, Al Nassr chance to clinc...",
@@ -204,6 +254,306 @@
       "lang": "en"
     },
     {
+      "id": "https://www.espn.com/soccer/story/_/id/48750092/roger-milla-record-world-cup-oldest-player-broken-qatar-striker-42",
+      "title": {
+        "ar": "World Cup age record to be broken by striker, 42",
+        "en": "World Cup age record to be broken by striker, 42"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48750092/roger-milla-record-world-cup-oldest-player-broken-qatar-striker-42",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 12 May 2026 15:22:10 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/12/chelsea-optimistic-about-luring-xabi-alonso-but-are-also-eyeing-andoni-iraola",
+      "title": {
+        "ar": "Chelsea optimistic about luring Xabi Alonso but are also eyeing Andoni Iraola",
+        "en": "Chelsea optimistic about luring Xabi Alonso but are also eyeing Andoni Iraola"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Club also interested in Silva, Glasner and Filipe Luís /p /li li p Alonso undecided on future after leaving Real Madrid /p /li /ul p Chelsea have held encouraging discussions over a move for Xabi Alonso but are keeping their options open and are closely monitoring Andoni Iraola’s situation. /p p The west London club are looking for a perman",
+        "en": "ul li p Club also interested in Silva, Glasner and Filipe Luís /p /li li p Alonso undecided on future after leaving Real Madrid /p /li /ul p Chelsea have held encouraging discussions over a move for Xabi Alonso but are keeping their options open and are closely monitoring Andoni Iraola’s situation. /p p The west London club are looking for a perman"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/12/chelsea-optimistic-about-luring-xabi-alonso-but-are-also-eyeing-andoni-iraola",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 19:02:57 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/12/howard-webb-var-west-ham-arsenal-callum-wilson-pablo-david-raya",
+      "title": {
+        "ar": "Howard Webb praises VAR process in ruling out West Ham equaliser against Arsenal",
+        "en": "Howard Webb praises VAR process in ruling out West Ham equaliser against Arsenal"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "ul li p Wilson goal chalked off for Pablo’s foul on Raya /p /li li p Webb: ‘On the video, it’s clear and it’s obvious’ /p /li /ul p Howard Webb has commended the process that led to a href=\"https://www.theguardian.com/football/2026/may/11/arsenal-west-ham-premier-league-referees-var\" West Ham’s equaliser against Arsenal /a on Sunday being overturne",
+        "en": "ul li p Wilson goal chalked off for Pablo’s foul on Raya /p /li li p Webb: ‘On the video, it’s clear and it’s obvious’ /p /li /ul p Howard Webb has commended the process that led to a href=\"https://www.theguardian.com/football/2026/may/11/arsenal-west-ham-premier-league-referees-var\" West Ham’s equaliser against Arsenal /a on Sunday being overturne"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/12/howard-webb-var-west-ham-arsenal-callum-wilson-pablo-david-raya",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 18:31:07 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/12/arsenal-ben-white-to-miss-remainder-of-season-and-world-cup-with-knee-injury",
+      "title": {
+        "ar": "Arsenal’s Ben White ruled out for rest of season and facing World Cup woe",
+        "en": "Arsenal’s Ben White ruled out for rest of season and facing World Cup woe"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Defender sustained ‘significant medial ligament injury’ /p /li li p Arsenal without both right-backs with Timber also out /p /li /ul p Ben White’s World Cup hopes appear to be over after Arsenal said the ­England defender would miss the rest of the season owing to a knee injury sustained in their a href=\"https://www.theguardian.com/football",
+        "en": "ul li p Defender sustained ‘significant medial ligament injury’ /p /li li p Arsenal without both right-backs with Timber also out /p /li /ul p Ben White’s World Cup hopes appear to be over after Arsenal said the ­England defender would miss the rest of the season owing to a knee injury sustained in their a href=\"https://www.theguardian.com/football"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/12/arsenal-ben-white-to-miss-remainder-of-season-and-world-cup-with-knee-injury",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 16:56:39 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48677225/fifa-world-cup-power-rankings-spain-brazil-germany-england-argentina",
+      "title": {
+        "ar": "World Cup Power Rankings: Who are the front-runners with 30 days to go?",
+        "en": "World Cup Power Rankings: Who are the front-runners with 30 days to go?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48677225/fifa-world-cup-power-rankings-spain-brazil-germany-england-argentina",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 12 May 2026 09:54:04 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48749214/psg-ousmane-dembele-wins-ligue-1-award-starting-just-nine-games",
+      "title": {
+        "ar": "Dembélé named Ligue 1 POTY despite 9 starts",
+        "en": "Dembélé named Ligue 1 POTY despite 9 starts"
+      },
+      "kicker": {
+        "ar": "الدوري الفرنسي",
+        "en": "Ligue 1"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48749214/psg-ousmane-dembele-wins-ligue-1-award-starting-just-nine-games",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 12 May 2026 09:44:33 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48748296/lionel-messi-included-argentina-55-player-provisional-world-cup-squad",
+      "title": {
+        "ar": "Messi in Argentina provisional World Cup squad",
+        "en": "Messi in Argentina provisional World Cup squad"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48748296/lionel-messi-included-argentina-55-player-provisional-world-cup-squad",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 12 May 2026 09:44:33 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/film/2026/may/12/stormzy-producing-ian-wright-biopic",
+      "title": {
+        "ar": "‘He’s inspired generations’: Stormzy to produce biopic about football great Ian Wright",
+        "en": "‘He’s inspired generations’: Stormzy to produce biopic about football great Ian Wright"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The Crystal Palace, Arsenal and England striker says his life story – now in development with the rapper’s Merky Films – has ‘hard-hitting moments, but in the end I want it to give people hope and joy’ /p p Stormzy has announced he is to produce a biopic of former Arsenal, Crystal Palace and England striker Ian Wright. /p p Wright, who successful",
+        "en": "p The Crystal Palace, Arsenal and England striker says his life story – now in development with the rapper’s Merky Films – has ‘hard-hitting moments, but in the end I want it to give people hope and joy’ /p p Stormzy has announced he is to produce a biopic of former Arsenal, Crystal Palace and England striker Ian Wright. /p p Wright, who successful"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/film/2026/may/12/stormzy-producing-ian-wright-biopic",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 13:47:41 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/12/world-cup-2026-pundits-bbc-itv-thomas-frank-ange-postecoglou",
+      "title": {
+        "ar": "Frank and Postecoglou going head to head as BBC and ITV pundits for World Cup",
+        "en": "Frank and Postecoglou going head to head as BBC and ITV pundits for World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p BBC to add Giroud to regular panel, including Frank /p /li li p Postecoglou will join ITV, who show England opener /p /li /ul p Former Tottenham managers Ange Postecoglou and Thomas Frank will go head to head in the TV studio this summer as rival World Cup pundits. The Guardian has learned that Frank has signed a deal with BBC Sport as one ",
+        "en": "ul li p BBC to add Giroud to regular panel, including Frank /p /li li p Postecoglou will join ITV, who show England opener /p /li /ul p Former Tottenham managers Ange Postecoglou and Thomas Frank will go head to head in the TV studio this summer as rival World Cup pundits. The Guardian has learned that Frank has signed a deal with BBC Sport as one "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/12/world-cup-2026-pundits-bbc-itv-thomas-frank-ange-postecoglou",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 11:45:49 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48739869/real-madrid-downward-spiral-infighting-disarray-no-trophies",
+      "title": {
+        "ar": "Inside Real Madrid's downward spiral into infighting, disarray and -- worst of all -- no trophies",
+        "en": "Inside Real Madrid's downward spiral into infighting, disarray and -- worst of all -- no trophies"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48739869/real-madrid-downward-spiral-infighting-disarray-no-trophies",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 12 May 2026 05:42:41 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/picture/2026/may/12/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages",
+      "title": {
+        "ar": "David Squires on … Arsenal, West Ham and a Royal Rumble for the ages",
+        "en": "David Squires on … Arsenal, West Ham and a Royal Rumble for the ages"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Our cartoonist on the Premier League title potentially being decided by a lengthy VAR check after grappling /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires/products/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages\" strong Buy this cartoon here /strong /a strong | /strong a href=\"https://www.theguardian.",
+        "en": "p Our cartoonist on the Premier League title potentially being decided by a lengthy VAR check after grappling /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires/products/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages\" strong Buy this cartoon here /strong /a strong | /strong a href=\"https://www.theguardian."
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/picture/2026/may/12/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 10:02:36 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/12/southampton-launch-internal-review-middlesbrough-spying-allegations",
+      "title": {
+        "ar": "Southampton launch internal review into Middlesbrough spying allegations",
+        "en": "Southampton launch internal review into Middlesbrough spying allegations"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Saints ‘request time to complete process thoroughly’ /p /li li p Playoff semi-final second leg at St Mary’s on Tuesday /p /li /ul p Southampton have confirmed they have launched an internal review into allegations that one of their analysts spied on a Middlesbrough training session. Southampton, who host Boro in their playoff semi-final sec",
+        "en": "ul li p Saints ‘request time to complete process thoroughly’ /p /li li p Playoff semi-final second leg at St Mary’s on Tuesday /p /li /ul p Southampton have confirmed they have launched an internal review into allegations that one of their analysts spied on a Middlesbrough training session. Southampton, who host Boro in their playoff semi-final sec"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/12/southampton-launch-internal-review-middlesbrough-spying-allegations",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 12 May 2026 09:45:03 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
       "id": "https://www.espn.com/soccer/story/_/id/48720758/anfield-losing-patience-liverpool-slot-chelsea-snap-streak",
       "title": {
         "ar": "Anfield losing patience with Liverpool's Slot; Che...",
@@ -225,6 +575,106 @@
         "en": "ESPN FC"
       },
       "pubDate": "Mon, 11 May 2026 17:27:27 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13543328/cristiano-ronaldo-stunned-as-goalkeeper-howler-denies-long-awaited-al-nassr-title",
+      "title": {
+        "ar": "Ronaldo left STUNNED as goalkeeper HOWLER denies long-awaited Al Nassr title!",
+        "en": "Ronaldo left STUNNED as goalkeeper HOWLER denies long-awaited Al Nassr title!"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-ronaldo-titke_7246967.jpg?20260512225014",
+      "url": "https://www.skysports.com/watch/video/13543328/cristiano-ronaldo-stunned-as-goalkeeper-howler-denies-long-awaited-al-nassr-title",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 12 May 2026 22:37:00 BST",
       "rewritten": false,
       "lang": "en"
     },
@@ -354,31 +804,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.espn.com/soccer/story/_/id/48750092/roger-milla-record-world-cup-oldest-player-broken-qatar-striker-42",
-      "title": {
-        "ar": "World Cup age record to be broken by striker, 42",
-        "en": "World Cup age record to be broken by striker, 42"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48750092/roger-milla-record-world-cup-oldest-player-broken-qatar-striker-42",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 12 May 2026 15:22:10 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.theguardian.com/football/live/2026/may/12/southampton-v-middlesbrough-championship-playoff-semi-final-second-leg-live",
       "title": {
         "ar": "Southampton v Middlesbrough: Championship playoff semi-final, second leg – live",
@@ -400,31 +825,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Tue, 12 May 2026 19:40:19 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/12/chelsea-optimistic-about-luring-xabi-alonso-but-are-also-eyeing-andoni-iraola",
-      "title": {
-        "ar": "Chelsea optimistic about luring Xabi Alonso but are also eyeing Andoni Iraola",
-        "en": "Chelsea optimistic about luring Xabi Alonso but are also eyeing Andoni Iraola"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Club also interested in Silva, Glasner and Filipe Luís /p /li li p Alonso undecided on future after leaving Real Madrid /p /li /ul p Chelsea have held encouraging discussions over a move for Xabi Alonso but are keeping their options open and are closely monitoring Andoni Iraola’s situation. /p p The west London club are looking for a perman",
-        "en": "ul li p Club also interested in Silva, Glasner and Filipe Luís /p /li li p Alonso undecided on future after leaving Real Madrid /p /li /ul p Chelsea have held encouraging discussions over a move for Xabi Alonso but are keeping their options open and are closely monitoring Andoni Iraola’s situation. /p p The west London club are looking for a perman"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/12/chelsea-optimistic-about-luring-xabi-alonso-but-are-also-eyeing-andoni-iraola",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 19:02:57 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -454,31 +854,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.theguardian.com/football/2026/may/12/howard-webb-var-west-ham-arsenal-callum-wilson-pablo-david-raya",
-      "title": {
-        "ar": "Howard Webb praises VAR process in ruling out West Ham equaliser against Arsenal",
-        "en": "Howard Webb praises VAR process in ruling out West Ham equaliser against Arsenal"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "ul li p Wilson goal chalked off for Pablo’s foul on Raya /p /li li p Webb: ‘On the video, it’s clear and it’s obvious’ /p /li /ul p Howard Webb has commended the process that led to a href=\"https://www.theguardian.com/football/2026/may/11/arsenal-west-ham-premier-league-referees-var\" West Ham’s equaliser against Arsenal /a on Sunday being overturne",
-        "en": "ul li p Wilson goal chalked off for Pablo’s foul on Raya /p /li li p Webb: ‘On the video, it’s clear and it’s obvious’ /p /li /ul p Howard Webb has commended the process that led to a href=\"https://www.theguardian.com/football/2026/may/11/arsenal-west-ham-premier-league-referees-var\" West Ham’s equaliser against Arsenal /a on Sunday being overturne"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/12/howard-webb-var-west-ham-arsenal-callum-wilson-pablo-david-raya",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 18:31:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.theguardian.com/football/2026/may/12/dick-advocaat-returns-curacao-world-cup-2026-adventure",
       "title": {
         "ar": "Dick Advocaat returns to Curaçao job in time for World Cup 2026 adventure",
@@ -500,31 +875,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Tue, 12 May 2026 17:10:16 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/12/arsenal-ben-white-to-miss-remainder-of-season-and-world-cup-with-knee-injury",
-      "title": {
-        "ar": "Arsenal’s Ben White ruled out for rest of season and facing World Cup woe",
-        "en": "Arsenal’s Ben White ruled out for rest of season and facing World Cup woe"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Defender sustained ‘significant medial ligament injury’ /p /li li p Arsenal without both right-backs with Timber also out /p /li /ul p Ben White’s World Cup hopes appear to be over after Arsenal said the ­England defender would miss the rest of the season owing to a knee injury sustained in their a href=\"https://www.theguardian.com/football",
-        "en": "ul li p Defender sustained ‘significant medial ligament injury’ /p /li li p Arsenal without both right-backs with Timber also out /p /li /ul p Ben White’s World Cup hopes appear to be over after Arsenal said the ­England defender would miss the rest of the season owing to a knee injury sustained in their a href=\"https://www.theguardian.com/football"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/12/arsenal-ben-white-to-miss-remainder-of-season-and-world-cup-with-knee-injury",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 16:56:39 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -579,56 +929,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.espn.com/soccer/story/_/id/48677225/fifa-world-cup-power-rankings-spain-brazil-germany-england-argentina",
-      "title": {
-        "ar": "World Cup Power Rankings: Who are the front-runners with 30 days to go?",
-        "en": "World Cup Power Rankings: Who are the front-runners with 30 days to go?"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48677225/fifa-world-cup-power-rankings-spain-brazil-germany-england-argentina",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 12 May 2026 09:54:04 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48749214/psg-ousmane-dembele-wins-ligue-1-award-starting-just-nine-games",
-      "title": {
-        "ar": "Dembélé named Ligue 1 POTY despite 9 starts",
-        "en": "Dembélé named Ligue 1 POTY despite 9 starts"
-      },
-      "kicker": {
-        "ar": "الدوري الفرنسي",
-        "en": "Ligue 1"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48749214/psg-ousmane-dembele-wins-ligue-1-award-starting-just-nine-games",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 12 May 2026 09:44:33 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.espn.com/soccer/story/_/id/48748075/xabi-alonso-andoni-iraola-frame-chelsea-job-no-preferred-candidate-sources",
       "title": {
         "ar": "Sources: Alonso, Iraola in frame for Chelsea job",
@@ -645,31 +945,6 @@
       "body": null,
       "image": "",
       "url": "https://www.espn.com/soccer/story/_/id/48748075/xabi-alonso-andoni-iraola-frame-chelsea-job-no-preferred-candidate-sources",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 12 May 2026 09:44:33 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48748296/lionel-messi-included-argentina-55-player-provisional-world-cup-squad",
-      "title": {
-        "ar": "Messi in Argentina provisional World Cup squad",
-        "en": "Messi in Argentina provisional World Cup squad"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48748296/lionel-messi-included-argentina-55-player-provisional-world-cup-squad",
       "source": {
         "ar": "ESPN",
         "en": "ESPN FC"
@@ -704,31 +979,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.theguardian.com/film/2026/may/12/stormzy-producing-ian-wright-biopic",
-      "title": {
-        "ar": "‘He’s inspired generations’: Stormzy to produce biopic about football great Ian Wright",
-        "en": "‘He’s inspired generations’: Stormzy to produce biopic about football great Ian Wright"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The Crystal Palace, Arsenal and England striker says his life story – now in development with the rapper’s Merky Films – has ‘hard-hitting moments, but in the end I want it to give people hope and joy’ /p p Stormzy has announced he is to produce a biopic of former Arsenal, Crystal Palace and England striker Ian Wright. /p p Wright, who successful",
-        "en": "p The Crystal Palace, Arsenal and England striker says his life story – now in development with the rapper’s Merky Films – has ‘hard-hitting moments, but in the end I want it to give people hope and joy’ /p p Stormzy has announced he is to produce a biopic of former Arsenal, Crystal Palace and England striker Ian Wright. /p p Wright, who successful"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/film/2026/may/12/stormzy-producing-ian-wright-biopic",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 13:47:41 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.theguardian.com/football/video/2026/may/12/spurs-drop-points-in-survival-battle-and-mayhem-at-madrid-football-weekly-video",
       "title": {
         "ar": "Spurs drop points in survival battle and mayhem at Madrid | Football Weekly – video",
@@ -750,31 +1000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Tue, 12 May 2026 12:44:01 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/12/world-cup-2026-pundits-bbc-itv-thomas-frank-ange-postecoglou",
-      "title": {
-        "ar": "Frank and Postecoglou going head to head as BBC and ITV pundits for World Cup",
-        "en": "Frank and Postecoglou going head to head as BBC and ITV pundits for World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p BBC to add Giroud to regular panel, including Frank /p /li li p Postecoglou will join ITV, who show England opener /p /li /ul p Former Tottenham managers Ange Postecoglou and Thomas Frank will go head to head in the TV studio this summer as rival World Cup pundits. The Guardian has learned that Frank has signed a deal with BBC Sport as one ",
-        "en": "ul li p BBC to add Giroud to regular panel, including Frank /p /li li p Postecoglou will join ITV, who show England opener /p /li /ul p Former Tottenham managers Ange Postecoglou and Thomas Frank will go head to head in the TV studio this summer as rival World Cup pundits. The Guardian has learned that Frank has signed a deal with BBC Sport as one "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/12/world-cup-2026-pundits-bbc-itv-thomas-frank-ange-postecoglou",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 11:45:49 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -804,31 +1029,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.espn.com/soccer/story/_/id/48739869/real-madrid-downward-spiral-infighting-disarray-no-trophies",
-      "title": {
-        "ar": "Inside Real Madrid's downward spiral into infighting, disarray and -- worst of all -- no trophies",
-        "en": "Inside Real Madrid's downward spiral into infighting, disarray and -- worst of all -- no trophies"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48739869/real-madrid-downward-spiral-infighting-disarray-no-trophies",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 12 May 2026 05:42:41 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.theguardian.com/football/2026/may/12/brighton-womens-fa-cup-final-ambition",
       "title": {
         "ar": "History makers Brighton are shaking up old order and not hiding ambition",
@@ -854,31 +1054,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.theguardian.com/football/picture/2026/may/12/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages",
-      "title": {
-        "ar": "David Squires on … Arsenal, West Ham and a Royal Rumble for the ages",
-        "en": "David Squires on … Arsenal, West Ham and a Royal Rumble for the ages"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Our cartoonist on the Premier League title potentially being decided by a lengthy VAR check after grappling /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires/products/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages\" strong Buy this cartoon here /strong /a strong | /strong a href=\"https://www.theguardian.",
-        "en": "p Our cartoonist on the Premier League title potentially being decided by a lengthy VAR check after grappling /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires/products/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages\" strong Buy this cartoon here /strong /a strong | /strong a href=\"https://www.theguardian."
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/picture/2026/may/12/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 10:02:36 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.theguardian.com/football/2026/may/12/usmnt-world-cup-squad-prediction-how-mauricio-pochettinos-call-ups-determine-the-26",
       "title": {
         "ar": "USMNT World Cup squad prediction: how Mauricio Pochettino’s call-ups determine the 26",
@@ -900,31 +1075,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Tue, 12 May 2026 10:00:54 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/12/southampton-launch-internal-review-middlesbrough-spying-allegations",
-      "title": {
-        "ar": "Southampton launch internal review into Middlesbrough spying allegations",
-        "en": "Southampton launch internal review into Middlesbrough spying allegations"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Saints ‘request time to complete process thoroughly’ /p /li li p Playoff semi-final second leg at St Mary’s on Tuesday /p /li /ul p Southampton have confirmed they have launched an internal review into allegations that one of their analysts spied on a Middlesbrough training session. Southampton, who host Boro in their playoff semi-final sec",
-        "en": "ul li p Saints ‘request time to complete process thoroughly’ /p /li li p Playoff semi-final second leg at St Mary’s on Tuesday /p /li /ul p Southampton have confirmed they have launched an internal review into allegations that one of their analysts spied on a Middlesbrough training session. Southampton, who host Boro in their playoff semi-final sec"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/12/southampton-launch-internal-review-middlesbrough-spying-allegations",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 09:45:03 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1850,156 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Mon, 11 May 2026 11:39:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48739456/how-barcelona-won-laliga-how-get-even-better",
-      "title": {
-        "ar": "How Barcelona won LaLiga, and how they can get eve...",
-        "en": "How Barcelona won LaLiga, and how they can get eve..."
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48739456/how-barcelona-won-laliga-how-get-even-better",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 11 May 2026 06:18:49 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/11/mls-weekend-wrap-new-england-revolution-james-rodriguez-minnesota-united",
-      "title": {
-        "ar": "New England’s Revolution are a surprise contender: MLS weekend wrap",
-        "en": "New England’s Revolution are a surprise contender: MLS weekend wrap"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Also: James Rodríguez finally makes his mark with Minnesota, and a perfect stat line appears in the Bronx /p p There are points up for grabs in the East. Inter Miami tooled up to defend their MLS Cup title with uneven results. The Philadelphia Union have dropped them from the top of the heap to the cellar. The Ohio duopoly of Columbus and Cincinn",
-        "en": "p Also: James Rodríguez finally makes his mark with Minnesota, and a perfect stat line appears in the Bronx /p p There are points up for grabs in the East. Inter Miami tooled up to defend their MLS Cup title with uneven results. The Philadelphia Union have dropped them from the top of the heap to the cellar. The Ohio duopoly of Columbus and Cincinn"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/11/mls-weekend-wrap-new-england-revolution-james-rodriguez-minnesota-united",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 11 May 2026 11:15:53 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/11/west-ham-complain-referee-disallowed-goal-arsenal-pgmo",
-      "title": {
-        "ar": "West Ham to lodge complaint with referee chiefs over disallowed goal against Arsenal",
-        "en": "West Ham to lodge complaint with referee chiefs over disallowed goal against Arsenal"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Club plan to contact PGMO after Wilson strike ruled out /p /li li p They are angry about what they regard as inconsistency /p /li /ul p West Ham intend to complain to the referees’ body Professional Game Match Officials over the a href=\"https://www.theguardian.com/football/2026/may/10/mikel-artetas-relief-as-brave-var-decision-takes-arsenal",
-        "en": "ul li p Club plan to contact PGMO after Wilson strike ruled out /p /li li p They are angry about what they regard as inconsistency /p /li /ul p West Ham intend to complain to the referees’ body Professional Game Match Officials over the a href=\"https://www.theguardian.com/football/2026/may/10/mikel-artetas-relief-as-brave-var-decision-takes-arsenal"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/11/west-ham-complain-referee-disallowed-goal-arsenal-pgmo",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 11 May 2026 11:10:39 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48732378/var-review-were-refs-right-disallow-west-ham-equalizer-vs-arsenal",
-      "title": {
-        "ar": "VAR Review: Should West Ham equalizer vs. Arsenal ...",
-        "en": "VAR Review: Should West Ham equalizer vs. Arsenal ..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48732378/var-review-were-refs-right-disallow-west-ham-equalizer-vs-arsenal",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 11 May 2026 05:54:59 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/11/world-cup-2026-ticket-prices-fifa-sport-politics",
-      "title": {
-        "ar": "Soaring World Cup ticket prices for players’ families and guests leave several FAs stunned",
-        "en": "Soaring World Cup ticket prices for players’ families and guests leave several FAs stunned"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Average cost of one ticket claimed to be $3,000 (£2,200) /p /li li p Fifa insists terms and conditions of sale were made clear /p /li /ul p Numerous Football Associations have been hit by increased prices when buying World Cup tickets for their players’ family and friends, with teams competing at the tournament affected by Fifa’s dynamic pr",
-        "en": "ul li p Average cost of one ticket claimed to be $3,000 (£2,200) /p /li li p Fifa insists terms and conditions of sale were made clear /p /li /ul p Numerous Football Associations have been hit by increased prices when buying World Cup tickets for their players’ family and friends, with teams competing at the tournament affected by Fifa’s dynamic pr"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/11/world-cup-2026-ticket-prices-fifa-sport-politics",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 11 May 2026 09:50:27 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/11/liverpool-images-memorial-diogo-jota-andre-silva-anfield",
-      "title": {
-        "ar": "‘Forever 20’: Liverpool release images of memorial to Diogo Jota and André Silva",
-        "en": "‘Forever 20’: Liverpool release images of memorial to Diogo Jota and André Silva"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Jota and his brother died in car accident last July /p /li li p Memorial will be positioned on 97 Avenue at Anfield /p /li /ul p Liverpool have released images of a permanent memorial that is to be unveiled at Anfield in tribute to Diogo Jota and his brother, André Silva. Titled “Forever 20”, the memorial features a flowing heart sculpture ",
-        "en": "ul li p Jota and his brother died in car accident last July /p /li li p Memorial will be positioned on 97 Avenue at Anfield /p /li /ul p Liverpool have released images of a permanent memorial that is to be unveiled at Anfield in tribute to Diogo Jota and his brother, André Silva. Titled “Forever 20”, the memorial features a flowing heart sculpture "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/11/liverpool-images-memorial-diogo-jota-andre-silva-anfield",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 11 May 2026 09:45:37 GMT",
       "rewritten": false,
       "lang": "en"
     }
