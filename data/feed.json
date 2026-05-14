@@ -1,8 +1,133 @@
 {
   "version": 2,
-  "updated": "2026-05-14T03:56:05.253Z",
+  "updated": "2026-05-14T08:46:02.062Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": {
+        "ar": "Palace latest: Glasner hints at 'huge' rotation vs Arsenal",
+        "en": "Palace latest: Glasner hints at 'huge' rotation vs Arsenal"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-crystal-palace-news_7039251.jpg?20251002160103",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 12 May 2026 14:49:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": {
+        "ar": "Liverpool latest: Slot gives positive update on Salah",
+        "en": "Liverpool latest: Slot gives positive update on Salah"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-liverpool-news-club_7039258.jpg?20251002160409",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 14 May 2026 09:01:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13543863/arne-slot-future-liverpool-head-coach-says-he-has-every-reason-to-believe-he-will-be-in-charge-next-season",
+      "title": {
+        "ar": "Slot has 'every reason to believe' he will be in charge of Liverpool next season",
+        "en": "Slot has 'every reason to believe' he will be in charge of Liverpool next season"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arne-slot-liverpool_7243662.jpg?20260509165150",
+      "url": "https://www.skysports.com/football/news/12040/13543863/arne-slot-future-liverpool-head-coach-says-he-has-every-reason-to-believe-he-will-be-in-charge-next-season",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 14 May 2026 09:15:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/why-are-we-getting-more-not-less-var-arsenal-west-ham-title-race",
+      "title": {
+        "ar": "Why are we getting more, not less, VAR? Football will not kill its golden goose | Jonathan Liew",
+        "en": "Why are we getting more, not less, VAR? Football will not kill its golden goose | Jonathan Liew"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p In generating a constant stream of outrage, debate and engagement, much-reviled tech has become its own spectacle /p p “Just keep delaying,” Darren England tells the referee, Chris Kavanagh, a href=\"https://www.theguardian.com/football/2026/may/10/west-ham-arsenal-premier-league-match-report\" at West Ham /a on Sunday afternoon. The title is on th",
+        "en": "p In generating a constant stream of outrage, debate and engagement, much-reviled tech has become its own spectacle /p p “Just keep delaying,” Darren England tells the referee, Chris Kavanagh, a href=\"https://www.theguardian.com/football/2026/may/10/west-ham-arsenal-premier-league-match-report\" at West Ham /a on Sunday afternoon. The title is on th"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/why-are-we-getting-more-not-less-var-arsenal-west-ham-title-race",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 07:00:20 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/news/datablog/ng-interactive/2026/may/14/world-cup-us-canada-mexico-how-hot-will-it-be-dangerous-for-players-fans-temperature",
+      "title": {
+        "ar": "How hot will it be at the 2026 World Cup and is it dangerous for players and fans?",
+        "en": "How hot will it be at the 2026 World Cup and is it dangerous for players and fans?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Researchers warn of a ‘real risk’ of unsafe conditions, with matches in Miami most likely to be affected, but the picture is mixed across the 16 stadiums /p p It’s set to be hot in North America this summer. The a href=\"https://www.cpc.ncep.noaa.gov/products/predictions/long_range/seasonal.php?lead=1\" “seasonal temperature outlook” /a for the US,",
+        "en": "p Researchers warn of a ‘real risk’ of unsafe conditions, with matches in Miami most likely to be affected, but the picture is mixed across the 16 stadiums /p p It’s set to be hot in North America this summer. The a href=\"https://www.cpc.ncep.noaa.gov/products/predictions/long_range/seasonal.php?lead=1\" “seasonal temperature outlook” /a for the US,"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/news/datablog/ng-interactive/2026/may/14/world-cup-us-canada-mexico-how-hot-will-it-be-dangerous-for-players-fans-temperature",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 04:00:18 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
       "title": {
@@ -500,81 +625,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Wed, 13 May 2026 09:38:51 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1950,56 +2000,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Mon, 11 May 2026 23:09:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48745620/chelsea-estevao-miss-world-cup-neymar-makes-brazil-preliminary-cut",
-      "title": {
-        "ar": "Sources: Estêvão out of Brazil squad for World Cup...",
-        "en": "Sources: Estêvão out of Brazil squad for World Cup..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48745620/chelsea-estevao-miss-world-cup-neymar-makes-brazil-preliminary-cut",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 11 May 2026 22:05:59 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48745056/sea-blaugrana-celebrates-barcelona-laliga-title",
-      "title": {
-        "ar": "'Sea of blaugrana' celebrate Barcelona LaLiga win",
-        "en": "'Sea of blaugrana' celebrate Barcelona LaLiga win"
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48745056/sea-blaugrana-celebrates-barcelona-laliga-title",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 11 May 2026 22:05:59 EST",
       "rewritten": false,
       "lang": "en"
     }
