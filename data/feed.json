@@ -1,8 +1,333 @@
 {
   "version": 2,
-  "updated": "2026-05-14T08:46:02.062Z",
+  "updated": "2026-05-14T14:28:35.040Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": {
+        "ar": "Brighton latest: World Cup worry for Mitoma",
+        "en": "Brighton latest: World Cup worry for Mitoma"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-brighton-news-club_7039246.jpg?20251002155936",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 09 May 2026 18:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13543884/manchester-city-vs-manchester-united-live-fa-youth-cup-final-match-updates-news-and-score",
+      "title": {
+        "ar": "FA Youth Cup: The players to watch in Manchester derby final",
+        "en": "FA Youth Cup: The players to watch in Manchester derby final"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-football-fa-youth-cup_7247415.jpg?20260513121850",
+      "url": "https://www.skysports.com/football/live-blog/12040/13543884/manchester-city-vs-manchester-united-live-fa-youth-cup-final-match-updates-news-and-score",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 14 May 2026 11:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/cwy2p293401o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "قبضة حديدية تلتحق بفريق محطم: من داخل عودة مورينيو إلى ريال مدريد",
+        "en": "قبضة حديدية تلتحق بفريق محطم: من داخل عودة مورينيو إلى ريال مدريد"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c88/live/9ceb34d0-4eea-11f1-b55d-0f258dce1735.png",
+      "url": "https://www.bbc.com/arabic/articles/cwy2p293401o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Thu, 14 May 2026 14:17:46 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/how-the-kinetic-foundation-helped-launch-mcfarlanes-meteoric-rise",
+      "title": {
+        "ar": "How the Kinetic Foundation helped launch McFarlane’s rise at Chelsea",
+        "en": "How the Kinetic Foundation helped launch McFarlane’s rise at Chelsea"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Six years ago interim manager was working for a charity in south London. On Saturday he leads Chelsea out at the FA Cup final /p p As meteoric rises go, Calum McFarlane’s takes some beating. Six years after he and his assistants Harry Hudson and Dan Hogan were working for a south London charity that provides football and education for disadvantag",
+        "en": "p Six years ago interim manager was working for a charity in south London. On Saturday he leads Chelsea out at the FA Cup final /p p As meteoric rises go, Calum McFarlane’s takes some beating. Six years after he and his assistants Harry Hudson and Dan Hogan were working for a south London charity that provides football and education for disadvantag"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/how-the-kinetic-foundation-helped-launch-mcfarlanes-meteoric-rise",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 14:00:09 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/video/2026/may/14/foden-sparkles-for-city-and-scottish-title-race-goes-to-the-wire-football-weekly-video",
+      "title": {
+        "ar": "Foden sparkles for City and Scottish title race goes to the wire | Football Weekly – video",
+        "en": "Foden sparkles for City and Scottish title race goes to the wire | Football Weekly – video"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Jordan Jarrett-Bryan, Will Unwin and Ewan Murray to discuss the title races in England and Scotland /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/",
+        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Jordan Jarrett-Bryan, Will Unwin and Ewan Murray to discuss the title races in England and Scotland /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/video/2026/may/14/foden-sparkles-for-city-and-scottish-title-race-goes-to-the-wire-football-weekly-video",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 13:48:23 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/inter-double-coppa-italia-final-mismatch-lazio-cristian-chivu",
+      "title": {
+        "ar": "Inter’s latest double was never a given despite Coppa Italia final mismatch | Nicky Bandini",
+        "en": "Inter’s latest double was never a given despite Coppa Italia final mismatch | Nicky Bandini"
+      },
+      "kicker": {
+        "ar": "الدوري الإيطالي",
+        "en": "Serie A"
+      },
+      "excerpt": {
+        "ar": "p Though Lazio were effectively beaten early on, result reflected sound planning and Cristian Chivu’s influence /p p This time Cristian Chivu allowed himself to occupy the stage for a moment, to acknowledge his part in Inter’s success. When a href=\"https://www.theguardian.com/football/2026/may/03/inter-win-serie-a-title-parma-football-italy\" the /a",
+        "en": "p Though Lazio were effectively beaten early on, result reflected sound planning and Cristian Chivu’s influence /p p This time Cristian Chivu allowed himself to occupy the stage for a moment, to acknowledge his part in Inter’s success. When a href=\"https://www.theguardian.com/football/2026/may/03/inter-win-serie-a-title-parma-football-italy\" the /a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/inter-double-coppa-italia-final-mismatch-lazio-cristian-chivu",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 12:15:55 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/eintracht-frankfurt-frauen-bundesliga",
+      "title": {
+        "ar": "‘We have a clear vision’: Eintracht move closer to bringing glory days back to Frankfurt",
+        "en": "‘We have a clear vision’: Eintracht move closer to bringing glory days back to Frankfurt"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p Under the knowledgeable guidance of Babett Peter, the Frauen-Bundesliga club have their country’s big two, and the Champions League, in their sights /p p Frankfurt remains one of the most prominent and historic names in women’s football in Germany. The old 1. FFC Frankfurt ruled the nation for almost a decade, winning the Frauen-Bundesliga seven ",
+        "en": "p Under the knowledgeable guidance of Babett Peter, the Frauen-Bundesliga club have their country’s big two, and the Champions League, in their sights /p p Frankfurt remains one of the most prominent and historic names in women’s football in Germany. The old 1. FFC Frankfurt ruled the nation for almost a decade, winning the Frauen-Bundesliga seven "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/eintracht-frankfurt-frauen-bundesliga",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 11:32:53 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/arne-slot-every-reason-to-believe-be-at-liverpool-next-season",
+      "title": {
+        "ar": "Arne Slot says he has ‘every reason to believe’ he will be at Liverpool next season",
+        "en": "Arne Slot says he has ‘every reason to believe’ he will be at Liverpool next season"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Head coach points to talks held as well as his contract /p /li li p Slot describes the criticism he is facing as ‘normal’ /p /li /ul p Arne Slot has said he has “every reason to believe” he will remain Liverpool’s head coach next season and get the opportunity to rectify this campaign’s decline. /p p Liverpool were booed off at Anfield last",
+        "en": "ul li p Head coach points to talks held as well as his contract /p /li li p Slot describes the criticism he is facing as ‘normal’ /p /li /ul p Arne Slot has said he has “every reason to believe” he will remain Liverpool’s head coach next season and get the opportunity to rectify this campaign’s decline. /p p Liverpool were booed off at Anfield last"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/arne-slot-every-reason-to-believe-be-at-liverpool-next-season",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 10:21:12 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/mikel-arteta-arsenal-jurrien-timber-champions-league-final",
+      "title": {
+        "ar": "Arteta hoping Timber will win fitness race for Champions League final",
+        "en": "Arteta hoping Timber will win fitness race for Champions League final"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "ul li p Arsenal manager weighing up options at right-back /p /li li p ‘We’re going to try to get him available as quickly as possible’ /p /li /ul p Mikel Arteta is crossing his fingers that Jurriën Timber will have a chance of facing Paris Saint-Germain in the Champions League final as he weighs up his options at right-back. /p p Arsenal confirmed ",
+        "en": "ul li p Arsenal manager weighing up options at right-back /p /li li p ‘We’re going to try to get him available as quickly as possible’ /p /li /ul p Mikel Arteta is crossing his fingers that Jurriën Timber will have a chance of facing Paris Saint-Germain in the Champions League final as he weighs up his options at right-back. /p p Arsenal confirmed "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/mikel-arteta-arsenal-jurrien-timber-champions-league-final",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 10:20:07 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/michael-carrick-earned-right-manchester-united-head-coach",
+      "title": {
+        "ar": "Michael Carrick has earned the right to bring equilibrium to Manchester United | Daniel Harris",
+        "en": "Michael Carrick has earned the right to bring equilibrium to Manchester United | Daniel Harris"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p It would be foolish of the club to undo a winning, entertaining formula by turning elsewhere for a permanent head coach /p p These days, we have a strong desire to complicate football, particularly in how we talk about it. Often, we are saying the same stuff we always were, just calling things by different names – styles are em philosophies /em ,",
+        "en": "p It would be foolish of the club to undo a winning, entertaining formula by turning elsewhere for a permanent head coach /p p These days, we have a strong desire to complicate football, particularly in how we talk about it. Often, we are saying the same stuff we always were, just calling things by different names – styles are em philosophies /em ,"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/michael-carrick-earned-right-manchester-united-head-coach",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 10:15:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "title": {
@@ -1675,331 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Tue, 12 May 2026 12:44:01 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/12/usmnt-history-book",
-      "title": {
-        "ar": "I wrote a book about the last 40 years of US men’s soccer. Here is what I learned | Leander Schaerlaeckens",
-        "en": "I wrote a book about the last 40 years of US men’s soccer. Here is what I learned | Leander Schaerlaeckens"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p The US men’s national team have high expectations at the 2026 World Cup. To me, that signals miraculous progress /p p The mere notion that the United States men’s national team will enter this World Cup with a plausible chance of going on a deep run represents something of a sporting miracle. /p p Consider that after the USMNT placed third at the",
-        "en": "p The US men’s national team have high expectations at the 2026 World Cup. To me, that signals miraculous progress /p p The mere notion that the United States men’s national team will enter this World Cup with a plausible chance of going on a deep run represents something of a sporting miracle. /p p Consider that after the USMNT placed third at the"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/12/usmnt-history-book",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 11:15:45 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/12/brighton-womens-fa-cup-final-ambition",
-      "title": {
-        "ar": "History makers Brighton are shaking up old order and not hiding ambition",
-        "en": "History makers Brighton are shaking up old order and not hiding ambition"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Seagulls are in their first Women’s FA Cup final but their coach, Dario Vidosic, is determined to keep aiming higher /p p As Brighton’s old song goes, “Hark to the merry bugles”, because there is something in the air in Sussex by the sea. A a href=\"https://www.theguardian.com/football/2026/apr/28/brighton-plan-europes-first-purpose-built-womens-f",
-        "en": "p Seagulls are in their first Women’s FA Cup final but their coach, Dario Vidosic, is determined to keep aiming higher /p p As Brighton’s old song goes, “Hark to the merry bugles”, because there is something in the air in Sussex by the sea. A a href=\"https://www.theguardian.com/football/2026/apr/28/brighton-plan-europes-first-purpose-built-womens-f"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/12/brighton-womens-fa-cup-final-ambition",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 10:20:53 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/12/usmnt-world-cup-squad-prediction-how-mauricio-pochettinos-call-ups-determine-the-26",
-      "title": {
-        "ar": "USMNT World Cup squad prediction: how Mauricio Pochettino’s call-ups determine the 26",
-        "en": "USMNT World Cup squad prediction: how Mauricio Pochettino’s call-ups determine the 26"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p The USMNT head coach has played 61 different players in his 24 games in charge – the trends among them could determine who makes the cut /p p In exactly two weeks, Mauricio Pochettino will determine which 26 players will represent the United States at this summer’s World Cup. The decision may be even harder than you’d expect /p p Across 24 games ",
-        "en": "p The USMNT head coach has played 61 different players in his 24 games in charge – the trends among them could determine who makes the cut /p p In exactly two weeks, Mauricio Pochettino will determine which 26 players will represent the United States at this summer’s World Cup. The decision may be even harder than you’d expect /p p Across 24 games "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/12/usmnt-world-cup-squad-prediction-how-mauricio-pochettinos-call-ups-determine-the-26",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 10:00:54 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/video/2026/may/12/world-cup-2026-is-it-possible-to-walk-to-metlife-stadium-from-new-york-city-video",
-      "title": {
-        "ar": "World Cup 2026: is it possible to walk to MetLife Stadium from New York City? – video",
-        "en": "World Cup 2026: is it possible to walk to MetLife Stadium from New York City? – video"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Now that the usually $13 train ticket has been hiked up to $105 for the World Cup, a lot of fans have been wondering whether it's possible to walk to MetLife Stadium from New York City. /p p To find out, we sent the intrepid a href=\"https://www.instagram.com/markmcposts/\" Mark McPartland /a on a scenic hike to New Jersey to see if America’s pedes",
-        "en": "p Now that the usually $13 train ticket has been hiked up to $105 for the World Cup, a lot of fans have been wondering whether it's possible to walk to MetLife Stadium from New York City. /p p To find out, we sent the intrepid a href=\"https://www.instagram.com/markmcposts/\" Mark McPartland /a on a scenic hike to New Jersey to see if America’s pedes"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/video/2026/may/12/world-cup-2026-is-it-possible-to-walk-to-metlife-stadium-from-new-york-city-video",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 09:38:15 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/11/de-zerbi-ready-for-relegation-fight-until-the-last-minute-after-leeds-frustrate-spurs",
-      "title": {
-        "ar": "De Zerbi ready for relegation fight ‘until the last minute’ after Leeds frustrate Spurs",
-        "en": "De Zerbi ready for relegation fight ‘until the last minute’ after Leeds frustrate Spurs"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "ul li p Tottenham two points ahead of 18th-placed West Ham /p /li li p ‘We can’t forget what was the situation just 15 days ago’ /p /li /ul p Roberto De Zerbi vowed that Tottenham will take their relegation battle to the wire after their hopes of staying up were dented by a href=\"https://www.theguardian.com/football/2026/may/11/premier-league-totte",
-        "en": "ul li p Tottenham two points ahead of 18th-placed West Ham /p /li li p ‘We can’t forget what was the situation just 15 days ago’ /p /li /ul p Roberto De Zerbi vowed that Tottenham will take their relegation battle to the wire after their hopes of staying up were dented by a href=\"https://www.theguardian.com/football/2026/may/11/premier-league-totte"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/11/de-zerbi-ready-for-relegation-fight-until-the-last-minute-after-leeds-frustrate-spurs",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 11 May 2026 22:48:00 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13542748/roberto-de-zerbi-says-match-officials-were-not-calm-during-tottenhams-draw-against-leeds-as-late-penalty-claim-waved-away",
-      "title": {
-        "ar": "'Not calm' - De Zerbi suggests pressure of Arsenal game affected Spurs ref",
-        "en": "'Not calm' - De Zerbi suggests pressure of Arsenal game affected Spurs ref"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-jarred-gillett-spurs_7246104.jpg?20260511234303",
-      "url": "https://www.skysports.com/football/news/12040/13542748/roberto-de-zerbi-says-match-officials-were-not-calm-during-tottenhams-draw-against-leeds-as-late-penalty-claim-waved-away",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 11 May 2026 23:30:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48747741/transfer-rumors-news-liverpool-look-martinez-alisson-replacement",
-      "title": {
-        "ar": "Transfer rumors, news: Liverpool look to Martinez ...",
-        "en": "Transfer rumors, news: Liverpool look to Martinez ..."
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48747741/transfer-rumors-news-liverpool-look-martinez-alisson-replacement",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 12 May 2026 03:57:42 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c1l2dldrpdlo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "كأس العالم 2026: كيف قد يؤثر الطقس القاسي على المباريات؟",
-        "en": "كأس العالم 2026: كيف قد يؤثر الطقس القاسي على المباريات؟"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a5a2/live/dbe0e370-4a25-11f1-bfb3-af42b3144659.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c1l2dldrpdlo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Tue, 12 May 2026 07:41:20 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/12/fifa-failure-to-agree-world-cup-2026-broadcasting-deals-china-india-gianni-infantino",
-      "title": {
-        "ar": "Fifa’s failure to agree World Cup TV deals in China and India a headache for Infantino",
-        "en": "Fifa’s failure to agree World Cup TV deals in China and India a headache for Infantino"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p With the tournament a month away, there are still no agreements done with the two Asian giants to ensure fans there can watch all 104 games /p p When Fifa expanded the World Cup from 32 to 48 teams, it was in the hope that countries such as India and China, with their 2.7 billion residents, would qualify rather than countries such as Cape Verde a",
-        "en": "p With the tournament a month away, there are still no agreements done with the two Asian giants to ensure fans there can watch all 104 games /p p When Fifa expanded the World Cup from 32 to 48 teams, it was in the hope that countries such as India and China, with their 2.7 billion residents, would qualify rather than countries such as Cape Verde a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/12/fifa-failure-to-agree-world-cup-2026-broadcasting-deals-china-india-gianni-infantino",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 07:00:17 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13542862/jamie-carragher-david-raya-was-fouled-vs-west-ham-people-just-dont-want-arsenal-to-win-the-premier-league-title",
-      "title": {
-        "ar": "Carra: Only people who don't want Arsenal to win PL thought VAR call was wrong",
-        "en": "Carra: Only people who don't want Arsenal to win PL thought VAR call was wrong"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-david-raya-pablo_7245418.jpg?20260511110229",
-      "url": "https://www.skysports.com/football/news/12040/13542862/jamie-carragher-david-raya-was-fouled-vs-west-ham-people-just-dont-want-arsenal-to-win-the-premier-league-title",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 11 May 2026 20:30:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13542785/sergej-jakirovic-says-taking-hull-to-the-championship-play-off-final-is-the-best-thing-ive-experienced-in-football",
-      "title": {
-        "ar": "Jakirovic: Taking Hull to Wembley the best thing I've experienced in football",
-        "en": "Jakirovic: Taking Hull to Wembley the best thing I've experienced in football"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-sergej-jakirovic_7246082.jpg?20260511230558",
-      "url": "https://www.skysports.com/football/news/12040/13542785/sergej-jakirovic-says-taking-hull-to-the-championship-play-off-final-is-the-best-thing-ive-experienced-in-football",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 11 May 2026 23:15:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13542928/jarrod-bowen-transfer-news-three-premier-league-clubs-targeting-west-ham-forward-paper-talk",
-      "title": {
-        "ar": "Papers: Three Premier League clubs targeting Bowen",
-        "en": "Papers: Three Premier League clubs targeting Bowen"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "url": "https://www.skysports.com/football/news/12040/13542928/jarrod-bowen-transfer-news-three-premier-league-clubs-targeting-west-ham-forward-paper-talk",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 11 May 2026 22:58:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13542944/jamie-carragher-reacts-to-xabi-alonso-to-chelsea-links-if-liverpool-were-interested-hed-go",
-      "title": {
-        "ar": "'If Liverpool were interested, he'd go'  | Carra reacts to Alonso to Chelsea links",
-        "en": "'If Liverpool were interested, he'd go'  | Carra reacts to Alonso to Chelsea links"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-carra-alonso_7246093.jpg?20260511232013",
-      "url": "https://www.skysports.com/watch/video/13542944/jamie-carragher-reacts-to-xabi-alonso-to-chelsea-links-if-liverpool-were-interested-hed-go",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 11 May 2026 23:09:00 BST",
       "rewritten": false,
       "lang": "en"
     }
