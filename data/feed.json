@@ -1,8 +1,508 @@
 {
   "version": 2,
-  "updated": "2026-05-14T14:28:35.040Z",
+  "updated": "2026-05-14T19:54:04.108Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13543936/premier-league-predictions-and-best-bets-liverpool-set-for-a-dirty-dozen-league-defeats-at-aston-villa",
+      "title": {
+        "ar": "PL predictions: Liverpool set for a dirty dozen league defeats at Villa",
+        "en": "PL predictions: Liverpool set for a dirty dozen league defeats at Villa"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-premier-league-premier-league-prediction_7223294.jpg?20260418114637",
+      "url": "https://www.skysports.com/football/news/12040/13543936/premier-league-predictions-and-best-bets-liverpool-set-for-a-dirty-dozen-league-defeats-at-aston-villa",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 14 May 2026 18:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/darts/live-blog/12040/13543995/premier-league-darts-in-birmingham-live-scores-results-commentary-with-luke-littler-luke-humphries-michael-van-gerwen-in-action",
+      "title": {
+        "ar": "Premier League Darts LIVE! Price vs Van Veen and Littler vs Humphries in semi-finals",
+        "en": "Premier League Darts LIVE! Price vs Van Veen and Littler vs Humphries in semi-finals"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-luke-littler-premier-league-darts_7222187.jpg?20260417105215",
+      "url": "https://www.skysports.com/darts/live-blog/12040/13543995/premier-league-darts-in-birmingham-live-scores-results-commentary-with-luke-littler-luke-humphries-michael-van-gerwen-in-action",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 14 May 2026 18:19:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-build-up-plus-latest-on-trump-tickets-and-fans",
+      "title": {
+        "ar": "World Cup latest: Camavinga left out of France squad",
+        "en": "World Cup latest: Camavinga left out of France squad"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-camavinga-france_7248914.jpg?20260514194443",
+      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-build-up-plus-latest-on-trump-tickets-and-fans",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 14 May 2026 15:47:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13544064/sam-kerr-australian-international-to-depart-womens-super-league-club-this-summer",
+      "title": {
+        "ar": "'I just feel happy': Kerr to leave Chelsea at end of season",
+        "en": "'I just feel happy': Kerr to leave Chelsea at end of season"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-sam-kerr-chelsea_7238914.jpg?20260504121725",
+      "url": "https://www.skysports.com/football/news/12040/13544064/sam-kerr-australian-international-to-depart-womens-super-league-club-this-summer",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 14 May 2026 18:09:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48770687/sam-kerr-leave-chelsea-end-season-six-years",
+      "title": {
+        "ar": "Striker Kerr to leave Chelsea at end of season",
+        "en": "Striker Kerr to leave Chelsea at end of season"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48770687/sam-kerr-leave-chelsea-end-season-six-years",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 14 May 2026 15:31:10 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48766910/real-madrid-president-florentino-perez-gets-wish-elections-ordered",
+      "title": {
+        "ar": "Real Madrid call elections after Pérez move",
+        "en": "Real Madrid call elections after Pérez move"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48766910/real-madrid-president-florentino-perez-gets-wish-elections-ordered",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 14 May 2026 15:31:09 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48766907/usmnt-joe-scally-decide-club-future-world-cup",
+      "title": {
+        "ar": "USMNT's Scally to make club call after World Cup",
+        "en": "USMNT's Scally to make club call after World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48766907/usmnt-joe-scally-decide-club-future-world-cup",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 14 May 2026 15:31:09 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48770451/brazil-coach-carlo-ancelotti-contract-extension-2030-world-cup",
+      "title": {
+        "ar": "Brazil extend Ancelotti through 2030 World Cup",
+        "en": "Brazil extend Ancelotti through 2030 World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48770451/brazil-coach-carlo-ancelotti-contract-extension-2030-world-cup",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 14 May 2026 15:31:09 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/chelsea-sam-kerr-leave-stamford-bridge-at-the-end-of-the-season-wsl",
+      "title": {
+        "ar": "Chelsea’s Sam Kerr confirms she will leave Stamford Bridge at the end of the season",
+        "en": "Chelsea’s Sam Kerr confirms she will leave Stamford Bridge at the end of the season"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Australia striker to leave after six and a half years /p /li li p Katie McCabe to leave Arsenal at end of campaign /p /li /ul p Sam Kerr will leave Chelsea this summer when her contract expires, the club have announced, ending her six-and-a-half-year spell with the English side. /p p The Australia striker is Chelsea’s leading goalscorer in ",
+        "en": "ul li p Australia striker to leave after six and a half years /p /li li p Katie McCabe to leave Arsenal at end of campaign /p /li /ul p Sam Kerr will leave Chelsea this summer when her contract expires, the club have announced, ending her six-and-a-half-year spell with the English side. /p p The Australia striker is Chelsea’s leading goalscorer in "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/chelsea-sam-kerr-leave-stamford-bridge-at-the-end-of-the-season-wsl",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 19:05:30 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/thomas-tuchel-england-fa-rob-draper-book-extract",
+      "title": {
+        "ar": "How Tuchel wowed the FA during secret meeting at Munich airport",
+        "en": "How Tuchel wowed the FA during secret meeting at Munich airport"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p In this exclusive book extract, Rob Draper and Jonathan Northcroft reveal the remarkable process which led to Thomas Tuchel’s appointment as England manager /p p In 2024, when the Football Association was tasked with finding Gareth Southgate’s successor, Mark Bullingham hired two external data companies who built a profile of what successful inte",
+        "en": "p In this exclusive book extract, Rob Draper and Jonathan Northcroft reveal the remarkable process which led to Thomas Tuchel’s appointment as England manager /p p In 2024, when the Football Association was tasked with finding Gareth Southgate’s successor, Mark Bullingham hired two external data companies who built a profile of what successful inte"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/thomas-tuchel-england-fa-rob-draper-book-extract",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 19:00:15 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/stage/2026/may/14/black-diamonds-and-the-blue-brazil-review-royal-lyceum-edinburgh",
+      "title": {
+        "ar": "Black Diamonds and the Blue Brazil review – a daughter waits to fulfil her football fan father’s final wish",
+        "en": "Black Diamonds and the Blue Brazil review – a daughter waits to fulfil her football fan father’s final wish"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p strong Royal Lyceum, Edinburgh br /strong Dawn Steele stars in Ron Ferguson’s warm-hearted tale of a town whose fortunes are tied to those of its coal mine and local team /p p Black diamonds are what they used to dig up from the Fife coalfields. The Blue Brazil is the unlikely nickname of Cowdenbeath football club. Together, a href=\"https://stand",
+        "en": "p strong Royal Lyceum, Edinburgh br /strong Dawn Steele stars in Ron Ferguson’s warm-hearted tale of a town whose fortunes are tied to those of its coal mine and local team /p p Black diamonds are what they used to dig up from the Fife coalfields. The Blue Brazil is the unlikely nickname of Cowdenbeath football club. Together, a href=\"https://stand"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/stage/2026/may/14/black-diamonds-and-the-blue-brazil-review-royal-lyceum-edinburgh",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 19:00:15 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/celtic-motherwell-hearts-video-assistant-referee-controversy-scottish-premiership",
+      "title": {
+        "ar": "Celtic penalty debacle shows why Scottish football must get rid of video assistant referees | Ewan Murray",
+        "en": "Celtic penalty debacle shows why Scottish football must get rid of video assistant referees | Ewan Murray"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Gary Lineker called it possibly the worst VAR decision he has seen. Celtic’s win against Motherwell is another reason to ditch the system /p p This moment was inevitable. One when observers from Gorgie to Guadalajara ponder how Scottish football got itself into such a tangle with the video assistant referee system. Sadly for Hearts, the incident ",
+        "en": "p Gary Lineker called it possibly the worst VAR decision he has seen. Celtic’s win against Motherwell is another reason to ditch the system /p p This moment was inevitable. One when observers from Gorgie to Guadalajara ponder how Scottish football got itself into such a tangle with the video assistant referee system. Sadly for Hearts, the incident "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/celtic-motherwell-hearts-video-assistant-referee-controversy-scottish-premiership",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 18:00:13 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48458193/for-mls-players-meeting-messi-one-thing-facing-wrath-field-another",
+      "title": {
+        "ar": "MLS players on facing Messi: The thrill of meeting...",
+        "en": "MLS players on facing Messi: The thrill of meeting..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48458193/for-mls-players-meeting-messi-one-thing-facing-wrath-field-another",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 14 May 2026 12:41:37 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/handling-it-well-hearts-celtic-penalty-paradise-loss-football-daily",
+      "title": {
+        "ar": "Football  Daily | Handling it well: Hearts heavy after Celtic penalty and now wary of Paradise loss",
+        "en": "Football  Daily | Handling it well: Hearts heavy after Celtic penalty and now wary of Paradise loss"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Having viewed the incident that led to Celtic a href=\"https://www.theguardian.com/football/2026/may/13/scottish-premiership-motherwell-celtic-match-report\" being awarded a spot-kick against Motherwell /a more often than we’ve put on socks, Football Daily still can’t understand how referee John Beaton arrived at his decision. Of course we’ve seen ",
+        "en": "p Having viewed the incident that led to Celtic a href=\"https://www.theguardian.com/football/2026/may/13/scottish-premiership-motherwell-celtic-match-report\" being awarded a spot-kick against Motherwell /a more often than we’ve put on socks, Football Daily still can’t understand how referee John Beaton arrived at his decision. Of course we’ve seen "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/handling-it-well-hearts-celtic-penalty-paradise-loss-football-daily",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 17:08:19 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/xabi-alonso-backing-chelsea-players-talks-club-progress-reece-james-fa-cup-final",
+      "title": {
+        "ar": "Xabi Alonso earns backing of Chelsea players as talks with club progress",
+        "en": "Xabi Alonso earns backing of Chelsea players as talks with club progress"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Former Real Madrid manager likely to be offered job /p /li li p Reece James fit to face Manchester City in FA Cup final /p /li /ul p Chelsea’s players believe Xabi Alonso is the ideal candidate to become their next head coach. Talks with the Spaniard’s camp are moving in the right direction and the feeling in the dressing room is that the f",
+        "en": "ul li p Former Real Madrid manager likely to be offered job /p /li li p Reece James fit to face Manchester City in FA Cup final /p /li /ul p Chelsea’s players believe Xabi Alonso is the ideal candidate to become their next head coach. Talks with the Spaniard’s camp are moving in the right direction and the feeling in the dressing room is that the f"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/xabi-alonso-backing-chelsea-players-talks-club-progress-reece-james-fa-cup-final",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 15:50:46 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/cn0pre11kpzo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "\"الشمس تدور كعجلة من نار\": \"الرؤية\" التي تنبأت بسقوط الاتحاد السوفيتي",
+        "en": "\"الشمس تدور كعجلة من نار\": \"الرؤية\" التي تنبأت بسقوط الاتحاد السوفيتي"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eef3/live/eeabb3c0-4ea0-11f1-ac78-2112837ce2aa.jpg",
+      "url": "https://www.bbc.com/arabic/articles/cn0pre11kpzo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Thu, 14 May 2026 15:40:19 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48766313/transfer-rumors-news-manchester-united-borussia-dortmund-jobe-bellingham",
+      "title": {
+        "ar": "Transfer rumors, news: Man United revive interest ...",
+        "en": "Transfer rumors, news: Man United revive interest ..."
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48766313/transfer-rumors-news-manchester-united-borussia-dortmund-jobe-bellingham",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 14 May 2026 10:16:33 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/efl-southampton-could-be-kicked-out-of-playoff-final-delay-spying-allegations",
+      "title": {
+        "ar": "EFL says Southampton could be kicked out of playoff final and raises possibility of delay",
+        "en": "EFL says Southampton could be kicked out of playoff final and raises possibility of delay"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Hearing over spying allegations on or before Tuesday /p /li li p Fans warned before booking travel and accommodation /p /li /ul p The English Football League has indicated Southampton could be kicked out of the playoffs and that the date of the final may be delayed if the club are found guilty of breaching regulations. /p p Southampton have",
+        "en": "ul li p Hearing over spying allegations on or before Tuesday /p /li li p Fans warned before booking travel and accommodation /p /li /ul p The English Football League has indicated Southampton could be kicked out of the playoffs and that the date of the final may be delayed if the club are found guilty of breaching regulations. /p p Southampton have"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/efl-southampton-could-be-kicked-out-of-playoff-final-delay-spying-allegations",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 15:10:20 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/espanyol-manolo-gonzalez-la-liga-relegation-battle",
+      "title": {
+        "ar": "La Liga’s relegation race ignites as Espanyol end 143-day winless streak | Sid Lowe",
+        "en": "La Liga’s relegation race ignites as Espanyol end 143-day winless streak | Sid Lowe"
+      },
+      "kicker": {
+        "ar": "الليغا",
+        "en": "La Liga"
+      },
+      "excerpt": {
+        "ar": "p A stoppage-time eruption and a crying Manolo González means the Catalan club’s long-awaited victory changes everything /p p After 143 days and many more sleepless nights Manolo González was liberated, if only for a little while. In the 92nd minute of the 19th game of 2026, something amazing happened: Espanyol won and Espanyol went wild. A goal up",
+        "en": "p A stoppage-time eruption and a crying Manolo González means the Catalan club’s long-awaited victory changes everything /p p After 143 days and many more sleepless nights Manolo González was liberated, if only for a little while. In the 92nd minute of the 19th game of 2026, something amazing happened: Espanyol won and Espanyol went wild. A goal up"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/espanyol-manolo-gonzalez-la-liga-relegation-battle",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 15:00:23 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/14/psg-ligue-1-champions-lens-pierre-sage-coupe-de-france",
+      "title": {
+        "ar": "PSG are deserved Ligue 1 champions but Lens put up an admirable fight | Raphaël Jucobin",
+        "en": "PSG are deserved Ligue 1 champions but Lens put up an admirable fight | Raphaël Jucobin"
+      },
+      "kicker": {
+        "ar": "الدوري الفرنسي",
+        "en": "Ligue 1"
+      },
+      "excerpt": {
+        "ar": "p Pierre Sage has done a great job at Lens and the Coupe de France final next Friday offers them another shot at glory /p p By a href=\"https://www.getfootballnewsfrance.com/\" Get French Football News /a /p p By the time Paris Saint-Germain finally travelled to Lens on Wednesday evening, they had all but wrapped up their fifth consecutive Ligue 1 ti",
+        "en": "p Pierre Sage has done a great job at Lens and the Coupe de France final next Friday offers them another shot at glory /p p By a href=\"https://www.getfootballnewsfrance.com/\" Get French Football News /a /p p By the time Paris Saint-Germain finally travelled to Lens on Wednesday evening, they had all but wrapped up their fifth consecutive Ligue 1 ti"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/14/psg-ligue-1-champions-lens-pierre-sage-coupe-de-france",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 14:35:41 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "title": {
@@ -250,81 +750,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Thu, 14 May 2026 10:15:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1575,431 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Tue, 12 May 2026 05:42:41 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/picture/2026/may/12/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages",
-      "title": {
-        "ar": "David Squires on … Arsenal, West Ham and a Royal Rumble for the ages",
-        "en": "David Squires on … Arsenal, West Ham and a Royal Rumble for the ages"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Our cartoonist on the Premier League title potentially being decided by a lengthy VAR check after grappling /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires/products/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages\" strong Buy this cartoon here /strong /a strong | /strong a href=\"https://www.theguardian.",
-        "en": "p Our cartoonist on the Premier League title potentially being decided by a lengthy VAR check after grappling /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires/products/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages\" strong Buy this cartoon here /strong /a strong | /strong a href=\"https://www.theguardian."
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/picture/2026/may/12/david-squires-on-arsenal-west-ham-and-a-royal-rumble-for-the-ages",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 10:02:36 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/12/southampton-launch-internal-review-middlesbrough-spying-allegations",
-      "title": {
-        "ar": "Southampton launch internal review into Middlesbrough spying allegations",
-        "en": "Southampton launch internal review into Middlesbrough spying allegations"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Saints ‘request time to complete process thoroughly’ /p /li li p Playoff semi-final second leg at St Mary’s on Tuesday /p /li /ul p Southampton have confirmed they have launched an internal review into allegations that one of their analysts spied on a Middlesbrough training session. Southampton, who host Boro in their playoff semi-final sec",
-        "en": "ul li p Saints ‘request time to complete process thoroughly’ /p /li li p Playoff semi-final second leg at St Mary’s on Tuesday /p /li /ul p Southampton have confirmed they have launched an internal review into allegations that one of their analysts spied on a Middlesbrough training session. Southampton, who host Boro in their playoff semi-final sec"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/12/southampton-launch-internal-review-middlesbrough-spying-allegations",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 09:45:03 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48720758/anfield-losing-patience-liverpool-slot-chelsea-snap-streak",
-      "title": {
-        "ar": "Anfield losing patience with Liverpool's Slot; Che...",
-        "en": "Anfield losing patience with Liverpool's Slot; Che..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48720758/anfield-losing-patience-liverpool-slot-chelsea-snap-streak",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 11 May 2026 17:27:27 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13543328/cristiano-ronaldo-stunned-as-goalkeeper-howler-denies-long-awaited-al-nassr-title",
-      "title": {
-        "ar": "Ronaldo left STUNNED as goalkeeper HOWLER denies long-awaited Al Nassr title!",
-        "en": "Ronaldo left STUNNED as goalkeeper HOWLER denies long-awaited Al Nassr title!"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-ronaldo-titke_7246967.jpg?20260512225014",
-      "url": "https://www.skysports.com/watch/video/13543328/cristiano-ronaldo-stunned-as-goalkeeper-howler-denies-long-awaited-al-nassr-title",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 12 May 2026 22:37:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13543121/match-officials-micd-up-listen-in-on-the-var-audio-after-benjamin-sesko-scored-against-liverpool",
-      "title": {
-        "ar": "VAR audio reveals why Sesko goal stood against Liverpool",
-        "en": "VAR audio reveals why Sesko goal stood against Liverpool"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-man-utd-football_7246557.jpg?20260512142547",
-      "url": "https://www.skysports.com/watch/video/13543121/match-officials-micd-up-listen-in-on-the-var-audio-after-benjamin-sesko-scored-against-liverpool",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 12 May 2026 19:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13543211/casemiro-backs-neymar-for-world-cup-names-his-most-complete-teammate",
-      "title": {
-        "ar": "'Ronaldo the best but Bale most complete' | Casemiro on former team-mates",
-        "en": "'Ronaldo the best but Bale most complete' | Casemiro on former team-mates"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-casemiro-world-cup_7246761.jpg?20260512180817",
-      "url": "https://www.skysports.com/watch/video/13543211/casemiro-backs-neymar-for-world-cup-names-his-most-complete-teammate",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 12 May 2026 16:48:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13543261/what-was-said-in-real-madrid-president-florentino-perezs-bizarre-press-conference",
-      "title": {
-        "ar": "Explained: What was said in Real Madrid president Perez's 'bizarre' press conference?",
-        "en": "Explained: What was said in Real Madrid president Perez's 'bizarre' press conference?"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-florentino-perez_7246822.jpg?20260512193649",
-      "url": "https://www.skysports.com/watch/video/13543261/what-was-said-in-real-madrid-president-florentino-perezs-bizarre-press-conference",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 12 May 2026 19:28:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48747094/messi-mls-salary-jumps-283m-inter-miami-dominates-spending",
-      "title": {
-        "ar": "Messi remains MLS's highest-paid player at $28M",
-        "en": "Messi remains MLS's highest-paid player at $28M"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48747094/messi-mls-salary-jumps-283m-inter-miami-dominates-spending",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 12 May 2026 15:22:10 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48752039/paris-saint-germain-eye-move-julian-alvarez-amid-barcelona-arsenal-interest",
-      "title": {
-        "ar": "Sources: PSG eye move for Atlético's Álvarez",
-        "en": "Sources: PSG eye move for Atlético's Álvarez"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48752039/paris-saint-germain-eye-move-julian-alvarez-amid-barcelona-arsenal-interest",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 12 May 2026 15:22:10 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/live/2026/may/12/southampton-v-middlesbrough-championship-playoff-semi-final-second-leg-live",
-      "title": {
-        "ar": "Southampton v Middlesbrough: Championship playoff semi-final, second leg – live",
-        "en": "Southampton v Middlesbrough: Championship playoff semi-final, second leg – live"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p ⚽️ Championship playoffs, 8pm BST kick-off ( a href=\"https://www.theguardian.com/football/2026/may/09/middlesbrough-southampton-championship-playoff-match-report\" first leg: 0-0 /a ) br ⚽️ a href=\"https://www.theguardian.com/football/2026/may/12/southampton-launch-internal-review-middlesbrough-spying-allegations\" Saints launch review into spying ",
-        "en": "p ⚽️ Championship playoffs, 8pm BST kick-off ( a href=\"https://www.theguardian.com/football/2026/may/09/middlesbrough-southampton-championship-playoff-match-report\" first leg: 0-0 /a ) br ⚽️ a href=\"https://www.theguardian.com/football/2026/may/12/southampton-launch-internal-review-middlesbrough-spying-allegations\" Saints launch review into spying "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/live/2026/may/12/southampton-v-middlesbrough-championship-playoff-semi-final-second-leg-live",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 19:40:19 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/12/mls-2026-salary-release-takeaways",
-      "title": {
-        "ar": "$28.3m Messi is MLS’s top earner again, making more than twice as much as Son",
-        "en": "$28.3m Messi is MLS’s top earner again, making more than twice as much as Son"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The Inter Miami and LAFC stars are the highest-paid players in the league by a distance, while other new arrivals’ numbers are revealed for the first time /p p Lionel Messi is receiving even more on his second MLS contract, as unveiled in the MLS Players Association’s latest drop of player salary information. The union drops offer a fascinating l",
-        "en": "p The Inter Miami and LAFC stars are the highest-paid players in the league by a distance, while other new arrivals’ numbers are revealed for the first time /p p Lionel Messi is receiving even more on his second MLS contract, as unveiled in the MLS Players Association’s latest drop of player salary information. The union drops offer a fascinating l"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/12/mls-2026-salary-release-takeaways",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 18:54:18 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/12/dick-advocaat-returns-curacao-world-cup-2026-adventure",
-      "title": {
-        "ar": "Dick Advocaat returns to Curaçao job in time for World Cup 2026 adventure",
-        "en": "Dick Advocaat returns to Curaçao job in time for World Cup 2026 adventure"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Dutchman resigned in February due to daughter’s health /p /li li p Compatriot Rutten stood down from role on Monday /p /li /ul p Dick Advocaat will lead Curaçao to their a href=\"https://www.theguardian.com/football/2025/nov/19/curacao-fifa-world-cup-qualification-dick-advocaat\" first World Cup /a and become the oldest manager in the tournam",
-        "en": "ul li p Dutchman resigned in February due to daughter’s health /p /li li p Compatriot Rutten stood down from role on Monday /p /li /ul p Dick Advocaat will lead Curaçao to their a href=\"https://www.theguardian.com/football/2025/nov/19/curacao-fifa-world-cup-qualification-dick-advocaat\" first World Cup /a and become the oldest manager in the tournam"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/12/dick-advocaat-returns-curacao-world-cup-2026-adventure",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 17:10:16 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13543053/xabi-alonso-former-real-madrid-and-bayer-leverkusen-coach-has-dilemma-of-moving-to-chelsea-or-waiting-for-dream-liverpool-job",
-      "title": {
-        "ar": "Join Chelsea or wait for 'dream' Liverpool job? Alonso's big dilemma",
-        "en": "Join Chelsea or wait for 'dream' Liverpool job? Alonso's big dilemma"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-xabi-alonso-chelsea_7246434.jpg?20260512120937",
-      "url": "https://www.skysports.com/football/news/12040/13543053/xabi-alonso-former-real-madrid-and-bayer-leverkusen-coach-has-dilemma-of-moving-to-chelsea-or-waiting-for-dream-liverpool-job",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 12 May 2026 14:40:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13543010/paul-merson-arne-slots-up-against-it-at-liverpool-but-they-will-finish-higher-than-man-utd-next-season",
-      "title": {
-        "ar": "Merson: Liverpool will finish above Man Utd next season",
-        "en": "Merson: Liverpool will finish above Man Utd next season"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-carrick_7236214.jpg?20260501145504",
-      "url": "https://www.skysports.com/football/news/12040/13543010/paul-merson-arne-slots-up-against-it-at-liverpool-but-they-will-finish-higher-than-man-utd-next-season",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 12 May 2026 09:34:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48748075/xabi-alonso-andoni-iraola-frame-chelsea-job-no-preferred-candidate-sources",
-      "title": {
-        "ar": "Sources: Alonso, Iraola in frame for Chelsea job",
-        "en": "Sources: Alonso, Iraola in frame for Chelsea job"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48748075/xabi-alonso-andoni-iraola-frame-chelsea-job-no-preferred-candidate-sources",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 12 May 2026 09:44:33 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48748480/spain-coach-allays-nico-williams-world-cup-injury-fears-ok",
-      "title": {
-        "ar": "Spain boss allays Williams World Cup injury fears",
-        "en": "Spain boss allays Williams World Cup injury fears"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48748480/spain-coach-allays-nico-williams-world-cup-injury-fears-ok",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 12 May 2026 09:44:33 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/video/2026/may/12/spurs-drop-points-in-survival-battle-and-mayhem-at-madrid-football-weekly-video",
-      "title": {
-        "ar": "Spurs drop points in survival battle and mayhem at Madrid | Football Weekly – video",
-        "en": "Spurs drop points in survival battle and mayhem at Madrid | Football Weekly – video"
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "p Max Rushden is joined by Barry Glendenning, Lars Sivertsen, Seb Hutchinson and Sid Lowe as Tottenham draw and Barça win La Liga /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1 /p p /p p On today’s podcast: the agony continues for Spurs as Roberto De Zerbi says they will fight unti",
-        "en": "p Max Rushden is joined by Barry Glendenning, Lars Sivertsen, Seb Hutchinson and Sid Lowe as Tottenham draw and Barça win La Liga /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1 /p p /p p On today’s podcast: the agony continues for Spurs as Roberto De Zerbi says they will fight unti"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/video/2026/may/12/spurs-drop-points-in-survival-battle-and-mayhem-at-madrid-football-weekly-video",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 12 May 2026 12:44:01 GMT",
       "rewritten": false,
       "lang": "en"
     }
