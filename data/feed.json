@@ -1,8 +1,383 @@
 {
   "version": 2,
-  "updated": "2026-05-16T13:45:40.883Z",
+  "updated": "2026-05-16T19:14:37.209Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13514535/xabi-alonso-to-chelsea-former-real-madrid-and-bayer-leverkusen-coach-agrees-four-year-contract-to-be-head-coach-at-stamford-bridge",
+      "title": {
+        "ar": "Alonso agrees to become next Chelsea boss",
+        "en": "Alonso agrees to become next Chelsea boss"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-chelsea_7250762.jpg?20260516182641",
+      "url": "https://www.skysports.com/football/news/12040/13514535/xabi-alonso-to-chelsea-former-real-madrid-and-bayer-leverkusen-coach-agrees-four-year-contract-to-be-head-coach-at-stamford-bridge",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 16 May 2026 18:45:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13544894/fa-cup-final-antoine-semenyo-magic-seals-it-for-manchester-city-but-were-chelsea-hard-done-by",
+      "title": {
+        "ar": "The Verdict: Semenyo magic seals it for City but were Chelsea hard done by?",
+        "en": "The Verdict: Semenyo magic seals it for City but were Chelsea hard done by?"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-fa-cup-man-city-haaland_7250805.jpg?20260516191709",
+      "url": "https://www.skysports.com/watch/video/13544894/fa-cup-final-antoine-semenyo-magic-seals-it-for-manchester-city-but-were-chelsea-hard-done-by",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 16 May 2026 19:19:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13544777/mohamed-salah-says-liverpool-need-to-rediscover-heavy-metal-attacking-identity-opponents-fear-in-bombshell-statement",
+      "title": {
+        "ar": "Salah's scathing statement: Liverpool need to rediscover 'heavy metal' football",
+        "en": "Salah's scathing statement: Liverpool need to rediscover 'heavy metal' football"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-salah-mo-salah-liverpool_7231953.jpg?20260427111417",
+      "url": "https://www.skysports.com/football/news/12040/13544777/mohamed-salah-says-liverpool-need-to-rediscover-heavy-metal-attacking-identity-opponents-fear-in-bombshell-statement",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 16 May 2026 16:14:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13544805/hibernian-0-1-motherwell-lukas-fadingers-goal-secures-fourth-spot-and-european-football-for-well",
+      "title": {
+        "ar": "Motherwell secure European football with victory at Hibernian",
+        "en": "Motherwell secure European football with victory at Hibernian"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-motherwell-lukas_7250619.jpg?20260516165128",
+      "url": "https://www.skysports.com/football/news/12040/13544805/hibernian-0-1-motherwell-lukas-fadingers-goal-secures-fourth-spot-and-european-football-for-well",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 16 May 2026 14:25:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48788430/chelsea-close-appointing-xabi-alonso-new-head-coach-sources",
+      "title": {
+        "ar": "Sources: Alonso agrees to become Chelsea coach",
+        "en": "Sources: Alonso agrees to become Chelsea coach"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48788430/chelsea-close-appointing-xabi-alonso-new-head-coach-sources",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 16 May 2026 14:40:32 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48787941/mohamed-salah-urges-crumbling-liverpool-return-heavy-metal-football",
+      "title": {
+        "ar": "Salah: Liverpool must return to 'heavy metal' styl...",
+        "en": "Salah: Liverpool must return to 'heavy metal' styl..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48787941/mohamed-salah-urges-crumbling-liverpool-return-heavy-metal-football",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 16 May 2026 14:40:32 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/16/xabi-alonso-agrees-deal-in-principle-to-become-chelsea-head-coach",
+      "title": {
+        "ar": "Xabi Alonso agrees deal in principle to become Chelsea manager",
+        "en": "Xabi Alonso agrees deal in principle to become Chelsea manager"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Official announcement expected before Spurs match /p /li li p Former Real Madrid manager is Chelsea’s first choice /p /li /ul p Chelsea are on the verge of appointing Xabi Alonso on a four-year contract after reaching an agreement in principle with the Spaniard to become their new manager. Alonso, who has been out of work since a href=\"http",
+        "en": "ul li p Official announcement expected before Spurs match /p /li li p Former Real Madrid manager is Chelsea’s first choice /p /li /ul p Chelsea are on the verge of appointing Xabi Alonso on a four-year contract after reaching an agreement in principle with the Spaniard to become their new manager. Alonso, who has been out of work since a href=\"http"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/16/xabi-alonso-agrees-deal-in-principle-to-become-chelsea-head-coach",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 16 May 2026 17:37:08 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/16/manchester-citys-fa-cup-glory-where-final-against-chelsea-was-won-and-lost",
+      "title": {
+        "ar": "Manchester City’s FA Cup glory: where final against Chelsea was won and lost",
+        "en": "Manchester City’s FA Cup glory: where final against Chelsea was won and lost"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p Antoine Semenyo’s Kanu-esque backheel was one of the great Cup final goals as Guardiola’s forwards stepped up to end the challenge of McFarlane’s stubborn Blues /p p It was not quite at the level of not playing Fernandinho or Rodri against Chelsea in the Champions League final in 2021, but Pep Guardiola’s decision to start Omar Marmoush over Raya",
+        "en": "p Antoine Semenyo’s Kanu-esque backheel was one of the great Cup final goals as Guardiola’s forwards stepped up to end the challenge of McFarlane’s stubborn Blues /p p It was not quite at the level of not playing Fernandinho or Rodri against Chelsea in the Champions League final in 2021, but Pep Guardiola’s decision to start Omar Marmoush over Raya"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/16/manchester-citys-fa-cup-glory-where-final-against-chelsea-was-won-and-lost",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 16 May 2026 17:31:38 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48786462/manchester-city-celebrate-wsl-success-shaw-says-goodbye-perfect-way",
+      "title": {
+        "ar": "Manchester City celebrate WSL success as Shaw says...",
+        "en": "Manchester City celebrate WSL success as Shaw says..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48786462/manchester-city-celebrate-wsl-success-shaw-says-goodbye-perfect-way",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 16 May 2026 12:12:12 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/16/fa-cup-final-player-ratings-chelsea-0-1-manchester-city",
+      "title": {
+        "ar": "FA Cup final player ratings: Chelsea 0-1 Manchester City",
+        "en": "FA Cup final player ratings: Chelsea 0-1 Manchester City"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Antoine Semenyo produced a sublime back-heeled winner, but Moisés Caicedo and Reece James were anonymous /p p strong Robert Sánchez /strong Point-blank save from Haaland near break showed the goalkeeper’s concentration. Helpless to repel Semenyo’s wrong-footing finish for the winner. strong 6 /strong /p a href=\"https://www.theguardian.com/footbal",
+        "en": "p Antoine Semenyo produced a sublime back-heeled winner, but Moisés Caicedo and Reece James were anonymous /p p strong Robert Sánchez /strong Point-blank save from Haaland near break showed the goalkeeper’s concentration. Helpless to repel Semenyo’s wrong-footing finish for the winner. strong 6 /strong /p a href=\"https://www.theguardian.com/footbal"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/16/fa-cup-final-player-ratings-chelsea-0-1-manchester-city",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 16 May 2026 16:32:09 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/16/manchester-city-win-fa-cup-final-as-semenyo-magic-sinks-chelsea",
+      "title": {
+        "ar": "Manchester City win FA Cup final as Semenyo’s moment of magic floors Chelsea",
+        "en": "Manchester City win FA Cup final as Semenyo’s moment of magic floors Chelsea"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p If this really was to have been Pep Guardiola’s 24th and final Wembley appearance as the Manchester City manager, then he went out in trademark fashion – as a winner, as an overseer of magic moments. There was actually only one of the latter here, but it will stand the test of time, Antoine Semenyo lighting up an FA Cup final that had previously ",
+        "en": "p If this really was to have been Pep Guardiola’s 24th and final Wembley appearance as the Manchester City manager, then he went out in trademark fashion – as a winner, as an overseer of magic moments. There was actually only one of the latter here, but it will stand the test of time, Antoine Semenyo lighting up an FA Cup final that had previously "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/16/manchester-city-win-fa-cup-final-as-semenyo-magic-sinks-chelsea",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 16 May 2026 16:22:06 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/16/mohamed-salah-criticises-crumbling-liverpools-season-and-demands-return-to-heavy-metal-football",
+      "title": {
+        "ar": "Mohamed Salah criticises ‘crumbling’ Liverpool and demands return to ‘heavy metal’ football",
+        "en": "Mohamed Salah criticises ‘crumbling’ Liverpool and demands return to ‘heavy metal’ football"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Salah posted on social media after 4-2 loss at Aston Villa /p /li li p Egyptian forward’s comments appear aimed at Arne Slot /p /li /ul p Mohamed Salah has launched another withering critique on Liverpool, the club he is set to depart after next weekend. /p p In a href=\"https://www.theguardian.com/football/2026/may/15/aston-villa-liverpool-",
+        "en": "ul li p Salah posted on social media after 4-2 loss at Aston Villa /p /li li p Egyptian forward’s comments appear aimed at Arne Slot /p /li /ul p Mohamed Salah has launched another withering critique on Liverpool, the club he is set to depart after next weekend. /p p In a href=\"https://www.theguardian.com/football/2026/may/15/aston-villa-liverpool-"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/16/mohamed-salah-criticises-crumbling-liverpools-season-and-demands-return-to-heavy-metal-football",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 16 May 2026 15:41:05 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/clypdm5xj1do?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم: مشجعون أفارقة يواجهون عقبات رغم تراجع الولايات المتحدة عن شرط الضمان المالي للتأشيرة",
+        "en": "كأس العالم: مشجعون أفارقة يواجهون عقبات رغم تراجع الولايات المتحدة عن شرط الضمان المالي للتأشيرة"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f90b/live/fb1326d0-4f8f-11f1-9ab5-d7f2c647b333.jpg",
+      "url": "https://www.bbc.com/arabic/articles/clypdm5xj1do?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sat, 16 May 2026 15:08:09 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/16/shaw-doubles-up-as-manchester-city-mark-wsl-title-by-thrashing-west-ham",
+      "title": {
+        "ar": "Manchester City mark WSL title by thrashing West Ham as Shaw doubles up",
+        "en": "Manchester City mark WSL title by thrashing West Ham as Shaw doubles up"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Khadija Shaw set the agenda again in what could be her penultimate game in sky blue, as Manchester City secured a comfortable win over West Ham before they lifted the WSL trophy for the first time in 10 years. /p p What will City look like without the Jamaican forward who scored her 20th and 21st goals in 22 WSL games this season to brush West Ha",
+        "en": "p Khadija Shaw set the agenda again in what could be her penultimate game in sky blue, as Manchester City secured a comfortable win over West Ham before they lifted the WSL trophy for the first time in 10 years. /p p What will City look like without the Jamaican forward who scored her 20th and 21st goals in 22 WSL games this season to brush West Ha"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/16/shaw-doubles-up-as-manchester-city-mark-wsl-title-by-thrashing-west-ham",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 16 May 2026 14:10:01 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48458193/for-mls-players-meeting-messi-one-thing-facing-wrath-field-another",
+      "title": {
+        "ar": "Players on facing Messi: The thrill of meeting a h...",
+        "en": "Players on facing Messi: The thrill of meeting a h..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48458193/for-mls-players-meeting-messi-one-thing-facing-wrath-field-another",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 14 May 2026 22:23:09 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/chelsea-women-vs-manchester-united-women/live/545731",
       "title": {
@@ -954,81 +1329,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.skysports.com/football/aston-villa-vs-liverpool/report/531490",
       "title": {
         "ar": "Aston Villa rip Liverpool apart to secure Champions League football",
@@ -1700,306 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Thu, 14 May 2026 22:22:50 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/15/mls-major-league-soccer-australian-players-socceroos",
-      "title": {
-        "ar": "How MLS has become a key proving ground for Socceroos World Cup hopefuls",
-        "en": "How MLS has become a key proving ground for Socceroos World Cup hopefuls"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p A sizeable contingent of Australian players in the US adds intrigue to the upcoming Group D clash between the two nations /p p Lucas Herrington was once dubbed a “baby giraffe” for his gangly frame, but he has emerged as a genuine bolter for the Socceroos’ World Cup squad. While the 18-year-old’s rapid growth has been a shock, his increasing favo",
-        "en": "p A sizeable contingent of Australian players in the US adds intrigue to the upcoming Group D clash between the two nations /p p Lucas Herrington was once dubbed a “baby giraffe” for his gangly frame, but he has emerged as a genuine bolter for the Socceroos’ World Cup squad. While the 18-year-old’s rapid growth has been a shock, his increasing favo"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/15/mls-major-league-soccer-australian-players-socceroos",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 15 May 2026 02:35:38 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/15/premier-league-and-fa-cup-final-10-things-to-look-out-for-this-weekend",
-      "title": {
-        "ar": "Premier League and FA Cup final: 10 things to look out for this weekend",
-        "en": "Premier League and FA Cup final: 10 things to look out for this weekend"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Guardiola can claim 17th City trophy, Arteta weighs up another Arsenal reshuffle and Brentford’s European dreams could edge closer /p p A measure of Pep Guardiola’s greatness is to be found in Saturday’s FA Cup final being a 24th visit to Wembley leading Manchester City. As this born winner could depart in the close season, the meeting with Chels",
-        "en": "p Guardiola can claim 17th City trophy, Arteta weighs up another Arsenal reshuffle and Brentford’s European dreams could edge closer /p p A measure of Pep Guardiola’s greatness is to be found in Saturday’s FA Cup final being a 24th visit to Wembley leading Manchester City. As this born winner could depart in the close season, the meeting with Chels"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/15/premier-league-and-fa-cup-final-10-things-to-look-out-for-this-weekend",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 14 May 2026 23:01:20 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13543936/premier-league-predictions-and-best-bets-liverpool-set-for-a-dirty-dozen-league-defeats-at-aston-villa",
-      "title": {
-        "ar": "PL predictions: Liverpool set for a dirty dozen league defeats at Villa",
-        "en": "PL predictions: Liverpool set for a dirty dozen league defeats at Villa"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-premier-league-premier-league-prediction_7223294.jpg?20260418114637",
-      "url": "https://www.skysports.com/football/news/12040/13543936/premier-league-predictions-and-best-bets-liverpool-set-for-a-dirty-dozen-league-defeats-at-aston-villa",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 14 May 2026 18:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/darts/live-blog/12040/13543995/premier-league-darts-in-birmingham-live-scores-results-commentary-with-luke-littler-luke-humphries-michael-van-gerwen-in-action",
-      "title": {
-        "ar": "Premier League Darts LIVE! Price vs Van Veen and Littler vs Humphries in semi-finals",
-        "en": "Premier League Darts LIVE! Price vs Van Veen and Littler vs Humphries in semi-finals"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-luke-littler-premier-league-darts_7222187.jpg?20260417105215",
-      "url": "https://www.skysports.com/darts/live-blog/12040/13543995/premier-league-darts-in-birmingham-live-scores-results-commentary-with-luke-littler-luke-humphries-michael-van-gerwen-in-action",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 14 May 2026 18:19:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-build-up-plus-latest-on-trump-tickets-and-fans",
-      "title": {
-        "ar": "World Cup latest: Camavinga left out of France squad",
-        "en": "World Cup latest: Camavinga left out of France squad"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-camavinga-france_7248914.jpg?20260514194443",
-      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-build-up-plus-latest-on-trump-tickets-and-fans",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 14 May 2026 15:47:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13544064/sam-kerr-australian-international-to-depart-womens-super-league-club-this-summer",
-      "title": {
-        "ar": "'I just feel happy': Kerr to leave Chelsea at end of season",
-        "en": "'I just feel happy': Kerr to leave Chelsea at end of season"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-sam-kerr-chelsea_7238914.jpg?20260504121725",
-      "url": "https://www.skysports.com/football/news/12040/13544064/sam-kerr-australian-international-to-depart-womens-super-league-club-this-summer",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 14 May 2026 18:09:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48770687/sam-kerr-leave-chelsea-end-season-six-years",
-      "title": {
-        "ar": "Striker Kerr to leave Chelsea at end of season",
-        "en": "Striker Kerr to leave Chelsea at end of season"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48770687/sam-kerr-leave-chelsea-end-season-six-years",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 14 May 2026 15:31:10 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48766910/real-madrid-president-florentino-perez-gets-wish-elections-ordered",
-      "title": {
-        "ar": "Real Madrid call elections after Pérez move",
-        "en": "Real Madrid call elections after Pérez move"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48766910/real-madrid-president-florentino-perez-gets-wish-elections-ordered",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 14 May 2026 15:31:09 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48766907/usmnt-joe-scally-decide-club-future-world-cup",
-      "title": {
-        "ar": "USMNT's Scally to make club call after World Cup",
-        "en": "USMNT's Scally to make club call after World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48766907/usmnt-joe-scally-decide-club-future-world-cup",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 14 May 2026 15:31:09 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48770451/brazil-coach-carlo-ancelotti-contract-extension-2030-world-cup",
-      "title": {
-        "ar": "Brazil extend Ancelotti through 2030 World Cup",
-        "en": "Brazil extend Ancelotti through 2030 World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48770451/brazil-coach-carlo-ancelotti-contract-extension-2030-world-cup",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 14 May 2026 15:31:09 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/14/chelsea-sam-kerr-leave-stamford-bridge-at-the-end-of-the-season-wsl",
-      "title": {
-        "ar": "Chelsea’s Sam Kerr confirms she will leave Stamford Bridge at the end of the season",
-        "en": "Chelsea’s Sam Kerr confirms she will leave Stamford Bridge at the end of the season"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Australia striker to leave after six and a half years /p /li li p Katie McCabe to leave Arsenal at end of campaign /p /li /ul p Sam Kerr will leave Chelsea this summer when her contract expires, the club have announced, ending her six-and-a-half-year spell with the English side. /p p The Australia striker is Chelsea’s leading goalscorer in ",
-        "en": "ul li p Australia striker to leave after six and a half years /p /li li p Katie McCabe to leave Arsenal at end of campaign /p /li /ul p Sam Kerr will leave Chelsea this summer when her contract expires, the club have announced, ending her six-and-a-half-year spell with the English side. /p p The Australia striker is Chelsea’s leading goalscorer in "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/14/chelsea-sam-kerr-leave-stamford-bridge-at-the-end-of-the-season-wsl",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 14 May 2026 19:05:30 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/14/thomas-tuchel-england-fa-rob-draper-book-extract",
-      "title": {
-        "ar": "How Tuchel wowed the FA during secret meeting at Munich airport",
-        "en": "How Tuchel wowed the FA during secret meeting at Munich airport"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p In this exclusive book extract, Rob Draper and Jonathan Northcroft reveal the remarkable process which led to Thomas Tuchel’s appointment as England manager /p p In 2024, when the Football Association was tasked with finding Gareth Southgate’s successor, Mark Bullingham hired two external data companies who built a profile of what successful inte",
-        "en": "p In this exclusive book extract, Rob Draper and Jonathan Northcroft reveal the remarkable process which led to Thomas Tuchel’s appointment as England manager /p p In 2024, when the Football Association was tasked with finding Gareth Southgate’s successor, Mark Bullingham hired two external data companies who built a profile of what successful inte"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/14/thomas-tuchel-england-fa-rob-draper-book-extract",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 14 May 2026 19:00:15 GMT",
       "rewritten": false,
       "lang": "en"
     }
