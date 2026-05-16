@@ -1,8 +1,483 @@
 {
   "version": 2,
-  "updated": "2026-05-16T03:41:12.250Z",
+  "updated": "2026-05-16T08:11:50.144Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48781627/liverpools-latest-stumble-becomes-reflection-poor-season",
+      "title": {
+        "ar": "Liverpool's latest collapse leaves Champions Leagu...",
+        "en": "Liverpool's latest collapse leaves Champions Leagu..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48781627/liverpools-latest-stumble-becomes-reflection-poor-season",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 16 May 2026 03:59:36 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+      "title": {
+        "ar": "2026 World Cup injuries tracker: Which stars could...",
+        "en": "2026 World Cup injuries tracker: Which stars could..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 16 May 2026 03:59:30 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48757621/2026-world-cup-squad-lists-players-announced-all-48-teams",
+      "title": {
+        "ar": "All the 2026 World Cup squads, players announced s...",
+        "en": "All the 2026 World Cup squads, players announced s..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48757621/2026-world-cup-squad-lists-players-announced-all-48-teams",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 16 May 2026 03:59:30 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48775519/transfer-rumors-news-arsenal-join-man-united-race-west-ham-youngster",
+      "title": {
+        "ar": "Transfer rumors, news: Arsenal join Man United in ...",
+        "en": "Transfer rumors, news: Arsenal join Man United in ..."
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48775519/transfer-rumors-news-arsenal-join-man-united-race-west-ham-youngster",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 16 May 2026 03:59:20 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/may/16/fa-cup-final-buildup-scottish-premiership-title-decider-wsl-finale-matchday-live",
+      "title": {
+        "ar": "Scottish Premiership title decider, FA Cup final buildup and WSL finale – matchday live",
+        "en": "Scottish Premiership title decider, FA Cup final buildup and WSL finale – matchday live"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p ⚽ Your welcome to an ultra-busy footballing weekend br ⚽ a href=\"https://www.theguardian.com/football/fixtures\" Today’s fixtures /a | a href=\"https://www.theguardian.com/football/tables\" Tables /a | a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" Get Football Daily /a | a href=\"mailto:emillia.hawkins.casual@theg",
+        "en": "p ⚽ Your welcome to an ultra-busy footballing weekend br ⚽ a href=\"https://www.theguardian.com/football/fixtures\" Today’s fixtures /a | a href=\"https://www.theguardian.com/football/tables\" Tables /a | a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" Get Football Daily /a | a href=\"mailto:emillia.hawkins.casual@theg"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/may/16/fa-cup-final-buildup-scottish-premiership-title-decider-wsl-finale-matchday-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 16 May 2026 07:56:59 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/16/do-people-actually-hate-arsenal-yes-they-do-the-real-question-is-why",
+      "title": {
+        "ar": "Do people actually hate Arsenal? Yes, they do. The real question is: why? | Barney Ronay",
+        "en": "Do people actually hate Arsenal? Yes, they do. The real question is: why? | Barney Ronay"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Mikel Arteta’s side will be deeply unpopular champions, but this probably says more about us than it does about them /p p There was a minor stir a few years back when some American scientists bred a strain of “gene-edited” hamsters with the chemical that causes anger removed, presumably so they could achieve one of humanity’s historic goals: the ",
+        "en": "p Mikel Arteta’s side will be deeply unpopular champions, but this probably says more about us than it does about them /p p There was a minor stir a few years back when some American scientists bred a strain of “gene-edited” hamsters with the chemical that causes anger removed, presumably so they could achieve one of humanity’s historic goals: the "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/16/do-people-actually-hate-arsenal-yes-they-do-the-real-question-is-why",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 16 May 2026 07:01:02 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/16/west-ham-tottenham-fans-fume-amid-relegation-panic-picture-essay",
+      "title": {
+        "ar": "‘It defies belief’: West Ham and Tottenham fans fume amid relegation dread",
+        "en": "‘It defies belief’: West Ham and Tottenham fans fume amid relegation dread"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Our photographer, Tom Jenkins, captures the discontent at both clubs after years of mismanagement as the trapdoor awaits one of them /p p Fury. Grief. Embarrassment. Horror. Resignation. The emotions run hot for supporters of West Ham and Tottenham right now as the two grand old clubs stare at potential relegation from the Premier League. /p p Wi",
+        "en": "p Our photographer, Tom Jenkins, captures the discontent at both clubs after years of mismanagement as the trapdoor awaits one of them /p p Fury. Grief. Embarrassment. Horror. Resignation. The emotions run hot for supporters of West Ham and Tottenham right now as the two grand old clubs stare at potential relegation from the Premier League. /p p Wi"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/16/west-ham-tottenham-fans-fume-amid-relegation-panic-picture-essay",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 16 May 2026 07:00:04 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48780677/aston-villa-champions-league-place-liverpool-premier-league",
+      "title": {
+        "ar": "Villa clinch UCL spot to leave Liverpool's in doub...",
+        "en": "Villa clinch UCL spot to leave Liverpool's in doub..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48780677/aston-villa-champions-league-place-liverpool-premier-league",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 15 May 2026 23:29:03 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48783229/netherlands-defender-matthijs-de-ligt-ruled-world-cup-back-surgery",
+      "title": {
+        "ar": "De Ligt ruled out of World Cup after back surgery",
+        "en": "De Ligt ruled out of World Cup after back surgery"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48783229/netherlands-defender-matthijs-de-ligt-ruled-world-cup-back-surgery",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 15 May 2026 23:29:03 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48781144/chelsea-manchester-city-fa-cup-final-calum-mcfarlane",
+      "title": {
+        "ar": "Chelsea have blueprint to beat City, says boss",
+        "en": "Chelsea have blueprint to beat City, says boss"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48781144/chelsea-manchester-city-fa-cup-final-calum-mcfarlane",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 15 May 2026 23:29:03 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48779635/women-pro-leagues-discuss-inter-league-competition-sources",
+      "title": {
+        "ar": "Sources: NWSL, USL discuss interleague play",
+        "en": "Sources: NWSL, USL discuss interleague play"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48779635/women-pro-leagues-discuss-inter-league-competition-sources",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 15 May 2026 23:29:03 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48778571/bayern-munich-manuel-neuer-new-contract-sven-ulreich",
+      "title": {
+        "ar": "Bayern legend Neuer, 40, signs new contract",
+        "en": "Bayern legend Neuer, 40, signs new contract"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48778571/bayern-munich-manuel-neuer-new-contract-sven-ulreich",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 15 May 2026 23:29:03 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48771251/2026-fa-cup-final-preview-man-city-chelsea-analysis-predictions",
+      "title": {
+        "ar": "FA Cup final preview: Man City or Chelsea? Analysi...",
+        "en": "FA Cup final preview: Man City or Chelsea? Analysi..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48771251/2026-fa-cup-final-preview-man-city-chelsea-analysis-predictions",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 15 May 2026 21:37:11 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48677243/2026-world-cup-rosters-predictions-starting-xis-usa-france-mexico-england-spain-germany-brazil-argentina",
+      "title": {
+        "ar": "World Cup predicted starting lineups",
+        "en": "World Cup predicted starting lineups"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48677243/2026-world-cup-rosters-predictions-starting-xis-usa-france-mexico-england-spain-germany-brazil-argentina",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 15 May 2026 13:44:55 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48677225/fifa-world-cup-power-rankings-spain-brazil-germany-england-argentina",
+      "title": {
+        "ar": "World Cup Power Rankings: Who are the front-runner...",
+        "en": "World Cup Power Rankings: Who are the front-runner..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48677225/fifa-world-cup-power-rankings-spain-brazil-germany-england-argentina",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 15 May 2026 13:44:55 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48771056/every-premier-league-team-reranked-man-city-rise-chelsea-liverpool-collapse",
+      "title": {
+        "ar": "Every Premier League team reranked: Explaining Man City rise, collapse of Chelsea and Liverpool",
+        "en": "Every Premier League team reranked: Explaining Man City rise, collapse of Chelsea and Liverpool"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48771056/every-premier-league-team-reranked-man-city-rise-chelsea-liverpool-collapse",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 15 May 2026 09:01:52 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48775723/arsenal-unveil-new-2026-27-home-kit-ahead-champions-league-final",
+      "title": {
+        "ar": "Arsenal unveil new 2026-27 home kit ahead of Champ...",
+        "en": "Arsenal unveil new 2026-27 home kit ahead of Champ..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48775723/arsenal-unveil-new-2026-27-home-kit-ahead-champions-league-final",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 15 May 2026 04:05:27 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48758870/before-ted-lasso-cristo-fernandez-had-pro-soccer-dreams-now-living-them",
+      "title": {
+        "ar": "Before Ted Lasso, Cristo Fernández had pro soccer ...",
+        "en": "Before Ted Lasso, Cristo Fernández had pro soccer ..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48758870/before-ted-lasso-cristo-fernandez-had-pro-soccer-dreams-now-living-them",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 15 May 2026 03:50:17 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48636037/lionel-messi-forgotten-vhs-tape-oral-history-argentina-spain-recruit-barcelona-world-cup",
+      "title": {
+        "ar": "Messi and the forgotten tape: Oral history of Arge...",
+        "en": "Messi and the forgotten tape: Oral history of Arge..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48636037/lionel-messi-forgotten-vhs-tape-oral-history-argentina-spain-recruit-barcelona-world-cup",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 14 May 2026 22:23:09 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/aston-villa-vs-liverpool/report/531490",
       "title": {
@@ -175,81 +650,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Fri, 15 May 2026 21:06:25 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1600,406 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Thu, 14 May 2026 14:00:09 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/video/2026/may/14/foden-sparkles-for-city-and-scottish-title-race-goes-to-the-wire-football-weekly-video",
-      "title": {
-        "ar": "Foden sparkles for City and Scottish title race goes to the wire | Football Weekly – video",
-        "en": "Foden sparkles for City and Scottish title race goes to the wire | Football Weekly – video"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Jordan Jarrett-Bryan, Will Unwin and Ewan Murray to discuss the title races in England and Scotland /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Jordan Jarrett-Bryan, Will Unwin and Ewan Murray to discuss the title races in England and Scotland /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/video/2026/may/14/foden-sparkles-for-city-and-scottish-title-race-goes-to-the-wire-football-weekly-video",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 14 May 2026 13:48:23 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/14/inter-double-coppa-italia-final-mismatch-lazio-cristian-chivu",
-      "title": {
-        "ar": "Inter’s latest double was never a given despite Coppa Italia final mismatch | Nicky Bandini",
-        "en": "Inter’s latest double was never a given despite Coppa Italia final mismatch | Nicky Bandini"
-      },
-      "kicker": {
-        "ar": "الدوري الإيطالي",
-        "en": "Serie A"
-      },
-      "excerpt": {
-        "ar": "p Though Lazio were effectively beaten early on, result reflected sound planning and Cristian Chivu’s influence /p p This time Cristian Chivu allowed himself to occupy the stage for a moment, to acknowledge his part in Inter’s success. When a href=\"https://www.theguardian.com/football/2026/may/03/inter-win-serie-a-title-parma-football-italy\" the /a",
-        "en": "p Though Lazio were effectively beaten early on, result reflected sound planning and Cristian Chivu’s influence /p p This time Cristian Chivu allowed himself to occupy the stage for a moment, to acknowledge his part in Inter’s success. When a href=\"https://www.theguardian.com/football/2026/may/03/inter-win-serie-a-title-parma-football-italy\" the /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/14/inter-double-coppa-italia-final-mismatch-lazio-cristian-chivu",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 14 May 2026 12:15:55 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/14/eintracht-frankfurt-frauen-bundesliga",
-      "title": {
-        "ar": "‘We have a clear vision’: Eintracht move closer to bringing glory days back to Frankfurt",
-        "en": "‘We have a clear vision’: Eintracht move closer to bringing glory days back to Frankfurt"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Under the knowledgeable guidance of Babett Peter, the Frauen-Bundesliga club have their country’s big two, and the Champions League, in their sights /p p Frankfurt remains one of the most prominent and historic names in women’s football in Germany. The old 1. FFC Frankfurt ruled the nation for almost a decade, winning the Frauen-Bundesliga seven ",
-        "en": "p Under the knowledgeable guidance of Babett Peter, the Frauen-Bundesliga club have their country’s big two, and the Champions League, in their sights /p p Frankfurt remains one of the most prominent and historic names in women’s football in Germany. The old 1. FFC Frankfurt ruled the nation for almost a decade, winning the Frauen-Bundesliga seven "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/14/eintracht-frankfurt-frauen-bundesliga",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 14 May 2026 11:32:53 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/14/arne-slot-every-reason-to-believe-be-at-liverpool-next-season",
-      "title": {
-        "ar": "Arne Slot says he has ‘every reason to believe’ he will be at Liverpool next season",
-        "en": "Arne Slot says he has ‘every reason to believe’ he will be at Liverpool next season"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Head coach points to talks held as well as his contract /p /li li p Slot describes the criticism he is facing as ‘normal’ /p /li /ul p Arne Slot has said he has “every reason to believe” he will remain Liverpool’s head coach next season and get the opportunity to rectify this campaign’s decline. /p p Liverpool were booed off at Anfield last",
-        "en": "ul li p Head coach points to talks held as well as his contract /p /li li p Slot describes the criticism he is facing as ‘normal’ /p /li /ul p Arne Slot has said he has “every reason to believe” he will remain Liverpool’s head coach next season and get the opportunity to rectify this campaign’s decline. /p p Liverpool were booed off at Anfield last"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/14/arne-slot-every-reason-to-believe-be-at-liverpool-next-season",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 14 May 2026 10:21:12 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/14/mikel-arteta-arsenal-jurrien-timber-champions-league-final",
-      "title": {
-        "ar": "Arteta hoping Timber will win fitness race for Champions League final",
-        "en": "Arteta hoping Timber will win fitness race for Champions League final"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "ul li p Arsenal manager weighing up options at right-back /p /li li p ‘We’re going to try to get him available as quickly as possible’ /p /li /ul p Mikel Arteta is crossing his fingers that Jurriën Timber will have a chance of facing Paris Saint-Germain in the Champions League final as he weighs up his options at right-back. /p p Arsenal confirmed ",
-        "en": "ul li p Arsenal manager weighing up options at right-back /p /li li p ‘We’re going to try to get him available as quickly as possible’ /p /li /ul p Mikel Arteta is crossing his fingers that Jurriën Timber will have a chance of facing Paris Saint-Germain in the Champions League final as he weighs up his options at right-back. /p p Arsenal confirmed "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/14/mikel-arteta-arsenal-jurrien-timber-champions-league-final",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 14 May 2026 10:20:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/14/michael-carrick-earned-right-manchester-united-head-coach",
-      "title": {
-        "ar": "Michael Carrick has earned the right to bring equilibrium to Manchester United | Daniel Harris",
-        "en": "Michael Carrick has earned the right to bring equilibrium to Manchester United | Daniel Harris"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p It would be foolish of the club to undo a winning, entertaining formula by turning elsewhere for a permanent head coach /p p These days, we have a strong desire to complicate football, particularly in how we talk about it. Often, we are saying the same stuff we always were, just calling things by different names – styles are em philosophies /em ,",
-        "en": "p It would be foolish of the club to undo a winning, entertaining formula by turning elsewhere for a permanent head coach /p p These days, we have a strong desire to complicate football, particularly in how we talk about it. Often, we are saying the same stuff we always were, just calling things by different names – styles are em philosophies /em ,"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/14/michael-carrick-earned-right-manchester-united-head-coach",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 14 May 2026 10:15:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "title": {
-        "ar": "Palace latest: Glasner hints at 'huge' rotation vs Arsenal",
-        "en": "Palace latest: Glasner hints at 'huge' rotation vs Arsenal"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-crystal-palace-news_7039251.jpg?20251002160103",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 12 May 2026 14:49:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "title": {
-        "ar": "Liverpool latest: Slot gives positive update on Salah",
-        "en": "Liverpool latest: Slot gives positive update on Salah"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-liverpool-news-club_7039258.jpg?20251002160409",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 14 May 2026 09:01:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13543863/arne-slot-future-liverpool-head-coach-says-he-has-every-reason-to-believe-he-will-be-in-charge-next-season",
-      "title": {
-        "ar": "Slot has 'every reason to believe' he will be in charge of Liverpool next season",
-        "en": "Slot has 'every reason to believe' he will be in charge of Liverpool next season"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arne-slot-liverpool_7243662.jpg?20260509165150",
-      "url": "https://www.skysports.com/football/news/12040/13543863/arne-slot-future-liverpool-head-coach-says-he-has-every-reason-to-believe-he-will-be-in-charge-next-season",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 14 May 2026 09:15:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/14/why-are-we-getting-more-not-less-var-arsenal-west-ham-title-race",
-      "title": {
-        "ar": "Why are we getting more, not less, VAR? Football will not kill its golden goose | Jonathan Liew",
-        "en": "Why are we getting more, not less, VAR? Football will not kill its golden goose | Jonathan Liew"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p In generating a constant stream of outrage, debate and engagement, much-reviled tech has become its own spectacle /p p “Just keep delaying,” Darren England tells the referee, Chris Kavanagh, a href=\"https://www.theguardian.com/football/2026/may/10/west-ham-arsenal-premier-league-match-report\" at West Ham /a on Sunday afternoon. The title is on th",
-        "en": "p In generating a constant stream of outrage, debate and engagement, much-reviled tech has become its own spectacle /p p “Just keep delaying,” Darren England tells the referee, Chris Kavanagh, a href=\"https://www.theguardian.com/football/2026/may/10/west-ham-arsenal-premier-league-match-report\" at West Ham /a on Sunday afternoon. The title is on th"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/14/why-are-we-getting-more-not-less-var-arsenal-west-ham-title-race",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 14 May 2026 07:00:20 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/news/datablog/ng-interactive/2026/may/14/world-cup-us-canada-mexico-how-hot-will-it-be-dangerous-for-players-fans-temperature",
-      "title": {
-        "ar": "How hot will it be at the 2026 World Cup and is it dangerous for players and fans?",
-        "en": "How hot will it be at the 2026 World Cup and is it dangerous for players and fans?"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Researchers warn of a ‘real risk’ of unsafe conditions, with matches in Miami most likely to be affected, but the picture is mixed across the 16 stadiums /p p It’s set to be hot in North America this summer. The a href=\"https://www.cpc.ncep.noaa.gov/products/predictions/long_range/seasonal.php?lead=1\" “seasonal temperature outlook” /a for the US,",
-        "en": "p Researchers warn of a ‘real risk’ of unsafe conditions, with matches in Miami most likely to be affected, but the picture is mixed across the 16 stadiums /p p It’s set to be hot in North America this summer. The a href=\"https://www.cpc.ncep.noaa.gov/products/predictions/long_range/seasonal.php?lead=1\" “seasonal temperature outlook” /a for the US,"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/news/datablog/ng-interactive/2026/may/14/world-cup-us-canada-mexico-how-hot-will-it-be-dangerous-for-players-fans-temperature",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 14 May 2026 04:00:18 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "title": {
-        "ar": "PSG clinch record-extending 14th French league title",
-        "en": "PSG clinch record-extending 14th French league title"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-psg-lens_7248099.jpg?20260513223008",
-      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 13 May 2026 17:29:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/arsenal-women-vs-everton-women/report/545724",
-      "title": {
-        "ar": "Blackstenius scores controversial late winner for Arsenal against Everton",
-        "en": "Blackstenius scores controversial late winner for Arsenal against Everton"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arsenal-stina-blackstenius_7248113.jpg?20260513224239",
-      "url": "https://www.skysports.com/football/arsenal-women-vs-everton-women/report/545724",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 13 May 2026 22:36:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13543778/phil-foden-were-keeping-arsenal-on-their-toes-anything-can-happen-on-the-final-day",
-      "title": {
-        "ar": "Foden: We're keeping Arsenal on their toes, anything can happen",
-        "en": "Foden: We're keeping Arsenal on their toes, anything can happen"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-phil-foden-pep-guardiola_7248147.jpg?20260513232639",
-      "url": "https://www.skysports.com/football/news/12040/13543778/phil-foden-were-keeping-arsenal-on-their-toes-anything-can-happen-on-the-final-day",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 13 May 2026 23:03:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13543625/anthony-gordon-transfer-news-newcastle-forward-agrees-terms-with-bayern-munich-but-magpies-set-to-demand-75m-paper-talk",
-      "title": {
-        "ar": "Papers: Gordon agrees terms with Bayern as Newcastle price-tag revealed",
-        "en": "Papers: Gordon agrees terms with Bayern as Newcastle price-tag revealed"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "url": "https://www.skysports.com/football/news/12040/13543625/anthony-gordon-transfer-news-newcastle-forward-agrees-terms-with-bayern-munich-but-magpies-set-to-demand-75m-paper-talk",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 13 May 2026 22:30:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13543717/arsenal-1-0-everton-womens-super-league-highlights",
-      "title": {
-        "ar": "Late DRAMA! Blackstenius produces 93rd-minute winner as Arsenal down Everton!",
-        "en": "Late DRAMA! Blackstenius produces 93rd-minute winner as Arsenal down Everton!"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arsenal-everton-wsl_7248030.jpg?20260513212435",
-      "url": "https://www.skysports.com/watch/video/13543717/arsenal-1-0-everton-womens-super-league-highlights",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 13 May 2026 21:07:00 BST",
       "rewritten": false,
       "lang": "en"
     }
