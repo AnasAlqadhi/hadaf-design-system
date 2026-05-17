@@ -1,8 +1,333 @@
 {
   "version": 2,
-  "updated": "2026-05-17T13:44:55.333Z",
+  "updated": "2026-05-17T19:17:37.945Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/brentford-vs-crystal-palace/report/531492",
+      "title": {
+        "ar": "Ouattara saves Brentford twice vs Palace to keep Europe dream alive",
+        "en": "Ouattara saves Brentford twice vs Palace to keep Europe dream alive"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-dango-ouattara-premier-league_7251337.jpg?20260517154553",
+      "url": "https://www.skysports.com/football/brentford-vs-crystal-palace/report/531492",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 17 May 2026 17:07:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/wolverhampton-wanderers-vs-fulham/report/531498",
+      "title": {
+        "ar": "Fulham held to frustrating draw at Wolves as European hopes all but end",
+        "en": "Fulham held to frustrating draw at Wolves as European hopes all but end"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-wolves_7251472.jpg?20260517162814",
+      "url": "https://www.skysports.com/football/wolverhampton-wanderers-vs-fulham/report/531498",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 17 May 2026 17:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/leeds-united-vs-brighton-and-hove-albion/report/531495",
+      "title": {
+        "ar": "Brighton's European hopes take huge hit after late Calvert-Lewin winner",
+        "en": "Brighton's European hopes take huge hit after late Calvert-Lewin winner"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-premier-league-leeds_7251551.jpg?20260517165955",
+      "url": "https://www.skysports.com/football/leeds-united-vs-brighton-and-hove-albion/report/531495",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 17 May 2026 17:20:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48789151/chelsea-xabi-alonso-new-manager-premier-league-real-madrid-calum-mcfarlane",
+      "title": {
+        "ar": "Chelsea appoint Xabi Alonso as new manager",
+        "en": "Chelsea appoint Xabi Alonso as new manager"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48789151/chelsea-xabi-alonso-new-manager-premier-league-real-madrid-calum-mcfarlane",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sun, 17 May 2026 14:37:59 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48795716/usmnt-christian-pulisic-returns-injury-ac-milan-victory-world-cup",
+      "title": {
+        "ar": "Pulisic makes return from injury in AC Milan win",
+        "en": "Pulisic makes return from injury in AC Milan win"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48795716/usmnt-christian-pulisic-returns-injury-ac-milan-victory-world-cup",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sun, 17 May 2026 14:37:59 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/17/wolves-fulham-premier-league-match-report",
+      "title": {
+        "ar": "Marco Silva tight-lipped on Fulham future after Robinson rescues point at Wolves",
+        "en": "Marco Silva tight-lipped on Fulham future after Robinson rescues point at Wolves"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The Fulham manager, Marco Silva, insisted he had not made a decision on his future after his side’s European hopes were all but extinguished by Sunday’s 1-1 draw at relegated Wolves. /p p The visitors got themselves on level terms when Antonee Robinson equalised from the spot in first-half stoppage time, after Thomas Kirk gave a penalty for Mateu",
+        "en": "p The Fulham manager, Marco Silva, insisted he had not made a decision on his future after his side’s European hopes were all but extinguished by Sunday’s 1-1 draw at relegated Wolves. /p p The visitors got themselves on level terms when Antonee Robinson equalised from the spot in first-half stoppage time, after Thomas Kirk gave a penalty for Mateu"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/17/wolves-fulham-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 17 May 2026 16:18:33 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/17/brentford-crystal-palace-premier-league-match-report",
+      "title": {
+        "ar": "Dango Ouattara salvages point for Brentford and denies Crystal Palace",
+        "en": "Dango Ouattara salvages point for Brentford and denies Crystal Palace"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p /p p Beware the opponent with little to play for. Crystal Palace were supposed to be in preservation mode, their attention on more exotic occasions. The ideal opponent for Brentford’s chase for Europe. And yet. Adam Wharton scored his first goal in 94 Palace appearances, a first in the Premier League, his goal wreaking heavy damage. Dango Ouattar",
+        "en": "p /p p Beware the opponent with little to play for. Crystal Palace were supposed to be in preservation mode, their attention on more exotic occasions. The ideal opponent for Brentford’s chase for Europe. And yet. Adam Wharton scored his first goal in 94 Palace appearances, a first in the Premier League, his goal wreaking heavy damage. Dango Ouattar"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/17/brentford-crystal-palace-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 17 May 2026 16:15:13 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/17/everton-sunderland-premier-league-match-report",
+      "title": {
+        "ar": "Enzo Le Fée and Wilson Isidor save the day for Sunderland at Everton",
+        "en": "Enzo Le Fée and Wilson Isidor save the day for Sunderland at Everton"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Hill Dickinson Stadium was ­virtually empty by the time Everton commenced their lap of appreciation, interest in the end-of-season ritual having somewhat evaporated along with the club’s European ambitions. Sunderland now carry European dreams of their own into the final day of an ­outstanding Premier League return. /p p Régis Le Bris’ side leapf",
+        "en": "p Hill Dickinson Stadium was ­virtually empty by the time Everton commenced their lap of appreciation, interest in the end-of-season ritual having somewhat evaporated along with the club’s European ambitions. Sunderland now carry European dreams of their own into the final day of an ­outstanding Premier League return. /p p Régis Le Bris’ side leapf"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/17/everton-sunderland-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 17 May 2026 16:14:45 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/17/leeds-brighton-premier-league-match-report",
+      "title": {
+        "ar": "Calvert-Lewin pounces late for Leeds to hit Brighton’s European ambitions",
+        "en": "Calvert-Lewin pounces late for Leeds to hit Brighton’s European ambitions"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Quite how significant these dramatic final few moments inside Elland Road prove to be for Brighton’s season will only truly be realised next weekend. But as Fabian Hürzeler bowed his head when Dominic Calvert-Lewin sent Leeds’ supporters into raptures again, you suspected he knew just how much of a missed opportunity this could prove to be. /p p ",
+        "en": "p Quite how significant these dramatic final few moments inside Elland Road prove to be for Brighton’s season will only truly be realised next weekend. But as Fabian Hürzeler bowed his head when Dominic Calvert-Lewin sent Leeds’ supporters into raptures again, you suspected he knew just how much of a missed opportunity this could prove to be. /p p "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/17/leeds-brighton-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 17 May 2026 16:10:33 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/17/from-wiltshire-to-wembley-semenyo-surreal-journey-hits-new-heights",
+      "title": {
+        "ar": "From Wiltshire to Wembley: Semenyo’s ‘surreal’ journey hits new heights",
+        "en": "From Wiltshire to Wembley: Semenyo’s ‘surreal’ journey hits new heights"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Manchester City’s FA Cup hero started career with loans to Bath City and Newport and heads back to Bournemouth next /p p When it comes to Antoine Semenyo, it is almost impossible not to fixate on his career journey. Everybody loves a triumph over adversity, a rise from the lowest level to the very top, and the narrative arc with the Manchester Ci",
+        "en": "p Manchester City’s FA Cup hero started career with loans to Bath City and Newport and heads back to Bournemouth next /p p When it comes to Antoine Semenyo, it is almost impossible not to fixate on his career journey. Everybody loves a triumph over adversity, a rise from the lowest level to the very top, and the narrative arc with the Manchester Ci"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/17/from-wiltshire-to-wembley-semenyo-surreal-journey-hits-new-heights",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 17 May 2026 16:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/17/manchester-united-nottingham-forest-premier-league-match-report",
+      "title": {
+        "ar": "Bruno Fernandes equals assist record as Manchester United hold off battling Forest",
+        "en": "Bruno Fernandes equals assist record as Manchester United hold off battling Forest"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p This is the new, serendipitous Michael Carrick Manchester United era, helped by confusing officiating to edge past Nottingham Forest, on the day Bruno Fernandes equalled the Premier League record for assists in a season. If it was not for a lack of obvious options a href=\"https://www.theguardian.com/football/2026/jan/05/ruben-amorim-sacked-by-man",
+        "en": "p This is the new, serendipitous Michael Carrick Manchester United era, helped by confusing officiating to edge past Nottingham Forest, on the day Bruno Fernandes equalled the Premier League record for assists in a season. If it was not for a lack of obvious options a href=\"https://www.theguardian.com/football/2026/jan/05/ruben-amorim-sacked-by-man"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/17/manchester-united-nottingham-forest-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 17 May 2026 13:36:25 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48794163/why-chelsea-hired-xabi-alonso-now-went-wrong-real-madrid",
+      "title": {
+        "ar": "Why Chelsea hired Xabi Alonso now, and what went w...",
+        "en": "Why Chelsea hired Xabi Alonso now, and what went w..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48794163/why-chelsea-hired-xabi-alonso-now-went-wrong-real-madrid",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sun, 17 May 2026 07:22:24 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48776054/wsl-season-grades-manchester-city-get-chelsea-c+",
+      "title": {
+        "ar": "WSL season grades: Man City get an A, Chelsea a C+...",
+        "en": "WSL season grades: Man City get an A, Chelsea a C+..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48776054/wsl-season-grades-manchester-city-get-chelsea-c+",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sun, 17 May 2026 03:52:01 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13544991/jose-mourinho-opens-up-on-real-madrid-return-after-potential-benfica-farewell-reporter-notebook",
       "title": {
@@ -600,81 +925,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Thu, 14 May 2026 22:23:09 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1750,256 +2000,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Fri, 15 May 2026 22:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13544505/aston-villa-4-2-liverpool-premier-league-highlights",
-      "title": {
-        "ar": "Watkins double & McGinn beauty! Villa thump Liverpool to seal CL football",
-        "en": "Watkins double & McGinn beauty! Villa thump Liverpool to seal CL football"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-aston-villa-liverpool_7249894.jpg?20260515221903",
-      "url": "https://www.skysports.com/watch/video/13544505/aston-villa-4-2-liverpool-premier-league-highlights",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 15 May 2026 22:17:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13544517/joao-pedro-transfer-news-barcelona-sporting-director-deco-meets-with-chelsea-strikers-agent-paper-talk",
-      "title": {
-        "ar": "Papers: Barcelona chief Deco meets with Joao Pedro's agent",
-        "en": "Papers: Barcelona chief Deco meets with Joao Pedro's agent"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "url": "https://www.skysports.com/football/news/12040/13544517/joao-pedro-transfer-news-barcelona-sporting-director-deco-meets-with-chelsea-strikers-agent-paper-talk",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 15 May 2026 23:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13544518/jamie-carragher-liverpool-have-too-many-weak-players-and-dont-excel-at-anything-after-poor-defeat-to-aston-villa",
-      "title": {
-        "ar": "Carra: Liverpool have too many weak players - they don't excel at anything",
-        "en": "Carra: Liverpool have too many weak players - they don't excel at anything"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "Friday Night Football.]]>",
-        "en": "Friday Night Football.]]>"
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-carragher-liverpool_7249942.jpg?20260515225705",
-      "url": "https://www.skysports.com/football/news/12040/13544518/jamie-carragher-liverpool-have-too-many-weak-players-and-dont-excel-at-anything-after-poor-defeat-to-aston-villa",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 15 May 2026 22:32:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/aston-villa-vs-liverpool/live/531490",
-      "title": {
-        "ar": "Rogers scores stylish opener for Villa vs Liverpool LIVE on Sky!",
-        "en": "Rogers scores stylish opener for Villa vs Liverpool LIVE on Sky!"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-villa-liverpool_7249799.jpg?20260515201619",
-      "url": "https://www.skysports.com/football/aston-villa-vs-liverpool/live/531490",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 13 May 2026 16:21:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13544358/fa-cup-final-fighter-enzo-fernandez-holds-key-for-chelsea-against-man-city-at-wembley",
-      "title": {
-        "ar": "Fighter Fernandez the key to Chelsea's FA Cup final hopes",
-        "en": "Fighter Fernandez the key to Chelsea's FA Cup final hopes"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-enzo-fernandez-chelsea_7126423.jpg?20260104194101",
-      "url": "https://www.skysports.com/football/news/12040/13544358/fa-cup-final-fighter-enzo-fernandez-holds-key-for-chelsea-against-man-city-at-wembley",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 15 May 2026 14:02:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/film/2026/may/15/cantona-review-eric-david-beckham-alex-ferguson",
-      "title": {
-        "ar": "Cantona review - Beckham and Ferguson lively defenders as Eric gnomically quotes Baudelaire",
-        "en": "Cantona review - Beckham and Ferguson lively defenders as Eric gnomically quotes Baudelaire"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p strong Cannes film festival: /strong This lively documentary about everyone’s favourite hot-headed footballer/unlikely Ken Loach star will give more than just fans a kick /p p Here is a fervent, but repetitive fan-service documentary, perpetually re-using iconic “bad behaviour” clips, all about the tempestuous king of Manchester United (formerly ",
-        "en": "p strong Cannes film festival: /strong This lively documentary about everyone’s favourite hot-headed footballer/unlikely Ken Loach star will give more than just fans a kick /p p Here is a fervent, but repetitive fan-service documentary, perpetually re-using iconic “bad behaviour” clips, all about the tempestuous king of Manchester United (formerly "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/film/2026/may/15/cantona-review-eric-david-beckham-alex-ferguson",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 15 May 2026 16:55:34 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/15/marc-guehi-continues-whirlwind-fa-cup-journey-against-club-where-it-all-began",
-      "title": {
-        "ar": "Marc Guéhi continues whirlwind FA Cup journey against club where it all began",
-        "en": "Marc Guéhi continues whirlwind FA Cup journey against club where it all began"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Manchester City defender led Crystal Palace to Wembley triumph last season and is back to take on Chelsea /p p Marc Guéhi’s whirlwind 12 months in the FA Cup: a href=\"https://www.theguardian.com/football/2025/may/17/crystal-palace-manchester-city-fa-cup-final-match-report\" captaining Crystal Palace to glory /a at Wembley last season, experiencing",
-        "en": "p Manchester City defender led Crystal Palace to Wembley triumph last season and is back to take on Chelsea /p p Marc Guéhi’s whirlwind 12 months in the FA Cup: a href=\"https://www.theguardian.com/football/2025/may/17/crystal-palace-manchester-city-fa-cup-final-match-report\" captaining Crystal Palace to glory /a at Wembley last season, experiencing"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/15/marc-guehi-continues-whirlwind-fa-cup-journey-against-club-where-it-all-began",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 15 May 2026 16:00:45 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/15/manchester-city-chelsea-fa-cup-final-football-daily-newsletter",
-      "title": {
-        "ar": "Football Daily | Manchester City’s page-turning narrative in a tale of two cup finals",
-        "en": "Football Daily | Manchester City’s page-turning narrative in a tale of two cup finals"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p While the rest of the known world is humming along to videos of former Bilbo near-hitmaker Colin Chisholm a href=\"https://www.youtube.com/watch?v=5lAzvDMUVEk\" belting out the Hearts song /a ",
-        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p While the rest of the known world is humming along to videos of former Bilbo near-hitmaker Colin Chisholm a href=\"https://www.youtube.com/watch?v=5lAzvDMUVEk\" belting out the Hearts song /a "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/15/manchester-city-chelsea-fa-cup-final-football-daily-newsletter",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 15 May 2026 13:34:17 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/chelsea-vs-manchester-city/live/555725",
-      "title": {
-        "ar": "FA Cup final - Chelsea vs Man City: Triple injury boost for Blues",
-        "en": "FA Cup final - Chelsea vs Man City: Triple injury boost for Blues"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-fa-cup-final-chelsea_7245336.jpg?20260511092816",
-      "url": "https://www.skysports.com/football/chelsea-vs-manchester-city/live/555725",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 14 May 2026 14:32:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13544267/kylian-mbappe-booed-real-madrid-striker-claims-to-be-fourth-forward-after-substitute-appearance-on-injury-return",
-      "title": {
-        "ar": "Booed Mbappe claims to be Real's 'fourth forward'",
-        "en": "Booed Mbappe claims to be Real's 'fourth forward'"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-kylian-mbappe-real-madrid_7249389.jpg?20260515110433",
-      "url": "https://www.skysports.com/football/news/12040/13544267/kylian-mbappe-booed-real-madrid-striker-claims-to-be-fourth-forward-after-substitute-appearance-on-injury-return",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 15 May 2026 09:49:00 BST",
       "rewritten": false,
       "lang": "en"
     }
