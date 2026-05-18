@@ -1,8 +1,208 @@
 {
   "version": 2,
-  "updated": "2026-05-17T19:17:37.945Z",
+  "updated": "2026-05-18T04:13:38.584Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13545341/morgan-rogers-transfer-news-chelsea-showing-interest-in-aston-villa-star-paper-talk",
+      "title": {
+        "ar": "Papers: Chelsea showing interest in Rogers",
+        "en": "Papers: Chelsea showing interest in Rogers"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "url": "https://www.skysports.com/football/news/12040/13545341/morgan-rogers-transfer-news-chelsea-showing-interest-in-aston-villa-star-paper-talk",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 17 May 2026 23:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "title": {
+        "ar": "Match abandoned after Nantes fans storm the field on Ligue 1 final day",
+        "en": "Match abandoned after Nantes fans storm the field on Ligue 1 final day"
+      },
+      "kicker": {
+        "ar": "الدوري الفرنسي",
+        "en": "Ligue 1"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-nantes-ligue-1-france_7251864.jpg?20260517214143",
+      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 17 May 2026 21:43:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13545272/man-utd-transfers-gary-neville-on-summer-window-priorities-replacing-casemiro-and-elliot-anderson",
+      "title": {
+        "ar": "Neville on Man Utd's summer priorities: Could Anderson replace Casemiro?",
+        "en": "Neville on Man Utd's summer priorities: Could Anderson replace Casemiro?"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "Sky Sports' Gary Neville says replacing Casemiro will be one of Manchester United biggest challenges this summer after the Brazilian s emotional Old Trafford farewell.]]>",
+        "en": "Sky Sports' Gary Neville says replacing Casemiro will be one of Manchester United biggest challenges this summer after the Brazilian s emotional Old Trafford farewell.]]>"
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-casemiro-premier-league_7251201.jpg?20260517143044",
+      "url": "https://www.skysports.com/football/news/12040/13545272/man-utd-transfers-gary-neville-on-summer-window-priorities-replacing-casemiro-and-elliot-anderson",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 17 May 2026 20:20:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/17/inter-poised-as-curtis-jones-enters-final-year-of-liverpool-contract",
+      "title": {
+        "ar": "Inter poised as Curtis Jones enters final year of Liverpool contract",
+        "en": "Inter poised as Curtis Jones enters final year of Liverpool contract"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Midfielder has not yet agreed extension at Anfield /p /li li p Liverpool value Jones at around £35m /p /li /ul p Inter are expected to renew their interest in Curtis Jones this summer, when the Liverpool midfielder will enter the final 12 months of his contract. /p p Jones has been in talks with his boyhood club over a new deal for several ",
+        "en": "ul li p Midfielder has not yet agreed extension at Anfield /p /li li p Liverpool value Jones at around £35m /p /li /ul p Inter are expected to renew their interest in Curtis Jones this summer, when the Liverpool midfielder will enter the final 12 months of his contract. /p p Jones has been in talks with his boyhood club over a new deal for several "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/17/inter-poised-as-curtis-jones-enters-final-year-of-liverpool-contract",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 17 May 2026 21:30:49 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/17/xabi-alonso-confirmed-as-chelsea-manager-on-four-year-contract",
+      "title": {
+        "ar": "Xabi Alonso confirmed as Chelsea manager on four-year contract",
+        "en": "Xabi Alonso confirmed as Chelsea manager on four-year contract"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Former Liverpool and Madrid midfielder starts on 1 July /p /li li p Alonso feels ‘immense pride to be manager of great club’ /p /li /ul p Chelsea have confirmed the appointment of Xabi Alonso as their new manager. The Spaniard has signed a four-year deal and will start work in pre season. He becomes the sixth permanent manager of the BlueCo",
+        "en": "ul li p Former Liverpool and Madrid midfielder starts on 1 July /p /li li p Alonso feels ‘immense pride to be manager of great club’ /p /li /ul p Chelsea have confirmed the appointment of Xabi Alonso as their new manager. The Spaniard has signed a four-year deal and will start work in pre season. He becomes the sixth permanent manager of the BlueCo"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/17/xabi-alonso-confirmed-as-chelsea-manager-on-four-year-contract",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 17 May 2026 08:32:27 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/brentford-vs-crystal-palace/report/531492",
       "title": {
@@ -1800,206 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Fri, 15 May 2026 17:16:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/15/premier-league-and-fa-cup-final-predicted-lineups-for-the-weekend-action",
-      "title": {
-        "ar": "Premier League and FA Cup final: predicted lineups for the weekend action",
-        "en": "Premier League and FA Cup final: predicted lineups for the weekend action"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Manchester City face Chelsea for the trophy at Wembley while leaders Arsenal host Burnley on Monday night /p p strong FA Cup final (stats from all competitions) /strong /p a href=\"https://www.theguardian.com/football/2026/may/15/premier-league-and-fa-cup-final-predicted-lineups-for-the-weekend-action\" Continue reading... /a",
-        "en": "p Manchester City face Chelsea for the trophy at Wembley while leaders Arsenal host Burnley on Monday night /p p strong FA Cup final (stats from all competitions) /strong /p a href=\"https://www.theguardian.com/football/2026/may/15/premier-league-and-fa-cup-final-predicted-lineups-for-the-weekend-action\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/15/premier-league-and-fa-cup-final-predicted-lineups-for-the-weekend-action",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 15 May 2026 17:13:51 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/15/scottish-fa-referee-derek-mcinnes-hearts-celtic-title-race",
-      "title": {
-        "ar": "Scottish FA criticises McInnes and media after referee requires police protection",
-        "en": "Scottish FA criticises McInnes and media after referee requires police protection"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Official under watch after personal details leaked online /p /li li p Hearts manager called Celtic decision ‘disgusting’ /p /li /ul p The Scottish Football Association has vehemently criticised a “hysterical media narrative” and taken a swipe at the Hearts manager, Derek McInnes, while revealing one of its match officials and his family spe",
-        "en": "ul li p Official under watch after personal details leaked online /p /li li p Hearts manager called Celtic decision ‘disgusting’ /p /li /ul p The Scottish Football Association has vehemently criticised a “hysterical media narrative” and taken a swipe at the Hearts manager, Derek McInnes, while revealing one of its match officials and his family spe"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/15/scottish-fa-referee-derek-mcinnes-hearts-celtic-title-race",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 15 May 2026 16:57:03 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48771056/every-premier-league-team-reranked-man-city-rise-chelsea-liverpool-collapse",
-      "title": {
-        "ar": "Every Premier League team reranked: Explaining Man City rise, collapse of Chelsea and Liverpool",
-        "en": "Every Premier League team reranked: Explaining Man City rise, collapse of Chelsea and Liverpool"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48771056/every-premier-league-team-reranked-man-city-rise-chelsea-liverpool-collapse",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 15 May 2026 09:01:52 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48775723/arsenal-unveil-new-2026-27-home-kit-ahead-champions-league-final",
-      "title": {
-        "ar": "Arsenal unveil new 2026-27 home kit ahead of Champ...",
-        "en": "Arsenal unveil new 2026-27 home kit ahead of Champ..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48775723/arsenal-unveil-new-2026-27-home-kit-ahead-champions-league-final",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 15 May 2026 04:05:27 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48758870/before-ted-lasso-cristo-fernandez-had-pro-soccer-dreams-now-living-them",
-      "title": {
-        "ar": "Before Ted Lasso, Cristo Fernández had pro soccer ...",
-        "en": "Before Ted Lasso, Cristo Fernández had pro soccer ..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48758870/before-ted-lasso-cristo-fernandez-had-pro-soccer-dreams-now-living-them",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 15 May 2026 03:50:17 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48636037/lionel-messi-forgotten-vhs-tape-oral-history-argentina-spain-recruit-barcelona-world-cup",
-      "title": {
-        "ar": "Messi and the forgotten tape: Oral history of Arge...",
-        "en": "Messi and the forgotten tape: Oral history of Arge..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48636037/lionel-messi-forgotten-vhs-tape-oral-history-argentina-spain-recruit-barcelona-world-cup",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 14 May 2026 22:23:09 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/video/2026/may/14/foden-sparkles-for-city-and-scottish-title-race-goes-to-the-wire-football-weekly-video",
-      "title": {
-        "ar": "Foden sparkles for City and Scottish title race goes to the wire | Football Weekly – video",
-        "en": "Foden sparkles for City and Scottish title race goes to the wire | Football Weekly – video"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Jordan Jarrett-Bryan, Will Unwin and Ewan Murray to discuss the title races in England and Scotland /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Jordan Jarrett-Bryan, Will Unwin and Ewan Murray to discuss the title races in England and Scotland /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/video/2026/may/14/foden-sparkles-for-city-and-scottish-title-race-goes-to-the-wire-football-weekly-video",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 14 May 2026 13:48:23 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/aston-villa-vs-liverpool/report/531490",
-      "title": {
-        "ar": "Aston Villa rip Liverpool apart to secure Champions League football",
-        "en": "Aston Villa rip Liverpool apart to secure Champions League football"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-villa-liverpool_7249846.jpg?20260515212407",
-      "url": "https://www.skysports.com/football/aston-villa-vs-liverpool/report/531490",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 15 May 2026 22:00:00 BST",
       "rewritten": false,
       "lang": "en"
     }
