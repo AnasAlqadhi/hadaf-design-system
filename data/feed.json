@@ -1,8 +1,158 @@
 {
   "version": 2,
-  "updated": "2026-05-18T04:13:38.584Z",
+  "updated": "2026-05-18T10:17:28.714Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13544711/jose-mourinho-real-madrid-agree-deal-for-ex-man-utd-boss-to-return-as-head-coach-on-two-year-deal",
+      "title": {
+        "ar": "Mourinho agrees Real Madrid return",
+        "en": "Mourinho agrees Real Madrid return"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-jose-mourinho-benfica_7233126.jpg?20260428130209",
+      "url": "https://www.skysports.com/football/news/12040/13544711/jose-mourinho-real-madrid-agree-deal-for-ex-man-utd-boss-to-return-as-head-coach-on-two-year-deal",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 18 May 2026 10:54:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12040/13541517/kimi-antonelli-how-mercedes-drivers-popularity-in-italy-has-surged-amid-his-lead-in-the-f1-title-race",
+      "title": {
+        "ar": "Can 'wild' Antonelli popularity save Italy's summer amid World Cup absence?",
+        "en": "Can 'wild' Antonelli popularity save Italy's summer amid World Cup absence?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-kimi-antonelli-mercedes_7251906.jpg?20260517233403",
+      "url": "https://www.skysports.com/f1/news/12040/13541517/kimi-antonelli-how-mercedes-drivers-popularity-in-italy-has-surged-amid-his-lead-in-the-f1-title-race",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 18 May 2026 07:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/18/world-cup-2026-resale-ticket-prices",
+      "title": {
+        "ar": "The World Cup’s in-demand tickets: are Scotland really more popular than England, USA and Argentina?",
+        "en": "The World Cup’s in-demand tickets: are Scotland really more popular than England, USA and Argentina?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p The final is the most expensive ticket on resale for this summer’s tournaments. But there are surprising get-in prices elsewhere /p p It’s no surprise that the most expensive World Cup resale tickets are a href=\"https://www.theguardian.com/football/2024/feb/06/the-2026-world-cup-final-is-in-new-jersey-a-brief-guide-to-the-metlife-stadium\" for the",
+        "en": "p The final is the most expensive ticket on resale for this summer’s tournaments. But there are surprising get-in prices elsewhere /p p It’s no surprise that the most expensive World Cup resale tickets are a href=\"https://www.theguardian.com/football/2024/feb/06/the-2026-world-cup-final-is-in-new-jersey-a-brief-guide-to-the-metlife-stadium\" for the"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/18/world-cup-2026-resale-ticket-prices",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 18 May 2026 08:20:02 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/18/energy-passion-and-optimism-how-arteta-created-red-hot-emirates-atmosphere",
+      "title": {
+        "ar": "‘Energy, passion and optimism’: how Arteta created red-hot Emirates atmosphere",
+        "en": "‘Energy, passion and optimism’: how Arteta created red-hot Emirates atmosphere"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p From removal of tunnel cover to turning off concourse TVs, title-chasing Arsenal manager has left no stone unturned /p p It’s being billed as the biggest Premier League game ever hosted at the Emirates Stadium. Tickets for Monday’s meeting with Burnley, who were relegated almost a month ago and returned 1,500 tickets for their trip to north Londo",
+        "en": "p From removal of tunnel cover to turning off concourse TVs, title-chasing Arsenal manager has left no stone unturned /p p It’s being billed as the biggest Premier League game ever hosted at the Emirates Stadium. Tickets for Monday’s meeting with Burnley, who were relegated almost a month ago and returned 1,500 tickets for their trip to north Londo"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/18/energy-passion-and-optimism-how-arteta-created-red-hot-emirates-atmosphere",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 18 May 2026 07:01:01 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/18/premier-league-and-fa-cup-final-10-talking-points-from-the-weekends-action",
+      "title": {
+        "ar": "Premier League and FA Cup final: 10 talking points from the weekend’s action",
+        "en": "Premier League and FA Cup final: 10 talking points from the weekend’s action"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Bafflement at Old Trafford, Chelsea’s Wembley drought goes on and Leeds give fans cause for optimism /p p Luke Shaw’s first goal in over three years for Manchester United was a further reminder of the left-back’s capabilities. This has been his best season at Old Trafford having featured in all 37 league games thus far, leaving his injury-prone p",
+        "en": "p Bafflement at Old Trafford, Chelsea’s Wembley drought goes on and Leeds give fans cause for optimism /p p Luke Shaw’s first goal in over three years for Manchester United was a further reminder of the left-back’s capabilities. This has been his best season at Old Trafford having featured in all 37 league games thus far, leaving his injury-prone p"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/18/premier-league-and-fa-cup-final-10-talking-points-from-the-weekends-action",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 18 May 2026 06:09:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/video/2026/may/14/foden-sparkles-for-city-and-scottish-title-race-goes-to-the-wire-football-weekly-video",
+      "title": {
+        "ar": "Foden sparkles for City and Scottish title race goes to the wire | Football Weekly – video",
+        "en": "Foden sparkles for City and Scottish title race goes to the wire | Football Weekly – video"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Jordan Jarrett-Bryan, Will Unwin and Ewan Murray to discuss the title races in England and Scotland /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/",
+        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Jordan Jarrett-Bryan, Will Unwin and Ewan Murray to discuss the title races in England and Scotland /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/video/2026/may/14/foden-sparkles-for-city-and-scottish-title-race-goes-to-the-wire-football-weekly-video",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 14 May 2026 13:48:23 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13545341/morgan-rogers-transfer-news-chelsea-showing-interest-in-aston-villa-star-paper-talk",
       "title": {
@@ -125,81 +275,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Sun, 17 May 2026 08:32:27 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1925,81 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Fri, 15 May 2026 19:00:48 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48677243/2026-world-cup-rosters-predictions-starting-xis-usa-france-mexico-england-spain-germany-brazil-argentina",
-      "title": {
-        "ar": "World Cup predicted starting lineups",
-        "en": "World Cup predicted starting lineups"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48677243/2026-world-cup-rosters-predictions-starting-xis-usa-france-mexico-england-spain-germany-brazil-argentina",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 15 May 2026 13:44:55 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48677225/fifa-world-cup-power-rankings-spain-brazil-germany-england-argentina",
-      "title": {
-        "ar": "World Cup Power Rankings: Who are the front-runner...",
-        "en": "World Cup Power Rankings: Who are the front-runner..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48677225/fifa-world-cup-power-rankings-spain-brazil-germany-england-argentina",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 15 May 2026 13:44:55 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/15/football-club-owner-accused-of-taking-more-than-28000-from-players-parents",
-      "title": {
-        "ar": "Football club owner accused of taking more than £28,000 from players’ parents",
-        "en": "Football club owner accused of taking more than £28,000 from players’ parents"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Claims being reviewed by police and FA /p /li li p Jamie Austin runs girls’ club Red Star Lionesses /p /li /ul p Parents have accused the owner of the girls’ football club Red Star Lionesses of taking more than £28,000 in payments for tournaments that did not happen, kits that did not arrive and sessions with Women’s Super League players th",
-        "en": "ul li p Claims being reviewed by police and FA /p /li li p Jamie Austin runs girls’ club Red Star Lionesses /p /li /ul p Parents have accused the owner of the girls’ football club Red Star Lionesses of taking more than £28,000 in payments for tournaments that did not happen, kits that did not arrive and sessions with Women’s Super League players th"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/15/football-club-owner-accused-of-taking-more-than-28000-from-players-parents",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 15 May 2026 17:16:35 GMT",
       "rewritten": false,
       "lang": "en"
     }
