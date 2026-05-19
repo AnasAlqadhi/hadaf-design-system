@@ -1,8 +1,258 @@
 {
   "version": 2,
-  "updated": "2026-05-19T15:38:15.731Z",
+  "updated": "2026-05-19T19:59:09.605Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/bournemouth-vs-manchester-city/live/531491",
+      "title": {
+        "ar": "Bournemouth lead Man City as Arsenal close in on title LIVE! & highlights",
+        "en": "Bournemouth lead Man City as Arsenal close in on title LIVE! & highlights"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-eli-junior-kroupi_7253433.jpg?20260519201654",
+      "url": "https://www.skysports.com/football/bournemouth-vs-manchester-city/live/531491",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 19 May 2026 17:45:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/live/531493",
+      "title": {
+        "ar": "Enzo wondergoal puts Chelsea ahead vs Spurs LIVE!",
+        "en": "Enzo wondergoal puts Chelsea ahead vs Spurs LIVE!"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-enzo-fernandez-chelsea_7253462.jpg?20260519204412",
+      "url": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/live/531493",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 19 May 2026 18:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13546039/goal-e-fernandez-18-chelsea-1-0-tottenham-hotspur",
+      "title": {
+        "ar": "'What a strike!' - Fernandez STUNNER gives Chelsea the lead",
+        "en": "'What a strike!' - Fernandez STUNNER gives Chelsea the lead"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-chelsea-spurs_7253460.jpg?20260519204231",
+      "url": "https://www.skysports.com/watch/video/13546039/goal-e-fernandez-18-chelsea-1-0-tottenham-hotspur",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 19 May 2026 20:40:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/may/19/bournemouth-v-manchester-city-premier-league-live-pep-guardiola-arsenal",
+      "title": {
+        "ar": "Bournemouth v Manchester City: Arsenal can win Premier League if visitors slip up as Guardiola heads for exit – live",
+        "en": "Bournemouth v Manchester City: Arsenal can win Premier League if visitors slip up as Guardiola heads for exit – live"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p ⚽️ 7.30pm BST kick-off; City must win or Arsenal take title br ⚽️ a href=\"https://www.theguardian.com/football/live/2026/may/19/chelsea-v-tottenham-premier-league-live-west-ham\" Chelsea v Spurs – live /a | a href=\"https://www.theguardian.com/football/2026/may/19/southampton-kicked-out-of-championship-playoff-final-docked-four-points-for-spying\" S",
+        "en": "p ⚽️ 7.30pm BST kick-off; City must win or Arsenal take title br ⚽️ a href=\"https://www.theguardian.com/football/live/2026/may/19/chelsea-v-tottenham-premier-league-live-west-ham\" Chelsea v Spurs – live /a | a href=\"https://www.theguardian.com/football/2026/may/19/southampton-kicked-out-of-championship-playoff-final-docked-four-points-for-spying\" S"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/may/19/bournemouth-v-manchester-city-premier-league-live-pep-guardiola-arsenal",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 19 May 2026 19:45:19 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/may/19/chelsea-v-tottenham-premier-league-live-west-ham",
+      "title": {
+        "ar": "Chelsea v Tottenham: Premier League – live",
+        "en": "Chelsea v Tottenham: Premier League – live"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p ⚽️ 8.15pm BST kick-off; Spurs win sends West Ham down br ⚽️ a href=\"https://www.theguardian.com/football/live/2026/may/19/bournemouth-v-manchester-city-premier-league-live-pep-guardiola-arsenal\" Bournemouth v Manchester City – live /a | a href=\"mailto:simon.burnton@guardian.co.uk\" Mail Simon /a /p p strong The players are out, /strong hands have ",
+        "en": "p ⚽️ 8.15pm BST kick-off; Spurs win sends West Ham down br ⚽️ a href=\"https://www.theguardian.com/football/live/2026/may/19/bournemouth-v-manchester-city-premier-league-live-pep-guardiola-arsenal\" Bournemouth v Manchester City – live /a | a href=\"mailto:simon.burnton@guardian.co.uk\" Mail Simon /a /p p strong The players are out, /strong hands have "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/may/19/chelsea-v-tottenham-premier-league-live-west-ham",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 19 May 2026 19:44:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/19/brazils-world-cup-squad-offers-a-hint-of-the-magical-pragmatism-of-1994",
+      "title": {
+        "ar": "Brazil’s World Cup squad offers a hint of the magical pragmatism of 1994",
+        "en": "Brazil’s World Cup squad offers a hint of the magical pragmatism of 1994"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p There is no shortage of entertainers in Carlo Ancelotti’s picks for this summer’s tournament. They’ll also need a solid base if they are to win a sixth title /p p In their attacking heyday, Brazil never struggled to find a winning complement in defence. Individual attacking brilliance only comes off if others nearby are doing the hard yards; for ",
+        "en": "p There is no shortage of entertainers in Carlo Ancelotti’s picks for this summer’s tournament. They’ll also need a solid base if they are to win a sixth title /p p In their attacking heyday, Brazil never struggled to find a winning complement in defence. Individual attacking brilliance only comes off if others nearby are doing the hard yards; for "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/19/brazils-world-cup-squad-offers-a-hint-of-the-magical-pragmatism-of-1994",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 19 May 2026 19:04:52 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/19/aston-villa-europa-league-final-freiburg",
+      "title": {
+        "ar": "Aston Villa bid to complete journey from Championship to Europa League glory",
+        "en": "Aston Villa bid to complete journey from Championship to Europa League glory"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "p John McGinn will lead out team in final against Freiburg seven years after helping them win promotion with club chasing a first major European trophy since 1982 /p p As Aston Villa arrived at Besiktas Park on the banks of the Bosphorus, for one last training session before the real thing, it was impossible not to consider the journey to the Europ",
+        "en": "p John McGinn will lead out team in final against Freiburg seven years after helping them win promotion with club chasing a first major European trophy since 1982 /p p As Aston Villa arrived at Besiktas Park on the banks of the Bosphorus, for one last training session before the real thing, it was impossible not to consider the journey to the Europ"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/19/aston-villa-europa-league-final-freiburg",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 19 May 2026 17:14:54 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/19/czech-football-coach-petr-vlachovsky-secretly-filmed-female-players-handed-lifetime-ban",
+      "title": {
+        "ar": "Czech football coach who secretly filmed female players handed lifetime ban",
+        "en": "Czech football coach who secretly filmed female players handed lifetime ban"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Petr Vlachovsky was first convicted in May 2025 /p /li li p Five-year domestic coaching ban was seen as too lenient /p /li /ul p Uefa has handed a lifetime ban from all football-related activity to Petr Vlachovsky, the Czech coach who used a hidden camera to a href=\"https://www.theguardian.com/football/2026/mar/03/calls-for-worldwide-ban-on",
+        "en": "ul li p Petr Vlachovsky was first convicted in May 2025 /p /li li p Five-year domestic coaching ban was seen as too lenient /p /li /ul p Uefa has handed a lifetime ban from all football-related activity to Petr Vlachovsky, the Czech coach who used a hidden camera to a href=\"https://www.theguardian.com/football/2026/mar/03/calls-for-worldwide-ban-on"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/19/czech-football-coach-petr-vlachovsky-secretly-filmed-female-players-handed-lifetime-ban",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 19 May 2026 17:08:22 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/19/manchester-united-liverpool-chelsea-target-jarrod-bowen-west-ham-transfer",
+      "title": {
+        "ar": "Manchester United, Liverpool and Chelsea target Jarrod Bowen amid drop threat",
+        "en": "Manchester United, Liverpool and Chelsea target Jarrod Bowen amid drop threat"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p West Ham will need to raise more than £100m if relegated /p /li li p Relegation could force England player to reassess future /p /li /ul p Chelsea, Liverpool and Manchester United are interested in Jarrod Bowen as rival clubs prepare to capitalise on West Ham’s financial problems by targeting their best players. /p p West Ham will need to r",
+        "en": "ul li p West Ham will need to raise more than £100m if relegated /p /li li p Relegation could force England player to reassess future /p /li /ul p Chelsea, Liverpool and Manchester United are interested in Jarrod Bowen as rival clubs prepare to capitalise on West Ham’s financial problems by targeting their best players. /p p West Ham will need to r"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/19/manchester-united-liverpool-chelsea-target-jarrod-bowen-west-ham-transfer",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 19 May 2026 15:25:48 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/19/football-quiz-english-clubs-european-finals-arsenal-aston-villa-crystal-palace",
+      "title": {
+        "ar": "Football quiz: when English clubs play in European finals",
+        "en": "Football quiz: when English clubs play in European finals"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Arsenal, Aston Villa and Crystal Palace could make it a clean sweep of English winners in Europe this season /p p By a href=\"https://thefootballmine.com/\" The Football Mine /a /p p strong This is a quiz by Richard Foster, who presents the a href=\"https://x.com/ISWAKPodcast\" It Started With A Kick podcast /a and writes a daily quiz on the a href=\"",
+        "en": "p Arsenal, Aston Villa and Crystal Palace could make it a clean sweep of English winners in Europe this season /p p By a href=\"https://thefootballmine.com/\" The Football Mine /a /p p strong This is a quiz by Richard Foster, who presents the a href=\"https://x.com/ISWAKPodcast\" It Started With A Kick podcast /a and writes a daily quiz on the a href=\""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/19/football-quiz-english-clubs-european-finals-arsenal-aston-villa-crystal-palace",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 19 May 2026 14:26:44 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/cricket/news/12040/13545848/england-captain-nat-sciver-brunt-in-womens-t20-world-cup-fitness-race-after-being-ruled-out-of-series-vs-new-zealand-india",
       "title": {
@@ -625,81 +875,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Mon, 18 May 2026 19:50:52 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1825,181 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Sun, 17 May 2026 16:14:45 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/17/leeds-brighton-premier-league-match-report",
-      "title": {
-        "ar": "Calvert-Lewin pounces late for Leeds to hit Brighton’s European ambitions",
-        "en": "Calvert-Lewin pounces late for Leeds to hit Brighton’s European ambitions"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Quite how significant these dramatic final few moments inside Elland Road prove to be for Brighton’s season will only truly be realised next weekend. But as Fabian Hürzeler bowed his head when Dominic Calvert-Lewin sent Leeds’ supporters into raptures again, you suspected he knew just how much of a missed opportunity this could prove to be. /p p ",
-        "en": "p Quite how significant these dramatic final few moments inside Elland Road prove to be for Brighton’s season will only truly be realised next weekend. But as Fabian Hürzeler bowed his head when Dominic Calvert-Lewin sent Leeds’ supporters into raptures again, you suspected he knew just how much of a missed opportunity this could prove to be. /p p "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/17/leeds-brighton-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 17 May 2026 16:10:33 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/17/from-wiltshire-to-wembley-semenyo-surreal-journey-hits-new-heights",
-      "title": {
-        "ar": "From Wiltshire to Wembley: Semenyo’s ‘surreal’ journey hits new heights",
-        "en": "From Wiltshire to Wembley: Semenyo’s ‘surreal’ journey hits new heights"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Manchester City’s FA Cup hero started career with loans to Bath City and Newport and heads back to Bournemouth next /p p When it comes to Antoine Semenyo, it is almost impossible not to fixate on his career journey. Everybody loves a triumph over adversity, a rise from the lowest level to the very top, and the narrative arc with the Manchester Ci",
-        "en": "p Manchester City’s FA Cup hero started career with loans to Bath City and Newport and heads back to Bournemouth next /p p When it comes to Antoine Semenyo, it is almost impossible not to fixate on his career journey. Everybody loves a triumph over adversity, a rise from the lowest level to the very top, and the narrative arc with the Manchester Ci"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/17/from-wiltshire-to-wembley-semenyo-surreal-journey-hits-new-heights",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 17 May 2026 16:00:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48794163/why-chelsea-hired-xabi-alonso-now-went-wrong-real-madrid",
-      "title": {
-        "ar": "Why Chelsea hired Xabi Alonso now, and what went w...",
-        "en": "Why Chelsea hired Xabi Alonso now, and what went w..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48794163/why-chelsea-hired-xabi-alonso-now-went-wrong-real-madrid",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sun, 17 May 2026 07:22:24 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/17/xabi-alonso-confirmed-as-chelsea-manager-on-four-year-contract",
-      "title": {
-        "ar": "Xabi Alonso confirmed as Chelsea manager on four-year contract",
-        "en": "Xabi Alonso confirmed as Chelsea manager on four-year contract"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Former Liverpool and Madrid midfielder starts on 1 July /p /li li p Alonso feels ‘immense pride to be manager of great club’ /p /li /ul p Chelsea have confirmed the appointment of Xabi Alonso as their new manager. The Spaniard has signed a four-year deal and will start work in pre season. He becomes the sixth permanent manager of the BlueCo",
-        "en": "ul li p Former Liverpool and Madrid midfielder starts on 1 July /p /li li p Alonso feels ‘immense pride to be manager of great club’ /p /li /ul p Chelsea have confirmed the appointment of Xabi Alonso as their new manager. The Spaniard has signed a four-year deal and will start work in pre season. He becomes the sixth permanent manager of the BlueCo"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/17/xabi-alonso-confirmed-as-chelsea-manager-on-four-year-contract",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 17 May 2026 08:32:27 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/video/2026/may/14/foden-sparkles-for-city-and-scottish-title-race-goes-to-the-wire-football-weekly-video",
-      "title": {
-        "ar": "Foden sparkles for City and Scottish title race goes to the wire | Football Weekly – video",
-        "en": "Foden sparkles for City and Scottish title race goes to the wire | Football Weekly – video"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Jordan Jarrett-Bryan, Will Unwin and Ewan Murray to discuss the title races in England and Scotland /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Jordan Jarrett-Bryan, Will Unwin and Ewan Murray to discuss the title races in England and Scotland /p p Subscribe to The Guardian Football Weekly ► https://www.youtube.com/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/video/2026/may/14/foden-sparkles-for-city-and-scottish-title-race-goes-to-the-wire-football-weekly-video",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 14 May 2026 13:48:23 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13545341/morgan-rogers-transfer-news-chelsea-showing-interest-in-aston-villa-star-paper-talk",
-      "title": {
-        "ar": "Papers: Chelsea showing interest in Rogers",
-        "en": "Papers: Chelsea showing interest in Rogers"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "url": "https://www.skysports.com/football/news/12040/13545341/morgan-rogers-transfer-news-chelsea-showing-interest-in-aston-villa-star-paper-talk",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 17 May 2026 23:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "title": {
-        "ar": "Match abandoned after Nantes fans storm the field on Ligue 1 final day",
-        "en": "Match abandoned after Nantes fans storm the field on Ligue 1 final day"
-      },
-      "kicker": {
-        "ar": "الدوري الفرنسي",
-        "en": "Ligue 1"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-nantes-ligue-1-france_7251864.jpg?20260517214143",
-      "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 17 May 2026 21:43:00 BST",
       "rewritten": false,
       "lang": "en"
     }
