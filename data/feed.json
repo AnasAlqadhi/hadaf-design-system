@@ -1,8 +1,233 @@
 {
   "version": 2,
-  "updated": "2026-05-20T04:08:28.304Z",
+  "updated": "2026-05-20T09:46:17.424Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546135/arsenal-win-the-premier-league-title-5am-trip-to-the-emirates-and-lots-of-bottles-how-the-players-celebrated-victory",
+      "title": {
+        "ar": "5am trip to the Emirates - how Arsenal players celebrated PL title win",
+        "en": "5am trip to the Emirates - how Arsenal players celebrated PL title win"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-declan-rice-arsenal_7253631.jpg?20260519232901",
+      "url": "https://www.skysports.com/football/news/12040/13546135/arsenal-win-the-premier-league-title-5am-trip-to-the-emirates-and-lots-of-bottles-how-the-players-celebrated-victory",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 09:10:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13546126/how-arsenal-players-reacted-to-first-premier-league-title-win-in-22-years-on-social-media",
+      "title": {
+        "ar": "'They're not laughing anymore!' | Arsenal players react to title win on social media",
+        "en": "'They're not laughing anymore!' | Arsenal players react to title win on social media"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/football-arsenal-premier-league_7253684.jpg?20260520074056",
+      "url": "https://www.skysports.com/watch/video/13546126/how-arsenal-players-reacted-to-first-premier-league-title-win-in-22-years-on-social-media",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 07:25:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/mls-stopped-clock-ifab-discussions-trial",
+      "title": {
+        "ar": "MLS lobbying Ifab to explore stopping clock for pauses in play",
+        "en": "MLS lobbying Ifab to explore stopping clock for pauses in play"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Clock would stop for injuries, substitutions and set pieces /p /li li p MLS previously used a stopping clock from 1996-1999 /p /li li p Ifab last debated a stopping clock in 2017 /p /li /ul p Major League Soccer has had discussions with the International Football Association Board, global football’s rule making body, about trialing the use ",
+        "en": "ul li p Clock would stop for injuries, substitutions and set pieces /p /li li p MLS previously used a stopping clock from 1996-1999 /p /li li p Ifab last debated a stopping clock in 2017 /p /li /ul p Major League Soccer has had discussions with the International Football Association Board, global football’s rule making body, about trialing the use "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/mls-stopped-clock-ifab-discussions-trial",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 09:00:32 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/gallery/2026/may/20/london-arsenal-fans-title-celebrations-in-pictures",
+      "title": {
+        "ar": "Party on the streets of London: Arsenal fans’ title celebrations – in pictures",
+        "en": "Party on the streets of London: Arsenal fans’ title celebrations – in pictures"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Our photographer was outside the Emirates Stadium as a href=\"https://www.theguardian.com/football/2026/may/19/weve-done-it-euphoria-as-arsenal-clinch-first-league-title-in-a-generation\" Arsenal fans congregated /a to celebrate a href=\"https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth\" th",
+        "en": "p Our photographer was outside the Emirates Stadium as a href=\"https://www.theguardian.com/football/2026/may/19/weve-done-it-euphoria-as-arsenal-clinch-first-league-title-in-a-generation\" Arsenal fans congregated /a to celebrate a href=\"https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth\" th"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/gallery/2026/may/20/london-arsenal-fans-title-celebrations-in-pictures",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 08:21:10 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/julian-schusters-aggressive-freiburg-aim-for-europa-league-immortality",
+      "title": {
+        "ar": "Julian Schuster’s aggressive Freiburg aim for Europa League immortality",
+        "en": "Julian Schuster’s aggressive Freiburg aim for Europa League immortality"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "p Departures of club legend and star players have not stopped modest German side reaching showpiece with Aston Villa /p p It’s about the journey, perhaps even more than the destination. That is the feeling of SC Freiburg before the biggest match in their history. Regardless of the result in Wednesday’s Europa League final against Aston Villa in Ist",
+        "en": "p Departures of club legend and star players have not stopped modest German side reaching showpiece with Aston Villa /p p It’s about the journey, perhaps even more than the destination. That is the feeling of SC Freiburg before the biggest match in their history. Regardless of the result in Wednesday’s Europa League final against Aston Villa in Ist"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/julian-schusters-aggressive-freiburg-aim-for-europa-league-immortality",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 07:00:27 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/fc-chernihiv-ukranian-cup-final",
+      "title": {
+        "ar": "‘A beacon of hope’: FC Chernihiv set for Ukrainian Cup final against all odds",
+        "en": "‘A beacon of hope’: FC Chernihiv set for Ukrainian Cup final against all odds"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "p Club are battling relegation from the second tier in a city under attack by Russian forces but are one upset away from the Europa League /p p A minivan with darkened windows pulls up at a gym in central Chernihiv and, once the doors have slid open, a stream of youths emerges into the daylight. Inside, Artem Rakitin sits everyone down on the rubbe",
+        "en": "p Club are battling relegation from the second tier in a city under attack by Russian forces but are one upset away from the Europa League /p p A minivan with darkened windows pulls up at a gym in central Chernihiv and, once the doors have slid open, a stream of youths emerges into the daylight. Inside, Artem Rakitin sits everyone down on the rubbe"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/fc-chernihiv-ukranian-cup-final",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 07:00:27 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/most-football-league-titles-without-earning-international-cap-the-knowledge",
+      "title": {
+        "ar": "Who has won the most league titles without earning an international cap?  | The Knowledge",
+        "en": "Who has won the most league titles without earning an international cap?  | The Knowledge"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Plus: greatest distance between two teams in a derby (part two) and origins of why Celtic Park is nicknamed ‘Paradise’ /p ul li p a href=\"mailto:knowledge@theguardian.com\" Mail us /a with your all of your questions and answers /p /li /ul p strong “Which player has won the most league championships without winning an international cap?” /strong as",
+        "en": "p Plus: greatest distance between two teams in a derby (part two) and origins of why Celtic Park is nicknamed ‘Paradise’ /p ul li p a href=\"mailto:knowledge@theguardian.com\" Mail us /a with your all of your questions and answers /p /li /ul p strong “Which player has won the most league championships without winning an international cap?” /strong as"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/most-football-league-titles-without-earning-international-cap-the-knowledge",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 07:00:26 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2026/may/20/football-australia-finances-restructure-redundancies-mixed-signals",
+      "title": {
+        "ar": "An SOS or a timely reset? Football Australia sends mixed signals over latest financial woes | Jack Snape",
+        "en": "An SOS or a timely reset? Football Australia sends mixed signals over latest financial woes | Jack Snape"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Football’s governing body faces more redundancies but it’s hard to know whether this year’s cuts reflect mismanagement or justified changes /p p Those who embrace the footballing gods are often superstitious, finding signs in the bounce of the ball, the vagaries of VAR, the end chosen for penalties, even the colour of shirts. /p p What, then, to ",
+        "en": "p Football’s governing body faces more redundancies but it’s hard to know whether this year’s cuts reflect mismanagement or justified changes /p p Those who embrace the footballing gods are often superstitious, finding signs in the bounce of the ball, the vagaries of VAR, the end chosen for penalties, even the colour of shirts. /p p What, then, to "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2026/may/20/football-australia-finances-restructure-redundancies-mixed-signals",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 05:22:59 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/de-zerbi-tells-spurs-to-play-for-their-dignity-in-final-day-relegation-battle",
+      "title": {
+        "ar": "De Zerbi tells Spurs to play for their ‘dignity’ in final-day relegation battle",
+        "en": "De Zerbi tells Spurs to play for their ‘dignity’ in final-day relegation battle"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "ul li p Defeat at Chelsea keeps last relegation place open /p /li li p Spurs need a point at home to Everton to be safe /p /li /ul p Roberto De Zerbi has described ­Tottenham’s looming final-day relegation showdown against Everton as a more important game than last season’s Europa League final against Manchester United because the club’s dignity is",
+        "en": "ul li p Defeat at Chelsea keeps last relegation place open /p /li li p Spurs need a point at home to Everton to be safe /p /li /ul p Roberto De Zerbi has described ­Tottenham’s looming final-day relegation showdown against Everton as a more important game than last season’s Europa League final against Manchester United because the club’s dignity is"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/de-zerbi-tells-spurs-to-play-for-their-dignity-in-final-day-relegation-battle",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 19 May 2026 23:04:49 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13545591/arsenal-win-premier-league-mikel-artetas-side-end-22-year-wait-for-title",
       "title": {
@@ -300,81 +525,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Tue, 19 May 2026 20:24:44 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1850,156 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Mon, 18 May 2026 16:14:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/mohamed-salahs-spiky-leaving-of-liverpool-puts-slot-in-awkward-spot",
-      "title": {
-        "ar": "Mohamed Salah’s spiky leaving of Liverpool puts Slot in awkward spot",
-        "en": "Mohamed Salah’s spiky leaving of Liverpool puts Slot in awkward spot"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Forward was dropped after a previous attempt to undermine coach, but doing so now could spark mutiny /p p We can safely say how Arne Slot would like to respond to Mohamed Salah’s a href=\"https://www.theguardian.com/football/2026/may/16/mohamed-salah-criticises-crumbling-liverpools-season-and-demands-return-to-heavy-metal-football\" latest attempt ",
-        "en": "p Forward was dropped after a previous attempt to undermine coach, but doing so now could spark mutiny /p p We can safely say how Arne Slot would like to respond to Mohamed Salah’s a href=\"https://www.theguardian.com/football/2026/may/16/mohamed-salah-criticises-crumbling-liverpools-season-and-demands-return-to-heavy-metal-football\" latest attempt "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/mohamed-salahs-spiky-leaving-of-liverpool-puts-slot-in-awkward-spot",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 15:49:49 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/celtic-hearts-scottish-premiership-title-decider-football-daily-newsletter",
-      "title": {
-        "ar": "Football Daily | Celtic, the ‘old man’ and a possible pitch invasion hat-trick",
-        "en": "Football Daily | Celtic, the ‘old man’ and a possible pitch invasion hat-trick"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p An occasionally contrary but invariably entertaining studio regular on Jim White’s TalkSport show before and between stints at Celtic this season, Martin O’Neill made himself available this ",
-        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p An occasionally contrary but invariably entertaining studio regular on Jim White’s TalkSport show before and between stints at Celtic this season, Martin O’Neill made himself available this "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/celtic-hearts-scottish-premiership-title-decider-football-daily-newsletter",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 15:08:25 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/premier-league-title-race-arsenal-man-city-aston-villa-burnley",
-      "title": {
-        "ar": "The Premier League title is Arsenal’s to lose. But pressure does strange things to teams | Jonathan Wilson",
-        "en": "The Premier League title is Arsenal’s to lose. But pressure does strange things to teams | Jonathan Wilson"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p The Gunners seemingly have the easier end-of-season schedule, but Manchester City are clinging to hope that anything can happen /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p /li /ul p",
-        "en": "p The Gunners seemingly have the easier end-of-season schedule, but Manchester City are clinging to hope that anything can happen /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p /li /ul p"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/premier-league-title-race-arsenal-man-city-aston-villa-burnley",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 14:56:42 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/video/2026/may/18/manchester-city-win-fa-cup-and-hearts-heartbreak-at-celtic-football-weekly-video",
-      "title": {
-        "ar": "Manchester City win FA Cup and Hearts heartbreak at Celtic | Football Weekly video",
-        "en": "Manchester City win FA Cup and Hearts heartbreak at Celtic | Football Weekly video"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" strong Max Rushden /strong /a strong is joined by /strong a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" strong Barry Glendenning /strong /a strong , /strong a href=\"https://bsky.app/profile/brewin.bsky.social\" strong John Brewin /strong /a strong , /strong a href=\"https",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" strong Max Rushden /strong /a strong is joined by /strong a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" strong Barry Glendenning /strong /a strong , /strong a href=\"https://bsky.app/profile/brewin.bsky.social\" strong John Brewin /strong /a strong , /strong a href=\"https"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/video/2026/may/18/manchester-city-win-fa-cup-and-hearts-heartbreak-at-celtic-football-weekly-video",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 14:19:56 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/champions-league-final-will-not-be-free-to-watch-in-uk-arsenal-psg-europa-conference",
-      "title": {
-        "ar": "Champions League final will not be free to watch in UK for first time in modern era",
-        "en": "Champions League final will not be free to watch in UK for first time in modern era"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "ul li p Three European finals restricted to TNT and HBO Max /p /li li p Uefa understood to be unhappy with the decision /p /li /ul p The Champions League final will not be available to watch for free in the UK for the first time since the competition’s modern rebrand 34 years ago a href=\"https://www.theguardian.com/football/2026/may/07/psg-v-arsena",
-        "en": "ul li p Three European finals restricted to TNT and HBO Max /p /li li p Uefa understood to be unhappy with the decision /p /li /ul p The Champions League final will not be available to watch for free in the UK for the first time since the competition’s modern rebrand 34 years ago a href=\"https://www.theguardian.com/football/2026/may/07/psg-v-arsena"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/champions-league-final-will-not-be-free-to-watch-in-uk-arsenal-psg-europa-conference",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 14:00:49 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48804057/why-premier-league-season-most-dramatic-ever",
-      "title": {
-        "ar": "Why this Premier League season has been the most d...",
-        "en": "Why this Premier League season has been the most d..."
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48804057/why-premier-league-season-most-dramatic-ever",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 18 May 2026 08:09:08 EST",
       "rewritten": false,
       "lang": "en"
     }
