@@ -1,8 +1,383 @@
 {
   "version": 2,
-  "updated": "2026-05-19T19:59:09.605Z",
+  "updated": "2026-05-20T04:08:28.304Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13545591/arsenal-win-premier-league-mikel-artetas-side-end-22-year-wait-for-title",
+      "title": {
+        "ar": "Arsenal crowned Premier League champions",
+        "en": "Arsenal crowned Premier League champions"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arsenal-premier-league_7252427.jpg?20260518170750",
+      "url": "https://www.skysports.com/football/news/12040/13545591/arsenal-win-premier-league-mikel-artetas-side-end-22-year-wait-for-title",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 19 May 2026 21:26:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/bournemouth-vs-manchester-city/report/531491",
+      "title": {
+        "ar": "Man City's title bid over as Bournemouth draw sees Arsenal crowned champions",
+        "en": "Man City's title bid over as Bournemouth draw sees Arsenal crowned champions"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-erling-haaland_7253482.jpg?20260519210750",
+      "url": "https://www.skysports.com/football/bournemouth-vs-manchester-city/report/531491",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 19 May 2026 21:25:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13545791/arsenal-win-the-premier-league-the-10-moments-that-won-the-gunners-the-title-for-the-first-time-in-22-years",
+      "title": {
+        "ar": "Ten moments that won Arsenal the title",
+        "en": "Ten moments that won Arsenal the title"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-arsenal-man-city_7225573.jpg?20260519173341",
+      "url": "https://www.skysports.com/football/news/12040/13545791/arsenal-win-the-premier-league-the-10-moments-that-won-the-gunners-the-title-for-the-first-time-in-22-years",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 19 May 2026 09:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/report/531493",
+      "title": {
+        "ar": "Chelsea deny Spurs comeback to send race for survival to final day",
+        "en": "Chelsea deny Spurs comeback to send race for survival to final day"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-andrey-santos-premier-league_7253528.jpg?20260519214554",
+      "url": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/report/531493",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 15 May 2026 08:52:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13546082/chelsea-2-1-tottenham-premier-league-highlights",
+      "title": {
+        "ar": "Relegation scrap continues! Chelsea send Spurs' survival hopes to final day",
+        "en": "Relegation scrap continues! Chelsea send Spurs' survival hopes to final day"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-spurs-chelsea_7253579.jpg?20260519222119",
+      "url": "https://www.skysports.com/watch/video/13546082/chelsea-2-1-tottenham-premier-league-highlights",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 19 May 2026 22:18:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13545968/west-ham-forward-jarrod-bowen-is-wanted-by-chelsea-liverpool-and-man-utd-paper-talk",
+      "title": {
+        "ar": "Papers: Chelsea, Liverpool and Man Utd target Bowen",
+        "en": "Papers: Chelsea, Liverpool and Man Utd target Bowen"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "url": "https://www.skysports.com/football/news/12040/13545968/west-ham-forward-jarrod-bowen-is-wanted-by-chelsea-liverpool-and-man-utd-paper-talk",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 19 May 2026 17:18:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546001/mikel-artetas-arsenal-transformation-complete-as-defensive-brilliance-and-set-piece-mastery-help-secure-historic-title",
+      "title": {
+        "ar": "From lowest point to historic high, Arteta's Arsenal transformation is complete",
+        "en": "From lowest point to historic high, Arteta's Arsenal transformation is complete"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-arteta_7253487.jpg?20260519211639",
+      "url": "https://www.skysports.com/football/news/12040/13546001/mikel-artetas-arsenal-transformation-complete-as-defensive-brilliance-and-set-piece-mastery-help-secure-historic-title",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 19 May 2026 21:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/19/pep-guardiola-exit-manchester-city-arsenal-bournemouth",
+      "title": {
+        "ar": "Pep Guardiola refuses to confirm expected departure from Manchester City",
+        "en": "Pep Guardiola refuses to confirm expected departure from Manchester City"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Manager to speak to club hierarchy before announcing decision /p /li li p Guardiola: ‘The first person I have to talk to is my chairman’ /p /li /ul p Pep Guardiola refused to publicly comment on the expectation that his 10-year reign at Manchester City will come to an end despite reports in the Guardian that he has a href=\"https://www.thegu",
+        "en": "ul li p Manager to speak to club hierarchy before announcing decision /p /li li p Guardiola: ‘The first person I have to talk to is my chairman’ /p /li /ul p Pep Guardiola refused to publicly comment on the expectation that his 10-year reign at Manchester City will come to an end despite reports in the Guardian that he has a href=\"https://www.thegu"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/19/pep-guardiola-exit-manchester-city-arsenal-bournemouth",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 19 May 2026 22:35:20 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/19/arsenal-win-premier-league-title-mikel-arteta-2025-26",
+      "title": {
+        "ar": "Bridesmaids no more: Arsenal’s faith in Mikel Arteta rewarded with the ultimate prize",
+        "en": "Bridesmaids no more: Arsenal’s faith in Mikel Arteta rewarded with the ultimate prize"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Trusting a rookie coach to rebuild the club in late 2019 was a big call but after three runners-up finishes the Spaniard has delivered a long-awaited title /p p They say good things come to those who wait, and for Arsenal supporters it has felt like an eternity. Since their unforgettable 2003-04 season when Arsène Wenger’s Invincibles went the to",
+        "en": "p Trusting a rookie coach to rebuild the club in late 2019 was a big call but after three runners-up finishes the Spaniard has delivered a long-awaited title /p p They say good things come to those who wait, and for Arsenal supporters it has felt like an eternity. Since their unforgettable 2003-04 season when Arsène Wenger’s Invincibles went the to"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/19/arsenal-win-premier-league-title-mikel-arteta-2025-26",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 19 May 2026 22:00:14 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/19/arsenals-premier-league-title-winners-2025-26-player-by-player-ratings",
+      "title": {
+        "ar": "Arsenal’s Premier League title winners 2025-26: player-by-player ratings",
+        "en": "Arsenal’s Premier League title winners 2025-26: player-by-player ratings"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Declan Rice, David Raya and the defence stood out in Arsenal’s first league title since the Invincibles /p p strong David Raya /strong There is a strong argument that the Spaniard was not only Arsenal’s player of the season but the best in the division. From his brilliant save to deny Manchester United’s Matheus Cunha on the opening weekend to an",
+        "en": "p Declan Rice, David Raya and the defence stood out in Arsenal’s first league title since the Invincibles /p p strong David Raya /strong There is a strong argument that the Spaniard was not only Arsenal’s player of the season but the best in the division. From his brilliant save to deny Manchester United’s Matheus Cunha on the opening weekend to an"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/19/arsenals-premier-league-title-winners-2025-26-player-by-player-ratings",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 19 May 2026 21:30:14 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/19/chelsea-tottenham-premier-league-match-report",
+      "title": {
+        "ar": "Fernández and Chelsea sink Spurs as survival battle goes to the final day",
+        "en": "Fernández and Chelsea sink Spurs as survival battle goes to the final day"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Tottenham’s woes in this corner of London are well-documented and long-established. When they made this latest trip to Stamford Bridge, the statistics showed they had won just once since 1990 – a sequence of 40 matches in all competitions. /p p Never mind. They needed only a point to effectively ensure their Premier League survival, to send West ",
+        "en": "p Tottenham’s woes in this corner of London are well-documented and long-established. When they made this latest trip to Stamford Bridge, the statistics showed they had won just once since 1990 – a sequence of 40 matches in all competitions. /p p Never mind. They needed only a point to effectively ensure their Premier League survival, to send West "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/19/chelsea-tottenham-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 19 May 2026 21:29:24 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth",
+      "title": {
+        "ar": "Arsenal crowned Premier League champions after Manchester City draw",
+        "en": "Arsenal crowned Premier League champions after Manchester City draw"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "ul li p Arsenal win title for the first time since 2004 /p /li li p Players celebrate together at training ground /p /li li p a href=\"https://www.theguardian.com/football/live/2026/may/19/arsenal-premier-league-champions-first-time-in-22-years-live-reaction\" Reaction after Gunners crowned champions /a /p /li /ul p Arsenal are Premier League champio",
+        "en": "ul li p Arsenal win title for the first time since 2004 /p /li li p Players celebrate together at training ground /p /li li p a href=\"https://www.theguardian.com/football/live/2026/may/19/arsenal-premier-league-champions-first-time-in-22-years-live-reaction\" Reaction after Gunners crowned champions /a /p /li /ul p Arsenal are Premier League champio"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 19 May 2026 20:24:44 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/bournemouth-vs-manchester-city/live/531491",
       "title": {
@@ -1625,381 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Mon, 18 May 2026 08:09:08 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/roma-lazio-rome-derby-serie-a",
-      "title": {
-        "ar": "Cult hero Mancini delivers derby win for Roma after Serie A scheduling nightmare | Nicky Bandini",
-        "en": "Cult hero Mancini delivers derby win for Roma after Serie A scheduling nightmare | Nicky Bandini"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p After a spring of boardroom civil war, the Giallorossi’s two-goal hero put his side on the verge of a historic return to Champions League /p p A Rome derby on the penultimate weekend of a Serie A season could never be a low-stakes occasion. em Scudetto /em wins come rarely in Italy’s capital city – Roma and Lazio have only five between them – lea",
-        "en": "p After a spring of boardroom civil war, the Giallorossi’s two-goal hero put his side on the verge of a historic return to Champions League /p p A Rome derby on the penultimate weekend of a Serie A season could never be a low-stakes occasion. em Scudetto /em wins come rarely in Italy’s capital city – Roma and Lazio have only five between them – lea"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/roma-lazio-rome-derby-serie-a",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 12:08:23 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/nice-fans-direct-fury-owners-club-falls-ligue-1-relegation-playoff-champions-league-inoes",
-      "title": {
-        "ar": "Nice fans direct fury at owners as club falls into Ligue 1 relegation playoff",
-        "en": "Nice fans direct fury at owners as club falls into Ligue 1 relegation playoff"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Nice began the season in the Champions League but may end it in Ligue 2 – a terrible indictment of Ineos’ ownership /p p By a href=\"https://www.getfootballnewsfrance.com/\" Get French Football News /a /p p Nice’s players and staff were a href=\"https://www.theguardian.com/football/2025/dec/15/nice-fans-physical-assault-terem-moffi-jeremie-boga-flor",
-        "en": "p Nice began the season in the Champions League but may end it in Ligue 2 – a terrible indictment of Ineos’ ownership /p p By a href=\"https://www.getfootballnewsfrance.com/\" Get French Football News /a /p p Nice’s players and staff were a href=\"https://www.theguardian.com/football/2025/dec/15/nice-fans-physical-assault-terem-moffi-jeremie-boga-flor"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/nice-fans-direct-fury-owners-club-falls-ligue-1-relegation-playoff-champions-league-inoes",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 11:59:58 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/prince-william-rolls-royce-ezri-konsa-aston-villa-europa-league-final",
-      "title": {
-        "ar": "‘Prince William called me a Rolls-Royce once’: Ezri Konsa enjoys royal approval at Aston Villa",
-        "en": "‘Prince William called me a Rolls-Royce once’: Ezri Konsa enjoys royal approval at Aston Villa"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "ul li p England defender thanks Prince of Wales for his support /p /li li p William expected to be in Istanbul for Europa League final /p /li /ul p Ezri Konsa has said the Prince of Wales referring to him as a “Rolls-Royce” counts as the greatest compliment of his career and that Aston Villa are grateful for his royal backing. Prince William, argua",
-        "en": "ul li p England defender thanks Prince of Wales for his support /p /li li p William expected to be in Istanbul for Europa League final /p /li /ul p Ezri Konsa has said the Prince of Wales referring to him as a “Rolls-Royce” counts as the greatest compliment of his career and that Aston Villa are grateful for his royal backing. Prince William, argua"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/prince-william-rolls-royce-ezri-konsa-aston-villa-europa-league-final",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 11:10:53 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/wsl-talking-points-shaw-gives-mixed-messages-over-farewell-but-era-ends-for-arsenal",
-      "title": {
-        "ar": "WSL talking points: Shaw gives mixed messages over farewell but era ends for Arsenal",
-        "en": "WSL talking points: Shaw gives mixed messages over farewell but era ends for Arsenal"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The WSL Golden Boot winner looks to have played her last game for the champions, while there are definite goodbyes at Arsenal and Chelsea /p p The focus was less on the performance and result and more on Khadija Shaw and her future. Manchester City had wrapped up the title after Arsenal dropped points against Brighton 10 days prior, so the game a",
-        "en": "p The WSL Golden Boot winner looks to have played her last game for the champions, while there are definite goodbyes at Arsenal and Chelsea /p p The focus was less on the performance and result and more on Khadija Shaw and her future. Manchester City had wrapped up the title after Arsenal dropped points against Brighton 10 days prior, so the game a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/wsl-talking-points-shaw-gives-mixed-messages-over-farewell-but-era-ends-for-arsenal",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 11:00:45 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/bundesliga-st-pauli-wolfsburg-relegation-thriller-christian-eriksen",
-      "title": {
-        "ar": "St Pauli’s Bundesliga dream dies as Eriksen inspires Wolfsburg in relegation thriller | Andy Brassell",
-        "en": "St Pauli’s Bundesliga dream dies as Eriksen inspires Wolfsburg in relegation thriller | Andy Brassell"
-      },
-      "kicker": {
-        "ar": "البوندسليغا",
-        "en": "Bundesliga"
-      },
-      "excerpt": {
-        "ar": "p Cult club of Hamburg gave everything at Millentor, but Dane inspired visitors to a dramatic victory that kept their survival hopes alive /p p There were few tears at the end, just as there were few gazes directed to phone screens during the game to check scores elsewhere. St Pauli scarves were raised to the sky in the stands of Millentor as You’l",
-        "en": "p Cult club of Hamburg gave everything at Millentor, but Dane inspired visitors to a dramatic victory that kept their survival hopes alive /p p There were few tears at the end, just as there were few gazes directed to phone screens during the game to check scores elsewhere. St Pauli scarves were raised to the sky in the stands of Millentor as You’l"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/bundesliga-st-pauli-wolfsburg-relegation-thriller-christian-eriksen",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 10:52:01 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/arsenal-agree-sign-georgia-stanway-bayern-munich",
-      "title": {
-        "ar": "Arsenal agree deal to sign Georgia Stanway from Bayern Munich",
-        "en": "Arsenal agree deal to sign Georgia Stanway from Bayern Munich"
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "ul li p England international’s move subject to medical /p /li li p Stanway’s contract at Bayern expires this summer /p /li /ul p Georgia Stanway will join Arsenal at the start of July on a free transfer from Bayern Munich, the Guardian understands. Subject to the 27-year-old passing a medical, everything has been agreed for the England midfielder ",
-        "en": "ul li p England international’s move subject to medical /p /li li p Stanway’s contract at Bayern expires this summer /p /li /ul p Georgia Stanway will join Arsenal at the start of July on a free transfer from Bayern Munich, the Guardian understands. Subject to the 27-year-old passing a medical, everything has been agreed for the England midfielder "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/arsenal-agree-sign-georgia-stanway-bayern-munich",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 10:04:44 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13544711/jose-mourinho-real-madrid-agree-deal-for-ex-man-utd-boss-to-return-as-head-coach-on-two-year-deal",
-      "title": {
-        "ar": "Mourinho agrees Real Madrid return",
-        "en": "Mourinho agrees Real Madrid return"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-jose-mourinho-benfica_7233126.jpg?20260428130209",
-      "url": "https://www.skysports.com/football/news/12040/13544711/jose-mourinho-real-madrid-agree-deal-for-ex-man-utd-boss-to-return-as-head-coach-on-two-year-deal",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 18 May 2026 10:54:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12040/13541517/kimi-antonelli-how-mercedes-drivers-popularity-in-italy-has-surged-amid-his-lead-in-the-f1-title-race",
-      "title": {
-        "ar": "Can 'wild' Antonelli popularity save Italy's summer amid World Cup absence?",
-        "en": "Can 'wild' Antonelli popularity save Italy's summer amid World Cup absence?"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-kimi-antonelli-mercedes_7251906.jpg?20260517233403",
-      "url": "https://www.skysports.com/f1/news/12040/13541517/kimi-antonelli-how-mercedes-drivers-popularity-in-italy-has-surged-amid-his-lead-in-the-f1-title-race",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 18 May 2026 07:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/world-cup-2026-resale-ticket-prices",
-      "title": {
-        "ar": "The World Cup’s in-demand tickets: are Scotland really more popular than England, USA and Argentina?",
-        "en": "The World Cup’s in-demand tickets: are Scotland really more popular than England, USA and Argentina?"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p The final is the most expensive ticket on resale for this summer’s tournaments. But there are surprising get-in prices elsewhere /p p It’s no surprise that the most expensive World Cup resale tickets are a href=\"https://www.theguardian.com/football/2024/feb/06/the-2026-world-cup-final-is-in-new-jersey-a-brief-guide-to-the-metlife-stadium\" for the",
-        "en": "p The final is the most expensive ticket on resale for this summer’s tournaments. But there are surprising get-in prices elsewhere /p p It’s no surprise that the most expensive World Cup resale tickets are a href=\"https://www.theguardian.com/football/2024/feb/06/the-2026-world-cup-final-is-in-new-jersey-a-brief-guide-to-the-metlife-stadium\" for the"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/world-cup-2026-resale-ticket-prices",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 08:20:02 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/energy-passion-and-optimism-how-arteta-created-red-hot-emirates-atmosphere",
-      "title": {
-        "ar": "‘Energy, passion and optimism’: how Arteta created red-hot Emirates atmosphere",
-        "en": "‘Energy, passion and optimism’: how Arteta created red-hot Emirates atmosphere"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p From removal of tunnel cover to turning off concourse TVs, title-chasing Arsenal manager has left no stone unturned /p p It’s being billed as the biggest Premier League game ever hosted at the Emirates Stadium. Tickets for Monday’s meeting with Burnley, who were relegated almost a month ago and returned 1,500 tickets for their trip to north Londo",
-        "en": "p From removal of tunnel cover to turning off concourse TVs, title-chasing Arsenal manager has left no stone unturned /p p It’s being billed as the biggest Premier League game ever hosted at the Emirates Stadium. Tickets for Monday’s meeting with Burnley, who were relegated almost a month ago and returned 1,500 tickets for their trip to north Londo"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/energy-passion-and-optimism-how-arteta-created-red-hot-emirates-atmosphere",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 07:01:01 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/premier-league-and-fa-cup-final-10-talking-points-from-the-weekends-action",
-      "title": {
-        "ar": "Premier League and FA Cup final: 10 talking points from the weekend’s action",
-        "en": "Premier League and FA Cup final: 10 talking points from the weekend’s action"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Bafflement at Old Trafford, Chelsea’s Wembley drought goes on and Leeds give fans cause for optimism /p p Luke Shaw’s first goal in over three years for Manchester United was a further reminder of the left-back’s capabilities. This has been his best season at Old Trafford having featured in all 37 league games thus far, leaving his injury-prone p",
-        "en": "p Bafflement at Old Trafford, Chelsea’s Wembley drought goes on and Leeds give fans cause for optimism /p p Luke Shaw’s first goal in over three years for Manchester United was a further reminder of the left-back’s capabilities. This has been his best season at Old Trafford having featured in all 37 league games thus far, leaving his injury-prone p"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/premier-league-and-fa-cup-final-10-talking-points-from-the-weekends-action",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 06:09:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/17/inter-poised-as-curtis-jones-enters-final-year-of-liverpool-contract",
-      "title": {
-        "ar": "Inter poised as Curtis Jones enters final year of Liverpool contract",
-        "en": "Inter poised as Curtis Jones enters final year of Liverpool contract"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Midfielder has not yet agreed extension at Anfield /p /li li p Liverpool value Jones at around £35m /p /li /ul p Inter are expected to renew their interest in Curtis Jones this summer, when the Liverpool midfielder will enter the final 12 months of his contract. /p p Jones has been in talks with his boyhood club over a new deal for several ",
-        "en": "ul li p Midfielder has not yet agreed extension at Anfield /p /li li p Liverpool value Jones at around £35m /p /li /ul p Inter are expected to renew their interest in Curtis Jones this summer, when the Liverpool midfielder will enter the final 12 months of his contract. /p p Jones has been in talks with his boyhood club over a new deal for several "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/17/inter-poised-as-curtis-jones-enters-final-year-of-liverpool-contract",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 17 May 2026 21:30:49 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48795716/usmnt-christian-pulisic-returns-injury-ac-milan-victory-world-cup",
-      "title": {
-        "ar": "Pulisic makes return from injury in AC Milan win",
-        "en": "Pulisic makes return from injury in AC Milan win"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48795716/usmnt-christian-pulisic-returns-injury-ac-milan-victory-world-cup",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sun, 17 May 2026 14:37:59 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/17/wolves-fulham-premier-league-match-report",
-      "title": {
-        "ar": "Marco Silva tight-lipped on Fulham future after Robinson rescues point at Wolves",
-        "en": "Marco Silva tight-lipped on Fulham future after Robinson rescues point at Wolves"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The Fulham manager, Marco Silva, insisted he had not made a decision on his future after his side’s European hopes were all but extinguished by Sunday’s 1-1 draw at relegated Wolves. /p p The visitors got themselves on level terms when Antonee Robinson equalised from the spot in first-half stoppage time, after Thomas Kirk gave a penalty for Mateu",
-        "en": "p The Fulham manager, Marco Silva, insisted he had not made a decision on his future after his side’s European hopes were all but extinguished by Sunday’s 1-1 draw at relegated Wolves. /p p The visitors got themselves on level terms when Antonee Robinson equalised from the spot in first-half stoppage time, after Thomas Kirk gave a penalty for Mateu"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/17/wolves-fulham-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 17 May 2026 16:18:33 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/17/everton-sunderland-premier-league-match-report",
-      "title": {
-        "ar": "Enzo Le Fée and Wilson Isidor save the day for Sunderland at Everton",
-        "en": "Enzo Le Fée and Wilson Isidor save the day for Sunderland at Everton"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Hill Dickinson Stadium was ­virtually empty by the time Everton commenced their lap of appreciation, interest in the end-of-season ritual having somewhat evaporated along with the club’s European ambitions. Sunderland now carry European dreams of their own into the final day of an ­outstanding Premier League return. /p p Régis Le Bris’ side leapf",
-        "en": "p Hill Dickinson Stadium was ­virtually empty by the time Everton commenced their lap of appreciation, interest in the end-of-season ritual having somewhat evaporated along with the club’s European ambitions. Sunderland now carry European dreams of their own into the final day of an ­outstanding Premier League return. /p p Régis Le Bris’ side leapf"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/17/everton-sunderland-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 17 May 2026 16:14:45 GMT",
       "rewritten": false,
       "lang": "en"
     }
