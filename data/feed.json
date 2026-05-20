@@ -1,8 +1,508 @@
 {
   "version": 2,
-  "updated": "2026-05-20T09:46:17.424Z",
+  "updated": "2026-05-20T15:38:33.020Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546159/premier-league-26-27-season-start-date-fixture-release-final-day-live-sky-sports-games-and-match-schedule",
+      "title": {
+        "ar": "Premier League 26/27 season - key dates and fixtures day",
+        "en": "Premier League 26/27 season - key dates and fixtures day"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "World Cup to fit in first - but the key dates are out for the 2026/27 term.]]>",
+        "en": "World Cup to fit in first - but the key dates are out for the 2026/27 term.]]>"
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-kai-havertz-arsenal_7252880.jpg?20260519091749",
+      "url": "https://www.skysports.com/football/news/12040/13546159/premier-league-26-27-season-start-date-fixture-release-final-day-live-sky-sports-games-and-match-schedule",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 13:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546177/why-bournemouth-and-brighton-want-aston-villa-to-win-europa-league-to-have-chance-of-champions-league-qualification",
+      "title": {
+        "ar": "Why Bournemouth and Brighton want Aston Villa to win Europa League",
+        "en": "Why Bournemouth and Brighton want Aston Villa to win Europa League"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ollie-watkins-villa_7241786.jpg?20260507204809",
+      "url": "https://www.skysports.com/football/news/12040/13546177/why-bournemouth-and-brighton-want-aston-villa-to-win-europa-league-to-have-chance-of-champions-league-qualification",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 14:15:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/darts/news/12040/13546171/premier-league-darts-finals-night-2026-fixtures-format-prize-money-and-how-to-watch-or-stream-as-luke-littler-and-luke-humphries-battle-for-the-title",
+      "title": {
+        "ar": "Premier League Darts Finals Night: Who's playing? Fixtures, format and prize money",
+        "en": "Premier League Darts Finals Night: Who's playing? Fixtures, format and prize money"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-darts-premier-league-darts_7253761.jpg?20260520094218",
+      "url": "https://www.skysports.com/darts/news/12040/13546171/premier-league-darts-finals-night-2026-fixtures-format-prize-money-and-how-to-watch-or-stream-as-luke-littler-and-luke-humphries-battle-for-the-title",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 12:20:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13546145/arsenal-players-spotted-celebrating-premier-league-win-outside-emirates-stadium-at-5am",
+      "title": {
+        "ar": "Arsenal players spotted celebrating outside Emirates Stadium at 5am!",
+        "en": "Arsenal players spotted celebrating outside Emirates Stadium at 5am!"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-arsenal-football_7253758.jpg?20260520094018",
+      "url": "https://www.skysports.com/watch/video/13546145/arsenal-players-spotted-celebrating-premier-league-win-outside-emirates-stadium-at-5am",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 09:27:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/21/australia-football-team-socceroos-african-heritage-diversity",
+      "title": {
+        "ar": "Socceroos’ African heritage offers timely reminder of Australia’s diversity | Jack Snape",
+        "en": "Socceroos’ African heritage offers timely reminder of Australia’s diversity | Jack Snape"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Culture and community helped Mo Touré and Nestory Irankunda become the footballers they are today – and their spark may ignite this World Cup /p p One hails from West Africa, born in Guinea after his family fled Liberia. The other comes from the east of the continent, taking his first breath in a Tanzanian refugee camp after his parents escaped B",
+        "en": "p Culture and community helped Mo Touré and Nestory Irankunda become the footballers they are today – and their spark may ignite this World Cup /p p One hails from West Africa, born in Guinea after his family fled Liberia. The other comes from the east of the continent, taking his first breath in a Tanzanian refugee camp after his parents escaped B"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/21/australia-football-team-socceroos-african-heritage-diversity",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 15:00:47 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/world-cup-pricing-fan-friendly-atlanta-kansas-city-philadelphia",
+      "title": {
+        "ar": "A 2026 World Cup that doesn’t rip off fans? Some cities are showing that it’s possible",
+        "en": "A 2026 World Cup that doesn’t rip off fans? Some cities are showing that it’s possible"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Philadelphia, Kansas City and Atlanta are among the hosts showing that price-gouging at thus summer’s tournament is, ultimately, a choice /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p",
+        "en": "p Philadelphia, Kansas City and Atlanta are among the hosts showing that price-gouging at thus summer’s tournament is, ultimately, a choice /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/world-cup-pricing-fan-friendly-atlanta-kansas-city-philadelphia",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 14:46:36 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/bournemouth-race-to-upgrade-vitality-stadium-before-first-season-in-europe",
+      "title": {
+        "ar": "Bournemouth race to upgrade Vitality Stadium before first season in Europe",
+        "en": "Bournemouth race to upgrade Vitality Stadium before first season in Europe"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Club need permission for proposed stadium upgrades /p /li li p Draw with Manchester City sealed first ever European qualification /p /li /ul p Bournemouth are facing a race to complete upgrades to the Vitality Stadium to enable it to stage European football next season. Uefa has granted Bournemouth a provisional stadium licence after meetin",
+        "en": "ul li p Club need permission for proposed stadium upgrades /p /li li p Draw with Manchester City sealed first ever European qualification /p /li /ul p Bournemouth are facing a race to complete upgrades to the Vitality Stadium to enable it to stage European football next season. Uefa has granted Bournemouth a provisional stadium licence after meetin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/bournemouth-race-to-upgrade-vitality-stadium-before-first-season-in-europe",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 14:27:40 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/arsenal-premier-league-title-win-football-daily-newsletter",
+      "title": {
+        "ar": "Football Daily | Fever pitch as Ian Wright gets the Arsenal party started",
+        "en": "Football Daily | Fever pitch as Ian Wright gets the Arsenal party started"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p It may have taken Mikel Arteta six years and well over a billion pounds but his team trusted the process and got there in the end. Arsenal a href=\"https://www.theguardian.com/football/2026/m",
+        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p It may have taken Mikel Arteta six years and well over a billion pounds but his team trusted the process and got there in the end. Arsenal a href=\"https://www.theguardian.com/football/2026/m"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/arsenal-premier-league-title-win-football-daily-newsletter",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 14:24:24 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/ckgpjz1en8do?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "بعد 22 عاماً من الانتظار، كيف احتفل أرسنال بلقب الدوري الإنجليزي؟",
+        "en": "بعد 22 عاماً من الانتظار، كيف احتفل أرسنال بلقب الدوري الإنجليزي؟"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6f7/live/a740df50-5441-11f1-be9a-315565996c62.jpg",
+      "url": "https://www.bbc.com/arabic/articles/ckgpjz1en8do?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Wed, 20 May 2026 14:19:09 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم 2026: جدول المباريات",
+        "en": "كأس العالم 2026: جدول المباريات"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9111/live/adf4db00-5453-11f1-b682-cf91850925ea.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Wed, 20 May 2026 14:16:24 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/southampton-middlesbrough-championship-playoffs-spygate",
+      "title": {
+        "ar": "Southampton hit out at ‘largest penalty ever’ for spying on opponents",
+        "en": "Southampton hit out at ‘largest penalty ever’ for spying on opponents"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Club say expulsion from playoffs is ‘disproportionate’ /p /li li p Saints’ chief executive apologies to their supporters /p /li /ul p Southampton have described the decision to a href=\"https://www.theguardian.com/football/2026/may/19/southampton-kicked-out-of-championship-playoff-final-docked-four-points-for-spying\" expel them from the Cham",
+        "en": "ul li p Club say expulsion from playoffs is ‘disproportionate’ /p /li li p Saints’ chief executive apologies to their supporters /p /li /ul p Southampton have described the decision to a href=\"https://www.theguardian.com/football/2026/may/19/southampton-kicked-out-of-championship-playoff-final-docked-four-points-for-spying\" expel them from the Cham"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/southampton-middlesbrough-championship-playoffs-spygate",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 13:57:30 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/arsenal-mikel-arteta-new-contract-pay-rise-kroupi-alvarez-transfer-targets",
+      "title": {
+        "ar": "Arsenal to reward Mikel Arteta with huge pay rise and put Kroupi among transfer targets",
+        "en": "Arsenal to reward Mikel Arteta with huge pay rise and put Kroupi among transfer targets"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "ul li p New forward is a priority and Alvarez also on list /p /li li p Funds in place to make one marquee signing /p /li /ul p Arsenal will reward Mikel Arteta for a href=\"https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth\" ending Arsenal’s 22-year wait /a to be champions by offering him a ",
+        "en": "ul li p New forward is a priority and Alvarez also on list /p /li li p Funds in place to make one marquee signing /p /li /ul p Arsenal will reward Mikel Arteta for a href=\"https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth\" ending Arsenal’s 22-year wait /a to be champions by offering him a "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/arsenal-mikel-arteta-new-contract-pay-rise-kroupi-alvarez-transfer-targets",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 12:52:25 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/video/2026/may/20/arsenal-are-premier-league-champions-and-the-latest-twist-in-spygate-football-weekly-video",
+      "title": {
+        "ar": "Arsenal are Premier League champions and the latest twist in Spygate | Football Weekly – video",
+        "en": "Arsenal are Premier League champions and the latest twist in Spygate | Football Weekly – video"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Max Rushden is joined by Barry Glendenning, Nicky Bandini and Sam Dalling as Manchester City drop points at Bournemouth to hand the Premier League title to Arsenal. /p p /p p On today’s podcast: joyous scenes on the Holloway Road as, with a game to spare, Arsenal are champions for the first time in 22 years. All of Mikel Arteta’s tactics, his tra",
+        "en": "p Max Rushden is joined by Barry Glendenning, Nicky Bandini and Sam Dalling as Manchester City drop points at Bournemouth to hand the Premier League title to Arsenal. /p p /p p On today’s podcast: joyous scenes on the Holloway Road as, with a game to spare, Arsenal are champions for the first time in 22 years. All of Mikel Arteta’s tactics, his tra"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/video/2026/may/20/arsenal-are-premier-league-champions-and-the-latest-twist-in-spygate-football-weekly-video",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 12:24:56 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/liverpool-fans-say-goodbye-andy-robertson",
+      "title": {
+        "ar": "‘He’s one of us’: Liverpool fans say goodbye to Andy Robertson",
+        "en": "‘He’s one of us’: Liverpool fans say goodbye to Andy Robertson"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p ‘Robbo’ leaves the club on Sunday after nine years having won the lot and been loved by those who watched him play /p p It was a bit of a surprise when we signed Andy Robertson from Hull City – not because he wasn’t a household name, but because all the focus had been on his teammate Harry Maguire. But, pound for pound, the £8m we a href=\"https:/",
+        "en": "p ‘Robbo’ leaves the club on Sunday after nine years having won the lot and been loved by those who watched him play /p p It was a bit of a surprise when we signed Andy Robertson from Hull City – not because he wasn’t a household name, but because all the focus had been on his teammate Harry Maguire. But, pound for pound, the £8m we a href=\"https:/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/liverpool-fans-say-goodbye-andy-robertson",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 12:00:40 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/season-by-season-arsenal-return-to-title-glory",
+      "title": {
+        "ar": "Back on top: the season-by-season story of Arsenal’s return to title glory",
+        "en": "Back on top: the season-by-season story of Arsenal’s return to title glory"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p From the end of the Invincibles and the post-Wenger wilderness years to the steady rise under Mikel Arteta /p p The Invincibles were slain in Manchester on Sunday 24 October 2004, when Arsenal’s record 49-match unbeaten run ended in a traumatic, wildly controversial defeat at Old Trafford. It took a month for Arsenal to process their grief and ra",
+        "en": "p From the end of the Invincibles and the post-Wenger wilderness years to the steady rise under Mikel Arteta /p p The Invincibles were slain in Manchester on Sunday 24 October 2004, when Arsenal’s record 49-match unbeaten run ended in a traumatic, wildly controversial defeat at Old Trafford. It took a month for Arsenal to process their grief and ra"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/season-by-season-arsenal-return-to-title-glory",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 11:43:05 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/manchester-city-pep-guardiola-succession-enzo-maresca-chelsea-departure",
+      "title": {
+        "ar": "Manchester City succession sheds light on Enzo Maresca’s Chelsea departure",
+        "en": "Manchester City succession sheds light on Enzo Maresca’s Chelsea departure"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Italian is expected to follow Pep Guardiola and it seems the decision was made a long time ago /p p Now the secret is out it is possible to look at Enzo Maresca’s incendiary remarks about a href=\"https://www.theguardian.com/football/2025/dec/13/chelsea-everton-premier-league-match-report\" his “worst 48 hours” /a at Chelsea through a different len",
+        "en": "p Italian is expected to follow Pep Guardiola and it seems the decision was made a long time ago /p p Now the secret is out it is possible to look at Enzo Maresca’s incendiary remarks about a href=\"https://www.theguardian.com/football/2025/dec/13/chelsea-everton-premier-league-match-report\" his “worst 48 hours” /a at Chelsea through a different len"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/manchester-city-pep-guardiola-succession-enzo-maresca-chelsea-departure",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 11:00:39 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/uefa-multi-club-ownership-womens-champions-league",
+      "title": {
+        "ar": "Uefa vows to take hard line on multi-club ownership in Women’s Champions League",
+        "en": "Uefa vows to take hard line on multi-club ownership in Women’s Champions League"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "ul li p Teams with same owner can not compete together /p /li li p Head of women’s football says ‘no exceptions’ /p /li /ul p Uefa’s head of women’s football has said rules prohibiting clubs with the same owner from playing together in the Women’s Champions League will be strictly enforced, dealing a blow to investors such as Michele Kang. /p p Kan",
+        "en": "ul li p Teams with same owner can not compete together /p /li li p Head of women’s football says ‘no exceptions’ /p /li /ul p Uefa’s head of women’s football has said rules prohibiting clubs with the same owner from playing together in the Women’s Champions League will be strictly enforced, dealing a blow to investors such as Michele Kang. /p p Kan"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/uefa-multi-club-ownership-womens-champions-league",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 10:54:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13546135/arsenal-win-the-premier-league-title-5am-trip-to-the-emirates-and-lots-of-bottles-how-the-players-celebrated-victory",
       "title": {
@@ -1500,506 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Tue, 19 May 2026 07:00:05 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/19/wsl-2025-26-season-review-our-writers-best-and-worst",
-      "title": {
-        "ar": "WSL 2025-26 season review: our writers’ best and worst",
-        "en": "WSL 2025-26 season review: our writers’ best and worst"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p From the best matches and great goals to scheduling gripes and the biggest disappointments, how was the WSL season for you? /p p There is little question that strong Khadija /strong strong “Bunny” Shaw /strong is the best striker in the world right now. The Jamaica international capped off her league campaign in style with a double against West H",
-        "en": "p From the best matches and great goals to scheduling gripes and the biggest disappointments, how was the WSL season for you? /p p There is little question that strong Khadija /strong strong “Bunny” Shaw /strong is the best striker in the world right now. The Jamaica international capped off her league campaign in style with a double against West H"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/19/wsl-2025-26-season-review-our-writers-best-and-worst",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 19 May 2026 07:00:04 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/19/bournemouth-james-hill-fleetwood-interview-andoni-iraola-england",
-      "title": {
-        "ar": "‘Akinfenwa had me in a headlock’: how Bournemouth’s James Hill rose to reach England’s radar",
-        "en": "‘Akinfenwa had me in a headlock’: how Bournemouth’s James Hill rose to reach England’s radar"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Defender on being watched by Barcelona in League One, how his father changed his outlook and the influence of Andoni Iraola /p p “I just thought it was fake news,” says the Bournemouth defender James Hill, casting his mind back to the time Barcelona sent a scout to watch him play for Fleetwood. The game in question was a League One defeat by Burt",
-        "en": "p Defender on being watched by Barcelona in League One, how his father changed his outlook and the influence of Andoni Iraola /p p “I just thought it was fake news,” says the Bournemouth defender James Hill, casting his mind back to the time Barcelona sent a scout to watch him play for Fleetwood. The game in question was a League One defeat by Burt"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/19/bournemouth-james-hill-fleetwood-interview-andoni-iraola-england",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 19 May 2026 07:00:03 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/arsenal-vs-burnley/report/531489",
-      "title": {
-        "ar": "Arsenal on brink of title after nervy win over Burnley",
-        "en": "Arsenal on brink of title after nervy win over Burnley"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arsenal-burnley_7252635.jpg?20260518214744",
-      "url": "https://www.skysports.com/football/arsenal-vs-burnley/report/531489",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 18 May 2026 22:07:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/19/neymar-brazil-world-cup-2026-squad-picked-joao-pedro",
-      "title": {
-        "ar": "Neymar picked in Brazil squad for 2026 World Cup but João Pedro misses out",
-        "en": "Neymar picked in Brazil squad for 2026 World Cup but João Pedro misses out"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Carlo Ancelotti praises ‘improved fitness’ of Santos player /p /li li p Vinícius Júnior, Rayan and Igor Thiago also selected /p /li /ul p Neymar will make his fourth World Cup appearance after Brazil named him to their 26-man squad on Monday. The decision was not guaranteed as questions surrounded Neymar’s fitness since his anterior cruciat",
-        "en": "ul li p Carlo Ancelotti praises ‘improved fitness’ of Santos player /p /li li p Vinícius Júnior, Rayan and Igor Thiago also selected /p /li /ul p Neymar will make his fourth World Cup appearance after Brazil named him to their 26-man squad on Monday. The decision was not guaranteed as questions surrounded Neymar’s fitness since his anterior cruciat"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/19/neymar-brazil-world-cup-2026-squad-picked-joao-pedro",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 23:55:57 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/19/former-footballer-darren-wilson-given-regulatory-ban-over-financial-mismanagement-pfa-professional-footballers-association",
-      "title": {
-        "ar": "Former footballer given regulatory ban over financial mismanagement at PFA",
-        "en": "Former footballer given regulatory ban over financial mismanagement at PFA"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Professional Footballers’ Association ‘let players down’ under finance director Darren Wilson, says watchdog /p p Former footballer and professional players union executive Darren Wilson has been given a regulatory ban after a watchdog inquiry uncovered serious financial mismanagement at a charity for ex-players. /p p The Charity Commission said ",
-        "en": "p Professional Footballers’ Association ‘let players down’ under finance director Darren Wilson, says watchdog /p p Former footballer and professional players union executive Darren Wilson has been given a regulatory ban after a watchdog inquiry uncovered serious financial mismanagement at a charity for ex-players. /p p The Charity Commission said "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/19/former-footballer-darren-wilson-given-regulatory-ban-over-financial-mismanagement-pfa-professional-footballers-association",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 23:01:00 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/arsenal-find-solace-in-set-pieces-again-on-another-gruelling-night-of-football-as-pain",
-      "title": {
-        "ar": "Arsenal find solace in set pieces again on another gruelling night of football as pain | Barney Ronay",
-        "en": "Arsenal find solace in set pieces again on another gruelling night of football as pain | Barney Ronay"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Whatever Nicolas Jover is being paid, it’s not enough – or so it must have felt for Arsenal fans watching tense title pursuit /p p The best way out of a corner? A corner, it turns out. Nobody knows how much the dead-ball goal bonus is in Nicolas Jover’s contract. Or indeed, if it exists at all. Although it would definitely explain why Arsenal’s s",
-        "en": "p Whatever Nicolas Jover is being paid, it’s not enough – or so it must have felt for Arsenal fans watching tense title pursuit /p p The best way out of a corner? A corner, it turns out. Nobody knows how much the dead-ball goal bonus is in Nicolas Jover’s contract. Or indeed, if it exists at all. Although it would definitely explain why Arsenal’s s"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/arsenal-find-solace-in-set-pieces-again-on-another-gruelling-night-of-football-as-pain",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 22:56:37 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/roberto-de-zerbi-tottenham-chelsea-premier-league-relegation-battle",
-      "title": {
-        "ar": "Rivals wanting Tottenham relegated can be ‘big motivation’, insists De Zerbi",
-        "en": "Rivals wanting Tottenham relegated can be ‘big motivation’, insists De Zerbi"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Spurs need a draw at Chelsea to effectively secure safety /p /li li p ‘It’s good to imagine celebrating the win in their stadium’ /p /li /ul p Roberto De Zerbi says the idea that “everyone wants Tottenham relegated” ought to motivate his players as they look to set aside the club’s dismal record against Chelsea at Stamford Bridge to get the",
-        "en": "ul li p Spurs need a draw at Chelsea to effectively secure safety /p /li li p ‘It’s good to imagine celebrating the win in their stadium’ /p /li /ul p Roberto De Zerbi says the idea that “everyone wants Tottenham relegated” ought to motivate his players as they look to set aside the club’s dismal record against Chelsea at Stamford Bridge to get the"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/roberto-de-zerbi-tottenham-chelsea-premier-league-relegation-battle",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 22:54:25 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/pep-guardiola-manchester-city-bournemouth-premier-league-title-race",
-      "title": {
-        "ar": "Like pulling teeth? Guardiola compares Manchester City’s trip to Bournemouth to dentist visit",
-        "en": "Like pulling teeth? Guardiola compares Manchester City’s trip to Bournemouth to dentist visit"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "ul li p ‘I often use it as an analogy for how difficult it is’ /p /li li p Andoni Iraola’s side unbeaten in 16 league matches /p /li /ul p Pep Guardiola has warned Manchester City that Tuesday’s trip to Bournemouth will be like visiting the dentist as he prepares for a game that will shape the destiny of the Premier League title. /p p Bournemouth a",
-        "en": "ul li p ‘I often use it as an analogy for how difficult it is’ /p /li li p Andoni Iraola’s side unbeaten in 16 league matches /p /li /ul p Pep Guardiola has warned Manchester City that Tuesday’s trip to Bournemouth will be like visiting the dentist as he prepares for a game that will shape the destiny of the Premier League title. /p p Bournemouth a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/pep-guardiola-manchester-city-bournemouth-premier-league-title-race",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 21:30:52 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/pep-guardiola-departure-manchester-city-end-of-premier-league-season",
-      "title": {
-        "ar": "Pep Guardiola expected to leave Manchester City at end of the season",
-        "en": "Pep Guardiola expected to leave Manchester City at end of the season"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Guardiola has been manager of club for 10 years /p /li li p He is set to go with one year left on his contract /p /li /ul p Pep Guardiola is expected to leave Manchester City after 10 trophy-filled years as manager. /p p The club did not confirm a href=\"https://www.dailymail.com/sport/football/article-15827009/pep-guardiola-manchester-city-",
-        "en": "ul li p Guardiola has been manager of club for 10 years /p /li li p He is set to go with one year left on his contract /p /li /ul p Pep Guardiola is expected to leave Manchester City after 10 trophy-filled years as manager. /p p The club did not confirm a href=\"https://www.dailymail.com/sport/football/article-15827009/pep-guardiola-manchester-city-"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/pep-guardiola-departure-manchester-city-end-of-premier-league-season",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 21:28:19 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/arsenal-burnley-premier-league-match-report",
-      "title": {
-        "ar": "Kai Havertz header edges nervy Arsenal past Burnley and one step from title",
-        "en": "Kai Havertz header edges nervy Arsenal past Burnley and one step from title"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p It was a night when fervour and hope ran into yet more Arsenal anxiety. This was supposed to be straightforward, wasn’t it? Burnley’s relegation from the Premier League a href=\"https://www.theguardian.com/football/2026/apr/22/burnley-manchester-city-premier-league-match-report\" was confirmed on 22 April /a . They sacked their manager, Scott Parke",
-        "en": "p It was a night when fervour and hope ran into yet more Arsenal anxiety. This was supposed to be straightforward, wasn’t it? Burnley’s relegation from the Premier League a href=\"https://www.theguardian.com/football/2026/apr/22/burnley-manchester-city-premier-league-match-report\" was confirmed on 22 April /a . They sacked their manager, Scott Parke"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/arsenal-burnley-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 21:12:08 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13545584/scotland-world-cup-2026-squad-who-will-land-spot-in-steve-clarkes-26-man-group-heading-to-north-america",
-      "title": {
-        "ar": "Who will land a spot in Clarke's Scotland World Cup squad?",
-        "en": "Who will land a spot in Clarke's Scotland World Cup squad?"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-scotland-football_7208281.jpg?20260401084059",
-      "url": "https://www.skysports.com/football/news/12040/13545584/scotland-world-cup-2026-squad-who-will-land-spot-in-steve-clarkes-26-man-group-heading-to-north-america",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 18 May 2026 19:30:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/arsenal-vs-burnley/live/531489",
-      "title": {
-        "ar": "Havertz nods Arsenal ahead to make huge breakthrough Burnley LIVE!",
-        "en": "Havertz nods Arsenal ahead to make huge breakthrough Burnley LIVE!"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arsenal-burnleyuu_7252595.jpg?20260518204557",
-      "url": "https://www.skysports.com/football/arsenal-vs-burnley/live/531489",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 18 May 2026 18:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13545565/mohamed-salah-jamie-carragher-says-he-isnt-surprised-by-liverpool-stars-selfish-comments-ahead-of-final-match-of-season",
-      "title": {
-        "ar": "Carragher unsurprised by Salah's 'selfish' parting jibe at Slot",
-        "en": "Carragher unsurprised by Salah's 'selfish' parting jibe at Slot"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-mohamed-salah-arne-slot_7230293.jpg?20260518203152",
-      "url": "https://www.skysports.com/football/news/12040/13545565/mohamed-salah-jamie-carragher-says-he-isnt-surprised-by-liverpool-stars-selfish-comments-ahead-of-final-match-of-season",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 18 May 2026 18:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/match/_/gameId/740956/burnley-arsenal",
-      "title": {
-        "ar": "Follow live: Havertz heads title-chasing Arsenal i...",
-        "en": "Follow live: Havertz heads title-chasing Arsenal i..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/match/_/gameId/740956/burnley-arsenal",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 18 May 2026 15:45:45 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48803850/neymar-involved-furious-referee-row-incorrect-substitution",
-      "title": {
-        "ar": "Neymar fumes after wrongly being subbed off",
-        "en": "Neymar fumes after wrongly being subbed off"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48803850/neymar-involved-furious-referee-row-incorrect-substitution",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 18 May 2026 14:44:12 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48804070/jose-mourinho-agrees-real-madrid-deal-sources",
-      "title": {
-        "ar": "Sources: Mourinho to return as Real Madrid boss",
-        "en": "Sources: Mourinho to return as Real Madrid boss"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48804070/jose-mourinho-agrees-real-madrid-deal-sources",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 18 May 2026 14:44:12 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48806636/psg-ousmane-dembele-calf-treatment-champions-league-final",
-      "title": {
-        "ar": "PSG's Dembélé gets calf treated ahead of final",
-        "en": "PSG's Dembélé gets calf treated ahead of final"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48806636/psg-ousmane-dembele-calf-treatment-champions-league-final",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 18 May 2026 14:44:12 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/live/2026/may/18/arsenal-v-burnley-premier-league-live",
-      "title": {
-        "ar": "Arsenal v Burnley: Premier League – live",
-        "en": "Arsenal v Burnley: Premier League – live"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p ⚽ Updates from the 8pm BST KO at the Emirates Stadium br ⚽ a href=\"https://www.theguardian.com/football/premierleague/table\" Table /a | a href=\"https://www.theguardian.com/football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot\" Top scorers /a | a href=\"https://www.theguardian.com/info/2022/nov/14/football-dail",
-        "en": "p ⚽ Updates from the 8pm BST KO at the Emirates Stadium br ⚽ a href=\"https://www.theguardian.com/football/premierleague/table\" Table /a | a href=\"https://www.theguardian.com/football/2025/sep/15/premier-league-top-scorers-2025-26-who-is-leading-race-for-golden-boot\" Top scorers /a | a href=\"https://www.theguardian.com/info/2022/nov/14/football-dail"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/live/2026/may/18/arsenal-v-burnley-premier-league-live",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 19:40:29 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/canadas-sports-minister-hopes-world-cup-can-lead-to-trade-agreement-with-us-and-mexico",
-      "title": {
-        "ar": "Canada’s sports minister hopes World Cup can lead to trade agreement with US and Mexico",
-        "en": "Canada’s sports minister hopes World Cup can lead to trade agreement with US and Mexico"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p North America will host this summer’s tournament /p /li li p European fans encouraged to visit Canada for World Cup /p /li /ul p Canada’s sports minister, Adam van Koeverden, has expressed confidence that hosting the World Cup this summer could be the key to agreeing a new trilateral trade deal with the United States and Mexico. /p p The th",
-        "en": "ul li p North America will host this summer’s tournament /p /li li p European fans encouraged to visit Canada for World Cup /p /li /ul p Canada’s sports minister, Adam van Koeverden, has expressed confidence that hosting the World Cup this summer could be the key to agreeing a new trilateral trade deal with the United States and Mexico. /p p The th"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/canadas-sports-minister-hopes-world-cup-can-lead-to-trade-agreement-with-us-and-mexico",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 16:45:39 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/18/luis-castro-levante-la-liga-relegation-battle",
-      "title": {
-        "ar": "Luís Castro eclipses famous namesake after taking Levante to verge of safety | Sid Lowe",
-        "en": "Luís Castro eclipses famous namesake after taking Levante to verge of safety | Sid Lowe"
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "p Unheralded coach has presided over a remarkable turnaround as club navigates La Liga’s epic relegation battle /p p Luís Castro was 11 when he started vomiting blood. Taken to hospital and diagnosed with purpura, initially doctors told his parents there was no chance of him living and even when he was cured they said he couldn’t do any physical ex",
-        "en": "p Unheralded coach has presided over a remarkable turnaround as club navigates La Liga’s epic relegation battle /p p Luís Castro was 11 when he started vomiting blood. Taken to hospital and diagnosed with purpura, initially doctors told his parents there was no chance of him living and even when he was cured they said he couldn’t do any physical ex"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/18/luis-castro-levante-la-liga-relegation-battle",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 18 May 2026 16:14:43 GMT",
       "rewritten": false,
       "lang": "en"
     }
