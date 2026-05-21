@@ -1,8 +1,283 @@
 {
   "version": 2,
-  "updated": "2026-05-20T20:25:22.294Z",
+  "updated": "2026-05-21T04:17:09.657Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/sc-freiburg-vs-aston-villa/report/554963",
+      "title": {
+        "ar": "Emery does it again as Villa beat Freiburg to claim Europa League trophy",
+        "en": "Emery does it again as Villa beat Freiburg to claim Europa League trophy"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-aston-villa-europa_7254414.jpg?20260520222130",
+      "url": "https://www.skysports.com/football/sc-freiburg-vs-aston-villa/report/554963",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 21:50:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/sc-freiburg-vs-aston-villa/live/554963",
+      "title": {
+        "ar": "Villa beat Freiburg to win the Europa League - reaction",
+        "en": "Villa beat Freiburg to win the Europa League - reaction"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-emi-buendia-aston_7254359.jpg?20260520211908",
+      "url": "https://www.skysports.com/football/sc-freiburg-vs-aston-villa/live/554963",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 17:36:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/cricket/live-blog/12040/13546271/england-vs-new-zealand-first-womens-t20-live-score-updates-video-and-analysis-from-derby-as-sides-prepare-for-t20-world-cup",
+      "title": {
+        "ar": "Capsey stakes World Cup claim by starring against New Zealand",
+        "en": "Capsey stakes World Cup claim by starring against New Zealand"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-alice-capsey-england-women-t20-cricket_7254354.jpg?20260520211441",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13546271/england-vs-new-zealand-first-womens-t20-live-score-updates-video-and-analysis-from-derby-as-sides-prepare-for-t20-world-cup",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 17:45:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546446/unai-emery-wins-fifth-europa-league-its-time-to-recognise-aston-villa-manager-as-one-of-the-best-in-the-business",
+      "title": {
+        "ar": "Five Europa Leagues later, it’s time to recognise Emery as an elite manager",
+        "en": "Five Europa Leagues later, it’s time to recognise Emery as an elite manager"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-unai-emery-europa_7254432.png?20260520224313",
+      "url": "https://www.skysports.com/football/news/12040/13546446/unai-emery-wins-fifth-europa-league-its-time-to-recognise-aston-villa-manager-as-one-of-the-best-in-the-business",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 22:25:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546434/arsenal-target-move-for-bournemouths-eli-junior-kroupi-after-cherries-star-helped-seal-premier-league-title-win-paper-talk",
+      "title": {
+        "ar": "Papers: Arsenal want Junior Kroupi after Bournemouth star helped seal title win",
+        "en": "Papers: Arsenal want Junior Kroupi after Bournemouth star helped seal title win"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "url": "https://www.skysports.com/football/news/12040/13546434/arsenal-target-move-for-bournemouths-eli-junior-kroupi-after-cherries-star-helped-seal-premier-league-title-win-paper-talk",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 22:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48828984/aston-villa-cruise-freiburg-europa-league-title",
+      "title": {
+        "ar": "Villa win Europa League for 1st trophy in 30 years...",
+        "en": "Villa win Europa League for 1st trophy in 30 years..."
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48828984/aston-villa-cruise-freiburg-europa-league-title",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 20 May 2026 21:58:30 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48830016/neymar-suffers-calf-injury-miss-santos-games-ahead-world-cup",
+      "title": {
+        "ar": "Neymar (calf) to miss Santos games ahead of WC",
+        "en": "Neymar (calf) to miss Santos games ahead of WC"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48830016/neymar-suffers-calf-injury-miss-santos-games-ahead-world-cup",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 20 May 2026 21:58:30 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/we-are-not-going-to-stop-unai-emery-aston-villa-europa-champions-league",
+      "title": {
+        "ar": "‘We are not going to stop’: Emery urges Aston Villa to set sights on Europe’s elite",
+        "en": "‘We are not going to stop’: Emery urges Aston Villa to set sights on Europe’s elite"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "ul li p Manager relishes ‘challenge’ of Champions League return /p /li li p Emi Martínez reveals he played game with broken finger /p /li /ul p For Aston Villa, the Europa League must only be the beginning, Unai Emery insisted after winning the trophy for a fifth time. a href=\"https://www.theguardian.com/football/2026/may/20/freiburg-aston-villa-eu",
+        "en": "ul li p Manager relishes ‘challenge’ of Champions League return /p /li li p Emi Martínez reveals he played game with broken finger /p /li /ul p For Aston Villa, the Europa League must only be the beginning, Unai Emery insisted after winning the trophy for a fifth time. a href=\"https://www.theguardian.com/football/2026/may/20/freiburg-aston-villa-eu"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/we-are-not-going-to-stop-unai-emery-aston-villa-europa-champions-league",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 22:58:08 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/aston-villa-europa-league-win-unai-emery-freiburg",
+      "title": {
+        "ar": "Aston Villa relish echoes of history but Europa League win must serve as stepping stone | Jonathan Wilson",
+        "en": "Aston Villa relish echoes of history but Europa League win must serve as stepping stone | Jonathan Wilson"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "p Unai Emery has reconfirmed his status as master of the competition, but will now want to set his sights higher /p p There are two ways to win a final. You can win it by the odd goal, amid a frenzy of anxiety so the final whistle comes as a relief. Or you can win it as a procession, flexing your superiority, so the final whistle is almost resented",
+        "en": "p Unai Emery has reconfirmed his status as master of the competition, but will now want to set his sights higher /p p There are two ways to win a final. You can win it by the odd goal, amid a frenzy of anxiety so the final whistle comes as a relief. Or you can win it as a procession, flexing your superiority, so the final whistle is almost resented"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/aston-villa-europa-league-win-unai-emery-freiburg",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 21:51:30 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/cy82pr34mjdo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "غرف فارغة وإلغاءات من فيفا - فنادق الولايات المتحدة تخشى فشل كأس العالم",
+        "en": "غرف فارغة وإلغاءات من فيفا - فنادق الولايات المتحدة تخشى فشل كأس العالم"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c4ff/live/58971fe0-4a0f-11f1-a5ee-8d3af4522d8c.jpg",
+      "url": "https://www.bbc.com/arabic/articles/cy82pr34mjdo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Wed, 20 May 2026 21:26:51 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/freiburg-aston-villa-europa-league-final-match-report",
+      "title": {
+        "ar": "Tielemans starts party as Aston Villa outclass Freiburg to claim Europa League glory",
+        "en": "Tielemans starts party as Aston Villa outclass Freiburg to claim Europa League glory"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "p Where would you like your statue, Mr Emery? Even before this emphatic Europa League triumph, Aston Villa supporters could hardly have held their manager in greater esteem. But now Emery, in winning the competition for a record fifth time, has delivered the thing he always wanted, a trophy to show for his transformative body of work. /p p Those wh",
+        "en": "p Where would you like your statue, Mr Emery? Even before this emphatic Europa League triumph, Aston Villa supporters could hardly have held their manager in greater esteem. But now Emery, in winning the competition for a record fifth time, has delivered the thing he always wanted, a trophy to show for his transformative body of work. /p p Those wh"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/freiburg-aston-villa-europa-league-final-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 21:01:01 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.espn.com/soccer/match/_/gameId/401862911/aston-villa-sc-freiburg",
       "title": {
@@ -429,156 +704,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.espn.com/soccer/story/_/id/48817400/neymar-main-headliner-carlo-ancelotti-brazil-world-cup-squad",
-      "title": {
-        "ar": "Copy of Neymar the headliner of Ancelotti's curious Brazil...",
-        "en": "Copy of Neymar the headliner of Ancelotti's curious Brazil..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48817400/neymar-main-headliner-carlo-ancelotti-brazil-world-cup-squad",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 20 May 2026 08:19:33 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48823330/transfer-rumors-news-chelsea-liverpool-man-united-eye-west-ham-bowen-move",
-      "title": {
-        "ar": "Transfer rumors, news: Chelsea, Liverpool, Man Uni...",
-        "en": "Transfer rumors, news: Chelsea, Liverpool, Man Uni..."
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48823330/transfer-rumors-news-chelsea-liverpool-man-united-eye-west-ham-bowen-move",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 20 May 2026 08:14:15 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13546159/premier-league-26-27-season-start-date-fixture-release-final-day-live-sky-sports-games-and-match-schedule",
-      "title": {
-        "ar": "Premier League 26/27 season - key dates and fixtures day",
-        "en": "Premier League 26/27 season - key dates and fixtures day"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "World Cup to fit in first - but the key dates are out for the 2026/27 term.]]>",
-        "en": "World Cup to fit in first - but the key dates are out for the 2026/27 term.]]>"
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-kai-havertz-arsenal_7252880.jpg?20260519091749",
-      "url": "https://www.skysports.com/football/news/12040/13546159/premier-league-26-27-season-start-date-fixture-release-final-day-live-sky-sports-games-and-match-schedule",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 20 May 2026 13:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13546177/why-bournemouth-and-brighton-want-aston-villa-to-win-europa-league-to-have-chance-of-champions-league-qualification",
-      "title": {
-        "ar": "Why Bournemouth and Brighton want Aston Villa to win Europa League",
-        "en": "Why Bournemouth and Brighton want Aston Villa to win Europa League"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ollie-watkins-villa_7241786.jpg?20260507204809",
-      "url": "https://www.skysports.com/football/news/12040/13546177/why-bournemouth-and-brighton-want-aston-villa-to-win-europa-league-to-have-chance-of-champions-league-qualification",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 20 May 2026 14:15:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/darts/news/12040/13546171/premier-league-darts-finals-night-2026-fixtures-format-prize-money-and-how-to-watch-or-stream-as-luke-littler-and-luke-humphries-battle-for-the-title",
-      "title": {
-        "ar": "Premier League Darts Finals Night: Who's playing? Fixtures, format and prize money",
-        "en": "Premier League Darts Finals Night: Who's playing? Fixtures, format and prize money"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-darts-premier-league-darts_7253761.jpg?20260520094218",
-      "url": "https://www.skysports.com/darts/news/12040/13546171/premier-league-darts-finals-night-2026-fixtures-format-prize-money-and-how-to-watch-or-stream-as-luke-littler-and-luke-humphries-battle-for-the-title",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 20 May 2026 12:20:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13546145/arsenal-players-spotted-celebrating-premier-league-win-outside-emirates-stadium-at-5am",
-      "title": {
-        "ar": "Arsenal players spotted celebrating outside Emirates Stadium at 5am!",
-        "en": "Arsenal players spotted celebrating outside Emirates Stadium at 5am!"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-arsenal-football_7253758.jpg?20260520094018",
-      "url": "https://www.skysports.com/watch/video/13546145/arsenal-players-spotted-celebrating-premier-league-win-outside-emirates-stadium-at-5am",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 20 May 2026 09:27:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.theguardian.com/football/2026/may/21/australia-football-team-socceroos-african-heritage-diversity",
       "title": {
         "ar": "Socceroos’ African heritage offers timely reminder of Australia’s diversity | Jack Snape",
@@ -754,6 +879,56 @@
       "lang": "en"
     },
     {
+      "id": "https://www.espn.com/soccer/story/_/id/48817400/neymar-main-headliner-carlo-ancelotti-brazil-world-cup-squad",
+      "title": {
+        "ar": "Copy of Neymar the headliner of Ancelotti's curious Brazil...",
+        "en": "Copy of Neymar the headliner of Ancelotti's curious Brazil..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48817400/neymar-main-headliner-carlo-ancelotti-brazil-world-cup-squad",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 20 May 2026 08:19:33 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48823330/transfer-rumors-news-chelsea-liverpool-man-united-eye-west-ham-bowen-move",
+      "title": {
+        "ar": "Transfer rumors, news: Chelsea, Liverpool, Man Uni...",
+        "en": "Transfer rumors, news: Chelsea, Liverpool, Man Uni..."
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48823330/transfer-rumors-news-chelsea-liverpool-man-united-eye-west-ham-bowen-move",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 20 May 2026 08:14:15 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
       "id": "https://www.theguardian.com/football/2026/may/20/arsenal-mikel-arteta-new-contract-pay-rise-kroupi-alvarez-transfer-targets",
       "title": {
         "ar": "Arsenal to reward Mikel Arteta with huge pay rise and put Kroupi among transfer targets",
@@ -800,6 +975,231 @@
         "en": "The Guardian"
       },
       "pubDate": "Wed, 20 May 2026 12:24:56 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/20/pep-guardiola-man-city-lionel-messi-celtic-hearts",
+      "title": {
+        "ar": "This week’s soccer questions: Manchester City’s next steps, and is Messi peaking at the perfect time?",
+        "en": "This week’s soccer questions: Manchester City’s next steps, and is Messi peaking at the perfect time?"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p We look at what Celtic’s title win means for Scottish soccer, Argentina’s World Cup plans and the prospect of a Premier League without Pep Guardiola /p p Sir Alex Ferguson may have him beat for longevity and number of titles. Arsène Wenger can take some credit for English soccer’s modernization in the 1990s, but Pep Guardiola completely changed t",
+        "en": "p We look at what Celtic’s title win means for Scottish soccer, Argentina’s World Cup plans and the prospect of a Premier League without Pep Guardiola /p p Sir Alex Ferguson may have him beat for longevity and number of titles. Arsène Wenger can take some credit for English soccer’s modernization in the 1990s, but Pep Guardiola completely changed t"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/20/pep-guardiola-man-city-lionel-messi-celtic-hearts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 20 May 2026 09:00:31 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48813975/want-10-ft-lionel-messi-inflatable-looks-in-luck",
+      "title": {
+        "ar": "Hey look, a 10-ft inflatable Messi! Wait, that is ...",
+        "en": "Hey look, a 10-ft inflatable Messi! Wait, that is ..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48813975/want-10-ft-lionel-messi-inflatable-looks-in-luck",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 19 May 2026 13:17:39 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546159/premier-league-26-27-season-start-date-fixture-release-final-day-live-sky-sports-games-and-match-schedule",
+      "title": {
+        "ar": "Premier League 26/27 season - key dates and fixtures day",
+        "en": "Premier League 26/27 season - key dates and fixtures day"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "World Cup to fit in first - but the key dates are out for the 2026/27 term.]]>",
+        "en": "World Cup to fit in first - but the key dates are out for the 2026/27 term.]]>"
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-kai-havertz-arsenal_7252880.jpg?20260519091749",
+      "url": "https://www.skysports.com/football/news/12040/13546159/premier-league-26-27-season-start-date-fixture-release-final-day-live-sky-sports-games-and-match-schedule",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 13:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546177/why-bournemouth-and-brighton-want-aston-villa-to-win-europa-league-to-have-chance-of-champions-league-qualification",
+      "title": {
+        "ar": "Why Bournemouth and Brighton want Aston Villa to win Europa League",
+        "en": "Why Bournemouth and Brighton want Aston Villa to win Europa League"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-ollie-watkins-villa_7241786.jpg?20260507204809",
+      "url": "https://www.skysports.com/football/news/12040/13546177/why-bournemouth-and-brighton-want-aston-villa-to-win-europa-league-to-have-chance-of-champions-league-qualification",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 14:15:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/darts/news/12040/13546171/premier-league-darts-finals-night-2026-fixtures-format-prize-money-and-how-to-watch-or-stream-as-luke-littler-and-luke-humphries-battle-for-the-title",
+      "title": {
+        "ar": "Premier League Darts Finals Night: Who's playing? Fixtures, format and prize money",
+        "en": "Premier League Darts Finals Night: Who's playing? Fixtures, format and prize money"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-darts-premier-league-darts_7253761.jpg?20260520094218",
+      "url": "https://www.skysports.com/darts/news/12040/13546171/premier-league-darts-finals-night-2026-fixtures-format-prize-money-and-how-to-watch-or-stream-as-luke-littler-and-luke-humphries-battle-for-the-title",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 12:20:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13546145/arsenal-players-spotted-celebrating-premier-league-win-outside-emirates-stadium-at-5am",
+      "title": {
+        "ar": "Arsenal players spotted celebrating outside Emirates Stadium at 5am!",
+        "en": "Arsenal players spotted celebrating outside Emirates Stadium at 5am!"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-arsenal-football_7253758.jpg?20260520094018",
+      "url": "https://www.skysports.com/watch/video/13546145/arsenal-players-spotted-celebrating-premier-league-win-outside-emirates-stadium-at-5am",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 09:27:00 BST",
       "rewritten": false,
       "lang": "en"
     },
@@ -1600,406 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Tue, 19 May 2026 17:14:54 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/19/czech-football-coach-petr-vlachovsky-secretly-filmed-female-players-handed-lifetime-ban",
-      "title": {
-        "ar": "Czech football coach who secretly filmed female players handed lifetime ban",
-        "en": "Czech football coach who secretly filmed female players handed lifetime ban"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Petr Vlachovsky was first convicted in May 2025 /p /li li p Five-year domestic coaching ban was seen as too lenient /p /li /ul p Uefa has handed a lifetime ban from all football-related activity to Petr Vlachovsky, the Czech coach who used a hidden camera to a href=\"https://www.theguardian.com/football/2026/mar/03/calls-for-worldwide-ban-on",
-        "en": "ul li p Petr Vlachovsky was first convicted in May 2025 /p /li li p Five-year domestic coaching ban was seen as too lenient /p /li /ul p Uefa has handed a lifetime ban from all football-related activity to Petr Vlachovsky, the Czech coach who used a hidden camera to a href=\"https://www.theguardian.com/football/2026/mar/03/calls-for-worldwide-ban-on"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/19/czech-football-coach-petr-vlachovsky-secretly-filmed-female-players-handed-lifetime-ban",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 19 May 2026 17:08:22 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/19/manchester-united-liverpool-chelsea-target-jarrod-bowen-west-ham-transfer",
-      "title": {
-        "ar": "Manchester United, Liverpool and Chelsea target Jarrod Bowen amid drop threat",
-        "en": "Manchester United, Liverpool and Chelsea target Jarrod Bowen amid drop threat"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p West Ham will need to raise more than £100m if relegated /p /li li p Relegation could force England player to reassess future /p /li /ul p Chelsea, Liverpool and Manchester United are interested in Jarrod Bowen as rival clubs prepare to capitalise on West Ham’s financial problems by targeting their best players. /p p West Ham will need to r",
-        "en": "ul li p West Ham will need to raise more than £100m if relegated /p /li li p Relegation could force England player to reassess future /p /li /ul p Chelsea, Liverpool and Manchester United are interested in Jarrod Bowen as rival clubs prepare to capitalise on West Ham’s financial problems by targeting their best players. /p p West Ham will need to r"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/19/manchester-united-liverpool-chelsea-target-jarrod-bowen-west-ham-transfer",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 19 May 2026 15:25:48 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/19/football-quiz-english-clubs-european-finals-arsenal-aston-villa-crystal-palace",
-      "title": {
-        "ar": "Football quiz: when English clubs play in European finals",
-        "en": "Football quiz: when English clubs play in European finals"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Arsenal, Aston Villa and Crystal Palace could make it a clean sweep of English winners in Europe this season /p p By a href=\"https://thefootballmine.com/\" The Football Mine /a /p p strong This is a quiz by Richard Foster, who presents the a href=\"https://x.com/ISWAKPodcast\" It Started With A Kick podcast /a and writes a daily quiz on the a href=\"",
-        "en": "p Arsenal, Aston Villa and Crystal Palace could make it a clean sweep of English winners in Europe this season /p p By a href=\"https://thefootballmine.com/\" The Football Mine /a /p p strong This is a quiz by Richard Foster, who presents the a href=\"https://x.com/ISWAKPodcast\" It Started With A Kick podcast /a and writes a daily quiz on the a href=\""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/19/football-quiz-english-clubs-european-finals-arsenal-aston-villa-crystal-palace",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 19 May 2026 14:26:44 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/cricket/news/12040/13545848/england-captain-nat-sciver-brunt-in-womens-t20-world-cup-fitness-race-after-being-ruled-out-of-series-vs-new-zealand-india",
-      "title": {
-        "ar": "England captain Sciver-Brunt in race to be fit for Women's T20 World Cup",
-        "en": "England captain Sciver-Brunt in race to be fit for Women's T20 World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-nat-sciver-brunt_7253049.jpg?20260519132011",
-      "url": "https://www.skysports.com/cricket/news/12040/13545848/england-captain-nat-sciver-brunt-in-womens-t20-world-cup-fitness-race-after-being-ruled-out-of-series-vs-new-zealand-india",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 19 May 2026 12:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13545649/world-cup-2026-steve-clarke-names-craig-gordon-findlay-curtis-ross-stewart-in-scotlands-26-man-squad",
-      "title": {
-        "ar": "43-year-old Gordon plus Curtis and Stewart named in Scotland's World Cup squad",
-        "en": "43-year-old Gordon plus Curtis and Stewart named in Scotland's World Cup squad"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-football_7252952.jpg?20260519104715",
-      "url": "https://www.skysports.com/football/news/12040/13545649/world-cup-2026-steve-clarke-names-craig-gordon-findlay-curtis-ross-stewart-in-scotlands-26-man-squad",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 19 May 2026 11:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13545459/europa-league-final-aston-villa-target-special-win-over-freiburg-with-unai-emery",
-      "title": {
-        "ar": "Villa target 'special' win with Europa League master Emery",
-        "en": "Villa target 'special' win with Europa League master Emery"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-unai-emery-europa-league_7253197.jpg?20260519152624",
-      "url": "https://www.skysports.com/football/news/12040/13545459/europa-league-final-aston-villa-target-special-win-over-freiburg-with-unai-emery",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 19 May 2026 15:30:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13545823/premier-league-permutations-how-arsenal-can-win-title-tottenham-relegate-west-ham-and-liverpool-secure-champions-league-on-tuesday-night",
-      "title": {
-        "ar": "How PL title, relegation and Liverpool's CL place can be decided tonight",
-        "en": "How PL title, relegation and Liverpool's CL place can be decided tonight"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "Sky Sports. ]]>",
-        "en": "Sky Sports. ]]>"
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-permutations_7252978.jpg?20260519110945",
-      "url": "https://www.skysports.com/football/news/12040/13545823/premier-league-permutations-how-arsenal-can-win-title-tottenham-relegate-west-ham-and-liverpool-secure-champions-league-on-tuesday-night",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 19 May 2026 10:46:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13545790/england-women-ella-toone-and-aggie-beever-jones-return-to-squad-for-june-world-cup-qualifiers-against-spain-and-ukraine",
-      "title": {
-        "ar": "Toone and Beever-Jones return for England's June World Cup qualifiers",
-        "en": "Toone and Beever-Jones return for England's June World Cup qualifiers"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-ella-toone-england-women_7252965.jpg?20260519105727",
-      "url": "https://www.skysports.com/football/news/12040/13545790/england-women-ella-toone-and-aggie-beever-jones-return-to-squad-for-june-world-cup-qualifiers-against-spain-and-ukraine",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 19 May 2026 11:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48802080/ranked-top-50-usmnt-players-world-cup-based-club-form",
-      "title": {
-        "ar": "Top 50 USMNT players, ranked by club form: A new No. 1 tops Americans before World Cup",
-        "en": "Top 50 USMNT players, ranked by club form: A new No. 1 tops Americans before World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48802080/ranked-top-50-usmnt-players-world-cup-based-club-form",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 19 May 2026 11:11:31 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48813005/after-hitting-slot-salahs-liverpool-farewell-far-harmonious",
-      "title": {
-        "ar": "After hitting out at Slot, Salah's Liverpool farew...",
-        "en": "After hitting out at Slot, Salah's Liverpool farew..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48813005/after-hitting-slot-salahs-liverpool-farewell-far-harmonious",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 19 May 2026 10:34:12 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48813794/liverpool-revive-all-classic-2026-27-home-kit",
-      "title": {
-        "ar": "Liverpool revive an all-time classic for new 2026-...",
-        "en": "Liverpool revive an all-time classic for new 2026-..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48813794/liverpool-revive-all-classic-2026-27-home-kit",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 19 May 2026 10:34:12 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48813641/mohamed-salah-heavy-metal-liverpool-post-selfish-jamie-carragher",
-      "title": {
-        "ar": "Carragher: Salah 'selfish' for Liverpool post",
-        "en": "Carragher: Salah 'selfish' for Liverpool post"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48813641/mohamed-salah-heavy-metal-liverpool-post-selfish-jamie-carragher",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 19 May 2026 10:28:32 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48809277/neymar-makes-cut-brazil-announce-final-26-man-world-cup-squad",
-      "title": {
-        "ar": "Neymar named in Brazil final World Cup squad",
-        "en": "Neymar named in Brazil final World Cup squad"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48809277/neymar-makes-cut-brazil-announce-final-26-man-world-cup-squad",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 19 May 2026 10:28:32 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48816135/cristiano-ronaldo-named-record-sixth-world-cup-squad-portugal",
-      "title": {
-        "ar": "Ronaldo named to record sixth Portugal WC squad",
-        "en": "Ronaldo named to record sixth Portugal WC squad"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48816135/cristiano-ronaldo-named-record-sixth-world-cup-squad-portugal",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 19 May 2026 10:28:31 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/19/uefa-champions-league-final-more-viewers-despite-no-free-to-air-coverage",
-      "title": {
-        "ar": "Uefa expects more viewers for Champions League final despite no free-to-air coverage",
-        "en": "Uefa expects more viewers for Champions League final despite no free-to-air coverage"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "ul li p HBO Max subscribers in the UK likely to boost numbers /p /li li p Presence of an English club will also have a positive effect /p /li /ul p Uefa is expecting far higher UK viewing figures for next week’s Champions League final than in recent seasons despite TNT Sport’s controversial decision not to make the game available free-to-air for th",
-        "en": "ul li p HBO Max subscribers in the UK likely to boost numbers /p /li li p Presence of an English club will also have a positive effect /p /li /ul p Uefa is expecting far higher UK viewing figures for next week’s Champions League final than in recent seasons despite TNT Sport’s controversial decision not to make the game available free-to-air for th"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/19/uefa-champions-league-final-more-viewers-despite-no-free-to-air-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 19 May 2026 14:00:04 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48800867/wherever-messi-goes-pitch-invaders-chaos-tend-follow",
-      "title": {
-        "ar": "Wherever Messi goes, pitch invaders and chaos -- a...",
-        "en": "Wherever Messi goes, pitch invaders and chaos -- a..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48800867/wherever-messi-goes-pitch-invaders-chaos-tend-follow",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 19 May 2026 08:53:33 EST",
       "rewritten": false,
       "lang": "en"
     }
