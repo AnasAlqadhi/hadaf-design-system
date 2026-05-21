@@ -1,8 +1,483 @@
 {
   "version": 2,
-  "updated": "2026-05-21T09:54:44.961Z",
+  "updated": "2026-05-21T15:41:31.087Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13546546/premier-league-kits-26-27-plus-more-football-home-away-and-third-strips-from-nike-adidas-puma-and-others",
+      "title": {
+        "ar": "Football kits 2026/27: Arsenal, Liverpool, Man City reveal new kits",
+        "en": "Football kits 2026/27: Arsenal, Liverpool, Man City reveal new kits"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-liverpool_7252858.jpg?20260519083830",
+      "url": "https://www.skysports.com/football/live-blog/12040/13546546/premier-league-kits-26-27-plus-more-football-home-away-and-third-strips-from-nike-adidas-puma-and-others",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 21 May 2026 12:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546249/england-world-cup-squad-announcement-thomas-tuchels-no-10-dilemma-harry-kanes-deputy-and-the-16-guarantees",
+      "title": {
+        "ar": "England's No 10 dilemma, Kane's deputy and the 16 World Cup 'guarantees'",
+        "en": "England's No 10 dilemma, Kane's deputy and the 16 World Cup 'guarantees'"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-football-world-cup_7254090.jpg?20260520152409",
+      "url": "https://www.skysports.com/football/news/12040/13546249/england-world-cup-squad-announcement-thomas-tuchels-no-10-dilemma-harry-kanes-deputy-and-the-16-guarantees",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 20 May 2026 11:53:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48785669/uwcl-final-preview-prediction-barcelona-beat-ol-lyonnes-again",
+      "title": {
+        "ar": "UWCL final preview, prediction: Will Barcelona bea...",
+        "en": "UWCL final preview, prediction: Will Barcelona bea..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48785669/uwcl-final-preview-prediction-barcelona-beat-ol-lyonnes-again",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 21 May 2026 11:38:15 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48833509/cristiano-ronaldo-titles-my-sole-aim-saudi-arabia-al-nassr-jorge-jesus",
+      "title": {
+        "ar": "Ronaldo titles my sole aim in Saudi - Al Nassr bos...",
+        "en": "Ronaldo titles my sole aim in Saudi - Al Nassr bos..."
+      },
+      "kicker": {
+        "ar": "دوري روشن",
+        "en": "Saudi League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48833509/cristiano-ronaldo-titles-my-sole-aim-saudi-arabia-al-nassr-jorge-jesus",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 21 May 2026 11:34:23 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48834116/germany-recall-manuel-neuer-retirement-world-cup-squad",
+      "title": {
+        "ar": "GK Neuer, 40, makes Germany World Cup squad",
+        "en": "GK Neuer, 40, makes Germany World Cup squad"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48834116/germany-recall-manuel-neuer-retirement-world-cup-squad",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 21 May 2026 11:34:23 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48833507/xabi-alonso-first-big-chelsea-test-preseason-johor-darul-tazim-jdt",
+      "title": {
+        "ar": "Alonso's first big Chelsea test? Facing a team tha...",
+        "en": "Alonso's first big Chelsea test? Facing a team tha..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48833507/xabi-alonso-first-big-chelsea-test-preseason-johor-darul-tazim-jdt",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 21 May 2026 10:34:12 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/21/southampton-spying-scandal-millwall-wrexham-legal-options",
+      "title": {
+        "ar": "Southampton claim spying on Middlesbrough did not change their tactics",
+        "en": "Southampton claim spying on Middlesbrough did not change their tactics"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Club showed EFL commission their training sessions /p /li li p Millwall and Wrexham considering their legal options /p /li /ul p Southampton have provided footage of their training sessions to the English Football League’s independent disciplinary commission to try to prove they gained no material advantage from the a href=\"https://www.theg",
+        "en": "ul li p Club showed EFL commission their training sessions /p /li li p Millwall and Wrexham considering their legal options /p /li /ul p Southampton have provided footage of their training sessions to the English Football League’s independent disciplinary commission to try to prove they gained no material advantage from the a href=\"https://www.theg"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/21/southampton-spying-scandal-millwall-wrexham-legal-options",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 21 May 2026 13:49:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/21/uk-police-sending-only-three-officers-england-world-cup-games",
+      "title": {
+        "ar": "UK police sending only three officers to England’s World Cup games after failure to land funding",
+        "en": "UK police sending only three officers to England’s World Cup games after failure to land funding"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Policing unit ‘not expecting problems’ from England fans /p /li li p Around 15,000 are expected at each group-stage match /p /li /ul p The UK Football Policing Unit will send only three officers to this summer’s World Cup after a failure to secure extra funding from authorities in the United States. /p p With as many as 15,000 England fans ",
+        "en": "ul li p Policing unit ‘not expecting problems’ from England fans /p /li li p Around 15,000 are expected at each group-stage match /p /li /ul p The UK Football Policing Unit will send only three officers to this summer’s World Cup after a failure to secure extra funding from authorities in the United States. /p p With as many as 15,000 England fans "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/21/uk-police-sending-only-three-officers-england-world-cup-games",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 21 May 2026 13:32:27 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/21/zohran-mamdani-world-cup-tickets-new-york-city",
+      "title": {
+        "ar": "Zohran Mamdani announces $50 World Cup ticket lottery for New York City residents",
+        "en": "Zohran Mamdani announces $50 World Cup ticket lottery for New York City residents"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p NYC mayor has taken aim at Fifa over ticket prices /p /li li p 1,000 tickets on offer for $50 each, including transport /p /li li p Tickets available for every NY/NJ game excluding final /p /li /ul p New York City’s mayor, Zohran Mamdani, on Thursday announced that a new tranche of 2026 World Cup tickets will be made available to residents ",
+        "en": "ul li p NYC mayor has taken aim at Fifa over ticket prices /p /li li p 1,000 tickets on offer for $50 each, including transport /p /li li p Tickets available for every NY/NJ game excluding final /p /li /ul p New York City’s mayor, Zohran Mamdani, on Thursday announced that a new tranche of 2026 World Cup tickets will be made available to residents "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/21/zohran-mamdani-world-cup-tickets-new-york-city",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 21 May 2026 13:27:38 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/video/2026/may/21/turkish-delight-aston-villa-europa-league-premier-league-relegation-battle-football-weekly-video",
+      "title": {
+        "ar": "Turkish delight for Villa and the Premier League relegation battle | Football Weekly – video",
+        "en": "Turkish delight for Villa and the Premier League relegation battle | Football Weekly – video"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "p Max Rushden is joined by Barry Glendenning, Archie Rhind-Tutt, Lars Sivertsen and Dan Bardell to discuss Villa’s Europa League success /p p /p p On today’s podcast: Aston Villa won their first trophy in 30 years and secured their first European triumph for over 40. There were jubilant scenes, from Istanbul to Birmingham, as Unai Emery did it agai",
+        "en": "p Max Rushden is joined by Barry Glendenning, Archie Rhind-Tutt, Lars Sivertsen and Dan Bardell to discuss Villa’s Europa League success /p p /p p On today’s podcast: Aston Villa won their first trophy in 30 years and secured their first European triumph for over 40. There were jubilant scenes, from Istanbul to Birmingham, as Unai Emery did it agai"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/video/2026/may/21/turkish-delight-aston-villa-europa-league-premier-league-relegation-battle-football-weekly-video",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 21 May 2026 13:24:58 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48757621/2026-world-cup-squad-lists-players-announced-all-48-teams",
+      "title": {
+        "ar": "Ronaldo in for Portugal: All World Cup squads anno...",
+        "en": "Ronaldo in for Portugal: All World Cup squads anno..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48757621/2026-world-cup-squad-lists-players-announced-all-48-teams",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 21 May 2026 08:10:12 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48833095/transfer-rumors-news-barcelona-look-land-tottenham-captain",
+      "title": {
+        "ar": "Transfer rumors, news: Barcelona look to land Tott...",
+        "en": "Transfer rumors, news: Barcelona look to land Tott..."
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48833095/transfer-rumors-news-barcelona-look-land-tottenham-captain",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Thu, 21 May 2026 08:04:48 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c9d3v8qg5gwo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كيف احتفل جمهور الزمالك بلقب الدوري رقم 15؟",
+        "en": "كيف احتفل جمهور الزمالك بلقب الدوري رقم 15؟"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d7ff/live/cdc92af0-5500-11f1-89a3-d1f559421220.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c9d3v8qg5gwo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Thu, 21 May 2026 12:59:38 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/21/manuel-neuer-germany-no-1-world-cup",
+      "title": {
+        "ar": "Manuel Neuer declared as Germany’s No 1 at World Cup after retirement U-turn",
+        "en": "Manuel Neuer declared as Germany’s No 1 at World Cup after retirement U-turn"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Julian Nagelsmann includes 40-year-old in 26-man squad /p /li li p ‘We want to become world champions,’ says head coach /p /li /ul p Bayern Munich’s Manuel Neuer has come out of international retirement after being named on Thursday as the starting goalkeeper in Germany’s World Cup squad by head coach Julian Nagelsmann. Nagelsmann made the ",
+        "en": "ul li p Julian Nagelsmann includes 40-year-old in 26-man squad /p /li li p ‘We want to become world champions,’ says head coach /p /li /ul p Bayern Munich’s Manuel Neuer has come out of international retirement after being named on Thursday as the starting goalkeeper in Germany’s World Cup squad by head coach Julian Nagelsmann. Nagelsmann made the "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/21/manuel-neuer-germany-no-1-world-cup",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 21 May 2026 12:33:12 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/21/canadian-musician-mario-lapointe-owner-dumbarton-fc-women",
+      "title": {
+        "ar": "The Canadian musician supersizing Dumbarton FC Women: ‘The players are a megaphone for the team’",
+        "en": "The Canadian musician supersizing Dumbarton FC Women: ‘The players are a megaphone for the team’"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Mario Lapointe became the Scottish club’s unlikely owner last year and his radical plans are taking shape at the Rock /p p “A lot of people ask me the same thing,” says a laughing Mario Lapointe, on how a Canadian songwriter and entrepreneur became owner of the Scottish lower league club Dumbarton 12 months ago. “When I was looking for a football",
+        "en": "p Mario Lapointe became the Scottish club’s unlikely owner last year and his radical plans are taking shape at the Rock /p p “A lot of people ask me the same thing,” says a laughing Mario Lapointe, on how a Canadian songwriter and entrepreneur became owner of the Scottish lower league club Dumbarton 12 months ago. “When I was looking for a football"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/21/canadian-musician-mario-lapointe-owner-dumbarton-fc-women",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 21 May 2026 11:25:56 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/21/aston-villa-party-hard-istanbul-ending-30-year-trophy-wait-europa-league-final",
+      "title": {
+        "ar": "Victorious Villa party hard in Istanbul after ending 30-year trophy wait",
+        "en": "Victorious Villa party hard in Istanbul after ending 30-year trophy wait"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "p Europa League glory kicked off scenes of royal ribbing, ski goggles on the team bus and knee slides with nephews /p p It was 1.43am in Istanbul when Aston Villa’s players began to make tracks for their hotel, over the road from the rubber ring-like Besiktas Park. Matty Cash walked into a windowless basement at the stadium, bottle of Efes in hand,",
+        "en": "p Europa League glory kicked off scenes of royal ribbing, ski goggles on the team bus and knee slides with nephews /p p It was 1.43am in Istanbul when Aston Villa’s players began to make tracks for their hotel, over the road from the rubber ring-like Besiktas Park. Matty Cash walked into a windowless basement at the stadium, bottle of Efes in hand,"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/21/aston-villa-party-hard-istanbul-ending-30-year-trophy-wait-europa-league-final",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 21 May 2026 11:00:09 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13546486/aston-villa-win-europa-league-inside-unai-emerys-latest-european-triumph-including-emiliano-martinezs-broken-finger-and-beers-with-prince-william",
       "title": {
@@ -1525,481 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Wed, 20 May 2026 07:00:27 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/fc-chernihiv-ukranian-cup-final",
-      "title": {
-        "ar": "‘A beacon of hope’: FC Chernihiv set for Ukrainian Cup final against all odds",
-        "en": "‘A beacon of hope’: FC Chernihiv set for Ukrainian Cup final against all odds"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "p Club are battling relegation from the second tier in a city under attack by Russian forces but are one upset away from the Europa League /p p A minivan with darkened windows pulls up at a gym in central Chernihiv and, once the doors have slid open, a stream of youths emerges into the daylight. Inside, Artem Rakitin sits everyone down on the rubbe",
-        "en": "p Club are battling relegation from the second tier in a city under attack by Russian forces but are one upset away from the Europa League /p p A minivan with darkened windows pulls up at a gym in central Chernihiv and, once the doors have slid open, a stream of youths emerges into the daylight. Inside, Artem Rakitin sits everyone down on the rubbe"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/fc-chernihiv-ukranian-cup-final",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 07:00:27 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/most-football-league-titles-without-earning-international-cap-the-knowledge",
-      "title": {
-        "ar": "Who has won the most league titles without earning an international cap?  | The Knowledge",
-        "en": "Who has won the most league titles without earning an international cap?  | The Knowledge"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Plus: greatest distance between two teams in a derby (part two) and origins of why Celtic Park is nicknamed ‘Paradise’ /p ul li p a href=\"mailto:knowledge@theguardian.com\" Mail us /a with your all of your questions and answers /p /li /ul p strong “Which player has won the most league championships without winning an international cap?” /strong as",
-        "en": "p Plus: greatest distance between two teams in a derby (part two) and origins of why Celtic Park is nicknamed ‘Paradise’ /p ul li p a href=\"mailto:knowledge@theguardian.com\" Mail us /a with your all of your questions and answers /p /li /ul p strong “Which player has won the most league championships without winning an international cap?” /strong as"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/most-football-league-titles-without-earning-international-cap-the-knowledge",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 07:00:26 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2026/may/20/football-australia-finances-restructure-redundancies-mixed-signals",
-      "title": {
-        "ar": "An SOS or a timely reset? Football Australia sends mixed signals over latest financial woes | Jack Snape",
-        "en": "An SOS or a timely reset? Football Australia sends mixed signals over latest financial woes | Jack Snape"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Football’s governing body faces more redundancies but it’s hard to know whether this year’s cuts reflect mismanagement or justified changes /p p Those who embrace the footballing gods are often superstitious, finding signs in the bounce of the ball, the vagaries of VAR, the end chosen for penalties, even the colour of shirts. /p p What, then, to ",
-        "en": "p Football’s governing body faces more redundancies but it’s hard to know whether this year’s cuts reflect mismanagement or justified changes /p p Those who embrace the footballing gods are often superstitious, finding signs in the bounce of the ball, the vagaries of VAR, the end chosen for penalties, even the colour of shirts. /p p What, then, to "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2026/may/20/football-australia-finances-restructure-redundancies-mixed-signals",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 05:22:59 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/de-zerbi-tells-spurs-to-play-for-their-dignity-in-final-day-relegation-battle",
-      "title": {
-        "ar": "De Zerbi tells Spurs to play for their ‘dignity’ in final-day relegation battle",
-        "en": "De Zerbi tells Spurs to play for their ‘dignity’ in final-day relegation battle"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "ul li p Defeat at Chelsea keeps last relegation place open /p /li li p Spurs need a point at home to Everton to be safe /p /li /ul p Roberto De Zerbi has described ­Tottenham’s looming final-day relegation showdown against Everton as a more important game than last season’s Europa League final against Manchester United because the club’s dignity is",
-        "en": "ul li p Defeat at Chelsea keeps last relegation place open /p /li li p Spurs need a point at home to Everton to be safe /p /li /ul p Roberto De Zerbi has described ­Tottenham’s looming final-day relegation showdown against Everton as a more important game than last season’s Europa League final against Manchester United because the club’s dignity is"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/de-zerbi-tells-spurs-to-play-for-their-dignity-in-final-day-relegation-battle",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 19 May 2026 23:04:49 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13545591/arsenal-win-premier-league-mikel-artetas-side-end-22-year-wait-for-title",
-      "title": {
-        "ar": "Arsenal crowned Premier League champions",
-        "en": "Arsenal crowned Premier League champions"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-arsenal-premier-league_7252427.jpg?20260518170750",
-      "url": "https://www.skysports.com/football/news/12040/13545591/arsenal-win-premier-league-mikel-artetas-side-end-22-year-wait-for-title",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 19 May 2026 21:26:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/bournemouth-vs-manchester-city/report/531491",
-      "title": {
-        "ar": "Man City's title bid over as Bournemouth draw sees Arsenal crowned champions",
-        "en": "Man City's title bid over as Bournemouth draw sees Arsenal crowned champions"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-erling-haaland_7253482.jpg?20260519210750",
-      "url": "https://www.skysports.com/football/bournemouth-vs-manchester-city/report/531491",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 19 May 2026 21:25:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13545791/arsenal-win-the-premier-league-the-10-moments-that-won-the-gunners-the-title-for-the-first-time-in-22-years",
-      "title": {
-        "ar": "Ten moments that won Arsenal the title",
-        "en": "Ten moments that won Arsenal the title"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-arsenal-man-city_7225573.jpg?20260519173341",
-      "url": "https://www.skysports.com/football/news/12040/13545791/arsenal-win-the-premier-league-the-10-moments-that-won-the-gunners-the-title-for-the-first-time-in-22-years",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 19 May 2026 09:30:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/report/531493",
-      "title": {
-        "ar": "Chelsea deny Spurs comeback to send race for survival to final day",
-        "en": "Chelsea deny Spurs comeback to send race for survival to final day"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-andrey-santos-premier-league_7253528.jpg?20260519214554",
-      "url": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/report/531493",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 15 May 2026 08:52:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13546082/chelsea-2-1-tottenham-premier-league-highlights",
-      "title": {
-        "ar": "Relegation scrap continues! Chelsea send Spurs' survival hopes to final day",
-        "en": "Relegation scrap continues! Chelsea send Spurs' survival hopes to final day"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-spurs-chelsea_7253579.jpg?20260519222119",
-      "url": "https://www.skysports.com/watch/video/13546082/chelsea-2-1-tottenham-premier-league-highlights",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 19 May 2026 22:18:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13545968/west-ham-forward-jarrod-bowen-is-wanted-by-chelsea-liverpool-and-man-utd-paper-talk",
-      "title": {
-        "ar": "Papers: Chelsea, Liverpool and Man Utd target Bowen",
-        "en": "Papers: Chelsea, Liverpool and Man Utd target Bowen"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "url": "https://www.skysports.com/football/news/12040/13545968/west-ham-forward-jarrod-bowen-is-wanted-by-chelsea-liverpool-and-man-utd-paper-talk",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 19 May 2026 17:18:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13546001/mikel-artetas-arsenal-transformation-complete-as-defensive-brilliance-and-set-piece-mastery-help-secure-historic-title",
-      "title": {
-        "ar": "From lowest point to historic high, Arteta's Arsenal transformation is complete",
-        "en": "From lowest point to historic high, Arteta's Arsenal transformation is complete"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-arteta_7253487.jpg?20260519211639",
-      "url": "https://www.skysports.com/football/news/12040/13546001/mikel-artetas-arsenal-transformation-complete-as-defensive-brilliance-and-set-piece-mastery-help-secure-historic-title",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 19 May 2026 21:30:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/19/pep-guardiola-exit-manchester-city-arsenal-bournemouth",
-      "title": {
-        "ar": "Pep Guardiola refuses to confirm expected departure from Manchester City",
-        "en": "Pep Guardiola refuses to confirm expected departure from Manchester City"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Manager to speak to club hierarchy before announcing decision /p /li li p Guardiola: ‘The first person I have to talk to is my chairman’ /p /li /ul p Pep Guardiola refused to publicly comment on the expectation that his 10-year reign at Manchester City will come to an end despite reports in the Guardian that he has a href=\"https://www.thegu",
-        "en": "ul li p Manager to speak to club hierarchy before announcing decision /p /li li p Guardiola: ‘The first person I have to talk to is my chairman’ /p /li /ul p Pep Guardiola refused to publicly comment on the expectation that his 10-year reign at Manchester City will come to an end despite reports in the Guardian that he has a href=\"https://www.thegu"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/19/pep-guardiola-exit-manchester-city-arsenal-bournemouth",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 19 May 2026 22:35:20 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/19/arsenal-win-premier-league-title-mikel-arteta-2025-26",
-      "title": {
-        "ar": "Bridesmaids no more: Arsenal’s faith in Mikel Arteta rewarded with the ultimate prize",
-        "en": "Bridesmaids no more: Arsenal’s faith in Mikel Arteta rewarded with the ultimate prize"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Trusting a rookie coach to rebuild the club in late 2019 was a big call but after three runners-up finishes the Spaniard has delivered a long-awaited title /p p They say good things come to those who wait, and for Arsenal supporters it has felt like an eternity. Since their unforgettable 2003-04 season when Arsène Wenger’s Invincibles went the to",
-        "en": "p Trusting a rookie coach to rebuild the club in late 2019 was a big call but after three runners-up finishes the Spaniard has delivered a long-awaited title /p p They say good things come to those who wait, and for Arsenal supporters it has felt like an eternity. Since their unforgettable 2003-04 season when Arsène Wenger’s Invincibles went the to"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/19/arsenal-win-premier-league-title-mikel-arteta-2025-26",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 19 May 2026 22:00:14 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/19/arsenals-premier-league-title-winners-2025-26-player-by-player-ratings",
-      "title": {
-        "ar": "Arsenal’s Premier League title winners 2025-26: player-by-player ratings",
-        "en": "Arsenal’s Premier League title winners 2025-26: player-by-player ratings"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Declan Rice, David Raya and the defence stood out in Arsenal’s first league title since the Invincibles /p p strong David Raya /strong There is a strong argument that the Spaniard was not only Arsenal’s player of the season but the best in the division. From his brilliant save to deny Manchester United’s Matheus Cunha on the opening weekend to an",
-        "en": "p Declan Rice, David Raya and the defence stood out in Arsenal’s first league title since the Invincibles /p p strong David Raya /strong There is a strong argument that the Spaniard was not only Arsenal’s player of the season but the best in the division. From his brilliant save to deny Manchester United’s Matheus Cunha on the opening weekend to an"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/19/arsenals-premier-league-title-winners-2025-26-player-by-player-ratings",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 19 May 2026 21:30:14 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/19/chelsea-tottenham-premier-league-match-report",
-      "title": {
-        "ar": "Fernández and Chelsea sink Spurs as survival battle goes to the final day",
-        "en": "Fernández and Chelsea sink Spurs as survival battle goes to the final day"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Tottenham’s woes in this corner of London are well-documented and long-established. When they made this latest trip to Stamford Bridge, the statistics showed they had won just once since 1990 – a sequence of 40 matches in all competitions. /p p Never mind. They needed only a point to effectively ensure their Premier League survival, to send West ",
-        "en": "p Tottenham’s woes in this corner of London are well-documented and long-established. When they made this latest trip to Stamford Bridge, the statistics showed they had won just once since 1990 – a sequence of 40 matches in all competitions. /p p Never mind. They needed only a point to effectively ensure their Premier League survival, to send West "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/19/chelsea-tottenham-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 19 May 2026 21:29:24 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth",
-      "title": {
-        "ar": "Arsenal crowned Premier League champions after Manchester City draw",
-        "en": "Arsenal crowned Premier League champions after Manchester City draw"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "ul li p Arsenal win title for the first time since 2004 /p /li li p Players celebrate together at training ground /p /li li p a href=\"https://www.theguardian.com/football/live/2026/may/19/arsenal-premier-league-champions-first-time-in-22-years-live-reaction\" Reaction after Gunners crowned champions /a /p /li /ul p Arsenal are Premier League champio",
-        "en": "ul li p Arsenal win title for the first time since 2004 /p /li li p Players celebrate together at training ground /p /li li p a href=\"https://www.theguardian.com/football/live/2026/may/19/arsenal-premier-league-champions-first-time-in-22-years-live-reaction\" Reaction after Gunners crowned champions /a /p /li /ul p Arsenal are Premier League champio"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 19 May 2026 20:24:44 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/bournemouth-vs-manchester-city/live/531491",
-      "title": {
-        "ar": "Bournemouth lead Man City as Arsenal close in on title LIVE! & highlights",
-        "en": "Bournemouth lead Man City as Arsenal close in on title LIVE! & highlights"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-eli-junior-kroupi_7253433.jpg?20260519201654",
-      "url": "https://www.skysports.com/football/bournemouth-vs-manchester-city/live/531491",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 19 May 2026 17:45:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/live/531493",
-      "title": {
-        "ar": "Enzo wondergoal puts Chelsea ahead vs Spurs LIVE!",
-        "en": "Enzo wondergoal puts Chelsea ahead vs Spurs LIVE!"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-enzo-fernandez-chelsea_7253462.jpg?20260519204412",
-      "url": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/live/531493",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 19 May 2026 18:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13546039/goal-e-fernandez-18-chelsea-1-0-tottenham-hotspur",
-      "title": {
-        "ar": "'What a strike!' - Fernandez STUNNER gives Chelsea the lead",
-        "en": "'What a strike!' - Fernandez STUNNER gives Chelsea the lead"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-chelsea-spurs_7253460.jpg?20260519204231",
-      "url": "https://www.skysports.com/watch/video/13546039/goal-e-fernandez-18-chelsea-1-0-tottenham-hotspur",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 19 May 2026 20:40:00 BST",
       "rewritten": false,
       "lang": "en"
     }
