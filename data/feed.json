@@ -1,8 +1,258 @@
 {
   "version": 2,
-  "updated": "2026-05-21T15:41:31.087Z",
+  "updated": "2026-05-21T20:01:43.155Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/darts/live-blog/12040/13546133/premier-league-darts-in-sheffield-live-scores-results-commentary-with-luke-littler-luke-humphries-gerwyn-price-in-action",
+      "title": {
+        "ar": "Premier League Darts LIVE! Bunting vs Price and Littler vs Humphries in semi-finals",
+        "en": "Premier League Darts LIVE! Bunting vs Price and Littler vs Humphries in semi-finals"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-bunting-price-darts_7183527.png?20260305200937",
+      "url": "https://www.skysports.com/darts/live-blog/12040/13546133/premier-league-darts-in-sheffield-live-scores-results-commentary-with-luke-littler-luke-humphries-gerwyn-price-in-action",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 21 May 2026 18:19:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13546725/explained-why-harry-maguire-has-been-left-out-of-englands-world-cup-squad",
+      "title": {
+        "ar": "Explained: Why Maguire has been left out of Tuchel’s England World Cup squad",
+        "en": "Explained: Why Maguire has been left out of Tuchel’s England World Cup squad"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-maguire-england_7255005.jpg?20260521173629",
+      "url": "https://www.skysports.com/watch/video/13546725/explained-why-harry-maguire-has-been-left-out-of-englands-world-cup-squad",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 21 May 2026 17:32:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546713/england-world-cup-squad-man-utd-centre-back-harry-maguire-left-out-by-thomas-tuchel",
+      "title": {
+        "ar": "'Gutted' Maguire left out of World Cup squad as Toney earns surprise recall",
+        "en": "'Gutted' Maguire left out of World Cup squad as Toney earns surprise recall"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-maguire-toney_7255079.jpg?20260521190400",
+      "url": "https://www.skysports.com/football/news/12040/13546713/england-world-cup-squad-man-utd-centre-back-harry-maguire-left-out-by-thomas-tuchel",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 21 May 2026 17:22:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/21/noni-madueke-was-rapping-the-whole-night-inside-arsenals-nightclub-title-party",
+      "title": {
+        "ar": "‘Noni Madueke was rapping the whole night’: inside Arsenal’s nightclub title party",
+        "en": "‘Noni Madueke was rapping the whole night’: inside Arsenal’s nightclub title party"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "ul li p Arsenal fan Daniel Bull was in Mayfair nightclub Tape /p /li li p ‘I was thinking what the hell is going on?’ says 22-year-old /p /li /ul p Daniel Bull has waited his whole life to see Arsenal win the Premier League and it is fair to say that the 22-year-old from north London will never forget the celebrations on Tuesday night. Having found",
+        "en": "ul li p Arsenal fan Daniel Bull was in Mayfair nightclub Tape /p /li li p ‘I was thinking what the hell is going on?’ says 22-year-old /p /li /ul p Daniel Bull has waited his whole life to see Arsenal win the Premier League and it is fair to say that the 22-year-old from north London will never forget the celebrations on Tuesday night. Having found"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/21/noni-madueke-was-rapping-the-whole-night-inside-arsenals-nightclub-title-party",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 21 May 2026 19:00:37 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/21/england-world-cup-squad-harry-maguire-thomas-tuchel",
+      "title": {
+        "ar": "Phil Foden, Cole Palmer and Harry Maguire left out of England World Cup squad",
+        "en": "Phil Foden, Cole Palmer and Harry Maguire left out of England World Cup squad"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Mainoo in but no place for Wharton, Hall or Gibbs-White /p /li li p Ivan Toney in Tuchel’s thoughts and Levi Colwill out /p /li /ul p Thomas Tuchel has made ruthless calls with his World Cup selection, finding no space for Phil Foden and Cole Palmer in England’s 26-man squad and leaving a “shocked and gutted” Harry Maguire on the outside. /",
+        "en": "ul li p Mainoo in but no place for Wharton, Hall or Gibbs-White /p /li li p Ivan Toney in Tuchel’s thoughts and Levi Colwill out /p /li /ul p Thomas Tuchel has made ruthless calls with his World Cup selection, finding no space for Phil Foden and Cole Palmer in England’s 26-man squad and leaving a “shocked and gutted” Harry Maguire on the outside. /"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/21/england-world-cup-squad-harry-maguire-thomas-tuchel",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 21 May 2026 18:31:21 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/21/chris-richards-ankle-injury-usmnt-world-cup-crystal-palace",
+      "title": {
+        "ar": "USMNT’s Chris Richards has torn ligaments in ankle, putting World Cup status in doubt",
+        "en": "USMNT’s Chris Richards has torn ligaments in ankle, putting World Cup status in doubt"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Crystal Palace center-back will miss season finale /p /li li p 26-year-old uncertain for Conference League final /p /li li p Richards has been vital to Pochettino’s US plans /p /li /ul p US national team center-back Chris Richards has “two torn ligaments in his ankle”, Crystal Palace manager Oliver Glasner said on Thursday, casting uncertai",
+        "en": "ul li p Crystal Palace center-back will miss season finale /p /li li p 26-year-old uncertain for Conference League final /p /li li p Richards has been vital to Pochettino’s US plans /p /li /ul p US national team center-back Chris Richards has “two torn ligaments in his ankle”, Crystal Palace manager Oliver Glasner said on Thursday, casting uncertai"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/21/chris-richards-ankle-injury-usmnt-world-cup-crystal-palace",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 21 May 2026 16:49:10 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/21/aston-villa-europa-league-final-victory-parade-toughest-test",
+      "title": {
+        "ar": "Football Daily | Villa face their toughest test … recovering from their parade in time to face City",
+        "en": "Football Daily | Villa face their toughest test … recovering from their parade in time to face City"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p With the Arsenal Fun Boat having finally docked at its destination on Tuesday after a 22-year voyage, attention on Wednesday turned to Aston Villa’s Crazy Train as its passengers alighted in",
+        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p With the Arsenal Fun Boat having finally docked at its destination on Tuesday after a 22-year voyage, attention on Wednesday turned to Aston Villa’s Crazy Train as its passengers alighted in"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/21/aston-villa-europa-league-final-victory-parade-toughest-test",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 21 May 2026 16:38:54 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c5y7v1j0w73o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كيف حصدت فرق أرسنال والزمالك والإفريقي ألقاب الدوري هذا العام؟",
+        "en": "كيف حصدت فرق أرسنال والزمالك والإفريقي ألقاب الدوري هذا العام؟"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8889/live/020713a0-5532-11f1-b682-cf91850925ea.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c5y7v1j0w73o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Thu, 21 May 2026 16:38:21 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/21/donald-trump-soccer-career-world-cup-nyma",
+      "title": {
+        "ar": "Bullying, hazing and the making of a ‘soccer president’: Donald Trump’s forgotten career on the pitch",
+        "en": "Bullying, hazing and the making of a ‘soccer president’: Donald Trump’s forgotten career on the pitch"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p The US president will have a prominent role at this summer’s World Cup, but his involvement with the sport started in military school /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p /li",
+        "en": "p The US president will have a prominent role at this summer’s World Cup, but his involvement with the sport started in military school /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p /li"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/21/donald-trump-soccer-career-world-cup-nyma",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 21 May 2026 16:27:22 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/21/mikel-arteta-was-in-the-garden-building-a-fire-when-arsenal-won-premier-league-title",
+      "title": {
+        "ar": "Mikel Arteta was ‘in the garden building a fire’ when Arsenal won Premier League title",
+        "en": "Mikel Arteta was ‘in the garden building a fire’ when Arsenal won Premier League title"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "ul li p Manager could not bear to watch City’s draw at Bournemouth /p /li li p Arteta cites pre-season meeting around tree as a turning point /p /li /ul p Mikel Arteta has said he could not bear to watch a href=\"https://www.theguardian.com/football/2026/may/19/kroupi-goal-hands-title-to-arsenal-as-bournemouth-hold-off-late-city-rally\" Manchester Ci",
+        "en": "ul li p Manager could not bear to watch City’s draw at Bournemouth /p /li li p Arteta cites pre-season meeting around tree as a turning point /p /li /ul p Mikel Arteta has said he could not bear to watch a href=\"https://www.theguardian.com/football/2026/may/19/kroupi-goal-hands-title-to-arsenal-as-bournemouth-hold-off-late-city-rally\" Manchester Ci"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/21/mikel-arteta-was-in-the-garden-building-a-fire-when-arsenal-won-premier-league-title",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 21 May 2026 15:40:10 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/live-blog/12040/13546546/premier-league-kits-26-27-plus-more-football-home-away-and-third-strips-from-nike-adidas-puma-and-others",
       "title": {
@@ -400,81 +650,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Thu, 21 May 2026 11:00:09 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1825,181 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Wed, 20 May 2026 11:43:05 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/manchester-city-pep-guardiola-succession-enzo-maresca-chelsea-departure",
-      "title": {
-        "ar": "Manchester City succession sheds light on Enzo Maresca’s Chelsea departure",
-        "en": "Manchester City succession sheds light on Enzo Maresca’s Chelsea departure"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Italian is expected to follow Pep Guardiola and it seems the decision was made a long time ago /p p Now the secret is out it is possible to look at Enzo Maresca’s incendiary remarks about a href=\"https://www.theguardian.com/football/2025/dec/13/chelsea-everton-premier-league-match-report\" his “worst 48 hours” /a at Chelsea through a different len",
-        "en": "p Italian is expected to follow Pep Guardiola and it seems the decision was made a long time ago /p p Now the secret is out it is possible to look at Enzo Maresca’s incendiary remarks about a href=\"https://www.theguardian.com/football/2025/dec/13/chelsea-everton-premier-league-match-report\" his “worst 48 hours” /a at Chelsea through a different len"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/manchester-city-pep-guardiola-succession-enzo-maresca-chelsea-departure",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 11:00:39 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/uefa-multi-club-ownership-womens-champions-league",
-      "title": {
-        "ar": "Uefa vows to take hard line on multi-club ownership in Women’s Champions League",
-        "en": "Uefa vows to take hard line on multi-club ownership in Women’s Champions League"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "ul li p Teams with same owner can not compete together /p /li li p Head of women’s football says ‘no exceptions’ /p /li /ul p Uefa’s head of women’s football has said rules prohibiting clubs with the same owner from playing together in the Women’s Champions League will be strictly enforced, dealing a blow to investors such as Michele Kang. /p p Kan",
-        "en": "ul li p Teams with same owner can not compete together /p /li li p Head of women’s football says ‘no exceptions’ /p /li /ul p Uefa’s head of women’s football has said rules prohibiting clubs with the same owner from playing together in the Women’s Champions League will be strictly enforced, dealing a blow to investors such as Michele Kang. /p p Kan"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/uefa-multi-club-ownership-womens-champions-league",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 10:54:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13546135/arsenal-win-the-premier-league-title-5am-trip-to-the-emirates-and-lots-of-bottles-how-the-players-celebrated-victory",
-      "title": {
-        "ar": "5am trip to the Emirates - how Arsenal players celebrated PL title win",
-        "en": "5am trip to the Emirates - how Arsenal players celebrated PL title win"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-declan-rice-arsenal_7253631.jpg?20260519232901",
-      "url": "https://www.skysports.com/football/news/12040/13546135/arsenal-win-the-premier-league-title-5am-trip-to-the-emirates-and-lots-of-bottles-how-the-players-celebrated-victory",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 20 May 2026 09:10:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13546126/how-arsenal-players-reacted-to-first-premier-league-title-win-in-22-years-on-social-media",
-      "title": {
-        "ar": "'They're not laughing anymore!' | Arsenal players react to title win on social media",
-        "en": "'They're not laughing anymore!' | Arsenal players react to title win on social media"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/football-arsenal-premier-league_7253684.jpg?20260520074056",
-      "url": "https://www.skysports.com/watch/video/13546126/how-arsenal-players-reacted-to-first-premier-league-title-win-in-22-years-on-social-media",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 20 May 2026 07:25:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/mls-stopped-clock-ifab-discussions-trial",
-      "title": {
-        "ar": "MLS lobbying Ifab to explore stopping clock for pauses in play",
-        "en": "MLS lobbying Ifab to explore stopping clock for pauses in play"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Clock would stop for injuries, substitutions and set pieces /p /li li p MLS previously used a stopping clock from 1996-1999 /p /li li p Ifab last debated a stopping clock in 2017 /p /li /ul p Major League Soccer has had discussions with the International Football Association Board, global football’s rule making body, about trialing the use ",
-        "en": "ul li p Clock would stop for injuries, substitutions and set pieces /p /li li p MLS previously used a stopping clock from 1996-1999 /p /li li p Ifab last debated a stopping clock in 2017 /p /li /ul p Major League Soccer has had discussions with the International Football Association Board, global football’s rule making body, about trialing the use "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/mls-stopped-clock-ifab-discussions-trial",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 09:00:32 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/gallery/2026/may/20/london-arsenal-fans-title-celebrations-in-pictures",
-      "title": {
-        "ar": "Party on the streets of London: Arsenal fans’ title celebrations – in pictures",
-        "en": "Party on the streets of London: Arsenal fans’ title celebrations – in pictures"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Our photographer was outside the Emirates Stadium as a href=\"https://www.theguardian.com/football/2026/may/19/weve-done-it-euphoria-as-arsenal-clinch-first-league-title-in-a-generation\" Arsenal fans congregated /a to celebrate a href=\"https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth\" th",
-        "en": "p Our photographer was outside the Emirates Stadium as a href=\"https://www.theguardian.com/football/2026/may/19/weve-done-it-euphoria-as-arsenal-clinch-first-league-title-in-a-generation\" Arsenal fans congregated /a to celebrate a href=\"https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth\" th"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/gallery/2026/may/20/london-arsenal-fans-title-celebrations-in-pictures",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 08:21:10 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/julian-schusters-aggressive-freiburg-aim-for-europa-league-immortality",
-      "title": {
-        "ar": "Julian Schuster’s aggressive Freiburg aim for Europa League immortality",
-        "en": "Julian Schuster’s aggressive Freiburg aim for Europa League immortality"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "p Departures of club legend and star players have not stopped modest German side reaching showpiece with Aston Villa /p p It’s about the journey, perhaps even more than the destination. That is the feeling of SC Freiburg before the biggest match in their history. Regardless of the result in Wednesday’s Europa League final against Aston Villa in Ist",
-        "en": "p Departures of club legend and star players have not stopped modest German side reaching showpiece with Aston Villa /p p It’s about the journey, perhaps even more than the destination. That is the feeling of SC Freiburg before the biggest match in their history. Regardless of the result in Wednesday’s Europa League final against Aston Villa in Ist"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/julian-schusters-aggressive-freiburg-aim-for-europa-league-immortality",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 07:00:27 GMT",
       "rewritten": false,
       "lang": "en"
     }
