@@ -1,8 +1,308 @@
 {
   "version": 2,
-  "updated": "2026-05-22T09:39:46.712Z",
+  "updated": "2026-05-22T14:54:30.226Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546983/england-world-cup-squad-thomas-tuchel-defends-his-specialist-selections-after-cole-palmer-phil-foden-and-harry-maguire-left-out",
+      "title": {
+        "ar": "'Specialists' and 'a brotherhood' - Tuchel defends shock World Cup squad calls",
+        "en": "'Specialists' and 'a brotherhood' - Tuchel defends shock World Cup squad calls"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-tuchel-thomas-england_7255723.jpg?20260522124100",
+      "url": "https://www.skysports.com/football/news/12040/13546983/england-world-cup-squad-thomas-tuchel-defends-his-specialist-selections-after-cole-palmer-phil-foden-and-harry-maguire-left-out",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 13 May 2026 12:07:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546951/arne-slot-responds-to-mo-salah-criticism-he-was-really-happy-with-the-style-we-played-when-we-won-premier-league-last-year",
+      "title": {
+        "ar": "Slot responds to Salah criticism: Mo was really happy with the style we played last year",
+        "en": "Slot responds to Salah criticism: Mo was really happy with the style we played last year"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/12/1920x1080/skysports-mo-salah-arne-slot_7105374.jpg?20251209090138",
+      "url": "https://www.skysports.com/football/news/12040/13546951/arne-slot-responds-to-mo-salah-criticism-he-was-really-happy-with-the-style-we-played-when-we-won-premier-league-last-year",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 22 May 2026 11:24:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13547017/wayne-rooney-interviews-michael-carrick-from-barbados-beach-to-man-utd-boss",
+      "title": {
+        "ar": "Rooney interviews Carrick: From Barbados beach to Man Utd boss!",
+        "en": "Rooney interviews Carrick: From Barbados beach to Man Utd boss!"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/315fd3e296751c8a82f19e3a409566a734cacf832a5d138d57081277179e6769_7255766.jpg?20260522133056",
+      "url": "https://www.skysports.com/watch/video/13547017/wayne-rooney-interviews-michael-carrick-from-barbados-beach-to-man-utd-boss",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 22 May 2026 13:24:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/22/hull-city-owner-acun-ilicali-championship-playoff-final-middlesbrough",
+      "title": {
+        "ar": "Hull City owner Acun Ilicali: ‘People think I changed coaches because of ego. It was lack of ego’",
+        "en": "Hull City owner Acun Ilicali: ‘People think I changed coaches because of ego. It was lack of ego’"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p The ‘Turkish Simon Cowell’ says sealing promotion to the Premier League via Saturday’s playoff final would ‘finish the miracle’ /p p “I love the city – for me, it’s therapy,” the Hull owner, Acun Ilicali, says of his second home. Running a football club is not particularly therapeutic but after almost four-and-a-half-years at the helm, the Turkis",
+        "en": "p The ‘Turkish Simon Cowell’ says sealing promotion to the Premier League via Saturday’s playoff final would ‘finish the miracle’ /p p “I love the city – for me, it’s therapy,” the Hull owner, Acun Ilicali, says of his second home. Running a football club is not particularly therapeutic but after almost four-and-a-half-years at the helm, the Turkis"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/22/hull-city-owner-acun-ilicali-championship-playoff-final-middlesbrough",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 22 May 2026 14:20:38 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/22/the-pep-years-season-by-season-guardiola-manchester-city",
+      "title": {
+        "ar": "The Pep years: season by season, how Guardiola’s Manchester City evolved",
+        "en": "The Pep years: season by season, how Guardiola’s Manchester City evolved"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Pep Guardiola took over from Manuel Pellegrini in 2016. Here we chart the trophy-laden decade that followed … /p p It was confirmed on 1 February that Pep Guardiola would be heading to east Manchester to try his hand at English football. Behind the scenes, plenty went on to create a squad suited to him but, in truth, it was a season of transition",
+        "en": "p Pep Guardiola took over from Manuel Pellegrini in 2016. Here we chart the trophy-laden decade that followed … /p p It was confirmed on 1 February that Pep Guardiola would be heading to east Manchester to try his hand at English football. Behind the scenes, plenty went on to create a squad suited to him but, in truth, it was a season of transition"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/22/the-pep-years-season-by-season-guardiola-manchester-city",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 22 May 2026 13:00:02 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/22/mohamed-salah-leaves-liverpool-having-met-kop-legend-goal",
+      "title": {
+        "ar": "Driven, outspoken, inspiring: Salah leaves Liverpool having met Kop legend goal",
+        "en": "Driven, outspoken, inspiring: Salah leaves Liverpool having met Kop legend goal"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Forward has had a difficult final season at Anfield but his outbursts are born of the same hunger that has fired a generational talent and all-time great /p p Mohamed Salah loves to hear stories about Steven Gerrard and Sir Kenny Dalglish from Liverpool fans who work at the training ground. He can recite his predecessors’ numbers and achievements",
+        "en": "p Forward has had a difficult final season at Anfield but his outbursts are born of the same hunger that has fired a generational talent and all-time great /p p Mohamed Salah loves to hear stories about Steven Gerrard and Sir Kenny Dalglish from Liverpool fans who work at the training ground. He can recite his predecessors’ numbers and achievements"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/22/mohamed-salah-leaves-liverpool-having-met-kop-legend-goal",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 22 May 2026 12:00:03 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/22/pep-guardiola-manchester-city-changed-face-of-english-football",
+      "title": {
+        "ar": "Pep Guardiola’s perpetual revolutions have changed face of English football | Jonathan Wilson",
+        "en": "Pep Guardiola’s perpetual revolutions have changed face of English football | Jonathan Wilson"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Departing Manchester City manager has left huge imprint but equally stands alone in his willingness to adapt /p p When Pep Guardiola arrived in English football in the summer of 2016, there was a degree of scepticism. The quality of the football produced by his Barcelona had been extraordinary – and it’s perhaps difficult now, 18 years on, to rem",
+        "en": "p Departing Manchester City manager has left huge imprint but equally stands alone in his willingness to adapt /p p When Pep Guardiola arrived in English football in the summer of 2016, there was a degree of scepticism. The quality of the football produced by his Barcelona had been extraordinary – and it’s perhaps difficult now, 18 years on, to rem"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/22/pep-guardiola-manchester-city-changed-face-of-english-football",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 22 May 2026 10:30:56 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/22/michael-carrick-appointed-manchester-united-permanent-manager",
+      "title": {
+        "ar": "Michael Carrick appointed Manchester United’s new permanent head coach",
+        "en": "Michael Carrick appointed Manchester United’s new permanent head coach"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Carrick handed job after his successful interim spell /p /li li p 44-year-old says he will target ‘biggest honours’ /p /li /ul p Michael Carrick has been confirmed as Manchester United’s permanent head coach until 2028, with the 44-year-old promising to “challenge for the biggest honours again”. /p p Since taking over as interim manager fro",
+        "en": "ul li p Carrick handed job after his successful interim spell /p /li li p 44-year-old says he will target ‘biggest honours’ /p /li /ul p Michael Carrick has been confirmed as Manchester United’s permanent head coach until 2028, with the 44-year-old promising to “challenge for the biggest honours again”. /p p Since taking over as interim manager fro"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/22/michael-carrick-appointed-manchester-united-permanent-manager",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 22 May 2026 10:01:17 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/gallery/2026/may/22/world-cup-2026-thomas-tuchel-england-squad-in-pictures",
+      "title": {
+        "ar": "World Cup 2026: Thomas Tuchel’s England squad – in pictures",
+        "en": "World Cup 2026: Thomas Tuchel’s England squad – in pictures"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p From the No 1 goalkeeper Jordan Pickford to the shock call-up Ivan Toney, a player-by-player guide to the 26 bound for the US /p ul li p a href=\"https://www.theguardian.com/football/2026/may/22/england-world-cup-squad-announced-thomas-tuchel-spence-toney-palmer-alexander-arnold-foden\" Spence and Toney in, Alexander-Arnold out /a /p /li /ul a href",
+        "en": "p From the No 1 goalkeeper Jordan Pickford to the shock call-up Ivan Toney, a player-by-player guide to the 26 bound for the US /p ul li p a href=\"https://www.theguardian.com/football/2026/may/22/england-world-cup-squad-announced-thomas-tuchel-spence-toney-palmer-alexander-arnold-foden\" Spence and Toney in, Alexander-Arnold out /a /p /li /ul a href"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/gallery/2026/may/22/world-cup-2026-thomas-tuchel-england-squad-in-pictures",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 22 May 2026 09:48:48 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13543455/england-world-cup-squad-announcement-ruthless-thomas-tuchel-leaves-big-names-out-of-26-man-squad",
       "title": {
@@ -1702,306 +2002,6 @@
       "pubDate": "Wed, 20 May 2026 14:53:45 EST",
       "rewritten": false,
       "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/drc-cancel-world-cup-training-camp-ebola-outbreak",
-      "title": {
-        "ar": "DRC cancel World Cup training camp and fan event due to Ebola outbreak",
-        "en": "DRC cancel World Cup training camp and fan event due to Ebola outbreak"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Friendlies against Denmark and Chile still going ahead /p /li li p Team staff who are based in DRC ‘leaving in next hours’ /p /li /ul p The Democratic Republic of the Congo (DRC) have cancelled their three-day World Cup preparation training camp and a planned farewell to fans in the capital, Kinshasa, because of an a href=\"https://www.thegu",
-        "en": "ul li p Friendlies against Denmark and Chile still going ahead /p /li li p Team staff who are based in DRC ‘leaving in next hours’ /p /li /ul p The Democratic Republic of the Congo (DRC) have cancelled their three-day World Cup preparation training camp and a planned farewell to fans in the capital, Kinshasa, because of an a href=\"https://www.thegu"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/drc-cancel-world-cup-training-camp-ebola-outbreak",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 18:40:16 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/pep-guardiola-leaves-manchester-city-uae-sportswashing-politics-propaganda",
-      "title": {
-        "ar": "Guardiola leaves Manchester City as one of the game’s greats – and someone who knows its dark heart | Barney Ronay",
-        "en": "Guardiola leaves Manchester City as one of the game’s greats – and someone who knows its dark heart | Barney Ronay"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p While there is no denying the magnitude of his achievements, his legacy is also tied up in politics, propaganda and hard power /p p Well, that’s that then. Put out more flags. Mount the iconic Jedi‑style woollen cardigan in the club museum. a href=\"https://www.theguardian.com/football/2026/may/19/pep-guardiola-tells-manchester-city-players-leavin",
-        "en": "p While there is no denying the magnitude of his achievements, his legacy is also tied up in politics, propaganda and hard power /p p Well, that’s that then. Put out more flags. Mount the iconic Jedi‑style woollen cardigan in the club museum. a href=\"https://www.theguardian.com/football/2026/may/19/pep-guardiola-tells-manchester-city-players-leavin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/pep-guardiola-leaves-manchester-city-uae-sportswashing-politics-propaganda",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 18:00:48 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/mismatches-over-after-uefa-revamps-qualifying-for-major-tournaments",
-      "title": {
-        "ar": "No more mismatches? Uefa revamps qualifying for men’s major tournaments",
-        "en": "No more mismatches? Uefa revamps qualifying for men’s major tournaments"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Changes apply to World Cup and Euro qualifiers /p /li li p Starts in 2028-29 season with elements of Swiss system /p /li /ul p Europe’s larger nations will no longer face mismatches against minnows such as San Marino or Andorra in men’s World Cup and European Championship qualifying after Uefa agreed a new format designed to produce more co",
-        "en": "ul li p Changes apply to World Cup and Euro qualifiers /p /li li p Starts in 2028-29 season with elements of Swiss system /p /li /ul p Europe’s larger nations will no longer face mismatches against minnows such as San Marino or Andorra in men’s World Cup and European Championship qualifying after Uefa agreed a new format designed to produce more co"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/mismatches-over-after-uefa-revamps-qualifying-for-major-tournaments",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 17:48:51 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48801620/uswnt-big-board-how-2027-world-cup-team-taking-shape",
-      "title": {
-        "ar": "How the 2027 World Cup team is taking shape",
-        "en": "How the 2027 World Cup team is taking shape"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48801620/uswnt-big-board-how-2027-world-cup-team-taking-shape",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 20 May 2026 12:24:07 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48812059/liverpool-keep-dump-slots-future-rebuilding-midfield-more",
-      "title": {
-        "ar": "Liverpool Keep or Dump: Slot's future, rebuilding ...",
-        "en": "Liverpool Keep or Dump: Slot's future, rebuilding ..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48812059/liverpool-keep-dump-slots-future-rebuilding-midfield-more",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 20 May 2026 12:11:55 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/mikel-arteta-arsenal-overcame-setbacks-crises-boos-defy-doubters",
-      "title": {
-        "ar": "How Arteta overcame setbacks, crises and boos to defy the doubters at Arsenal",
-        "en": "How Arteta overcame setbacks, crises and boos to defy the doubters at Arsenal"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Manager’s early seasons were far from plain sailing but insiders credit club’s owners for staying the course /p p It didn’t start well for Mikel Arteta and Arsenal. On a crisp December night in 2019 at about 1am in a Manchester suburb, Vinai Venkatesham stepped out of Arteta’s home. The Arsenal managing director looked around, satisfied with his ",
-        "en": "p Manager’s early seasons were far from plain sailing but insiders credit club’s owners for staying the course /p p It didn’t start well for Mikel Arteta and Arsenal. On a crisp December night in 2019 at about 1am in a Manchester suburb, Vinai Venkatesham stepped out of Arteta’s home. The Arsenal managing director looked around, satisfied with his "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/mikel-arteta-arsenal-overcame-setbacks-crises-boos-defy-doubters",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 16:07:58 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/21/australia-football-team-socceroos-african-heritage-diversity",
-      "title": {
-        "ar": "Socceroos’ African heritage offers timely reminder of Australia’s diversity | Jack Snape",
-        "en": "Socceroos’ African heritage offers timely reminder of Australia’s diversity | Jack Snape"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Culture and community helped Mo Touré and Nestory Irankunda become the footballers they are today – and their spark may ignite this World Cup /p p One hails from West Africa, born in Guinea after his family fled Liberia. The other comes from the east of the continent, taking his first breath in a Tanzanian refugee camp after his parents escaped B",
-        "en": "p Culture and community helped Mo Touré and Nestory Irankunda become the footballers they are today – and their spark may ignite this World Cup /p p One hails from West Africa, born in Guinea after his family fled Liberia. The other comes from the east of the continent, taking his first breath in a Tanzanian refugee camp after his parents escaped B"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/21/australia-football-team-socceroos-african-heritage-diversity",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 15:00:47 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/world-cup-pricing-fan-friendly-atlanta-kansas-city-philadelphia",
-      "title": {
-        "ar": "A 2026 World Cup that doesn’t rip off fans? Some cities are showing that it’s possible",
-        "en": "A 2026 World Cup that doesn’t rip off fans? Some cities are showing that it’s possible"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Philadelphia, Kansas City and Atlanta are among the hosts showing that price-gouging at thus summer’s tournament is, ultimately, a choice /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p",
-        "en": "p Philadelphia, Kansas City and Atlanta are among the hosts showing that price-gouging at thus summer’s tournament is, ultimately, a choice /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/world-cup-pricing-fan-friendly-atlanta-kansas-city-philadelphia",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 14:46:36 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/bournemouth-race-to-upgrade-vitality-stadium-before-first-season-in-europe",
-      "title": {
-        "ar": "Bournemouth race to upgrade Vitality Stadium before first season in Europe",
-        "en": "Bournemouth race to upgrade Vitality Stadium before first season in Europe"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Club need permission for proposed stadium upgrades /p /li li p Draw with Manchester City sealed first ever European qualification /p /li /ul p Bournemouth are facing a race to complete upgrades to the Vitality Stadium to enable it to stage European football next season. Uefa has granted Bournemouth a provisional stadium licence after meetin",
-        "en": "ul li p Club need permission for proposed stadium upgrades /p /li li p Draw with Manchester City sealed first ever European qualification /p /li /ul p Bournemouth are facing a race to complete upgrades to the Vitality Stadium to enable it to stage European football next season. Uefa has granted Bournemouth a provisional stadium licence after meetin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/bournemouth-race-to-upgrade-vitality-stadium-before-first-season-in-europe",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 14:27:40 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/arsenal-premier-league-title-win-football-daily-newsletter",
-      "title": {
-        "ar": "Football Daily | Fever pitch as Ian Wright gets the Arsenal party started",
-        "en": "Football Daily | Fever pitch as Ian Wright gets the Arsenal party started"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p It may have taken Mikel Arteta six years and well over a billion pounds but his team trusted the process and got there in the end. Arsenal a href=\"https://www.theguardian.com/football/2026/m",
-        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p It may have taken Mikel Arteta six years and well over a billion pounds but his team trusted the process and got there in the end. Arsenal a href=\"https://www.theguardian.com/football/2026/m"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/arsenal-premier-league-title-win-football-daily-newsletter",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 14:24:24 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/ckgpjz1en8do?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "بعد 22 عاماً من الانتظار، كيف احتفل أرسنال بلقب الدوري الإنجليزي؟",
-        "en": "بعد 22 عاماً من الانتظار، كيف احتفل أرسنال بلقب الدوري الإنجليزي؟"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6f7/live/a740df50-5441-11f1-be9a-315565996c62.jpg",
-      "url": "https://www.bbc.com/arabic/articles/ckgpjz1en8do?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Wed, 20 May 2026 14:19:09 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "كأس العالم 2026: جدول المباريات",
-        "en": "كأس العالم 2026: جدول المباريات"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9111/live/adf4db00-5453-11f1-b682-cf91850925ea.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Wed, 20 May 2026 14:16:24 GMT",
-      "rewritten": false,
-      "lang": "ar"
     }
   ]
 }
