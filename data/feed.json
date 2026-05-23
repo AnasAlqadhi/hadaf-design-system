@@ -1,8 +1,208 @@
 {
   "version": 2,
-  "updated": "2026-05-22T19:56:55.770Z",
+  "updated": "2026-05-23T03:51:17.504Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/darts/news/12040/13547080/international-darts-open-charlie-manby-progresses-past-round-one-on-european-tour-debut",
+      "title": {
+        "ar": "Manby wins on European Tour debut at International Darts Open",
+        "en": "Manby wins on European Tour debut at International Darts Open"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/25/12/1920x1080/skysports-charlie-manby-darts_7111193.jpg?20260112084953",
+      "url": "https://www.skysports.com/darts/news/12040/13547080/international-darts-open-charlie-manby-progresses-past-round-one-on-european-tour-debut",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 21 May 2026 12:41:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13547197/liverpool-reach-out-to-jurgen-klopp-with-andoni-iraola-top-target-if-arne-slot-sacked-paper-talk",
+      "title": {
+        "ar": "Papers: Liverpool reach out to Klopp with Slot's future in balance",
+        "en": "Papers: Liverpool reach out to Klopp with Slot's future in balance"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "url": "https://www.skysports.com/football/news/12040/13547197/liverpool-reach-out-to-jurgen-klopp-with-andoni-iraola-top-target-if-arne-slot-sacked-paper-talk",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 22 May 2026 22:15:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/22/premier-league-news-liverpool-back-slot-with-move-for-no-2-everton-need-a-big-summer",
+      "title": {
+        "ar": "Premier League news: Liverpool back Slot with move for No 2; Everton need ‘a big summer’",
+        "en": "Premier League news: Liverpool back Slot with move for No 2; Everton need ‘a big summer’"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Reijnen chase is sign Reds manager will stay as Moyes admits being despondent over a poor end to season /p a href=\"https://www.theguardian.com/football/2026/may/22/premier-league-news-liverpool-back-slot-with-move-for-no-2-everton-need-a-big-summer\" Continue reading... /a",
+        "en": "p Reijnen chase is sign Reds manager will stay as Moyes admits being despondent over a poor end to season /p a href=\"https://www.theguardian.com/football/2026/may/22/premier-league-news-liverpool-back-slot-with-move-for-no-2-everton-need-a-big-summer\" Continue reading... /a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/22/premier-league-news-liverpool-back-slot-with-move-for-no-2-everton-need-a-big-summer",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 22 May 2026 21:30:09 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/22/barcelona-lyonnes-champions-league-final",
+      "title": {
+        "ar": "Barça and OL Lyonnes a clash of styles in Women’s Champions League final",
+        "en": "Barça and OL Lyonnes a clash of styles in Women’s Champions League final"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p Barcelona’s former coach Jonatan Giráldez can bring insider knowledge to a fourth final between the European giants /p p /p p You could be forgiven for having a sense of deja vu before a fourth Champions League final between the Spanish champions, Barcelona, and French title-winners, OL Lyonnes, on Saturday evening. /p p The three-time champions ",
+        "en": "p Barcelona’s former coach Jonatan Giráldez can bring insider knowledge to a fourth final between the European giants /p p /p p You could be forgiven for having a sense of deja vu before a fourth Champions League final between the Spanish champions, Barcelona, and French title-winners, OL Lyonnes, on Saturday evening. /p p The three-time champions "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/22/barcelona-lyonnes-champions-league-final",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 22 May 2026 20:42:30 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/22/englands-world-cup-squad-talking-points-from-toneys-return-to-clarity-for-bellingham",
+      "title": {
+        "ar": "England’s World Cup squad talking points: from Toney’s return to clarity for Bellingham",
+        "en": "England’s World Cup squad talking points: from Toney’s return to clarity for Bellingham"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Thomas Tuchel has placed great faith in John Stones and Djed Spence while ignoring several star names in attack /p p Thomas Tuchel said that a href=\"https://www.theguardian.com/football/2026/may/21/england-world-cup-squad-2026-thomas-tuchel\" whittling down his 55-player longlist /a gave him “a certain edge”. There were some tough phone calls and ",
+        "en": "p Thomas Tuchel has placed great faith in John Stones and Djed Spence while ignoring several star names in attack /p p Thomas Tuchel said that a href=\"https://www.theguardian.com/football/2026/may/21/england-world-cup-squad-2026-thomas-tuchel\" whittling down his 55-player longlist /a gave him “a certain edge”. There were some tough phone calls and "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/22/englands-world-cup-squad-talking-points-from-toneys-return-to-clarity-for-bellingham",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 22 May 2026 18:00:05 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13547087/arne-slot-has-no-doubt-liverpool-be-back-on-track-after-this-seasons-setbacks",
       "title": {
@@ -1802,206 +2002,6 @@
       "pubDate": "Wed, 20 May 2026 17:36:00 BST",
       "rewritten": false,
       "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/cricket/live-blog/12040/13546271/england-vs-new-zealand-first-womens-t20-live-score-updates-video-and-analysis-from-derby-as-sides-prepare-for-t20-world-cup",
-      "title": {
-        "ar": "Capsey stakes World Cup claim by starring against New Zealand",
-        "en": "Capsey stakes World Cup claim by starring against New Zealand"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-alice-capsey-england-women-t20-cricket_7254354.jpg?20260520211441",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13546271/england-vs-new-zealand-first-womens-t20-live-score-updates-video-and-analysis-from-derby-as-sides-prepare-for-t20-world-cup",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 20 May 2026 17:45:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13546446/unai-emery-wins-fifth-europa-league-its-time-to-recognise-aston-villa-manager-as-one-of-the-best-in-the-business",
-      "title": {
-        "ar": "Five Europa Leagues later, it’s time to recognise Emery as an elite manager",
-        "en": "Five Europa Leagues later, it’s time to recognise Emery as an elite manager"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-unai-emery-europa_7254432.png?20260520224313",
-      "url": "https://www.skysports.com/football/news/12040/13546446/unai-emery-wins-fifth-europa-league-its-time-to-recognise-aston-villa-manager-as-one-of-the-best-in-the-business",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 20 May 2026 22:25:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13546434/arsenal-target-move-for-bournemouths-eli-junior-kroupi-after-cherries-star-helped-seal-premier-league-title-win-paper-talk",
-      "title": {
-        "ar": "Papers: Arsenal want Junior Kroupi after Bournemouth star helped seal title win",
-        "en": "Papers: Arsenal want Junior Kroupi after Bournemouth star helped seal title win"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "url": "https://www.skysports.com/football/news/12040/13546434/arsenal-target-move-for-bournemouths-eli-junior-kroupi-after-cherries-star-helped-seal-premier-league-title-win-paper-talk",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 20 May 2026 22:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48828984/aston-villa-cruise-freiburg-europa-league-title",
-      "title": {
-        "ar": "Villa win Europa League for 1st trophy in 30 years...",
-        "en": "Villa win Europa League for 1st trophy in 30 years..."
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48828984/aston-villa-cruise-freiburg-europa-league-title",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 20 May 2026 21:58:30 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48830016/neymar-suffers-calf-injury-miss-santos-games-ahead-world-cup",
-      "title": {
-        "ar": "Neymar (calf) to miss Santos games ahead of WC",
-        "en": "Neymar (calf) to miss Santos games ahead of WC"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48830016/neymar-suffers-calf-injury-miss-santos-games-ahead-world-cup",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 20 May 2026 21:58:30 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/we-are-not-going-to-stop-unai-emery-aston-villa-europa-champions-league",
-      "title": {
-        "ar": "‘We are not going to stop’: Emery urges Aston Villa to set sights on Europe’s elite",
-        "en": "‘We are not going to stop’: Emery urges Aston Villa to set sights on Europe’s elite"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "ul li p Manager relishes ‘challenge’ of Champions League return /p /li li p Emi Martínez reveals he played game with broken finger /p /li /ul p For Aston Villa, the Europa League must only be the beginning, Unai Emery insisted after winning the trophy for a fifth time. a href=\"https://www.theguardian.com/football/2026/may/20/freiburg-aston-villa-eu",
-        "en": "ul li p Manager relishes ‘challenge’ of Champions League return /p /li li p Emi Martínez reveals he played game with broken finger /p /li /ul p For Aston Villa, the Europa League must only be the beginning, Unai Emery insisted after winning the trophy for a fifth time. a href=\"https://www.theguardian.com/football/2026/may/20/freiburg-aston-villa-eu"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/we-are-not-going-to-stop-unai-emery-aston-villa-europa-champions-league",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 22:58:08 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/20/aston-villa-europa-league-win-unai-emery-freiburg",
-      "title": {
-        "ar": "Aston Villa relish echoes of history but Europa League win must serve as stepping stone | Jonathan Wilson",
-        "en": "Aston Villa relish echoes of history but Europa League win must serve as stepping stone | Jonathan Wilson"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "p Unai Emery has reconfirmed his status as master of the competition, but will now want to set his sights higher /p p There are two ways to win a final. You can win it by the odd goal, amid a frenzy of anxiety so the final whistle comes as a relief. Or you can win it as a procession, flexing your superiority, so the final whistle is almost resented",
-        "en": "p Unai Emery has reconfirmed his status as master of the competition, but will now want to set his sights higher /p p There are two ways to win a final. You can win it by the odd goal, amid a frenzy of anxiety so the final whistle comes as a relief. Or you can win it as a procession, flexing your superiority, so the final whistle is almost resented"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/20/aston-villa-europa-league-win-unai-emery-freiburg",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 20 May 2026 21:51:30 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/cy82pr34mjdo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "غرف فارغة وإلغاءات من فيفا - فنادق الولايات المتحدة تخشى فشل كأس العالم",
-        "en": "غرف فارغة وإلغاءات من فيفا - فنادق الولايات المتحدة تخشى فشل كأس العالم"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c4ff/live/58971fe0-4a0f-11f1-a5ee-8d3af4522d8c.jpg",
-      "url": "https://www.bbc.com/arabic/articles/cy82pr34mjdo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Wed, 20 May 2026 21:26:51 GMT",
-      "rewritten": false,
-      "lang": "ar"
     }
   ]
 }
