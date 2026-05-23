@@ -1,8 +1,233 @@
 {
   "version": 2,
-  "updated": "2026-05-23T08:27:28.952Z",
+  "updated": "2026-05-23T13:50:10.596Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13547262/bruno-fernandes-man-utd-captain-wins-premier-league-player-of-the-season-award-after-historic-season-at-old-trafford",
+      "title": {
+        "ar": "Fernandes wins Premier League POTS award with O'Reilly also honoured",
+        "en": "Fernandes wins Premier League POTS award with O'Reilly also honoured"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-bruno-fernandes-man-utd_7256356.jpg?20260523111540",
+      "url": "https://www.skysports.com/football/news/12040/13547262/bruno-fernandes-man-utd-captain-wins-premier-league-player-of-the-season-award-after-historic-season-at-old-trafford",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 23 May 2026 11:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/may/23/hull-city-v-middlesbrough-championship-playoff-final-live",
+      "title": {
+        "ar": "Hull City v Middlesbrough: Championship playoff final – live",
+        "en": "Hull City v Middlesbrough: Championship playoff final – live"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p ⚽️ Wembley showdown kicks off at 3.30pm BST br ⚽️ a href=\"https://www.theguardian.com/football/2026/may/22/middlesbrough-hull-southampton-spygate-championship-playoff-final\" Match preview /a | a href=\"https://www.theguardian.com/football/live/2026/may/23/celtic-v-dunfermline-scottish-cup-final-live\" Scottish Cup final live /a | a href=\"mailto:sco",
+        "en": "p ⚽️ Wembley showdown kicks off at 3.30pm BST br ⚽️ a href=\"https://www.theguardian.com/football/2026/may/22/middlesbrough-hull-southampton-spygate-championship-playoff-final\" Match preview /a | a href=\"https://www.theguardian.com/football/live/2026/may/23/celtic-v-dunfermline-scottish-cup-final-live\" Scottish Cup final live /a | a href=\"mailto:sco"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/may/23/hull-city-v-middlesbrough-championship-playoff-final-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 23 May 2026 13:35:16 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/may/23/celtic-v-dunfermline-scottish-cup-final-live",
+      "title": {
+        "ar": "Celtic v Dunfermline: Scottish Cup final – live",
+        "en": "Celtic v Dunfermline: Scottish Cup final – live"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p ⚽️ 3pm BST kick-off; Celtic can secure domestic double br ⚽️ a href=\"https://www.theguardian.com/football/live/2026/may/23/hull-city-v-middlesbrough-championship-playoff-final-live\" Follow Championship playoff final live /a | a href=\"mailto:barry.glendenning@guardian.co.uk\" Email Barry /a /p p strong Neil Lennon: /strong “It’s not [just] a day ou",
+        "en": "p ⚽️ 3pm BST kick-off; Celtic can secure domestic double br ⚽️ a href=\"https://www.theguardian.com/football/live/2026/may/23/hull-city-v-middlesbrough-championship-playoff-final-live\" Follow Championship playoff final live /a | a href=\"mailto:barry.glendenning@guardian.co.uk\" Email Barry /a /p p strong Neil Lennon: /strong “It’s not [just] a day ou"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/may/23/celtic-v-dunfermline-scottish-cup-final-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 23 May 2026 13:34:51 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/22/england-world-cup-training-ground-privacy-kansas-city-spygate",
+      "title": {
+        "ar": "FA concerned England World Cup training ground lacks privacy after spygate scandal",
+        "en": "FA concerned England World Cup training ground lacks privacy after spygate scandal"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p FA will try to erect fences around Kansas City base /p /li li p Ethan Nwaneri among quartet called up to training /p /li /ul p The Football Association is worried England’s World Cup training ground in Kansas City lacks privacy and will try to erect protective fences to guard against the team being spied on by rivals. /p p The English game ",
+        "en": "ul li p FA will try to erect fences around Kansas City base /p /li li p Ethan Nwaneri among quartet called up to training /p /li /ul p The Football Association is worried England’s World Cup training ground in Kansas City lacks privacy and will try to erect protective fences to guard against the team being spied on by rivals. /p p The English game "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/22/england-world-cup-training-ground-privacy-kansas-city-spygate",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 23 May 2026 10:54:45 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/23/dcr-world-cup-squad-isolate-ebola-outbreak-congo-united-states",
+      "title": {
+        "ar": "DRC World Cup squad ordered to isolate before entry to US due to Ebola outbreak",
+        "en": "DRC World Cup squad ordered to isolate before entry to US due to Ebola outbreak"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p DRC say there will be no change to schedule /p /li li p First game is on 17 June against Portugal /p /li /ul p The Democratic Republic of the Congo (DRC) have no plans to change their preparations for the World Cup despite a warning from the United States that the national team must isolate for 21 days before arriving in the country. /p p A",
+        "en": "ul li p DRC say there will be no change to schedule /p /li li p First game is on 17 June against Portugal /p /li /ul p The Democratic Republic of the Congo (DRC) have no plans to change their preparations for the World Cup despite a warning from the United States that the national team must isolate for 21 days before arriving in the country. /p p A"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/23/dcr-world-cup-squad-isolate-ebola-outbreak-congo-united-states",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 23 May 2026 09:07:05 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/23/north-korea-naegohyang-asian-womens-champions-league-final-report",
+      "title": {
+        "ar": "North Korean women cap historic journey with Asian Champions League crown",
+        "en": "North Korean women cap historic journey with Asian Champions League crown"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "ul li p Naegohyang beat Tokyo Verdy Beleza 1-0 in South Korea final /p /li li p Kim Kyong-yong scores only goal in rare trip across border /p /li /ul p The first North Korean team to a href=\"https://www.theguardian.com/world/2026/may/17/afc-women-champions-league-north-korea-south-korea-naegohyang-fc-suwon\" visit the South in eight years /a crowned",
+        "en": "ul li p Naegohyang beat Tokyo Verdy Beleza 1-0 in South Korea final /p /li li p Kim Kyong-yong scores only goal in rare trip across border /p /li /ul p The first North Korean team to a href=\"https://www.theguardian.com/world/2026/may/17/afc-women-champions-league-north-korea-south-korea-naegohyang-fc-suwon\" visit the South in eight years /a crowned"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/23/north-korea-naegohyang-asian-womens-champions-league-final-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 23 May 2026 07:58:58 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13546552/premier-league-final-day-live-on-sky-arsenals-party-tottenhams-battle-pep-guardiolas-man-city-goodbye",
       "title": {
@@ -1777,231 +2002,6 @@
       "pubDate": "Thu, 21 May 2026 12:59:38 GMT",
       "rewritten": false,
       "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/21/manuel-neuer-germany-no-1-world-cup",
-      "title": {
-        "ar": "Manuel Neuer declared as Germany’s No 1 at World Cup after retirement U-turn",
-        "en": "Manuel Neuer declared as Germany’s No 1 at World Cup after retirement U-turn"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Julian Nagelsmann includes 40-year-old in 26-man squad /p /li li p ‘We want to become world champions,’ says head coach /p /li /ul p Bayern Munich’s Manuel Neuer has come out of international retirement after being named on Thursday as the starting goalkeeper in Germany’s World Cup squad by head coach Julian Nagelsmann. Nagelsmann made the ",
-        "en": "ul li p Julian Nagelsmann includes 40-year-old in 26-man squad /p /li li p ‘We want to become world champions,’ says head coach /p /li /ul p Bayern Munich’s Manuel Neuer has come out of international retirement after being named on Thursday as the starting goalkeeper in Germany’s World Cup squad by head coach Julian Nagelsmann. Nagelsmann made the "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/21/manuel-neuer-germany-no-1-world-cup",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 21 May 2026 12:33:12 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/21/canadian-musician-mario-lapointe-owner-dumbarton-fc-women",
-      "title": {
-        "ar": "The Canadian musician supersizing Dumbarton FC Women: ‘The players are a megaphone for the team’",
-        "en": "The Canadian musician supersizing Dumbarton FC Women: ‘The players are a megaphone for the team’"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Mario Lapointe became the Scottish club’s unlikely owner last year and his radical plans are taking shape at the Rock /p p “A lot of people ask me the same thing,” says a laughing Mario Lapointe, on how a Canadian songwriter and entrepreneur became owner of the Scottish lower league club Dumbarton 12 months ago. “When I was looking for a football",
-        "en": "p Mario Lapointe became the Scottish club’s unlikely owner last year and his radical plans are taking shape at the Rock /p p “A lot of people ask me the same thing,” says a laughing Mario Lapointe, on how a Canadian songwriter and entrepreneur became owner of the Scottish lower league club Dumbarton 12 months ago. “When I was looking for a football"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/21/canadian-musician-mario-lapointe-owner-dumbarton-fc-women",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 21 May 2026 11:25:56 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/21/aston-villa-party-hard-istanbul-ending-30-year-trophy-wait-europa-league-final",
-      "title": {
-        "ar": "Victorious Villa party hard in Istanbul after ending 30-year trophy wait",
-        "en": "Victorious Villa party hard in Istanbul after ending 30-year trophy wait"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "p Europa League glory kicked off scenes of royal ribbing, ski goggles on the team bus and knee slides with nephews /p p It was 1.43am in Istanbul when Aston Villa’s players began to make tracks for their hotel, over the road from the rubber ring-like Besiktas Park. Matty Cash walked into a windowless basement at the stadium, bottle of Efes in hand,",
-        "en": "p Europa League glory kicked off scenes of royal ribbing, ski goggles on the team bus and knee slides with nephews /p p It was 1.43am in Istanbul when Aston Villa’s players began to make tracks for their hotel, over the road from the rubber ring-like Besiktas Park. Matty Cash walked into a windowless basement at the stadium, bottle of Efes in hand,"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/21/aston-villa-party-hard-istanbul-ending-30-year-trophy-wait-europa-league-final",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 21 May 2026 11:00:09 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13546486/aston-villa-win-europa-league-inside-unai-emerys-latest-european-triumph-including-emiliano-martinezs-broken-finger-and-beers-with-prince-william",
-      "title": {
-        "ar": "Beers with Prince William, a broken finger and CL next? Villa's Europa triumph!",
-        "en": "Beers with Prince William, a broken finger and CL next? Villa's Europa triumph!"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-europa-league-aston-villa_7254521.jpg?20260521075220",
-      "url": "https://www.skysports.com/football/news/12040/13546486/aston-villa-win-europa-league-inside-unai-emerys-latest-european-triumph-including-emiliano-martinezs-broken-finger-and-beers-with-prince-william",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 21 May 2026 07:24:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13546502/the-verdict-aston-villa-make-history-to-win-europa-league",
-      "title": {
-        "ar": "Villa make history to win Europa League | The Verdict",
-        "en": "Villa make history to win Europa League | The Verdict"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-aston-villa-verdict_7254560.jpg?20260521084327",
-      "url": "https://www.skysports.com/watch/video/13546502/the-verdict-aston-villa-make-history-to-win-europa-league",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 21 May 2026 08:35:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13546275/paul-merson-mikel-arteta-has-transformed-arsenal-from-also-rans-to-premier-league-champions",
-      "title": {
-        "ar": "Merson: Arsenal were also-rans, Arteta has brought them back",
-        "en": "Merson: Arsenal were also-rans, Arteta has brought them back"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "Sky Sports pundit Paul Merson assesses where the trophy was won and lost after a thrilling title race.]]>",
-        "en": "Sky Sports pundit Paul Merson assesses where the trophy was won and lost after a thrilling title race.]]>"
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-league-arsenal_7253613.jpg?20260519225311",
-      "url": "https://www.skysports.com/football/news/12040/13546275/paul-merson-mikel-arteta-has-transformed-arsenal-from-also-rans-to-premier-league-champions",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 21 May 2026 08:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/21/football-fans-world-cup-we-would-like-to-hear-from-you",
-      "title": {
-        "ar": "Football fans: are you excited about the World Cup? We would like to hear from you",
-        "en": "Football fans: are you excited about the World Cup? We would like to hear from you"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Wherever you’re planning to watch the matches – we’d like to hear from you /p p The men’s a href=\"https://www.theguardian.com/football/world-cup-2026\" World Cup /a in the US, Mexico and Canada is nearly upon us, kicking off on 11 June. /p p Amid the excitement around the tournament, there has been a href=\"https://www.theguardian.com/football/2026",
-        "en": "p Wherever you’re planning to watch the matches – we’d like to hear from you /p p The men’s a href=\"https://www.theguardian.com/football/world-cup-2026\" World Cup /a in the US, Mexico and Canada is nearly upon us, kicking off on 11 June. /p p Amid the excitement around the tournament, there has been a href=\"https://www.theguardian.com/football/2026"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/21/football-fans-world-cup-we-would-like-to-hear-from-you",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 21 May 2026 09:00:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/21/world-cup-first-time-winners-norway-haaland-portugal-ronaldo",
-      "title": {
-        "ar": "Haaland’s Norway to Ronaldo’s swansong: Who are the most likely first-time World Cup winners?",
-        "en": "Haaland’s Norway to Ronaldo’s swansong: Who are the most likely first-time World Cup winners?"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Eight nations have won the World Cup. An expanded field and a grueling schedule means a new champion could emerge from the pack this summer /p p When Fifa expanded the field for the 2026 World Cup to 48 teams, the sales pitch included giving more nations a chance at glory. In reality, the favorites are nearly always former champions. /p p To date",
-        "en": "p Eight nations have won the World Cup. An expanded field and a grueling schedule means a new champion could emerge from the pack this summer /p p When Fifa expanded the field for the 2026 World Cup to 48 teams, the sales pitch included giving more nations a chance at glory. In reality, the favorites are nearly always former champions. /p p To date"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/21/world-cup-first-time-winners-norway-haaland-portugal-ronaldo",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 21 May 2026 09:00:06 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/21/numbers-sum-up-arsenal-won-premier-league",
-      "title": {
-        "ar": "The 10 numbers that sum up how Arsenal won the Premier League",
-        "en": "The 10 numbers that sum up how Arsenal won the Premier League"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Arsenal won the title thanks to defensive excellence, relentless consistency and exploiting fine margins /p p By a href=\"https://theanalyst.com/\" Opta Analyst /a /p p Arsenal have done it. Finally. After 22 years, they are champions of England once again. a href=\"https://www.theguardian.com/football/2026/may/19/kroupi-goal-hands-title-to-arsenal-",
-        "en": "p Arsenal won the title thanks to defensive excellence, relentless consistency and exploiting fine margins /p p By a href=\"https://theanalyst.com/\" Opta Analyst /a /p p Arsenal have done it. Finally. After 22 years, they are champions of England once again. a href=\"https://www.theguardian.com/football/2026/may/19/kroupi-goal-hands-title-to-arsenal-"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/21/numbers-sum-up-arsenal-won-premier-league",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 21 May 2026 07:00:05 GMT",
-      "rewritten": false,
-      "lang": "en"
     }
   ]
 }
