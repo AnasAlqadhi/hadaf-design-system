@@ -1,8 +1,408 @@
 {
   "version": 2,
-  "updated": "2026-05-24T13:48:24.999Z",
+  "updated": "2026-05-24T19:24:50.165Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": {
+        "ar": "Brighton latest: Hurzeler on Baleba future and  Europe 'achievement'",
+        "en": "Brighton latest: Hurzeler on Baleba future and  Europe 'achievement'"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-brighton-news-club_7039246.jpg?20251002155936",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 24 May 2026 19:41:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": {
+        "ar": "Liverpool latest: We got this club back to where it belongs, say Salah & Robertson",
+        "en": "Liverpool latest: We got this club back to where it belongs, say Salah & Robertson"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-liverpool-news-club_7039258.jpg?20251002160409",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 22 May 2026 20:12:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546989/arsenal-lift-the-premier-league-trophy-why-mikel-artetas-side-are-worthy-champions-despite-criticism-over-style-of-play",
+      "title": {
+        "ar": "Why Arsenal are worthy Premier League champions",
+        "en": "Why Arsenal are worthy Premier League champions"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-martin-odegaard-arsenal_7257507.jpg?20260524192006",
+      "url": "https://www.skysports.com/football/news/12040/13546989/arsenal-lift-the-premier-league-trophy-why-mikel-artetas-side-are-worthy-champions-despite-criticism-over-style-of-play",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 24 May 2026 19:10:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": {
+        "ar": "Bournemouth latest: Getting into Europe a way of thanking everyone, says Iraola",
+        "en": "Bournemouth latest: Getting into Europe a way of thanking everyone, says Iraola"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-bournemouth-news_7039242.jpg?20251002155747",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 24 May 2026 20:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": {
+        "ar": "Brentford latest: Club deserved European football, says Henderson",
+        "en": "Brentford latest: Club deserved European football, says Henderson"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-brentford-news-club_7039245.jpg?20251002155849",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 21 May 2026 12:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/tottenham-hotspur-vs-everton/report/531507",
+      "title": {
+        "ar": "Spurs secure Premier League survival by beating toothless Everton",
+        "en": "Spurs secure Premier League survival by beating toothless Everton"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-joao-palhinha-spurs_7257206.jpg?20260524164737",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-everton/report/531507",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 24 May 2026 18:12:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": {
+        "ar": "Fulham latest: Silva highlights why club missed 'cherry on cake' of Europe",
+        "en": "Fulham latest: Silva highlights why club missed 'cherry on cake' of Europe"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-fulham-news-club_7039253.jpg?20251002160142",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 17 May 2026 17:50:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/liverpool-vs-brentford/report/531503",
+      "title": {
+        "ar": "Liverpool held by Brentford as Salah says goodbye to Anfield",
+        "en": "Liverpool held by Brentford as Salah says goodbye to Anfield"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-legue-liverpool_7257318.jpg?20260524174410",
+      "url": "https://www.skysports.com/football/liverpool-vs-brentford/report/531503",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 24 May 2026 18:05:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/24/burnley-wolves-premier-league-match-report",
+      "title": {
+        "ar": "Wolves end up worst of worst after Zian Flemming grabs point for Burnley",
+        "en": "Wolves end up worst of worst after Zian Flemming grabs point for Burnley"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Burnley came from behind to make sure the ignominy of finishing bottom of the Premier League went to Wolves as the two relegated sides fought out a 1-1 draw at Turf Moor. /p p This was a battle for pride – plus about £2.6m extra in merit payments – and Rob Edwards’ side took an early lead through Adam Armstrong’s penalty. But interim Burnley coac",
+        "en": "p Burnley came from behind to make sure the ignominy of finishing bottom of the Premier League went to Wolves as the two relegated sides fought out a 1-1 draw at Turf Moor. /p p This was a battle for pride – plus about £2.6m extra in merit payments – and Rob Edwards’ side took an early lead through Adam Armstrong’s penalty. But interim Burnley coac"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/24/burnley-wolves-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 24 May 2026 17:29:42 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/24/sunderland-chelsea-premier-league-match-report",
+      "title": {
+        "ar": "Sensational Sunderland qualify for Europa League after 10-man Chelsea fall apart",
+        "en": "Sensational Sunderland qualify for Europa League after 10-man Chelsea fall apart"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "p Who saw this coming? A year ago Sunderland won the Championship playoffs and were everybody’s favourite for an immediate relegation. Instead, Régis Le Bris’s wonderfully resilient side have finished seventh and secured a lucrative passport to the Europa League. /p p This fully merited win against a Chelsea side whose own European ambitions were s",
+        "en": "p Who saw this coming? A year ago Sunderland won the Championship playoffs and were everybody’s favourite for an immediate relegation. Instead, Régis Le Bris’s wonderfully resilient side have finished seventh and secured a lucrative passport to the Europa League. /p p This fully merited win against a Chelsea side whose own European ambitions were s"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/24/sunderland-chelsea-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 24 May 2026 17:27:15 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/24/manchester-city-aston-villa-premier-league-match-report",
+      "title": {
+        "ar": "Aston Villa’s Ollie Watkins spoils Guardiola’s Manchester City leaving party",
+        "en": "Aston Villa’s Ollie Watkins spoils Guardiola’s Manchester City leaving party"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p “Pep Guardiola!”: the two magical words for all of a Manchester City stripe came from the Etihad Stadium announcer ahead of the great man’s entrance in light-tan slacks and white T-shirt, a ‘P’ for Pep emblazoned across the left breast pocket. /p p The reception was rapturous. Poignant too. From a record 60,332 crowd due to the opening of the ext",
+        "en": "p “Pep Guardiola!”: the two magical words for all of a Manchester City stripe came from the Etihad Stadium announcer ahead of the great man’s entrance in light-tan slacks and white T-shirt, a ‘P’ for Pep emblazoned across the left breast pocket. /p p The reception was rapturous. Poignant too. From a record 60,332 crowd due to the opening of the ext"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/24/manchester-city-aston-villa-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 24 May 2026 17:22:42 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/24/brighton-manchester-united-premier-league-match-report",
+      "title": {
+        "ar": "Fernandes sets record as Manchester United win but Brighton still qualify for Europe",
+        "en": "Fernandes sets record as Manchester United win but Brighton still qualify for Europe"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Sussex by the sea will host Conference League football next season even if Brighton could not keep their side of the bargain. They let their fate drop from their control, their fans enduring an anxious afternoon of relying on results elsewhere and a decent 5G connection. Eventually, as players and coaches stood in the centre circle, the good news",
+        "en": "p Sussex by the sea will host Conference League football next season even if Brighton could not keep their side of the bargain. They let their fate drop from their control, their fans enduring an anxious afternoon of relying on results elsewhere and a decent 5G connection. Eventually, as players and coaches stood in the centre circle, the good news"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/24/brighton-manchester-united-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 24 May 2026 17:20:46 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/24/liverpool-brentford-premier-league-match-report",
+      "title": {
+        "ar": "Liverpool held by Brentford as Anfield bids Salah and Robertson farewell",
+        "en": "Liverpool held by Brentford as Anfield bids Salah and Robertson farewell"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p A Liverpool without Mohamed Salah and Andy Robertson is hard to comprehend, however well signposted their exits have been, and as the two Anfield greats walked up to the Kop together for one last time it was also difficult to see where Arne Slot’s side are heading next season in their absence. The most positive aspect of a uniquely challenging se",
+        "en": "p A Liverpool without Mohamed Salah and Andy Robertson is hard to comprehend, however well signposted their exits have been, and as the two Anfield greats walked up to the Kop together for one last time it was also difficult to see where Arne Slot’s side are heading next season in their absence. The most positive aspect of a uniquely challenging se"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/24/liverpool-brentford-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 24 May 2026 17:19:08 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/24/crystal-palace-arsenal-premier-league-match-report",
+      "title": {
+        "ar": "Arsenal celebrate Premier League in style with relaxed win at Crystal Palace",
+        "en": "Arsenal celebrate Premier League in style with relaxed win at Crystal Palace"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p /p p This was an occasion for Mikel Arteta to savour. With owner Stan Kroenke watching on from the stands on a rare visit to see his team in the flesh, Arsenal celebrated a href=\"https://www.theguardian.com/football/live/2026/may/19/arsenal-premier-league-champions-first-time-in-22-years-live-reaction\" being crowned champions /a for the first tim",
+        "en": "p /p p This was an occasion for Mikel Arteta to savour. With owner Stan Kroenke watching on from the stands on a rare visit to see his team in the flesh, Arsenal celebrated a href=\"https://www.theguardian.com/football/live/2026/may/19/arsenal-premier-league-champions-first-time-in-22-years-live-reaction\" being crowned champions /a for the first tim"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/24/crystal-palace-arsenal-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 24 May 2026 17:19:06 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/24/tottenham-everton-premier-league-match-report",
+      "title": {
+        "ar": "Spurs secure survival as João Palhinha sees off Everton to seal West Ham’s fate",
+        "en": "Spurs secure survival as João Palhinha sees off Everton to seal West Ham’s fate"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p It was a question of dignity, according to Roberto De Zerbi, which was certainly a valid starting point. But for Tottenham, it was so much else besides. Reputations. Livelihoods. The very future of the club. Everything was on the line because the ­consequences of a first relegation from English football’s top division since 1977 did not bear thin",
+        "en": "p It was a question of dignity, according to Roberto De Zerbi, which was certainly a valid starting point. But for Tottenham, it was so much else besides. Reputations. Livelihoods. The very future of the club. Everything was on the line because the ­consequences of a first relegation from English football’s top division since 1977 did not bear thin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/24/tottenham-everton-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 24 May 2026 17:18:56 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/24/nottingham-forest-bournemouth-premier-league-match-report",
+      "title": {
+        "ar": "Bournemouth denied Champions League spot despite Tavernier securing point at Forest",
+        "en": "Bournemouth denied Champions League spot despite Tavernier securing point at Forest"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p All aboard Rayanair, the airline of choice projected on to a giant flag with which Bournemouth’s players celebrated and one cherry-picked for their first European adventure. There was an inflatable plane bobbing around the away end and, for long periods, their unlikely Champions League dream was on. The Europa League will have to suffice. Andoni ",
+        "en": "p All aboard Rayanair, the airline of choice projected on to a giant flag with which Bournemouth’s players celebrated and one cherry-picked for their first European adventure. There was an inflatable plane bobbing around the away end and, for long periods, their unlikely Champions League dream was on. The Europa League will have to suffice. Andoni "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/24/nottingham-forest-bournemouth-premier-league-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 24 May 2026 17:10:59 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/crystal-palace-vs-arsenal/live/531501",
       "title": {
@@ -650,81 +1050,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Thu, 21 May 2026 13:24:58 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1675,331 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Fri, 22 May 2026 17:36:49 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/22/england-world-cup-squad-football-daily-newsletter",
-      "title": {
-        "ar": "Football Daily | England’s World Cup squad, leaks and comical takes from the hard-to-please",
-        "en": "Football Daily | England’s World Cup squad, leaks and comical takes from the hard-to-please"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p In a ceremony carrying all the suspense of the official ribbon-cutting of a supermarket that has been open to shoppers for three months, journalists dutifully convened at Wembley on Friday t",
-        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p In a ceremony carrying all the suspense of the official ribbon-cutting of a supermarket that has been open to shoppers for three months, journalists dutifully convened at Wembley on Friday t"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/22/england-world-cup-squad-football-daily-newsletter",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 22 May 2026 14:39:49 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48816477/usmnt-2026-world-cup-big-board-7-make-mauricio-pochettino-squad",
-      "title": {
-        "ar": "USMNT 2026 World Cup Big Board 7.0: Who will make ...",
-        "en": "USMNT 2026 World Cup Big Board 7.0: Who will make ..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48816477/usmnt-2026-world-cup-big-board-7-make-mauricio-pochettino-squad",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 22 May 2026 06:27:14 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
-      "title": {
-        "ar": "2026 World Cup injuries tracker: Major concerns fo...",
-        "en": "2026 World Cup injuries tracker: Major concerns fo..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 22 May 2026 06:27:14 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48836149/pep-guardiola-manchester-city-enzo-maresca-premier-league-coaching-legacy-rob-dawson",
-      "title": {
-        "ar": "Premier League, Man City won't be the same after Guardiola",
-        "en": "Premier League, Man City won't be the same after Guardiola"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48836149/pep-guardiola-manchester-city-enzo-maresca-premier-league-coaching-legacy-rob-dawson",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 22 May 2026 06:23:38 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/46751020/cristiano-ronaldo-goal-tracker-road-1000-career-goals",
-      "title": {
-        "ar": "Ronaldo goal tracker: 973 and counting on road to ...",
-        "en": "Ronaldo goal tracker: 973 and counting on road to ..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/46751020/cristiano-ronaldo-goal-tracker-road-1000-career-goals",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 22 May 2026 04:06:07 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48838211/9-stats-explain-how-arsenal-won-premier-league",
-      "title": {
-        "ar": "9 stats that explain how Arsenal became one of the...",
-        "en": "9 stats that explain how Arsenal became one of the..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48838211/9-stats-explain-how-arsenal-won-premier-league",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 22 May 2026 04:01:49 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48830020/after-nine-years-andy-robertson-leaves-liverpool-people-champion",
-      "title": {
-        "ar": "Robertson leaves Liverpool as 'The People's Champi...",
-        "en": "Robertson leaves Liverpool as 'The People's Champi..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48830020/after-nine-years-andy-robertson-leaves-liverpool-people-champion",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 22 May 2026 04:01:49 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48841869/transfer-rumors-news-manchester-united-eye-double-midfield-swoop",
-      "title": {
-        "ar": "Transfer rumors, news: Manchester United eye doubl...",
-        "en": "Transfer rumors, news: Manchester United eye doubl..."
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48841869/transfer-rumors-news-manchester-united-eye-double-midfield-swoop",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 22 May 2026 03:59:01 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48830293/weekend-predictions-tottenham-west-ham-stay-up",
-      "title": {
-        "ar": "Will Tottenham or West Ham stay up? Will Bayern wi...",
-        "en": "Will Tottenham or West Ham stay up? Will Bayern wi..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48830293/weekend-predictions-tottenham-west-ham-stay-up",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 22 May 2026 03:15:03 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48833290/ancelotti-neymar-pick-brazil-act-faith-reap-rewards",
-      "title": {
-        "ar": "Ancelotti's Neymar pick for Brazil is an act of faith that could reap rewards",
-        "en": "Ancelotti's Neymar pick for Brazil is an act of faith that could reap rewards"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48833290/ancelotti-neymar-pick-brazil-act-faith-reap-rewards",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 21 May 2026 11:52:31 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13546983/england-world-cup-squad-thomas-tuchel-defends-his-specialist-selections-after-cole-palmer-phil-foden-and-harry-maguire-left-out",
-      "title": {
-        "ar": "'Specialists' and 'a brotherhood' - Tuchel defends shock World Cup squad calls",
-        "en": "'Specialists' and 'a brotherhood' - Tuchel defends shock World Cup squad calls"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-tuchel-thomas-england_7255723.jpg?20260522124100",
-      "url": "https://www.skysports.com/football/news/12040/13546983/england-world-cup-squad-thomas-tuchel-defends-his-specialist-selections-after-cole-palmer-phil-foden-and-harry-maguire-left-out",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 13 May 2026 12:07:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13546951/arne-slot-responds-to-mo-salah-criticism-he-was-really-happy-with-the-style-we-played-when-we-won-premier-league-last-year",
-      "title": {
-        "ar": "Slot responds to Salah criticism: Mo was really happy with the style we played last year",
-        "en": "Slot responds to Salah criticism: Mo was really happy with the style we played last year"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/12/1920x1080/skysports-mo-salah-arne-slot_7105374.jpg?20251209090138",
-      "url": "https://www.skysports.com/football/news/12040/13546951/arne-slot-responds-to-mo-salah-criticism-he-was-really-happy-with-the-style-we-played-when-we-won-premier-league-last-year",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 22 May 2026 11:24:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13547017/wayne-rooney-interviews-michael-carrick-from-barbados-beach-to-man-utd-boss",
-      "title": {
-        "ar": "Rooney interviews Carrick: From Barbados beach to Man Utd boss!",
-        "en": "Rooney interviews Carrick: From Barbados beach to Man Utd boss!"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/315fd3e296751c8a82f19e3a409566a734cacf832a5d138d57081277179e6769_7255766.jpg?20260522133056",
-      "url": "https://www.skysports.com/watch/video/13547017/wayne-rooney-interviews-michael-carrick-from-barbados-beach-to-man-utd-boss",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 22 May 2026 13:24:00 BST",
       "rewritten": false,
       "lang": "en"
     }
