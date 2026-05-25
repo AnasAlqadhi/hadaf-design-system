@@ -1,8 +1,508 @@
 {
   "version": 2,
-  "updated": "2026-05-25T15:20:16.561Z",
+  "updated": "2026-05-25T19:50:06.412Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13547979/liverpool-transfer-news-arne-slot-set-to-bring-in-new-assistant-etienne-reijnen-alisson-becker-set-to-stay-and-ibrahima-konates-future-unclear",
+      "title": {
+        "ar": "Slot, Alisson, Diomande and Konate - Liverpool's big summer analysed",
+        "en": "Slot, Alisson, Diomande and Konate - Liverpool's big summer analysed"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-premier-league-liverpool_7226276.jpg?20260421135929",
+      "url": "https://www.skysports.com/football/news/12040/13547979/liverpool-transfer-news-arne-slot-set-to-bring-in-new-assistant-etienne-reijnen-alisson-becker-set-to-stay-and-ibrahima-konates-future-unclear",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 25 May 2026 19:27:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/cricket/news/12040/13547973/england-settling-nicely-ahead-of-womens-t20-world-cup-but-bigger-test-to-come-in-india-series",
+      "title": {
+        "ar": "England 'settling nicely' ahead of T20 World Cup - but bigger test to come",
+        "en": "England 'settling nicely' ahead of T20 World Cup - but bigger test to come"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-charlie-dean-england_7258347.jpg?20260525180622",
+      "url": "https://www.skysports.com/cricket/news/12040/13547973/england-settling-nicely-ahead-of-womens-t20-world-cup-but-bigger-test-to-come-in-india-series",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 25 May 2026 19:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs",
+      "title": {
+        "ar": "Premier League ins and outs - the confirmed deals so far...",
+        "en": "Premier League ins and outs - the confirmed deals so far..."
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-transfer-ins-outs_7152975.jpg?20260202081247",
+      "url": "https://www.skysports.com/football/news/12040/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 25 May 2026 18:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48874195/allegri-ac-milan-housecleaning-ibrahimovic-spared",
+      "title": {
+        "ar": "Allegri part of Milan housecleaning; Zlatan spared...",
+        "en": "Allegri part of Milan housecleaning; Zlatan spared..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48874195/allegri-ac-milan-housecleaning-ibrahimovic-spared",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 25 May 2026 15:20:16 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48873914/james-rodriguez-luis-diaz-colombia-world-cup-squad",
+      "title": {
+        "ar": "James, Bayern's Díaz lead Colombia WCup squad",
+        "en": "James, Bayern's Díaz lead Colombia WCup squad"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48873914/james-rodriguez-luis-diaz-colombia-world-cup-squad",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 25 May 2026 15:20:16 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players",
+      "title": {
+        "ar": "Yamal in Spain World Cup squad, no Madrid players",
+        "en": "Yamal in Spain World Cup squad, no Madrid players"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 25 May 2026 15:20:15 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48872024/ian-darke-premier-league-best-xi-most-disappointing-team-season",
+      "title": {
+        "ar": "Ian Darke's Premier League Best XI, Most Disappoin...",
+        "en": "Ian Darke's Premier League Best XI, Most Disappoin..."
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48872024/ian-darke-premier-league-best-xi-most-disappointing-team-season",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 25 May 2026 14:25:20 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/25/story-of-2025-26-premier-league-season-in-100-photos",
+      "title": {
+        "ar": "The story of the Premier League 2025-26 season in 100 photos",
+        "en": "The story of the Premier League 2025-26 season in 100 photos"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p A century of our favourite images from the season including wild celebrations, protesting fans and goalmouth scrambles /p p Reigning champions Liverpool left it late to a href=\"https://www.theguardian.com/football/2025/aug/15/liverpool-bournemouth-premier-league-match-report\" beat Bournemouth 4-2 /a on the opening day of the season in their first",
+        "en": "p A century of our favourite images from the season including wild celebrations, protesting fans and goalmouth scrambles /p p Reigning champions Liverpool left it late to a href=\"https://www.theguardian.com/football/2025/aug/15/liverpool-bournemouth-premier-league-match-report\" beat Bournemouth 4-2 /a on the opening day of the season in their first"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/25/story-of-2025-26-premier-league-season-in-100-photos",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 25 May 2026 19:00:33 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/25/agony-and-ecstasy-in-la-liga-survival-battle-girona-elche-mallorca-levante",
+      "title": {
+        "ar": "Agony and ecstasy in La Liga after a survival battle for the ages | Sid Lowe",
+        "en": "Agony and ecstasy in La Liga after a survival battle for the ages | Sid Lowe"
+      },
+      "kicker": {
+        "ar": "الليغا",
+        "en": "La Liga"
+      },
+      "excerpt": {
+        "ar": "p At the end of a ‘crazy, crazy day’, Elche were safe. But opponents, Girona, were down with Mallorca and Oviedo /p p Eder Sarabia wasn’t out there to see the a href=\"https://www.theguardian.com/football/2026/jan/26/la-liga-late-shows-set-up-a-bottom-half-battle-royale-for-survival\" tightest, tensest battle /a there has ever been end with liberatio",
+        "en": "p At the end of a ‘crazy, crazy day’, Elche were safe. But opponents, Girona, were down with Mallorca and Oviedo /p p Eder Sarabia wasn’t out there to see the a href=\"https://www.theguardian.com/football/2026/jan/26/la-liga-late-shows-set-up-a-bottom-half-battle-royale-for-survival\" tightest, tensest battle /a there has ever been end with liberatio"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/25/agony-and-ecstasy-in-la-liga-survival-battle-girona-elche-mallorca-levante",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 25 May 2026 17:25:42 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/25/sunderland-regis-le-bris-enzo-le-fee-europa-league-qualification",
+      "title": {
+        "ar": "Quietly ruthless Régis Le Bris ready to lead revived Sunderland into Europa League",
+        "en": "Quietly ruthless Régis Le Bris ready to lead revived Sunderland into Europa League"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "p Head coach’s signing of Enzo Le Fée sparked chain of events leading to promotion and European qualification /p p One of Régis Le Bris’s first acts as Sunderland head coach was to preside over a pre-season training camp near Alicante. It was July 2024 and, according to those present, the Breton sometimes cut a slightly isolated figure. /p p “I arr",
+        "en": "p Head coach’s signing of Enzo Le Fée sparked chain of events leading to promotion and European qualification /p p One of Régis Le Bris’s first acts as Sunderland head coach was to preside over a pre-season training camp near Alicante. It was July 2024 and, according to those present, the Breton sometimes cut a slightly isolated figure. /p p “I arr"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/25/sunderland-regis-le-bris-enzo-le-fee-europa-league-qualification",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 25 May 2026 16:33:56 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/25/salford-city-notts-county-league-two-playoff-final-match-report",
+      "title": {
+        "ar": "Notts County cruise into League One with emphatic win over Salford",
+        "en": "Notts County cruise into League One with emphatic win over Salford"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Football’s oldest professional club continued to clamber back up the divisions in the final match of the English domestic season. Alassana Jatta’s injection of higher echelon quality began a Notts County stroll in baking Wembley sunshine. Salford melted away while Lucas Ness’s towering header and Jodi Jones’s second-half goal confirmed County’s r",
+        "en": "p Football’s oldest professional club continued to clamber back up the divisions in the final match of the English domestic season. Alassana Jatta’s injection of higher echelon quality began a Notts County stroll in baking Wembley sunshine. Salford melted away while Lucas Ness’s towering header and Jodi Jones’s second-half goal confirmed County’s r"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/25/salford-city-notts-county-league-two-playoff-final-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 25 May 2026 16:12:13 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/25/spain-world-cup-squad-2026-lamine-yamal-injury",
+      "title": {
+        "ar": "Zero Real Madrid players in Spain World Cup squad as injured Lamine Yamal makes cut",
+        "en": "Zero Real Madrid players in Spain World Cup squad as injured Lamine Yamal makes cut"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Luis de la Fuente names 26-man squad for tournament /p /li li p Real Madrid players miss Spain squad for first time /p /li /ul p Spain will go to the World Cup without a single Real Madrid player for the first time in their history as Luis de la Fuente named his 26-man squad for this summer’s tournament. /p p While Real stars such as Dean H",
+        "en": "ul li p Luis de la Fuente names 26-man squad for tournament /p /li li p Real Madrid players miss Spain squad for first time /p /li /ul p Spain will go to the World Cup without a single Real Madrid player for the first time in their history as Luis de la Fuente named his 26-man squad for this summer’s tournament. /p p While Real stars such as Dean H"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/25/spain-world-cup-squad-2026-lamine-yamal-injury",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 25 May 2026 16:09:10 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48869545/transfer-rumors-news-milan-failure-puts-pulisic-future-doubt",
+      "title": {
+        "ar": "Transfer rumors, news: Milan failure puts Pulisic ...",
+        "en": "Transfer rumors, news: Milan failure puts Pulisic ..."
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48869545/transfer-rumors-news-milan-failure-puts-pulisic-future-doubt",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 25 May 2026 11:07:10 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48868426/argentina-world-cup-fans-tenterhooks-messi-limps-off",
+      "title": {
+        "ar": "Copy of Argentina, World Cup fans on tenterhooks as Messi ...",
+        "en": "Copy of Argentina, World Cup fans on tenterhooks as Messi ..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48868426/argentina-world-cup-fans-tenterhooks-messi-limps-off",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 25 May 2026 11:06:21 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/25/liverpool-arne-slot-wingers-mohamed-salah",
+      "title": {
+        "ar": "Arne Slot believes Liverpool can bounce back next season by signing quality wingers",
+        "en": "Arne Slot believes Liverpool can bounce back next season by signing quality wingers"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Mohamed Salah leaving after Luis Díaz not replaced /p /li li p Leipzig teenager Yan Diomande is a leading target /p /li /ul p Arne Slot has highlighted the ­importance of wingers to Liverpool’s prospects of recovery, and claimed this season’s disappointment can be rectified with the correct squad additions. /p p Liverpool ended a difficult ",
+        "en": "ul li p Mohamed Salah leaving after Luis Díaz not replaced /p /li li p Leipzig teenager Yan Diomande is a leading target /p /li /ul p Arne Slot has highlighted the ­importance of wingers to Liverpool’s prospects of recovery, and claimed this season’s disappointment can be rectified with the correct squad additions. /p p Liverpool ended a difficult "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/25/liverpool-arne-slot-wingers-mohamed-salah",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 25 May 2026 16:00:29 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48869319/tottenham-premier-league-harry-kane-bayern-munich-history-como-champions-league-musings",
+      "title": {
+        "ar": "Tottenham stay in Premier League, but big rebuild ...",
+        "en": "Tottenham stay in Premier League, but big rebuild ..."
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48869319/tottenham-premier-league-harry-kane-bayern-munich-history-como-champions-league-musings",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 25 May 2026 09:25:50 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/video/2026/may/25/west-ham-go-down-and-the-great-guard-of-honour-debate-football-weekly-video",
+      "title": {
+        "ar": "West Ham go down and the great guard of honour debate | Football Weekly – video",
+        "en": "West Ham go down and the great guard of honour debate | Football Weekly – video"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Max Rushden is joined by Barry Glendenning, Barney Ronay, Jonathan Wilson and Jacob Steinberg to discuss the final day of the Premier League season /p p a href=\"https://www.theguardian.com/football/2026/may/24/roberto-de-zerbi-breaks-tottenham-out-of-a-jail-they-should-never-have-been-in\" Tottenham survive /a after narrowly beating Everton, while",
+        "en": "p Max Rushden is joined by Barry Glendenning, Barney Ronay, Jonathan Wilson and Jacob Steinberg to discuss the final day of the Premier League season /p p a href=\"https://www.theguardian.com/football/2026/may/24/roberto-de-zerbi-breaks-tottenham-out-of-a-jail-they-should-never-have-been-in\" Tottenham survive /a after narrowly beating Everton, while"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/video/2026/may/25/west-ham-go-down-and-the-great-guard-of-honour-debate-football-weekly-video",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 25 May 2026 11:58:23 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/25/diego-luna-usmnt-world-cup-real-salt-lake-zavier-gozo",
+      "title": {
+        "ar": "‘I was upset for him’: how Real Salt Lake reacted to Diego Luna’s USMNT exclusion",
+        "en": "‘I was upset for him’: how Real Salt Lake reacted to Diego Luna’s USMNT exclusion"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Luna and Zavier Gozo’s World Cup dreams ended with a Friday email from US Soccer /p p Real Salt Lake coach Pablo Mastroeni was in disbelief. The US roster for the World Cup would include neither his team’s star playmaker Diego Luna nor their head-turning youngster, Zavier Gozo. While the uncapped Gozo was a late long shot to make the squad, Luna ",
+        "en": "p Luna and Zavier Gozo’s World Cup dreams ended with a Friday email from US Soccer /p p Real Salt Lake coach Pablo Mastroeni was in disbelief. The US roster for the World Cup would include neither his team’s star playmaker Diego Luna nor their head-turning youngster, Zavier Gozo. While the uncapped Gozo was a late long shot to make the squad, Luna "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/25/diego-luna-usmnt-world-cup-real-salt-lake-zavier-gozo",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 25 May 2026 11:00:25 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48851763/premier-league-promotion-relegation-coventry-city-ipswich-town-hull-city",
+      "title": {
+        "ar": "Congrats, you're promoted to the Premier League! Now what? A guide to staying up",
+        "en": "Congrats, you're promoted to the Premier League! Now what? A guide to staying up"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48851763/premier-league-promotion-relegation-coventry-city-ipswich-town-hull-city",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 23 May 2026 16:36:26 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48843468/english-premier-league-manchester-city-pep-guardiola-manchester-united-sir-alex-ferguson-best",
+      "title": {
+        "ar": "Pep Guardiola or Sir Alex Ferguson: Who's the best Premier League manager of all time?",
+        "en": "Pep Guardiola or Sir Alex Ferguson: Who's the best Premier League manager of all time?"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48843468/english-premier-league-manchester-city-pep-guardiola-manchester-united-sir-alex-ferguson-best",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 23 May 2026 07:43:17 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13547881/premier-league-26-27-season-start-date-fixture-release-final-day-live-sky-sports-games-and-match-schedule",
       "title": {
@@ -929,81 +1429,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.skysports.com/darts/news/12040/13547722/international-darts-open-ross-smith-beats-ryan-searle-to-maiden-european-tour-title",
       "title": {
         "ar": "Smith beats Searle in International Darts Open final to win maiden European Tour title",
@@ -1575,431 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Sun, 24 May 2026 13:37:06 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/live/2026/may/24/west-ham-leeds-champions-league-arsenal-trophy-pep-guardiola-goodbye-premier-league-finale-live",
-      "title": {
-        "ar": "West Ham v Leeds, Champions League battle, Arsenal to lift trophy and Guardiola’s goodbye: Premier League finale – live",
-        "en": "West Ham v Leeds, Champions League battle, Arsenal to lift trophy and Guardiola’s goodbye: Premier League finale – live"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p ⚽ 4pm BST kick-offs | a href=\"https://www.theguardian.com/football/live/2026/may/24/tottenham-v-everton-premier-league-final-day-live\" Tottenham v Everton – live /a br ⚽ a href=\"https://www.theguardian.com/football/live\" Live scores /a | a href=\"https://www.theguardian.com/football/premierleague/table\" Latest table /a | a href=\"https://www.thegua",
-        "en": "p ⚽ 4pm BST kick-offs | a href=\"https://www.theguardian.com/football/live/2026/may/24/tottenham-v-everton-premier-league-final-day-live\" Tottenham v Everton – live /a br ⚽ a href=\"https://www.theguardian.com/football/live\" Live scores /a | a href=\"https://www.theguardian.com/football/premierleague/table\" Latest table /a | a href=\"https://www.thegua"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/live/2026/may/24/west-ham-leeds-champions-league-arsenal-trophy-pep-guardiola-goodbye-premier-league-finale-live",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 13:00:58 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/live/2026/may/24/premier-league-finale-with-survival-on-line-for-spurs-and-west-ham-matchday-live",
-      "title": {
-        "ar": "Premier League finale with survival on line for Spurs and West Ham – matchday live",
-        "en": "Premier League finale with survival on line for Spurs and West Ham – matchday live"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p ⚽ News, discussion and buildup before the day’s action br ⚽ a href=\"https://www.theguardian.com/football/2026/may/23/premier-league-2025-26-fans-verdicts-stars-flops-and-funniest-moments\" Fans’ verdicts: the season review /a | And a href=\"mailto:matchday.live@theguardian.com\" email us here /a /p p strong It’s been a hell of a season. /strong We a",
-        "en": "p ⚽ News, discussion and buildup before the day’s action br ⚽ a href=\"https://www.theguardian.com/football/2026/may/23/premier-league-2025-26-fans-verdicts-stars-flops-and-funniest-moments\" Fans’ verdicts: the season review /a | And a href=\"mailto:matchday.live@theguardian.com\" email us here /a /p p strong It’s been a hell of a season. /strong We a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/live/2026/may/24/premier-league-finale-with-survival-on-line-for-spurs-and-west-ham-matchday-live",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 08:25:01 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/24/arsenal-premier-league-title-symbol-of-the-metropolitan-swagger-and-metropolitan-angst-london",
-      "title": {
-        "ar": "Arsenal’s party embodies the metropolitan swagger and angst of a divided city | Jonathan Liew",
-        "en": "Arsenal’s party embodies the metropolitan swagger and angst of a divided city | Jonathan Liew"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The crowd that gathered late into the night to celebrate on the streets reflected an idea of London where all are welcome /p p The mounds of detritus pile up outside Finsbury Park station, like an offering to a vengeful deity. A deity gone rogue for the evening, demanding tribute specifically in the form of empty food cartons and abandoned Lime b",
-        "en": "p The crowd that gathered late into the night to celebrate on the streets reflected an idea of London where all are welcome /p p The mounds of detritus pile up outside Finsbury Park station, like an offering to a vengeful deity. A deity gone rogue for the evening, demanding tribute specifically in the form of empty food cartons and abandoned Lime b"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/24/arsenal-premier-league-title-symbol-of-the-metropolitan-swagger-and-metropolitan-angst-london",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 07:00:49 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48854785/harry-kane-hat-trick-powers-bayern-munich-german-cup-title",
-      "title": {
-        "ar": "Kane hat trick powers Bayern to German Cup title",
-        "en": "Kane hat trick powers Bayern to German Cup title"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48854785/harry-kane-hat-trick-powers-bayern-munich-german-cup-title",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sat, 23 May 2026 21:10:50 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48854971/barcelonas-alexia-putellas-future-womens-champions-league-win-see",
-      "title": {
-        "ar": "Putellas on Barcelona future: 'You will see'",
-        "en": "Putellas on Barcelona future: 'You will see'"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48854971/barcelonas-alexia-putellas-future-womens-champions-league-win-see",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sat, 23 May 2026 21:10:50 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48854192/usa-2026-world-cup-roster-gio-reyna-diego-luna-zendejas",
-      "title": {
-        "ar": "Sources: Reyna in as U.S. picks World Cup roster",
-        "en": "Sources: Reyna in as U.S. picks World Cup roster"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48854192/usa-2026-world-cup-roster-gio-reyna-diego-luna-zendejas",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sat, 23 May 2026 21:10:49 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/report/_/gameId/748519",
-      "title": {
-        "ar": "Lewandowski scores in farewell as Barcelona lose",
-        "en": "Lewandowski scores in farewell as Barcelona lose"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/report/_/gameId/748519",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sat, 23 May 2026 21:10:49 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/23/european-football-harry-kane-hits-hat-trick-as-bayern-munich-complete-double",
-      "title": {
-        "ar": "European football: Harry Kane hits hat-trick as Bayern Munich complete double",
-        "en": "European football: Harry Kane hits hat-trick as Bayern Munich complete double"
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "ul li p Stuttgart beaten 3-0 in DFB-Pokal Cup final /p /li li p Girona and Mallorca relegated from La Liga /p /li /ul p Harry Kane cut through the smoke of the DFB-Pokal cup final with a hat-trick for Bayern Munich to beat defending champion Stuttgart 3-0 and complete another domestic double on Saturday. /p p Kane’s goals in the second half set off",
-        "en": "ul li p Stuttgart beaten 3-0 in DFB-Pokal Cup final /p /li li p Girona and Mallorca relegated from La Liga /p /li /ul p Harry Kane cut through the smoke of the DFB-Pokal cup final with a hat-trick for Bayern Munich to beat defending champion Stuttgart 3-0 and complete another domestic double on Saturday. /p p Kane’s goals in the second half set off"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/23/european-football-harry-kane-hits-hat-trick-as-bayern-munich-complete-double",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 23 May 2026 21:55:08 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/23/pep-guardiola-managing-england-manchester-city",
-      "title": {
-        "ar": "Pep Guardiola will not rule out possibility of managing England",
-        "en": "Pep Guardiola will not rule out possibility of managing England"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p ‘I don’t have a plan, just rest and do things I want to do’ /p /li li p Guardiola becomes ambassador for City Football Group /p /li /ul p Pep Guardiola has left open the possibility of managing England in the future, with the departing Manchester City head coach stating he has “no definite plans”. /p p Guardiola’s final match of a supremely",
-        "en": "ul li p ‘I don’t have a plan, just rest and do things I want to do’ /p /li li p Guardiola becomes ambassador for City Football Group /p /li /ul p Pep Guardiola has left open the possibility of managing England in the future, with the departing Manchester City head coach stating he has “no definite plans”. /p p Guardiola’s final match of a supremely"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/23/pep-guardiola-managing-england-manchester-city",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 23 May 2026 21:30:38 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48854642/barcelona-reign-supreme-uefa-women-champions-league-earn-yet-another-quadruple",
-      "title": {
-        "ar": "Barcelona reign supreme to win the Champions Leagu...",
-        "en": "Barcelona reign supreme to win the Champions Leagu..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48854642/barcelona-reign-supreme-uefa-women-champions-league-earn-yet-another-quadruple",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sat, 23 May 2026 16:15:35 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/23/iran-world-cup-base-camp-tijuana-mexico-tuscon-war",
-      "title": {
-        "ar": "Iran say Fifa has approved World Cup base camp switch from US to Mexico",
-        "en": "Iran say Fifa has approved World Cup base camp switch from US to Mexico"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Federation chief says team will train in Tijuana /p /li li p Iran had planned for Arizona base before war /p /li li p Move is said to resolve potential visa issues /p /li /ul p The president of the Iranian football federation said Saturday the team’s World Cup training base has been moved to Mexico from the United States after getting appro",
-        "en": "ul li p Federation chief says team will train in Tijuana /p /li li p Iran had planned for Arizona base before war /p /li li p Move is said to resolve potential visa issues /p /li /ul p The president of the Iranian football federation said Saturday the team’s World Cup training base has been moved to Mexico from the United States after getting appro"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/23/iran-world-cup-base-camp-tijuana-mexico-tuscon-war",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 23 May 2026 20:55:38 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48851064/bruno-fernandes-named-premier-league-player-season",
-      "title": {
-        "ar": "Fernandes wins Premier League Player of the Season...",
-        "en": "Fernandes wins Premier League Player of the Season..."
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48851064/bruno-fernandes-named-premier-league-player-season",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sat, 23 May 2026 14:01:49 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48847256/joao-felix-cristiano-ronaldo-saudi-pro-league-best-player-award",
-      "title": {
-        "ar": "João Félix beats Ronaldo to win Saudi best player",
-        "en": "João Félix beats Ronaldo to win Saudi best player"
-      },
-      "kicker": {
-        "ar": "دوري روشن",
-        "en": "Saudi League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48847256/joao-felix-cristiano-ronaldo-saudi-pro-league-best-player-award",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sat, 23 May 2026 14:01:49 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/23/barcelona-ol-lyonnes-womens-champions-league-final-match-report",
-      "title": {
-        "ar": "Pajor’s brilliance delivers Women’s Champions League victory for Barcelona against Lyonnes",
-        "en": "Pajor’s brilliance delivers Women’s Champions League victory for Barcelona against Lyonnes"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Five times the bridesmaid, finally the bride, the Barcelona forward Ewa Pajor shrugged off the pain of all her Champions League final losses, scoring twice, as they punished a profligate Lyonnes to earn a fourth European title. /p p Pajor stole the show, before Salma Paralluelo’s sublime double at the death doubled their tally. The Polish forward",
-        "en": "p Five times the bridesmaid, finally the bride, the Barcelona forward Ewa Pajor shrugged off the pain of all her Champions League final losses, scoring twice, as they punished a profligate Lyonnes to earn a fourth European title. /p p Pajor stole the show, before Salma Paralluelo’s sublime double at the death doubled their tally. The Polish forward"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/23/barcelona-ol-lyonnes-womens-champions-league-final-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 23 May 2026 18:15:21 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/23/celtic-dunfermline-scottish-cup-final-match-report",
-      "title": {
-        "ar": "Iheanacho ensures Celtic ease past Dunfermline to win Scottish Cup and Double",
-        "en": "Iheanacho ensures Celtic ease past Dunfermline to win Scottish Cup and Double"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Now for the really interesting part. Celtic’s completion of a domestic double was every bit as straightforward as Dunfermline feared it could be. Whether that achievement is sufficient for Martin O’Neill to be handed an extended stay as the Celtic manager should soon become clear. O’Neill has support, internally and externally, for his cause. Eve",
-        "en": "p Now for the really interesting part. Celtic’s completion of a domestic double was every bit as straightforward as Dunfermline feared it could be. Whether that achievement is sufficient for Martin O’Neill to be handed an extended stay as the Celtic manager should soon become clear. O’Neill has support, internally and externally, for his cause. Eve"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/23/celtic-dunfermline-scottish-cup-final-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 23 May 2026 16:04:06 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48841999/mohamed-salah-given-everything-liverpool-deserves-fitting-finale",
-      "title": {
-        "ar": "Salah has given everything to Liverpool and deserv...",
-        "en": "Salah has given everything to Liverpool and deserv..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48841999/mohamed-salah-given-everything-liverpool-deserves-fitting-finale",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sat, 23 May 2026 10:32:06 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48850358/transfer-rumors-news-harry-kane-barcelona-targets-replace-lewandowski",
-      "title": {
-        "ar": "Transfer rumors, news: Kane among Barcelona target...",
-        "en": "Transfer rumors, news: Kane among Barcelona target..."
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48850358/transfer-rumors-news-harry-kane-barcelona-targets-replace-lewandowski",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sat, 23 May 2026 05:15:29 EST",
       "rewritten": false,
       "lang": "en"
     }
