@@ -1,8 +1,308 @@
 {
   "version": 2,
-  "updated": "2026-05-26T04:07:36.542Z",
+  "updated": "2026-05-26T10:08:54.941Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13547837/arsenal-underdogs-in-champions-league-final-vs-best-team-in-europe-psg-warns-gary-neville",
+      "title": {
+        "ar": "Neville: Next step for Arsenal is to win CL - but 'best in Europe' await",
+        "en": "Neville: Next step for Arsenal is to win CL - but 'best in Europe' await"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-arsneal-title-arsenal_7257496.jpg?20260524191747",
+      "url": "https://www.skysports.com/football/news/12040/13547837/arsenal-underdogs-in-champions-league-final-vs-best-team-in-europe-psg-warns-gary-neville",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 26 May 2026 10:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48872015/laliga-2025-26-awards-lamine-yamal-barcelona-reign-spain-again-graham-hunter",
+      "title": {
+        "ar": "LaLiga 2025-26 awards: Yamal, Barcelona reign in S...",
+        "en": "LaLiga 2025-26 awards: Yamal, Barcelona reign in S..."
+      },
+      "kicker": {
+        "ar": "الليغا",
+        "en": "La Liga"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48872015/laliga-2025-26-awards-lamine-yamal-barcelona-reign-spain-again-graham-hunter",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 26 May 2026 05:10:38 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/picture/2026/may/26/david-squires-on-arsenal-premier-league-title",
+      "title": {
+        "ar": "David Squires on … the only way to mark Arsenal’s Premier League title",
+        "en": "David Squires on … the only way to mark Arsenal’s Premier League title"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Our cartoonist reflects on the Gunners ending their 22-year existential crisis to become English champions again /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires\" strong Buy a Squires cartoon /strong /a strong | /strong a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of",
+        "en": "p Our cartoonist reflects on the Gunners ending their 22-year existential crisis to become English champions again /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires\" strong Buy a Squires cartoon /strong /a strong | /strong a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/picture/2026/may/26/david-squires-on-arsenal-premier-league-title",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 09:58:00 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/west-ham-board-split-nuno-future-kretinsky-manager",
+      "title": {
+        "ar": "West Ham board split on Nuno’s future, with Kretinsky said to be backing manager",
+        "en": "West Ham board split on Nuno’s future, with Kretinsky said to be backing manager"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "ul li p David Sullivan understood to be less sure over Nuno /p /li li p Decision expected this week after relegation /p /li /ul p West Ham’s board are split on Nuno Espírito Santo’s future, opening the possibility of the manager staying after relegation from the Premier League. /p p Nuno was called in for crisis talks on Monday and a decision is ex",
+        "en": "ul li p David Sullivan understood to be less sure over Nuno /p /li li p Decision expected this week after relegation /p /li /ul p West Ham’s board are split on Nuno Espírito Santo’s future, opening the possibility of the manager staying after relegation from the Premier League. /p p Nuno was called in for crisis talks on Monday and a decision is ex"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/west-ham-board-split-nuno-future-kretinsky-manager",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 09:51:24 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/pep-guardiola-lionel-messi-mls",
+      "title": {
+        "ar": "Is Pep Guardiola the man to replace Lionel Messi as MLS’s crown jewel?",
+        "en": "Is Pep Guardiola the man to replace Lionel Messi as MLS’s crown jewel?"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The former Manchester City manager is always interested in fresh challenges. Taking on another continent could be tempting as he embarks on a new chapter /p p Where do you go after Lionel Messi, Major League Soccer? ? /p p This is not just a question MLS will ponder, but one soccer in general has been thinking about for some time. It has led to a",
+        "en": "p The former Manchester City manager is always interested in fresh challenges. Taking on another continent could be tempting as he embarks on a new chapter /p p Where do you go after Lionel Messi, Major League Soccer? ? /p p This is not just a question MLS will ponder, but one soccer in general has been thinking about for some time. It has led to a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/pep-guardiola-lionel-messi-mls",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 09:00:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48875562/inter-miami-lionel-messi-subbed-muscle-fatigue",
+      "title": {
+        "ar": "Miami confirms Messi subbed after muscle fatigue",
+        "en": "Miami confirms Messi subbed after muscle fatigue"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48875562/inter-miami-lionel-messi-subbed-muscle-fatigue",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 26 May 2026 03:45:53 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48874090/khadija-bunny-shaw-signs-new-man-city-contract-amid-chelsea-speculation",
+      "title": {
+        "ar": "Shaw signs Man City deal amid Chelsea links",
+        "en": "Shaw signs Man City deal amid Chelsea links"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48874090/khadija-bunny-shaw-signs-new-man-city-contract-amid-chelsea-speculation",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 26 May 2026 03:45:53 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48875206/ranked-world-cup-2026-favorites-most-likely-crash-out",
+      "title": {
+        "ar": "Ranked: Which World Cup favorite teams are most likely to implode this summer?",
+        "en": "Ranked: Which World Cup favorite teams are most likely to implode this summer?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48875206/ranked-world-cup-2026-favorites-most-likely-crash-out",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 26 May 2026 03:42:51 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/joao-palhinha-wants-to-stay-tottenham-bayern-munich",
+      "title": {
+        "ar": "João Palhinha wants to stay at Tottenham after helping club avoid relegation",
+        "en": "João Palhinha wants to stay at Tottenham after helping club avoid relegation"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "ul li p Spurs can sign player from Bayern Munich for £26m /p /li li p ‘Who doesn’t want to play for Tottenham and stay here?’ /p /li /ul p João Palhinha says he wants to stay at Tottenham. The midfielder, who scored the a href=\"https://www.theguardian.com/football/2026/may/24/tottenham-everton-premier-league-match-report\" decisive goal against Ever",
+        "en": "ul li p Spurs can sign player from Bayern Munich for £26m /p /li li p ‘Who doesn’t want to play for Tottenham and stay here?’ /p /li /ul p João Palhinha says he wants to stay at Tottenham. The midfielder, who scored the a href=\"https://www.theguardian.com/football/2026/may/24/tottenham-everton-premier-league-match-report\" decisive goal against Ever"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/joao-palhinha-wants-to-stay-tottenham-bayern-munich",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 08:00:49 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/bruno-fernandes-accuses-roy-keane-of-telling-lie-assist-record",
+      "title": {
+        "ar": "Bruno Fernandes accuses Roy Keane of telling lie after assists record remarks",
+        "en": "Bruno Fernandes accuses Roy Keane of telling lie after assists record remarks"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "ul li p Manchester United captain says words twisted by Keane /p /li li p Keane appears to respond with post about donkey /p /li /ul p Bruno Fernandes has accused Roy Keane of telling a “lie” about his pursuit of the Premier League assists record. Manchester United’s captain secured the outright record for assists in a season by taking his tally to",
+        "en": "ul li p Manchester United captain says words twisted by Keane /p /li li p Keane appears to respond with post about donkey /p /li /ul p Bruno Fernandes has accused Roy Keane of telling a “lie” about his pursuit of the Premier League assists record. Manchester United’s captain secured the outright record for assists in a season by taking his tally to"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/bruno-fernandes-accuses-roy-keane-of-telling-lie-assist-record",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 07:08:16 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/sardar-azmoun-iran-world-cup-protests-social-media",
+      "title": {
+        "ar": "Sardar Azmoun’s World Cup absence for political reasons divides opinion in Iran",
+        "en": "Sardar Azmoun’s World Cup absence for political reasons divides opinion in Iran"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Few would believe the forward’s omission is unconnected to his actions protesting against the regime on social media /p p Many travellers to the US have been alarmed by proposals that could require them to submit their social media history to officials. For Sardar Azmoun, it appears online activity will prevent him even from making it to the coun",
+        "en": "p Few would believe the forward’s omission is unconnected to his actions protesting against the regime on social media /p p Many travellers to the US have been alarmed by proposals that could require them to submit their social media history to officials. For Sardar Azmoun, it appears online activity will prevent him even from making it to the coun"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/sardar-azmoun-iran-world-cup-protests-social-media",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 07:00:49 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-review-our-writers-best-and-worst-of-the-season",
+      "title": {
+        "ar": "Premier League 2025-26 review: our writers’ best and worst of the season",
+        "en": "Premier League 2025-26 review: our writers’ best and worst of the season"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p The Premier League season is over, but what did Guardian football writers enjoy, dislike or marvel at over the last nine months? /p p Goalkeepers never usually get a mention for this award but strong David Raya /strong played an integral role in Arsenal finally getting over the line, winning the Premier League’s Golden Glove award for a third yea",
+        "en": "p The Premier League season is over, but what did Guardian football writers enjoy, dislike or marvel at over the last nine months? /p p Goalkeepers never usually get a mention for this award but strong David Raya /strong played an integral role in Arsenal finally getting over the line, winning the Premier League’s Golden Glove award for a third yea"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-review-our-writers-best-and-worst-of-the-season",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 07:00:47 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "title": {
@@ -75,81 +375,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Mon, 25 May 2026 21:03:57 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1775,231 +2000,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Sun, 17 May 2026 17:50:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/liverpool-vs-brentford/report/531503",
-      "title": {
-        "ar": "Liverpool held by Brentford as Salah says goodbye to Anfield",
-        "en": "Liverpool held by Brentford as Salah says goodbye to Anfield"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-premier-legue-liverpool_7257318.jpg?20260524174410",
-      "url": "https://www.skysports.com/football/liverpool-vs-brentford/report/531503",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 24 May 2026 18:05:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/24/burnley-wolves-premier-league-match-report",
-      "title": {
-        "ar": "Wolves end up worst of worst after Zian Flemming grabs point for Burnley",
-        "en": "Wolves end up worst of worst after Zian Flemming grabs point for Burnley"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Burnley came from behind to make sure the ignominy of finishing bottom of the Premier League went to Wolves as the two relegated sides fought out a 1-1 draw at Turf Moor. /p p This was a battle for pride – plus about £2.6m extra in merit payments – and Rob Edwards’ side took an early lead through Adam Armstrong’s penalty. But interim Burnley coac",
-        "en": "p Burnley came from behind to make sure the ignominy of finishing bottom of the Premier League went to Wolves as the two relegated sides fought out a 1-1 draw at Turf Moor. /p p This was a battle for pride – plus about £2.6m extra in merit payments – and Rob Edwards’ side took an early lead through Adam Armstrong’s penalty. But interim Burnley coac"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/24/burnley-wolves-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 17:29:42 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/24/sunderland-chelsea-premier-league-match-report",
-      "title": {
-        "ar": "Sensational Sunderland qualify for Europa League after 10-man Chelsea fall apart",
-        "en": "Sensational Sunderland qualify for Europa League after 10-man Chelsea fall apart"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "p Who saw this coming? A year ago Sunderland won the Championship playoffs and were everybody’s favourite for an immediate relegation. Instead, Régis Le Bris’s wonderfully resilient side have finished seventh and secured a lucrative passport to the Europa League. /p p This fully merited win against a Chelsea side whose own European ambitions were s",
-        "en": "p Who saw this coming? A year ago Sunderland won the Championship playoffs and were everybody’s favourite for an immediate relegation. Instead, Régis Le Bris’s wonderfully resilient side have finished seventh and secured a lucrative passport to the Europa League. /p p This fully merited win against a Chelsea side whose own European ambitions were s"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/24/sunderland-chelsea-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 17:27:15 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/24/manchester-city-aston-villa-premier-league-match-report",
-      "title": {
-        "ar": "Aston Villa’s Ollie Watkins spoils Guardiola’s Manchester City leaving party",
-        "en": "Aston Villa’s Ollie Watkins spoils Guardiola’s Manchester City leaving party"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p “Pep Guardiola!”: the two magical words for all of a Manchester City stripe came from the Etihad Stadium announcer ahead of the great man’s entrance in light-tan slacks and white T-shirt, a ‘P’ for Pep emblazoned across the left breast pocket. /p p The reception was rapturous. Poignant too. From a record 60,332 crowd due to the opening of the ext",
-        "en": "p “Pep Guardiola!”: the two magical words for all of a Manchester City stripe came from the Etihad Stadium announcer ahead of the great man’s entrance in light-tan slacks and white T-shirt, a ‘P’ for Pep emblazoned across the left breast pocket. /p p The reception was rapturous. Poignant too. From a record 60,332 crowd due to the opening of the ext"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/24/manchester-city-aston-villa-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 17:22:42 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/24/brighton-manchester-united-premier-league-match-report",
-      "title": {
-        "ar": "Fernandes sets record as Manchester United win but Brighton still qualify for Europe",
-        "en": "Fernandes sets record as Manchester United win but Brighton still qualify for Europe"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Sussex by the sea will host Conference League football next season even if Brighton could not keep their side of the bargain. They let their fate drop from their control, their fans enduring an anxious afternoon of relying on results elsewhere and a decent 5G connection. Eventually, as players and coaches stood in the centre circle, the good news",
-        "en": "p Sussex by the sea will host Conference League football next season even if Brighton could not keep their side of the bargain. They let their fate drop from their control, their fans enduring an anxious afternoon of relying on results elsewhere and a decent 5G connection. Eventually, as players and coaches stood in the centre circle, the good news"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/24/brighton-manchester-united-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 17:20:46 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/24/liverpool-brentford-premier-league-match-report",
-      "title": {
-        "ar": "Liverpool held by Brentford as Anfield bids Salah and Robertson farewell",
-        "en": "Liverpool held by Brentford as Anfield bids Salah and Robertson farewell"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p A Liverpool without Mohamed Salah and Andy Robertson is hard to comprehend, however well signposted their exits have been, and as the two Anfield greats walked up to the Kop together for one last time it was also difficult to see where Arne Slot’s side are heading next season in their absence. The most positive aspect of a uniquely challenging se",
-        "en": "p A Liverpool without Mohamed Salah and Andy Robertson is hard to comprehend, however well signposted their exits have been, and as the two Anfield greats walked up to the Kop together for one last time it was also difficult to see where Arne Slot’s side are heading next season in their absence. The most positive aspect of a uniquely challenging se"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/24/liverpool-brentford-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 17:19:08 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/24/crystal-palace-arsenal-premier-league-match-report",
-      "title": {
-        "ar": "Arsenal celebrate Premier League in style with relaxed win at Crystal Palace",
-        "en": "Arsenal celebrate Premier League in style with relaxed win at Crystal Palace"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p /p p This was an occasion for Mikel Arteta to savour. With owner Stan Kroenke watching on from the stands on a rare visit to see his team in the flesh, Arsenal celebrated a href=\"https://www.theguardian.com/football/live/2026/may/19/arsenal-premier-league-champions-first-time-in-22-years-live-reaction\" being crowned champions /a for the first tim",
-        "en": "p /p p This was an occasion for Mikel Arteta to savour. With owner Stan Kroenke watching on from the stands on a rare visit to see his team in the flesh, Arsenal celebrated a href=\"https://www.theguardian.com/football/live/2026/may/19/arsenal-premier-league-champions-first-time-in-22-years-live-reaction\" being crowned champions /a for the first tim"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/24/crystal-palace-arsenal-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 17:19:06 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/24/tottenham-everton-premier-league-match-report",
-      "title": {
-        "ar": "Spurs secure survival as João Palhinha sees off Everton to seal West Ham’s fate",
-        "en": "Spurs secure survival as João Palhinha sees off Everton to seal West Ham’s fate"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p It was a question of dignity, according to Roberto De Zerbi, which was certainly a valid starting point. But for Tottenham, it was so much else besides. Reputations. Livelihoods. The very future of the club. Everything was on the line because the ­consequences of a first relegation from English football’s top division since 1977 did not bear thin",
-        "en": "p It was a question of dignity, according to Roberto De Zerbi, which was certainly a valid starting point. But for Tottenham, it was so much else besides. Reputations. Livelihoods. The very future of the club. Everything was on the line because the ­consequences of a first relegation from English football’s top division since 1977 did not bear thin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/24/tottenham-everton-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 17:18:56 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/24/nottingham-forest-bournemouth-premier-league-match-report",
-      "title": {
-        "ar": "Bournemouth denied Champions League spot despite Tavernier securing point at Forest",
-        "en": "Bournemouth denied Champions League spot despite Tavernier securing point at Forest"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p All aboard Rayanair, the airline of choice projected on to a giant flag with which Bournemouth’s players celebrated and one cherry-picked for their first European adventure. There was an inflatable plane bobbing around the away end and, for long periods, their unlikely Champions League dream was on. The Europa League will have to suffice. Andoni ",
-        "en": "p All aboard Rayanair, the airline of choice projected on to a giant flag with which Bournemouth’s players celebrated and one cherry-picked for their first European adventure. There was an inflatable plane bobbing around the away end and, for long periods, their unlikely Champions League dream was on. The Europa League will have to suffice. Andoni "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/24/nottingham-forest-bournemouth-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 17:10:59 GMT",
       "rewritten": false,
       "lang": "en"
     }
