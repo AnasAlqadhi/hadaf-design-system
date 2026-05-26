@@ -1,8 +1,233 @@
 {
   "version": 2,
-  "updated": "2026-05-26T15:55:01.827Z",
+  "updated": "2026-05-26T20:17:25.693Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/watch/video/13548231/steven-naismith-backs-lawrence-shankland-for-strong-world-cup-amidst-rangers-rumours-best-hes-ever-been",
+      "title": {
+        "ar": "'Best he's ever been' | Naismith backs Shankland to shine at World Cup amid Rangers move",
+        "en": "'Best he's ever been' | Naismith backs Shankland to shine at World Cup amid Rangers move"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-scotland-steven-naismith_7259036.jpg?20260526162618",
+      "url": "https://www.skysports.com/watch/video/13548231/steven-naismith-backs-lawrence-shankland-for-strong-world-cup-amidst-rangers-rumours-best-hes-ever-been",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 26 May 2026 16:15:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13548161/scott-mctominay-on-the-surreal-scotland-world-cup-buzz-and-a-strange-reunion-with-michael-carrick-and-man-utd",
+      "title": {
+        "ar": "McTominay's 'surreal' World Cup buzz and unexpected reunion with Carrick & Man Utd",
+        "en": "McTominay's 'surreal' World Cup buzz and unexpected reunion with Carrick & Man Utd"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-scott-mctominay-scotland_7258860.jpg?20260526123822",
+      "url": "https://www.skysports.com/watch/video/13548161/scott-mctominay-on-the-surreal-scotland-world-cup-buzz-and-a-strange-reunion-with-michael-carrick-and-man-utd",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 26 May 2026 12:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": {
+        "ar": "Bournemouth latest: Iraola set for further talks with AC Milan",
+        "en": "Bournemouth latest: Iraola set for further talks with AC Milan"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-bournemouth-news_7039242.jpg?20251002155747",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 26 May 2026 11:53:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/gallery/2026/may/26/usmnt-world-cup-squad-in-pictures",
+      "title": {
+        "ar": "World Cup 2026: Mauricio Pochettino’s USMNT squad – in pictures",
+        "en": "World Cup 2026: Mauricio Pochettino’s USMNT squad – in pictures"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p From the Robinsons to Folarin Balogun, a player-by-player guide to the United States’ squad of 26 for the World Cup /p ul li p a href=\"https://www.theguardian.com/football/2026/may/26/usmnt-world-cup-roster-2026\" USMNT squad is unveiled at New York event /a /p /li /ul p /p a href=\"https://www.theguardian.com/football/gallery/2026/may/26/usmnt-wor",
+        "en": "p From the Robinsons to Folarin Balogun, a player-by-player guide to the United States’ squad of 26 for the World Cup /p ul li p a href=\"https://www.theguardian.com/football/2026/may/26/usmnt-world-cup-roster-2026\" USMNT squad is unveiled at New York event /a /p /li /ul p /p a href=\"https://www.theguardian.com/football/gallery/2026/may/26/usmnt-wor"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/gallery/2026/may/26/usmnt-world-cup-squad-in-pictures",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 19:46:12 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/alexia-putellas-barcelona-london-city-lionesses-transfer-news",
+      "title": {
+        "ar": "Alexia Putellas leaves Barcelona after 14 years amid link to London City Lionesses",
+        "en": "Alexia Putellas leaves Barcelona after 14 years amid link to London City Lionesses"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Two-time Ballon d’Or winner leaves club after 14 years /p /li li p London City one of many clubs interested in midfielder /p /li /ul p Barcelona have announced the exit of their talismanic captain, Alèxia Putellas, after the expiration of the two-time Ballon d’Or winner’s contract at the end of the season. /p p The 32-year-old, who was born",
+        "en": "ul li p Two-time Ballon d’Or winner leaves club after 14 years /p /li li p London City one of many clubs interested in midfielder /p /li /ul p Barcelona have announced the exit of their talismanic captain, Alèxia Putellas, after the expiration of the two-time Ballon d’Or winner’s contract at the end of the season. /p p The 32-year-old, who was born"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/alexia-putellas-barcelona-london-city-lionesses-transfer-news",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 19:34:26 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/bundesliga-2025-26-awards-our-players-goal-coach-and-head-loss-of-the-season",
+      "title": {
+        "ar": "Bundesliga 2025-26 awards: our players, goal, coach and head loss of the season",
+        "en": "Bundesliga 2025-26 awards: our players, goal, coach and head loss of the season"
+      },
+      "kicker": {
+        "ar": "البوندسليغا",
+        "en": "Bundesliga"
+      },
+      "excerpt": {
+        "ar": "p Who was the best player, and why is it not Harry Kane? Which loanee is already a superstar? And who bottled it? /p p A hearty pat on the back to Hoffenheim, the unexpected and unfancied top-four gatecrashers who ultimately couldn’t quite hold on. This season has been all about Bayern, though, and not just in the normal they-always-win-it way. To ",
+        "en": "p Who was the best player, and why is it not Harry Kane? Which loanee is already a superstar? And who bottled it? /p p A hearty pat on the back to Hoffenheim, the unexpected and unfancied top-four gatecrashers who ultimately couldn’t quite hold on. This season has been all about Bayern, though, and not just in the normal they-always-win-it way. To "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/bundesliga-2025-26-awards-our-players-goal-coach-and-head-loss-of-the-season",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 18:00:05 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/pfa-calls-out-crazy-calendar-as-responsible-for-cole-palmer-and-phil-foden-burnout",
+      "title": {
+        "ar": "PFA calls out ‘crazy calendar’ as responsible for Cole Palmer and Phil Foden burnout",
+        "en": "PFA calls out ‘crazy calendar’ as responsible for Cole Palmer and Phil Foden burnout"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p ‘Not the version of Phil Foden we saw two years ago’ /p /li li p Chief executive says game being damaged by demands /p /li /ul p Phil Foden and Cole Palmer missed out on this summer’s World Cup because they have been overworked, according to the chief executive of the Professional Footballers’ Association. /p p Maheta Molango was speaking a",
+        "en": "ul li p ‘Not the version of Phil Foden we saw two years ago’ /p /li li p Chief executive says game being damaged by demands /p /li /ul p Phil Foden and Cole Palmer missed out on this summer’s World Cup because they have been overworked, according to the chief executive of the Professional Footballers’ Association. /p p Maheta Molango was speaking a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/pfa-calls-out-crazy-calendar-as-responsible-for-cole-palmer-and-phil-foden-burnout",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 17:41:56 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/francesco-farioli-porto-champions",
+      "title": {
+        "ar": "‘I had loser stamped on my head’: how Porto’s Francesco Farioli bounced back",
+        "en": "‘I had loser stamped on my head’: how Porto’s Francesco Farioli bounced back"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Italian’s reputation was bruised at Ajax but he has turned Porto back into title winners and is one of Europe’s most sought-after coaches again /p p After Francesco Farioli surrendered a nine-point lead in his final five matches at Ajax, he felt the word “loser” had been stamped across his forehead. Clubs that had pursued him quietly stepped back",
+        "en": "p Italian’s reputation was bruised at Ajax but he has turned Porto back into title winners and is one of Europe’s most sought-after coaches again /p p After Francesco Farioli surrendered a nine-point lead in his final five matches at Ajax, he felt the word “loser” had been stamped across his forehead. Clubs that had pursued him quietly stepped back"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/francesco-farioli-porto-champions",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 16:00:02 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-season-review-predictions-reality-liverpool-chelsea-brentford-sunderland",
+      "title": {
+        "ar": "Premier League 2025-26 season review: our predictions v reality",
+        "en": "Premier League 2025-26 season review: our predictions v reality"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear /p p strong What we predicted: /strong Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in the Premier League for a third season in succession and the new sporting director, Andrea Berta, has delivered on a",
+        "en": "p We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear /p p strong What we predicted: /strong Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in the Premier League for a third season in succession and the new sporting director, Andrea Berta, has delivered on a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-season-review-predictions-reality-liverpool-chelsea-brentford-sunderland",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 15:56:24 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/darts/live-blog/12040/13548117/premier-league-darts-finals-night-live-updates-video-commentary-as-luke-littler-luke-humphries-gerwyn-price-and-jonny-clayton-go-for-glory",
       "title": {
@@ -200,81 +425,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Tue, 26 May 2026 11:00:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1850,156 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Mon, 25 May 2026 01:53:05 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48862443/arsenal-lift-premier-league-trophy-22-year-wait",
-      "title": {
-        "ar": "Arsenal finally lift Premier League trophy after 2...",
-        "en": "Arsenal finally lift Premier League trophy after 2..."
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48862443/arsenal-lift-premier-league-trophy-22-year-wait",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sun, 24 May 2026 19:00:47 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48838211/9-stats-explain-how-arsenal-won-premier-league",
-      "title": {
-        "ar": "9 stats that explain why -- and how -- Arsenal won...",
-        "en": "9 stats that explain why -- and how -- Arsenal won..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48838211/9-stats-explain-how-arsenal-won-premier-league",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sun, 24 May 2026 19:00:47 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/24/european-football-conte-napoli-como-champions-league-juventus-milan",
-      "title": {
-        "ar": "Conte calls time on Napoli amid ‘too much poison’; Como into Champions League",
-        "en": "Conte calls time on Napoli amid ‘too much poison’; Como into Champions League"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "ul li p Juventus and Milan miss out on top four Serie A spots /p /li li p Turin derby at Torino delayed after pre-match clash /p /li /ul p Antonio Conte announced his departure as strong Napoli /strong head coach on Sunday after guiding the team to a 1-0 home victory over strong Udinese /strong in their final match of the Serie A season. /p p The 5",
-        "en": "ul li p Juventus and Milan miss out on top four Serie A spots /p /li li p Turin derby at Torino delayed after pre-match clash /p /li /ul p Antonio Conte announced his departure as strong Napoli /strong head coach on Sunday after guiding the team to a 1-0 home victory over strong Udinese /strong in their final match of the Serie A season. /p p The 5"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/24/european-football-conte-napoli-como-champions-league-juventus-milan",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 21:19:04 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/24/relegation-the-inevitable-outcome-of-west-hams-relentless-executive-failure",
-      "title": {
-        "ar": "Relegation the inevitable outcome of West Ham’s relentless executive failure | Barney Ronay",
-        "en": "Relegation the inevitable outcome of West Ham’s relentless executive failure | Barney Ronay"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Once-proud club has forgotten what it was trying to be after years of mismanagement in a shopping-centre annexe /p p If you’re going to die, die with your boots on. Belatedly and pointlessly on. But on all the same. It felt deeply fitting that West Ham should show some fight on the final day of the Premier League season, but that relegation shoul",
-        "en": "p Once-proud club has forgotten what it was trying to be after years of mismanagement in a shopping-centre annexe /p p If you’re going to die, die with your boots on. Belatedly and pointlessly on. But on all the same. It felt deeply fitting that West Ham should show some fight on the final day of the Premier League season, but that relegation shoul"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/24/relegation-the-inevitable-outcome-of-west-hams-relentless-executive-failure",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 19:54:29 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/24/pep-guardiola-manchester-city-fans-pay-tribute",
-      "title": {
-        "ar": "‘He will be for ever our boss’: Manchester City fans pay tribute to Pep Guardiola",
-        "en": "‘He will be for ever our boss’: Manchester City fans pay tribute to Pep Guardiola"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Supporters pay respects to man who took them to ‘a galaxy only a handful of teams in world football experience’ /p p “I’m utterly devastated and have already shed tears,” says Manchester City fan Sophie Hope. There is a feeling of loss around the Etihad Stadium, a bereavement that everyone knew was coming but it does not make it any easier to tak",
-        "en": "p Supporters pay respects to man who took them to ‘a galaxy only a handful of teams in world football experience’ /p p “I’m utterly devastated and have already shed tears,” says Manchester City fan Sophie Hope. There is a feeling of loss around the Etihad Stadium, a bereavement that everyone knew was coming but it does not make it any easier to tak"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/24/pep-guardiola-manchester-city-fans-pay-tribute",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 19:35:57 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/24/fulham-newcastle-premier-league-match-report",
-      "title": {
-        "ar": "Marco Silva to reveal Fulham future by ‘next week’ after beating Newcastle",
-        "en": "Marco Silva to reveal Fulham future by ‘next week’ after beating Newcastle"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The Fulham manager, Marco Silva, promised a decision next week on his future and admitted his team missed the “cherry on the cake” by failing to qualify for Europe. /p p A 2-0 win over Newcastle at Craven Cottage will have been a happy sendoff if, as looks likely, the lure of replacing José Mourinho at Benfica proves sufficiently tempting for Sil",
-        "en": "p The Fulham manager, Marco Silva, promised a decision next week on his future and admitted his team missed the “cherry on the cake” by failing to qualify for Europe. /p p A 2-0 win over Newcastle at Craven Cottage will have been a happy sendoff if, as looks likely, the lure of replacing José Mourinho at Benfica proves sufficiently tempting for Sil"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/24/fulham-newcastle-premier-league-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 24 May 2026 17:27:19 GMT",
       "rewritten": false,
       "lang": "en"
     }
