@@ -1,8 +1,183 @@
 {
   "version": 2,
-  "updated": "2026-05-26T20:17:25.693Z",
+  "updated": "2026-05-27T04:21:11.629Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13548071/mikel-arteta-arsenal-boss-named-premier-league-manager-of-the-season-after-leading-gunners-to-first-title-in-22-years",
+      "title": {
+        "ar": "Arteta named Premier League Manager of the Season",
+        "en": "Arteta named Premier League Manager of the Season"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-mikel-arteta-arsenal_7258629.jpg?20260526085536",
+      "url": "https://www.skysports.com/football/news/12040/13548071/mikel-arteta-arsenal-boss-named-premier-league-manager-of-the-season-after-leading-gunners-to-first-title-in-22-years",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 26 May 2026 22:20:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/27/czechia-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Czechia World Cup 2026 team guide",
+        "en": "Czechia World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Two penalty shootout triumphs in the playoffs sent the Czechs to a first World Cup in 20 years and an experienced side look capable of progress /p p em This article is part of the Guardian’s 2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running p",
+        "en": "p Two penalty shootout triumphs in the playoffs sent the Czechs to a first World Cup in 20 years and an experienced side look capable of progress /p p em This article is part of the Guardian’s 2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running p"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/27/czechia-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 23:01:11 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/usmnt-world-cup-squad-mauricio-pochettino-email-players",
+      "title": {
+        "ar": "Missing a World Cup, over email? Pochettino defends communication style with tough decisions behind him",
+        "en": "Missing a World Cup, over email? Pochettino defends communication style with tough decisions behind him"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p The US head coach said there was no point in speaking to players directly, but some former US World Cup cuts disagree /p ul li p a href=\"https://www.theguardian.com/football/gallery/2026/may/26/usmnt-world-cup-squad-in-pictures\" strong The USMNT’s 2026 World Cup squad – in pictures /strong /a /p /li /ul p On Tuesday afternoon, at the tail end of ",
+        "en": "p The US head coach said there was no point in speaking to players directly, but some former US World Cup cuts disagree /p ul li p a href=\"https://www.theguardian.com/football/gallery/2026/may/26/usmnt-world-cup-squad-in-pictures\" strong The USMNT’s 2026 World Cup squad – in pictures /strong /a /p /li /ul p On Tuesday afternoon, at the tail end of "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/usmnt-world-cup-squad-mauricio-pochettino-email-players",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 22:25:05 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/oliver-glasner-crystal-palace-conference-league-final-europa-league-place-uefa",
+      "title": {
+        "ar": "Glasner urges Crystal Palace to win final and take up rightful Europa League place",
+        "en": "Glasner urges Crystal Palace to win final and take up rightful Europa League place"
+      },
+      "kicker": {
+        "ar": "الدوري الأوروبي",
+        "en": "Europa League"
+      },
+      "excerpt": {
+        "ar": "ul li p Palace were demoted to Conference League by Uefa /p /li li p Wednesday night’s final in Leipzig is Glasner’s last game /p /li /ul p Oliver Glasner has urged Crystal Palace to win the Conference League final so they can take up the Europa League place denied them this season after they fell foul of Uefa’s multi-club ownership rules. /p p Las",
+        "en": "ul li p Palace were demoted to Conference League by Uefa /p /li li p Wednesday night’s final in Leipzig is Glasner’s last game /p /li /ul p Oliver Glasner has urged Crystal Palace to win the Conference League final so they can take up the Europa League place denied them this season after they fell foul of Uefa’s multi-club ownership rules. /p p Las"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/oliver-glasner-crystal-palace-conference-league-final-europa-league-place-uefa",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 19:05:01 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/watch/video/13548231/steven-naismith-backs-lawrence-shankland-for-strong-world-cup-amidst-rangers-rumours-best-hes-ever-been",
       "title": {
@@ -1825,181 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Sun, 24 May 2026 21:54:19 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48830020/after-nine-years-andy-robertson-leaves-liverpool-people-champion",
-      "title": {
-        "ar": "After nine years, Robertson leaves Liverpool as 'T...",
-        "en": "After nine years, Robertson leaves Liverpool as 'T..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48830020/after-nine-years-andy-robertson-leaves-liverpool-people-champion",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sun, 24 May 2026 21:54:19 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48867274/lionel-messi-exit-overshadows-miami-win-record-half",
-      "title": {
-        "ar": "Messi exit overshadows Miami win, record half",
-        "en": "Messi exit overshadows Miami win, record half"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48867274/lionel-messi-exit-overshadows-miami-win-record-half",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sun, 24 May 2026 21:23:52 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48864945/fabregas-guides-como-first-ucl-milan-pulisic-out",
-      "title": {
-        "ar": "Fabregas guides Como to UCL; Milan, Pulisic out",
-        "en": "Fabregas guides Como to UCL; Milan, Pulisic out"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48864945/fabregas-guides-como-first-ucl-milan-pulisic-out",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sun, 24 May 2026 21:23:52 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48863380/mohamed-salah-cried-more-whole-life-final-liverpool-appearance",
-      "title": {
-        "ar": "Salah: 'Cried more than in whole life' in last gam...",
-        "en": "Salah: 'Cried more than in whole life' in last gam..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48863380/mohamed-salah-cried-more-whole-life-final-liverpool-appearance",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sun, 24 May 2026 21:23:52 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48863459/rare-cristiano-ronaldo-card-fetches-135m-private-sale",
-      "title": {
-        "ar": "Rare Ronaldo card fetches $1.35M at private sale",
-        "en": "Rare Ronaldo card fetches $1.35M at private sale"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48863459/rare-cristiano-ronaldo-card-fetches-135m-private-sale",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sun, 24 May 2026 21:23:52 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48862153/bruno-fernandes-breaks-record-most-assists-premier-league-season",
-      "title": {
-        "ar": "Fernandes claims Premier League assist record",
-        "en": "Fernandes claims Premier League assist record"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48862153/bruno-fernandes-breaks-record-most-assists-premier-league-season",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sun, 24 May 2026 21:23:52 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/24/lionel-messi-injury-inter-miami-argentina-world-cup-2026",
-      "title": {
-        "ar": "Lionel Messi exits final Miami game before World Cup with possible injury",
-        "en": "Lionel Messi exits final Miami game before World Cup with possible injury"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Messi exited Miami’s 6-4 win in the 73rd minute /p /li li p Argentina’s World Cup begins in 23 days v Algeria /p /li /ul p Lionel Messi exited Inter Miami’s wild 6-4 win against the Philadelphia Union early on Sunday night, a worrying sight for the Argentina side he captains in his last game before he joins up with the national team for the",
-        "en": "ul li p Messi exited Miami’s 6-4 win in the 73rd minute /p /li li p Argentina’s World Cup begins in 23 days v Algeria /p /li /ul p Lionel Messi exited Inter Miami’s wild 6-4 win against the Philadelphia Union early on Sunday night, a worrying sight for the Argentina side he captains in his last game before he joins up with the national team for the"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/24/lionel-messi-injury-inter-miami-argentina-world-cup-2026",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 25 May 2026 01:53:05 GMT",
       "rewritten": false,
       "lang": "en"
     }
