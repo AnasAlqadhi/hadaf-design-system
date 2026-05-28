@@ -1,8 +1,183 @@
 {
   "version": 2,
-  "updated": "2026-05-28T04:11:20.437Z",
+  "updated": "2026-05-28T10:15:02.428Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13548482/champions-league-final-who-does-mikel-arteta-pick-in-his-arsenal-starting-xi-to-face-psg-in-budapest",
+      "title": {
+        "ar": "Arteta's big Champions League final selection dilemmas",
+        "en": "Arteta's big Champions League final selection dilemmas"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-champions-league_7259597.jpg?20260527152724",
+      "url": "https://www.skysports.com/football/news/12040/13548482/champions-league-final-who-does-mikel-arteta-pick-in-his-arsenal-starting-xi-to-face-psg-in-budapest",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 28 May 2026 10:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12040/13546931/oscar-piastri-mclaren-driver-flattered-by-reports-he-is-red-bulls-first-choice-as-max-verstappen-replacement",
+      "title": {
+        "ar": "Piastri 'flattered' by possible Red Bull interest amid Verstappen uncertainty",
+        "en": "Piastri 'flattered' by possible Red Bull interest amid Verstappen uncertainty"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-oscar-piastri-max_7241267.jpg?20260507112045",
+      "url": "https://www.skysports.com/f1/news/12040/13546931/oscar-piastri-mclaren-driver-flattered-by-reports-he-is-red-bulls-first-choice-as-max-verstappen-replacement",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 28 May 2026 07:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13548061/andrea-pirlo-interview-legendary-italy-midfielder-on-psg-and-how-football-has-changed-you-need-players-who-are-fast",
+      "title": {
+        "ar": "Pirlo: Football has changed and you need fast players now",
+        "en": "Pirlo: Football has changed and you need fast players now"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "Sky Sports. It has become much more physical, much faster. In fact, if you want to win now, you need players who are fast and technically good one-on-one. Otherwise, you go nowhere. ]]>",
+        "en": "Sky Sports. It has become much more physical, much faster. In fact, if you want to win now, you need players who are fast and technically good one-on-one. Otherwise, you go nowhere. ]]>"
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-andrea-pirlo-italy_7259680.jpg?20260527170524",
+      "url": "https://www.skysports.com/football/news/12040/13548061/andrea-pirlo-interview-legendary-italy-midfielder-on-psg-and-how-football-has-changed-you-need-players-who-are-fast",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 28 May 2026 07:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/28/a-champions-league-final-in-budapest-marks-a-return-and-begs-a-bigger-question",
+      "title": {
+        "ar": "Budapest is perfect for the Champions League final – but tournament remains a closed shop",
+        "en": "Budapest is perfect for the Champions League final – but tournament remains a closed shop"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p Hungary’s rich footballing heritage is unlikely to make an impact on Europe’s premier club competition as clubs from small countries stand no chance /p p Before the Champions League final, I want to spare a thought for one of the eliminated semi-finalists. Diego Simeone impresses me. For 15 years, he has had to push the boulder up the mountain ag",
+        "en": "p Hungary’s rich footballing heritage is unlikely to make an impact on Europe’s premier club competition as clubs from small countries stand no chance /p p Before the Champions League final, I want to spare a thought for one of the eliminated semi-finalists. Diego Simeone impresses me. For 15 years, he has had to push the boulder up the mountain ag"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/28/a-champions-league-final-in-budapest-marks-a-return-and-begs-a-bigger-question",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 09:00:01 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/28/bosnia-and-herzegovina-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Bosnia and Herzegovina  World Cup 2026 team guide",
+        "en": "Bosnia and Herzegovina  World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p After finally getting his chance to manage his country, Sergej Barbarez has conjured the passion and energy that could make his team an interesting watch /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation bet",
+        "en": "p After finally getting his chance to manage his country, Sergej Barbarez has conjured the passion and energy that could make his team an interesting watch /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation bet"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/28/bosnia-and-herzegovina-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 07:00:03 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/28/bournemouth-transfer-window-eli-junior-kroupi-rayan-alex-scott",
+      "title": {
+        "ar": "Bournemouth determined to hold on to Kroupi, Rayan and Scott this summer",
+        "en": "Bournemouth determined to hold on to Kroupi, Rayan and Scott this summer"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Club ready to resist offers for trio amid mounting interest /p /li li p Bournemouth hope to agree new contract with Alex Scott /p /li /ul p Bournemouth are determined to resist any summer offers for Eli Junior Kroupi, Rayan and Alex Scott with mounting interest in the trio. The club are confident Scott will sign a new long-term contract des",
+        "en": "ul li p Club ready to resist offers for trio amid mounting interest /p /li li p Bournemouth hope to agree new contract with Alex Scott /p /li /ul p Bournemouth are determined to resist any summer offers for Eli Junior Kroupi, Rayan and Alex Scott with mounting interest in the trio. The club are confident Scott will sign a new long-term contract des"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/28/bournemouth-transfer-window-eli-junior-kroupi-rayan-alex-scott",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 07:00:02 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/28/sol-campbell-psg-favourites-luck-arsenal-champions-league-interview",
+      "title": {
+        "ar": "Sol Campbell: ‘PSG are favourites but sometimes you need a little luck’",
+        "en": "Sol Campbell: ‘PSG are favourites but sometimes you need a little luck’"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p Former England defender on why he walked out on Arsenal, their chances in the Champions League final and Tuchel wielding the axe /p p “They’ve got a wonderful group of players and a great manager in Mikel Arteta but having come so close three times on the bounce I felt these guys needed it,” Sol Campbell says of a href=\"https://www.theguardian.co",
+        "en": "p Former England defender on why he walked out on Arsenal, their chances in the Champions League final and Tuchel wielding the axe /p p “They’ve got a wonderful group of players and a great manager in Mikel Arteta but having come so close three times on the bounce I felt these guys needed it,” Sol Campbell says of a href=\"https://www.theguardian.co"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/28/sol-campbell-psg-favourites-luck-arsenal-champions-league-interview",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 05:00:54 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.espn.com/soccer/story/_/id/48894901/neymar-misses-first-brazil-training-camp-further-tests",
       "title": {
@@ -100,231 +275,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Wed, 27 May 2026 21:05:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/27/manchester-united-agree-to-sign-ederson-as-midfeld-rebuild-begins-to-take-shape",
-      "title": {
-        "ar": "Manchester United agree £37m deal for Éderson as midfield rebuild starts",
-        "en": "Manchester United agree £37m deal for Éderson as midfield rebuild starts"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "ul li p Atalanta star is not in Brazil’s World Cup squad /p /li li p United looking for midfield depth after Casemiro exit /p /li /ul p Manchester United have agreed to sign the Atalanta midfielder Éderson for a fee which could rise to about £37m as they work to bolster the squad for their return to the Champions League. /p p Éderson is in line to ",
-        "en": "ul li p Atalanta star is not in Brazil’s World Cup squad /p /li li p United looking for midfield depth after Casemiro exit /p /li /ul p Manchester United have agreed to sign the Atalanta midfielder Éderson for a fee which could rise to about £37m as they work to bolster the squad for their return to the Champions League. /p p Éderson is in line to "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/27/manchester-united-agree-to-sign-ederson-as-midfeld-rebuild-begins-to-take-shape",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 27 May 2026 16:09:39 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/25/story-of-2025-26-premier-league-season-in-100-photos",
-      "title": {
-        "ar": "The story of the Premier League 2025-26 season in 100 photos",
-        "en": "The story of the Premier League 2025-26 season in 100 photos"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p A century of our favourite images from the season including wild celebrations, protesting fans and goalmouth scrambles /p p Reigning champions Liverpool left it late to a href=\"https://www.theguardian.com/football/2025/aug/15/liverpool-bournemouth-premier-league-match-report\" beat Bournemouth 4-2 /a on the opening day of the season in their first",
-        "en": "p A century of our favourite images from the season including wild celebrations, protesting fans and goalmouth scrambles /p p Reigning champions Liverpool left it late to a href=\"https://www.theguardian.com/football/2025/aug/15/liverpool-bournemouth-premier-league-match-report\" beat Bournemouth 4-2 /a on the opening day of the season in their first"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/25/story-of-2025-26-premier-league-season-in-100-photos",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 25 May 2026 19:00:33 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/25/premier-league-2025-26-review-gripes-of-the-season",
-      "title": {
-        "ar": "Premier League 2025-26 review: gripes of the season",
-        "en": "Premier League 2025-26 review: gripes of the season"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p The most infuriating things, including mayhem at set pieces, daft jerseys and a largely ignored video game /p p You will almost certainly be aware that there have been a load of set-piece goals this season, and an extraordinary proliferation of long throws. At times the self-styled greatest league in the world has drowned in a torrent of guileles",
-        "en": "p The most infuriating things, including mayhem at set pieces, daft jerseys and a largely ignored video game /p p You will almost certainly be aware that there have been a load of set-piece goals this season, and an extraordinary proliferation of long throws. At times the self-styled greatest league in the world has drowned in a torrent of guileles"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/25/premier-league-2025-26-review-gripes-of-the-season",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 25 May 2026 10:30:23 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13548532/anthony-gordon-transfer-news-barcelona-reach-agreement-with-newcastle-for-england-international-winger",
-      "title": {
-        "ar": "Barcelona reach agreement with Newcastle for Gordon over £69m deal",
-        "en": "Barcelona reach agreement with Newcastle for Gordon over £69m deal"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-gordon-anthony-gordon_7259774.jpg?20260527194549",
-      "url": "https://www.skysports.com/football/news/12040/13548532/anthony-gordon-transfer-news-barcelona-reach-agreement-with-newcastle-for-england-international-winger",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 27 May 2026 19:50:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13548219/champions-league-final-predictions-and-best-bets-arsenal-to-go-from-nearly-men-to-double-winners-by-beating-psg",
-      "title": {
-        "ar": "CL final predictions: Arsenal can go from nearly-men to double winners",
-        "en": "CL final predictions: Arsenal can go from nearly-men to double winners"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-football-champions-league_7259322.jpg?20260527074941",
-      "url": "https://www.skysports.com/football/news/12040/13548219/champions-league-final-predictions-and-best-bets-arsenal-to-go-from-nearly-men-to-double-winners-by-beating-psg",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 27 May 2026 17:40:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/darts/news/12040/13548137/luke-littler-focused-on-getting-past-gerwyn-price-before-thoughts-of-premier-league-trilogy-with-luke-humphries",
-      "title": {
-        "ar": "Littler focused on Price before thoughts of Premier League trilogy with Humphries",
-        "en": "Littler focused on Price before thoughts of Premier League trilogy with Humphries"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-luke-littler-darts_7242452.jpg?20260508110823",
-      "url": "https://www.skysports.com/darts/news/12040/13548137/luke-littler-focused-on-getting-past-gerwyn-price-before-thoughts-of-premier-league-trilogy-with-luke-humphries",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 27 May 2026 18:42:00 BST",
       "rewritten": false,
       "lang": "en"
     },
@@ -504,6 +454,31 @@
       "lang": "en"
     },
     {
+      "id": "https://www.theguardian.com/football/2026/may/27/manchester-united-agree-to-sign-ederson-as-midfeld-rebuild-begins-to-take-shape",
+      "title": {
+        "ar": "Manchester United agree £37m deal for Éderson as midfield rebuild starts",
+        "en": "Manchester United agree £37m deal for Éderson as midfield rebuild starts"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "ul li p Atalanta star is not in Brazil’s World Cup squad /p /li li p United looking for midfield depth after Casemiro exit /p /li /ul p Manchester United have agreed to sign the Atalanta midfielder Éderson for a fee which could rise to about £37m as they work to bolster the squad for their return to the Champions League. /p p Éderson is in line to ",
+        "en": "ul li p Atalanta star is not in Brazil’s World Cup squad /p /li li p United looking for midfield depth after Casemiro exit /p /li /ul p Manchester United have agreed to sign the Atalanta midfielder Éderson for a fee which could rise to about £37m as they work to bolster the squad for their return to the Champions League. /p p Éderson is in line to "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/27/manchester-united-agree-to-sign-ederson-as-midfeld-rebuild-begins-to-take-shape",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 27 May 2026 16:09:39 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
       "id": "https://www.theguardian.com/football/2026/may/27/arteta-ready-to-take-final-step-on-arsenals-20-year-journey-to-redemption",
       "title": {
         "ar": "Arteta ready to take final step on Arsenal’s 20-year journey to redemption",
@@ -550,81 +525,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Wed, 27 May 2026 15:52:19 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/27/south-africa-world-cup-2026-team-guide-soccer",
-      "title": {
-        "ar": "South Africa World Cup 2026 team guide",
-        "en": "South Africa World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Hugo Broos has transformed Bafana Bafana, creating a side strong on teamwork and held together by Teboho Mokoena /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations",
-        "en": "p Hugo Broos has transformed Bafana Bafana, creating a side strong on teamwork and held together by Teboho Mokoena /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/27/south-africa-world-cup-2026-team-guide-soccer",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 27 May 2026 15:00:23 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13547826/anthony-gordon-transfer-news-barcelona-join-bayern-munich-in-the-race-to-sign-newcastle-winger",
-      "title": {
-        "ar": "Barcelona join race to sign Gordon as talks begin",
-        "en": "Barcelona join race to sign Gordon as talks begin"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-anthony-gordon-newcastle_7126089.jpg?20260527141654",
-      "url": "https://www.skysports.com/football/news/12040/13547826/anthony-gordon-transfer-news-barcelona-join-bayern-munich-in-the-race-to-sign-newcastle-winger",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 27 May 2026 11:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13548417/manchester-city-transfer-news-no-interest-in-enzo-fernandez-but-elliot-anderson-remains-the-priority",
-      "title": {
-        "ar": "Man City prioritise Anderson as Chelsea put £100m price tag on Enzo",
-        "en": "Man City prioritise Anderson as Chelsea put £100m price tag on Enzo"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-transfers-transfer-window_7258136.jpg?20260527111934",
-      "url": "https://www.skysports.com/football/news/12040/13548417/manchester-city-transfer-news-no-interest-in-enzo-fernandez-but-elliot-anderson-remains-the-priority",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 27 May 2026 11:13:00 BST",
       "rewritten": false,
       "lang": "en"
     },
@@ -779,6 +679,56 @@
       "lang": "en"
     },
     {
+      "id": "https://www.espn.com/soccer/story/_/id/48888898/why-jose-mourinho-real-madrid-return-affected-laliga-club-presidential-elections-florentino-perez-enrique-riquelme",
+      "title": {
+        "ar": "Why Mourinho's potential Real Madrid return is aff...",
+        "en": "Why Mourinho's potential Real Madrid return is aff..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48888898/why-jose-mourinho-real-madrid-return-affected-laliga-club-presidential-elections-florentino-perez-enrique-riquelme",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 27 May 2026 05:53:09 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48882873/ranking-10-official-fifa-world-cup-songs-shakira-ricky-martin",
+      "title": {
+        "ar": "Ranking the 10 official FIFA World Cup songs, from...",
+        "en": "Ranking the 10 official FIFA World Cup songs, from..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48882873/ranking-10-official-fifa-world-cup-songs-shakira-ricky-martin",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Wed, 27 May 2026 05:53:02 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
       "id": "https://www.theguardian.com/football/2026/may/27/argentina-scaloni-lionel-messi-injury-fears-world-cup-defence",
       "title": {
         "ar": "‘Not that bad’: Argentina’s Scaloni calms Messi injury fears before World Cup defence",
@@ -825,6 +775,231 @@
         "en": "The Guardian"
       },
       "pubDate": "Wed, 27 May 2026 09:46:19 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-review-our-writers-best-and-worst-of-the-season",
+      "title": {
+        "ar": "Premier League 2025-26 review: our writers’ best and worst of the season",
+        "en": "Premier League 2025-26 review: our writers’ best and worst of the season"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p The Premier League season is over, but what did Guardian football writers enjoy, dislike or marvel at over the last nine months? /p p Goalkeepers never usually get a mention for this award but strong David Raya /strong played an integral role in Arsenal finally getting over the line, winning the Premier League’s Golden Glove award for a third yea",
+        "en": "p The Premier League season is over, but what did Guardian football writers enjoy, dislike or marvel at over the last nine months? /p p Goalkeepers never usually get a mention for this award but strong David Raya /strong played an integral role in Arsenal finally getting over the line, winning the Premier League’s Golden Glove award for a third yea"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-review-our-writers-best-and-worst-of-the-season",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 07:00:47 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/25/story-of-2025-26-premier-league-season-in-100-photos",
+      "title": {
+        "ar": "The story of the Premier League 2025-26 season in 100 photos",
+        "en": "The story of the Premier League 2025-26 season in 100 photos"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p A century of our favourite images from the season including wild celebrations, protesting fans and goalmouth scrambles /p p Reigning champions Liverpool left it late to a href=\"https://www.theguardian.com/football/2025/aug/15/liverpool-bournemouth-premier-league-match-report\" beat Bournemouth 4-2 /a on the opening day of the season in their first",
+        "en": "p A century of our favourite images from the season including wild celebrations, protesting fans and goalmouth scrambles /p p Reigning champions Liverpool left it late to a href=\"https://www.theguardian.com/football/2025/aug/15/liverpool-bournemouth-premier-league-match-report\" beat Bournemouth 4-2 /a on the opening day of the season in their first"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/25/story-of-2025-26-premier-league-season-in-100-photos",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 25 May 2026 19:00:33 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/25/premier-league-2025-26-review-gripes-of-the-season",
+      "title": {
+        "ar": "Premier League 2025-26 review: gripes of the season",
+        "en": "Premier League 2025-26 review: gripes of the season"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p The most infuriating things, including mayhem at set pieces, daft jerseys and a largely ignored video game /p p You will almost certainly be aware that there have been a load of set-piece goals this season, and an extraordinary proliferation of long throws. At times the self-styled greatest league in the world has drowned in a torrent of guileles",
+        "en": "p The most infuriating things, including mayhem at set pieces, daft jerseys and a largely ignored video game /p p You will almost certainly be aware that there have been a load of set-piece goals this season, and an extraordinary proliferation of long throws. At times the self-styled greatest league in the world has drowned in a torrent of guileles"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/25/premier-league-2025-26-review-gripes-of-the-season",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 25 May 2026 10:30:23 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13548532/anthony-gordon-transfer-news-barcelona-reach-agreement-with-newcastle-for-england-international-winger",
+      "title": {
+        "ar": "Barcelona reach agreement with Newcastle for Gordon over £69m deal",
+        "en": "Barcelona reach agreement with Newcastle for Gordon over £69m deal"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-gordon-anthony-gordon_7259774.jpg?20260527194549",
+      "url": "https://www.skysports.com/football/news/12040/13548532/anthony-gordon-transfer-news-barcelona-reach-agreement-with-newcastle-for-england-international-winger",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 27 May 2026 19:50:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13548219/champions-league-final-predictions-and-best-bets-arsenal-to-go-from-nearly-men-to-double-winners-by-beating-psg",
+      "title": {
+        "ar": "CL final predictions: Arsenal can go from nearly-men to double winners",
+        "en": "CL final predictions: Arsenal can go from nearly-men to double winners"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-football-champions-league_7259322.jpg?20260527074941",
+      "url": "https://www.skysports.com/football/news/12040/13548219/champions-league-final-predictions-and-best-bets-arsenal-to-go-from-nearly-men-to-double-winners-by-beating-psg",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 27 May 2026 17:40:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/darts/news/12040/13548137/luke-littler-focused-on-getting-past-gerwyn-price-before-thoughts-of-premier-league-trilogy-with-luke-humphries",
+      "title": {
+        "ar": "Littler focused on Price before thoughts of Premier League trilogy with Humphries",
+        "en": "Littler focused on Price before thoughts of Premier League trilogy with Humphries"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-luke-littler-darts_7242452.jpg?20260508110823",
+      "url": "https://www.skysports.com/darts/news/12040/13548137/luke-littler-focused-on-getting-past-gerwyn-price-before-thoughts-of-premier-league-trilogy-with-luke-humphries",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 27 May 2026 18:42:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/27/south-africa-world-cup-2026-team-guide-soccer",
+      "title": {
+        "ar": "South Africa World Cup 2026 team guide",
+        "en": "South Africa World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Hugo Broos has transformed Bafana Bafana, creating a side strong on teamwork and held together by Teboho Mokoena /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations",
+        "en": "p Hugo Broos has transformed Bafana Bafana, creating a side strong on teamwork and held together by Teboho Mokoena /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/27/south-africa-world-cup-2026-team-guide-soccer",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 27 May 2026 15:00:23 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13547826/anthony-gordon-transfer-news-barcelona-join-bayern-munich-in-the-race-to-sign-newcastle-winger",
+      "title": {
+        "ar": "Barcelona join race to sign Gordon as talks begin",
+        "en": "Barcelona join race to sign Gordon as talks begin"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-anthony-gordon-newcastle_7126089.jpg?20260527141654",
+      "url": "https://www.skysports.com/football/news/12040/13547826/anthony-gordon-transfer-news-barcelona-join-bayern-munich-in-the-race-to-sign-newcastle-winger",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 27 May 2026 11:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13548417/manchester-city-transfer-news-no-interest-in-enzo-fernandez-but-elliot-anderson-remains-the-priority",
+      "title": {
+        "ar": "Man City prioritise Anderson as Chelsea put £100m price tag on Enzo",
+        "en": "Man City prioritise Anderson as Chelsea put £100m price tag on Enzo"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-transfers-transfer-window_7258136.jpg?20260527111934",
+      "url": "https://www.skysports.com/football/news/12040/13548417/manchester-city-transfer-news-no-interest-in-enzo-fernandez-but-elliot-anderson-remains-the-priority",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 27 May 2026 11:13:00 BST",
       "rewritten": false,
       "lang": "en"
     },
@@ -900,56 +1075,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Wed, 27 May 2026 09:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48888898/why-jose-mourinho-real-madrid-return-affected-laliga-club-presidential-elections-florentino-perez-enrique-riquelme",
-      "title": {
-        "ar": "Why Mourinho's potential Real Madrid return is aff...",
-        "en": "Why Mourinho's potential Real Madrid return is aff..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48888898/why-jose-mourinho-real-madrid-return-affected-laliga-club-presidential-elections-florentino-perez-enrique-riquelme",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 27 May 2026 05:53:09 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48882873/ranking-10-official-fifa-world-cup-songs-shakira-ricky-martin",
-      "title": {
-        "ar": "Ranking the 10 official FIFA World Cup songs, from...",
-        "en": "Ranking the 10 official FIFA World Cup songs, from..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48882873/ranking-10-official-fifa-world-cup-songs-shakira-ricky-martin",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 27 May 2026 05:53:02 EST",
       "rewritten": false,
       "lang": "en"
     },
@@ -1875,131 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Tue, 26 May 2026 11:35:36 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/26/is-3v3-the-future-of-football-fa-under-sevens",
-      "title": {
-        "ar": "Is 3v3 the future of football? Why FA thinks ‘playground feel’ is the way ahead",
-        "en": "Is 3v3 the future of football? Why FA thinks ‘playground feel’ is the way ahead"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p New format is coming in for under-sevens next season, aimed at giving children more chance to express themselves /p p There are six different colours of bib strewn across the indoor pitches of St George’s Park. There’s an equally vibrant kaleidoscope of disc cones marking out small pitches, and there are collapsible goals at each end. Amid it all",
-        "en": "p New format is coming in for under-sevens next season, aimed at giving children more chance to express themselves /p p There are six different colours of bib strewn across the indoor pitches of St George’s Park. There’s an equally vibrant kaleidoscope of disc cones marking out small pitches, and there are collapsible goals at each end. Amid it all"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/26/is-3v3-the-future-of-football-fa-under-sevens",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 11:00:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13547837/arsenal-underdogs-in-champions-league-final-vs-best-team-in-europe-psg-warns-gary-neville",
-      "title": {
-        "ar": "Neville: Next step for Arsenal is to win CL - but 'best in Europe' await",
-        "en": "Neville: Next step for Arsenal is to win CL - but 'best in Europe' await"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-arsneal-title-arsenal_7257496.jpg?20260524191747",
-      "url": "https://www.skysports.com/football/news/12040/13547837/arsenal-underdogs-in-champions-league-final-vs-best-team-in-europe-psg-warns-gary-neville",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 26 May 2026 10:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48872015/laliga-2025-26-awards-lamine-yamal-barcelona-reign-spain-again-graham-hunter",
-      "title": {
-        "ar": "LaLiga 2025-26 awards: Yamal, Barcelona reign in S...",
-        "en": "LaLiga 2025-26 awards: Yamal, Barcelona reign in S..."
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48872015/laliga-2025-26-awards-lamine-yamal-barcelona-reign-spain-again-graham-hunter",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 26 May 2026 05:10:38 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/picture/2026/may/26/david-squires-on-arsenal-premier-league-title",
-      "title": {
-        "ar": "David Squires on … the only way to mark Arsenal’s Premier League title",
-        "en": "David Squires on … the only way to mark Arsenal’s Premier League title"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Our cartoonist reflects on the Gunners ending their 22-year existential crisis to become English champions again /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires\" strong Buy a Squires cartoon /strong /a strong | /strong a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of",
-        "en": "p Our cartoonist reflects on the Gunners ending their 22-year existential crisis to become English champions again /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires\" strong Buy a Squires cartoon /strong /a strong | /strong a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/picture/2026/may/26/david-squires-on-arsenal-premier-league-title",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 09:58:00 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/26/west-ham-board-split-nuno-future-kretinsky-manager",
-      "title": {
-        "ar": "West Ham board split on Nuno’s future, with Kretinsky said to be backing manager",
-        "en": "West Ham board split on Nuno’s future, with Kretinsky said to be backing manager"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "ul li p David Sullivan understood to be less sure over Nuno /p /li li p Decision expected this week after relegation /p /li /ul p West Ham’s board are split on Nuno Espírito Santo’s future, opening the possibility of the manager staying after relegation from the Premier League. /p p Nuno was called in for crisis talks on Monday and a decision is ex",
-        "en": "ul li p David Sullivan understood to be less sure over Nuno /p /li li p Decision expected this week after relegation /p /li /ul p West Ham’s board are split on Nuno Espírito Santo’s future, opening the possibility of the manager staying after relegation from the Premier League. /p p Nuno was called in for crisis talks on Monday and a decision is ex"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/26/west-ham-board-split-nuno-future-kretinsky-manager",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 09:51:24 GMT",
       "rewritten": false,
       "lang": "en"
     }
