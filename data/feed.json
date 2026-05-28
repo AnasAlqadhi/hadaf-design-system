@@ -1,8 +1,508 @@
 {
   "version": 2,
-  "updated": "2026-05-28T10:15:02.428Z",
+  "updated": "2026-05-28T16:14:28.113Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13548799/arsenals-co-chair-reveals-secrets-of-how-kroenke-family-went-from-furious-fan-protests-to-premier-league-title-glory-and-dynasty-planning",
+      "title": {
+        "ar": "Kroenke: We have foundations to dominate after waking 'sleeping giant' Arsenal",
+        "en": "Kroenke: We have foundations to dominate after waking 'sleeping giant' Arsenal"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-josh-kroenke-arsenal_7260181.jpg?20260528114922",
+      "url": "https://www.skysports.com/football/news/12040/13548799/arsenals-co-chair-reveals-secrets-of-how-kroenke-family-went-from-furious-fan-protests-to-premier-league-title-glory-and-dynasty-planning",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 28 May 2026 16:52:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13548735/mikel-arteta-new-contract-arsenal-owners-optimistic-of-tying-manager-to-new-deal-after-premier-league-win",
+      "title": {
+        "ar": "Arsenal owners planning new contract for Arteta",
+        "en": "Arsenal owners planning new contract for Arteta"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-arsenal_7259386.jpg?20260527100137",
+      "url": "https://www.skysports.com/football/news/12040/13548735/mikel-arteta-new-contract-arsenal-owners-optimistic-of-tying-manager-to-new-deal-after-premier-league-win",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 28 May 2026 17:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13548706/exclusive-anthony-gordon-boards-flight-to-barcelona-to-complete-medical",
+      "title": {
+        "ar": "EXCLUSIVE! Gordon boards flight ahead of £69.3m Barcelona move!",
+        "en": "EXCLUSIVE! Gordon boards flight ahead of £69.3m Barcelona move!"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-gordon-barca_7260218.jpg?20260528122641",
+      "url": "https://www.skysports.com/watch/video/13548706/exclusive-anthony-gordon-boards-flight-to-barcelona-to-complete-medical",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 28 May 2026 12:25:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/cricket/news/12040/13548573/charlie-dean-says-england-will-do-whatever-it-takes-to-keep-winning-ahead-of-womens-t20-world-cup",
+      "title": {
+        "ar": "'Keep winning' - Dean reveals Edwards' instructions ahead of T20 World Cup",
+        "en": "'Keep winning' - Dean reveals Edwards' instructions ahead of T20 World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-charlie-dean_7259852.jpg?20260528100711",
+      "url": "https://www.skysports.com/cricket/news/12040/13548573/charlie-dean-says-england-will-do-whatever-it-takes-to-keep-winning-ahead-of-womens-t20-world-cup",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 27 May 2026 20:46:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13547830/world-sevens-football-fixtures-schedule-teams-and-how-to-watch-live-on-sky-sports",
+      "title": {
+        "ar": "Chelsea, Man Utd in World Sevens tournament, live on Sky Sports!",
+        "en": "Chelsea, Man Utd in World Sevens tournament, live on Sky Sports!"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "Sky Sports, with eight WSL and WSL2 teams taking part. From the teams to the fixture schedule and format, here's all you need to know...]]>",
+        "en": "Sky Sports, with eight WSL and WSL2 teams taking part. From the teams to the fixture schedule and format, here's all you need to know...]]>"
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-womens-football-world-sevens_7258182.jpg?20260525135707",
+      "url": "https://www.skysports.com/football/news/12040/13547830/world-sevens-football-fixtures-schedule-teams-and-how-to-watch-live-on-sky-sports",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 25 May 2026 14:20:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13547056/world-cup-ivan-perisic-on-croatia-pride-secrets-to-their-success-and-relishing-another-match-up-with-england",
+      "title": {
+        "ar": "Perisic relishing England test as Croatia target another 'special' World Cup",
+        "en": "Perisic relishing England test as Croatia target another 'special' World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-perisic-ivan-croatia_7255870.jpg?20260522155443",
+      "url": "https://www.skysports.com/football/news/12040/13547056/world-cup-ivan-perisic-on-croatia-pride-secrets-to-their-success-and-relishing-another-match-up-with-england",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 28 May 2026 13:40:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13548716/inside-liverpools-season-of-pain-diogo-jotas-tragic-death-and-a-dreadful-defence-of-their-premier-league-title",
+      "title": {
+        "ar": "Inside Liverpool's season of pain",
+        "en": "Inside Liverpool's season of pain"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/02/1920x1080/skysports-virgil-van-dijk-liverpool_7159562.jpg?20260208195542",
+      "url": "https://www.skysports.com/football/news/12040/13548716/inside-liverpools-season-of-pain-diogo-jotas-tragic-death-and-a-dreadful-defence-of-their-premier-league-title",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 28 May 2026 12:32:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/28/canada-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Canada World Cup 2026 team guide",
+        "en": "Canada World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Jesse Marsch has developed an in-form team that has lifted the co-hosts’ hopes, though the fitness of Alphonso Davies and Moïse Bombito is a concern /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between ",
+        "en": "p Jesse Marsch has developed an in-form team that has lifted the co-hosts’ hopes, though the fitness of Alphonso Davies and Moïse Bombito is a concern /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/28/canada-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 15:00:25 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/28/direct-intense-selfish-what-are-barcelona-getting-in-anthony-gordon",
+      "title": {
+        "ar": "Direct, intense … selfish? What are Barcelona getting in Anthony Gordon?",
+        "en": "Direct, intense … selfish? What are Barcelona getting in Anthony Gordon?"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p Some Newcastle fans are pleased to cash in but the winger’s pedigree in the Champions League is unquestionable /p p José Mourinho was a man on a mission. Once the final whistle blew, he made a beeline for Anthony Gordon and not only embraced the England winger but whispered four words in his ear. /p p “You are too much,” was the message from Benf",
+        "en": "p Some Newcastle fans are pleased to cash in but the winger’s pedigree in the Champions League is unquestionable /p p José Mourinho was a man on a mission. Once the final whistle blew, he made a beeline for Anthony Gordon and not only embraced the England winger but whispered four words in his ear. /p p “You are too much,” was the message from Benf"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/28/direct-intense-selfish-what-are-barcelona-getting-in-anthony-gordon",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 14:58:05 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/28/crystal-palace-keep-good-times-rolling-but-must-now-fend-off-more-sharks",
+      "title": {
+        "ar": "Football Daily | Crystal Palace keep good times rolling but must now fend off more sharks",
+        "en": "Football Daily | Crystal Palace keep good times rolling but must now fend off more sharks"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p Described as “a feel-good final” at kick-off by commentator Adam Summerton, last night’s Tin Pot decider between Crystal Palace and Rayo Vallecano could scarcely have been more gloopy. It wa",
+        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p Described as “a feel-good final” at kick-off by commentator Adam Summerton, last night’s Tin Pot decider between Crystal Palace and Rayo Vallecano could scarcely have been more gloopy. It wa"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/28/crystal-palace-keep-good-times-rolling-but-must-now-fend-off-more-sharks",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 14:25:23 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/28/full-backs-midfield-balance-arsenal-tactics-psg-champions-league-final",
+      "title": {
+        "ar": "Full-backs and midfield balance key to Arsenal hopes of taming PSG’s devastating wings",
+        "en": "Full-backs and midfield balance key to Arsenal hopes of taming PSG’s devastating wings"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p Jurriën Timber’s likely unavailability means a reshuffle that will affect selections in all areas of the side /p p It would be easy to look at Saturday’s Champions League final between Paris Saint-Germain and Arsenal and see it as a battle of attack versus defence, of beauty against pragmatism, of French elan against English doughtiness, as some ",
+        "en": "p Jurriën Timber’s likely unavailability means a reshuffle that will affect selections in all areas of the side /p p It would be easy to look at Saturday’s Champions League final between Paris Saint-Germain and Arsenal and see it as a battle of attack versus defence, of beauty against pragmatism, of French elan against English doughtiness, as some "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/28/full-backs-midfield-balance-arsenal-tactics-psg-champions-league-final",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 13:41:40 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
+      "title": {
+        "ar": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly",
+        "en": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba",
+        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 11:39:07 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030",
+      "title": {
+        "ar": "Steve Clarke ‘proud to continue’ after signing new Scotland contract to 2030",
+        "en": "Steve Clarke ‘proud to continue’ after signing new Scotland contract to 2030"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Manager’s deal announced shortly before World Cup /p /li li p Clarke will have served for 11 years if he sees out contract /p /li /ul p Scotland’s manager, Steve Clarke, has signed a four-year contract extension, meaning he will remain in place until the end of the country’s 2030 World Cup campaign. The fresh, improved terms are no surprise",
+        "en": "ul li p Manager’s deal announced shortly before World Cup /p /li li p Clarke will have served for 11 years if he sees out contract /p /li /ul p Scotland’s manager, Steve Clarke, has signed a four-year contract extension, meaning he will remain in place until the end of the country’s 2030 World Cup campaign. The fresh, improved terms are no surprise"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 11:04:12 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/28/luis-enrique-keeping-chaos-for-champions-league-after-psgs-stroll-to-ligue-1-title",
+      "title": {
+        "ar": "Luis Enrique keeping chaos for Champions League after PSG’s stroll to Ligue 1 title",
+        "en": "Luis Enrique keeping chaos for Champions League after PSG’s stroll to Ligue 1 title"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p Manager has saved his stars for Europe with French champions benefiting from scheduling tweaks on way to title /p p “Every year I have less and less control,” Luis Enrique admitted last week. It may be a surprising remark from a manager whose success with Paris Saint-Germain has earned him unprecedented sway, but it is a good description of his t",
+        "en": "p Manager has saved his stars for Europe with French champions benefiting from scheduling tweaks on way to title /p p “Every year I have less and less control,” Luis Enrique admitted last week. It may be a surprising remark from a manager whose success with Paris Saint-Germain has earned him unprecedented sway, but it is a good description of his t"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/28/luis-enrique-keeping-chaos-for-champions-league-after-psgs-stroll-to-ligue-1-title",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 11:00:20 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/28/serie-a-2025-26-awards-our-goals-team-and-culinary-scandal-of-the-season",
+      "title": {
+        "ar": "Serie A 2025-26 awards: our goals, team and culinary scandal of the season | Nicky Bandini",
+        "en": "Serie A 2025-26 awards: our goals, team and culinary scandal of the season | Nicky Bandini"
+      },
+      "kicker": {
+        "ar": "الدوري الإيطالي",
+        "en": "Serie A"
+      },
+      "excerpt": {
+        "ar": "p Inter bounced back under Cristian Chivu, Como made a splash, and Scott McTominay kept Napoli ticking /p p This has not been a happy year for Italian football. The men’s national team failed to qualify for a third consecutive World Cup, while Serie A clubs endured one humiliation after another in Uefa competition. /p p Inter went from Champions Le",
+        "en": "p Inter bounced back under Cristian Chivu, Como made a splash, and Scott McTominay kept Napoli ticking /p p This has not been a happy year for Italian football. The men’s national team failed to qualify for a third consecutive World Cup, while Serie A clubs endured one humiliation after another in Uefa competition. /p p Inter went from Champions Le"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/28/serie-a-2025-26-awards-our-goals-team-and-culinary-scandal-of-the-season",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 10:40:19 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/28/torreense-womens-champions-league-portugal-womens-football",
+      "title": {
+        "ar": "‘Our unity defined our team’: how tiny Torreense made the Women’s Champions League",
+        "en": "‘Our unity defined our team’: how tiny Torreense made the Women’s Champions League"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p Portuguese club come from a city of 19,000 people and their stadium holds 2,400 – next season they’ll be up against the best in Europe, and they can’t wait /p p For the first time ever, the blue-and-garnet colours of SCU Torreense will be worn in a continental tournament. Based in the city of Torres Vedras, about 30 miles north of Lisbon, they qu",
+        "en": "p Portuguese club come from a city of 19,000 people and their stadium holds 2,400 – next season they’ll be up against the best in Europe, and they can’t wait /p p For the first time ever, the blue-and-garnet colours of SCU Torreense will be worn in a continental tournament. Based in the city of Torres Vedras, about 30 miles north of Lisbon, they qu"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/28/torreense-womens-champions-league-portugal-womens-football",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 10:32:59 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/cj9pgdrkjvdo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "مصري على رأس القائمة: من هم أكبر اللاعبين سناً في تاريخ كأس العالم؟",
+        "en": "مصري على رأس القائمة: من هم أكبر اللاعبين سناً في تاريخ كأس العالم؟"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b80/live/1a5466d0-55d5-11f1-8b8c-6d33e1d5abb6.jpg",
+      "url": "https://www.bbc.com/arabic/articles/cj9pgdrkjvdo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Thu, 28 May 2026 10:21:18 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13548482/champions-league-final-who-does-mikel-arteta-pick-in-his-arsenal-starting-xi-to-face-psg-in-budapest",
       "title": {
@@ -1500,506 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Tue, 26 May 2026 21:47:40 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13548071/mikel-arteta-arsenal-boss-named-premier-league-manager-of-the-season-after-leading-gunners-to-first-title-in-22-years",
-      "title": {
-        "ar": "Arteta named Premier League Manager of the Season",
-        "en": "Arteta named Premier League Manager of the Season"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-mikel-arteta-arsenal_7258629.jpg?20260526085536",
-      "url": "https://www.skysports.com/football/news/12040/13548071/mikel-arteta-arsenal-boss-named-premier-league-manager-of-the-season-after-leading-gunners-to-first-title-in-22-years",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 26 May 2026 22:20:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/27/czechia-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Czechia World Cup 2026 team guide",
-        "en": "Czechia World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Two penalty shootout triumphs in the playoffs sent the Czechs to a first World Cup in 20 years and an experienced side look capable of progress /p p em This article is part of the Guardian’s 2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running p",
-        "en": "p Two penalty shootout triumphs in the playoffs sent the Czechs to a first World Cup in 20 years and an experienced side look capable of progress /p p em This article is part of the Guardian’s 2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running p"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/27/czechia-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 23:01:11 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/26/usmnt-world-cup-squad-mauricio-pochettino-email-players",
-      "title": {
-        "ar": "Missing a World Cup, over email? Pochettino defends communication style with tough decisions behind him",
-        "en": "Missing a World Cup, over email? Pochettino defends communication style with tough decisions behind him"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p The US head coach said there was no point in speaking to players directly, but some former US World Cup cuts disagree /p ul li p a href=\"https://www.theguardian.com/football/gallery/2026/may/26/usmnt-world-cup-squad-in-pictures\" strong The USMNT’s 2026 World Cup squad – in pictures /strong /a /p /li /ul p On Tuesday afternoon, at the tail end of ",
-        "en": "p The US head coach said there was no point in speaking to players directly, but some former US World Cup cuts disagree /p ul li p a href=\"https://www.theguardian.com/football/gallery/2026/may/26/usmnt-world-cup-squad-in-pictures\" strong The USMNT’s 2026 World Cup squad – in pictures /strong /a /p /li /ul p On Tuesday afternoon, at the tail end of "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/26/usmnt-world-cup-squad-mauricio-pochettino-email-players",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 22:25:05 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/26/oliver-glasner-crystal-palace-conference-league-final-europa-league-place-uefa",
-      "title": {
-        "ar": "Glasner urges Crystal Palace to win final and take up rightful Europa League place",
-        "en": "Glasner urges Crystal Palace to win final and take up rightful Europa League place"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "ul li p Palace were demoted to Conference League by Uefa /p /li li p Wednesday night’s final in Leipzig is Glasner’s last game /p /li /ul p Oliver Glasner has urged Crystal Palace to win the Conference League final so they can take up the Europa League place denied them this season after they fell foul of Uefa’s multi-club ownership rules. /p p Las",
-        "en": "ul li p Palace were demoted to Conference League by Uefa /p /li li p Wednesday night’s final in Leipzig is Glasner’s last game /p /li /ul p Oliver Glasner has urged Crystal Palace to win the Conference League final so they can take up the Europa League place denied them this season after they fell foul of Uefa’s multi-club ownership rules. /p p Las"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/26/oliver-glasner-crystal-palace-conference-league-final-europa-league-place-uefa",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 19:05:01 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13548231/steven-naismith-backs-lawrence-shankland-for-strong-world-cup-amidst-rangers-rumours-best-hes-ever-been",
-      "title": {
-        "ar": "'Best he's ever been' | Naismith backs Shankland to shine at World Cup amid Rangers move",
-        "en": "'Best he's ever been' | Naismith backs Shankland to shine at World Cup amid Rangers move"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-scotland-steven-naismith_7259036.jpg?20260526162618",
-      "url": "https://www.skysports.com/watch/video/13548231/steven-naismith-backs-lawrence-shankland-for-strong-world-cup-amidst-rangers-rumours-best-hes-ever-been",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 26 May 2026 16:15:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13548161/scott-mctominay-on-the-surreal-scotland-world-cup-buzz-and-a-strange-reunion-with-michael-carrick-and-man-utd",
-      "title": {
-        "ar": "McTominay's 'surreal' World Cup buzz and unexpected reunion with Carrick & Man Utd",
-        "en": "McTominay's 'surreal' World Cup buzz and unexpected reunion with Carrick & Man Utd"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-scott-mctominay-scotland_7258860.jpg?20260526123822",
-      "url": "https://www.skysports.com/watch/video/13548161/scott-mctominay-on-the-surreal-scotland-world-cup-buzz-and-a-strange-reunion-with-michael-carrick-and-man-utd",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 26 May 2026 12:30:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "title": {
-        "ar": "Bournemouth latest: Iraola set for further talks with AC Milan",
-        "en": "Bournemouth latest: Iraola set for further talks with AC Milan"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-bournemouth-news_7039242.jpg?20251002155747",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 26 May 2026 11:53:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/gallery/2026/may/26/usmnt-world-cup-squad-in-pictures",
-      "title": {
-        "ar": "World Cup 2026: Mauricio Pochettino’s USMNT squad – in pictures",
-        "en": "World Cup 2026: Mauricio Pochettino’s USMNT squad – in pictures"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p From the Robinsons to Folarin Balogun, a player-by-player guide to the United States’ squad of 26 for the World Cup /p ul li p a href=\"https://www.theguardian.com/football/2026/may/26/usmnt-world-cup-roster-2026\" USMNT squad is unveiled at New York event /a /p /li /ul p /p a href=\"https://www.theguardian.com/football/gallery/2026/may/26/usmnt-wor",
-        "en": "p From the Robinsons to Folarin Balogun, a player-by-player guide to the United States’ squad of 26 for the World Cup /p ul li p a href=\"https://www.theguardian.com/football/2026/may/26/usmnt-world-cup-roster-2026\" USMNT squad is unveiled at New York event /a /p /li /ul p /p a href=\"https://www.theguardian.com/football/gallery/2026/may/26/usmnt-wor"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/gallery/2026/may/26/usmnt-world-cup-squad-in-pictures",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 19:46:12 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/26/alexia-putellas-barcelona-london-city-lionesses-transfer-news",
-      "title": {
-        "ar": "Alexia Putellas leaves Barcelona after 14 years amid link to London City Lionesses",
-        "en": "Alexia Putellas leaves Barcelona after 14 years amid link to London City Lionesses"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Two-time Ballon d’Or winner leaves club after 14 years /p /li li p London City one of many clubs interested in midfielder /p /li /ul p Barcelona have announced the exit of their talismanic captain, Alèxia Putellas, after the expiration of the two-time Ballon d’Or winner’s contract at the end of the season. /p p The 32-year-old, who was born",
-        "en": "ul li p Two-time Ballon d’Or winner leaves club after 14 years /p /li li p London City one of many clubs interested in midfielder /p /li /ul p Barcelona have announced the exit of their talismanic captain, Alèxia Putellas, after the expiration of the two-time Ballon d’Or winner’s contract at the end of the season. /p p The 32-year-old, who was born"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/26/alexia-putellas-barcelona-london-city-lionesses-transfer-news",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 19:34:26 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/26/bundesliga-2025-26-awards-our-players-goal-coach-and-head-loss-of-the-season",
-      "title": {
-        "ar": "Bundesliga 2025-26 awards: our players, goal, coach and head loss of the season",
-        "en": "Bundesliga 2025-26 awards: our players, goal, coach and head loss of the season"
-      },
-      "kicker": {
-        "ar": "البوندسليغا",
-        "en": "Bundesliga"
-      },
-      "excerpt": {
-        "ar": "p Who was the best player, and why is it not Harry Kane? Which loanee is already a superstar? And who bottled it? /p p A hearty pat on the back to Hoffenheim, the unexpected and unfancied top-four gatecrashers who ultimately couldn’t quite hold on. This season has been all about Bayern, though, and not just in the normal they-always-win-it way. To ",
-        "en": "p Who was the best player, and why is it not Harry Kane? Which loanee is already a superstar? And who bottled it? /p p A hearty pat on the back to Hoffenheim, the unexpected and unfancied top-four gatecrashers who ultimately couldn’t quite hold on. This season has been all about Bayern, though, and not just in the normal they-always-win-it way. To "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/26/bundesliga-2025-26-awards-our-players-goal-coach-and-head-loss-of-the-season",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 18:00:05 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/26/pfa-calls-out-crazy-calendar-as-responsible-for-cole-palmer-and-phil-foden-burnout",
-      "title": {
-        "ar": "PFA calls out ‘crazy calendar’ as responsible for Cole Palmer and Phil Foden burnout",
-        "en": "PFA calls out ‘crazy calendar’ as responsible for Cole Palmer and Phil Foden burnout"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p ‘Not the version of Phil Foden we saw two years ago’ /p /li li p Chief executive says game being damaged by demands /p /li /ul p Phil Foden and Cole Palmer missed out on this summer’s World Cup because they have been overworked, according to the chief executive of the Professional Footballers’ Association. /p p Maheta Molango was speaking a",
-        "en": "ul li p ‘Not the version of Phil Foden we saw two years ago’ /p /li li p Chief executive says game being damaged by demands /p /li /ul p Phil Foden and Cole Palmer missed out on this summer’s World Cup because they have been overworked, according to the chief executive of the Professional Footballers’ Association. /p p Maheta Molango was speaking a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/26/pfa-calls-out-crazy-calendar-as-responsible-for-cole-palmer-and-phil-foden-burnout",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 17:41:56 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/26/francesco-farioli-porto-champions",
-      "title": {
-        "ar": "‘I had loser stamped on my head’: how Porto’s Francesco Farioli bounced back",
-        "en": "‘I had loser stamped on my head’: how Porto’s Francesco Farioli bounced back"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Italian’s reputation was bruised at Ajax but he has turned Porto back into title winners and is one of Europe’s most sought-after coaches again /p p After Francesco Farioli surrendered a nine-point lead in his final five matches at Ajax, he felt the word “loser” had been stamped across his forehead. Clubs that had pursued him quietly stepped back",
-        "en": "p Italian’s reputation was bruised at Ajax but he has turned Porto back into title winners and is one of Europe’s most sought-after coaches again /p p After Francesco Farioli surrendered a nine-point lead in his final five matches at Ajax, he felt the word “loser” had been stamped across his forehead. Clubs that had pursued him quietly stepped back"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/26/francesco-farioli-porto-champions",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 16:00:02 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-season-review-predictions-reality-liverpool-chelsea-brentford-sunderland",
-      "title": {
-        "ar": "Premier League 2025-26 season review: our predictions v reality",
-        "en": "Premier League 2025-26 season review: our predictions v reality"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear /p p strong What we predicted: /strong Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in the Premier League for a third season in succession and the new sporting director, Andrea Berta, has delivered on a",
-        "en": "p We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear /p p strong What we predicted: /strong Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in the Premier League for a third season in succession and the new sporting director, Andrea Berta, has delivered on a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-season-review-predictions-reality-liverpool-chelsea-brentford-sunderland",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 15:56:24 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/darts/live-blog/12040/13548117/premier-league-darts-finals-night-live-updates-video-commentary-as-luke-littler-luke-humphries-gerwyn-price-and-jonny-clayton-go-for-glory",
-      "title": {
-        "ar": "Premier League Darts Finals Night: Build-up to action at O2 Arena on Thursday",
-        "en": "Premier League Darts Finals Night: Build-up to action at O2 Arena on Thursday"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-darts-premier-league-darts_7258791.jpg?20260526113421",
-      "url": "https://www.skysports.com/darts/live-blog/12040/13548117/premier-league-darts-finals-night-live-updates-video-commentary-as-luke-littler-luke-humphries-gerwyn-price-and-jonny-clayton-go-for-glory",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 26 May 2026 10:38:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13548180/wsl-transfers-alexia-putellas-linked-with-london-city-lionesses-chelsea-aiming-for-a-no9-with-a-busy-summer-ahead-for-arsenal",
-      "title": {
-        "ar": "WSL: Putellas linked with London City as Chelsea, Arsenal set for changes",
-        "en": "WSL: Putellas linked with London City as Chelsea, Arsenal set for changes"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-alexia-putellas-womens-champions-league_7238146.jpg?20260503162010",
-      "url": "https://www.skysports.com/football/news/12040/13548180/wsl-transfers-alexia-putellas-linked-with-london-city-lionesses-chelsea-aiming-for-a-no9-with-a-busy-summer-ahead-for-arsenal",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 26 May 2026 14:10:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/26/football-daily-west-ham-relegated-premier-league",
-      "title": {
-        "ar": "Football Daily | West Ham pay the price … and a lot more still has to be paid",
-        "en": "Football Daily | West Ham pay the price … and a lot more still has to be paid"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p After spending the best part of 30 years letting their own fans down, Everton chose Sunday afternoon to disappoint fans of almost every other Premier League team. David Moyes had one big cha",
-        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p After spending the best part of 30 years letting their own fans down, Everton chose Sunday afternoon to disappoint fans of almost every other Premier League team. David Moyes had one big cha"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/26/football-daily-west-ham-relegated-premier-league",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 14:25:39 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/audio/2026/may/26/charlton-promoted-barcelona-reclaim-european-crown-womens-football-weekly-podcast",
-      "title": {
-        "ar": "Charlton promoted and Barcelona reclaim European crown: Women’s Football Weekly – podcast",
-        "en": "Charlton promoted and Barcelona reclaim European crown: Women’s Football Weekly – podcast"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://x.com/FayeCarruthers\" Faye Carruthers /a is joined by a href=\"https://x.com/GirlsontheBall\" Sophie Downey /a , a href=\"https://x.com/em_sandy\" Emma Sanders /a and a href=\"https://x.com/AyishaGulati\" Ayisha Gulati /a to reflect on Bunny Shaw staying at Manchester City and Barcelona’s dominant Champions League final. Plus, a href=\"h",
-        "en": "p a href=\"https://x.com/FayeCarruthers\" Faye Carruthers /a is joined by a href=\"https://x.com/GirlsontheBall\" Sophie Downey /a , a href=\"https://x.com/em_sandy\" Emma Sanders /a and a href=\"https://x.com/AyishaGulati\" Ayisha Gulati /a to reflect on Bunny Shaw staying at Manchester City and Barcelona’s dominant Champions League final. Plus, a href=\"h"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/audio/2026/may/26/charlton-promoted-barcelona-reclaim-european-crown-womens-football-weekly-podcast",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 11:59:32 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/26/michele-kang-lyonnes-barcelona-womens-champions-league-spending",
-      "title": {
-        "ar": "Kang’s spending fuels resentment but Barcelona are far from a model club",
-        "en": "Kang’s spending fuels resentment but Barcelona are far from a model club"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Billionaire investor uses her wealth to pursue glory but the Women’s Champions League winners cannot take the moral high ground /p p It has been a bad week for Michele Kang, the billionaire women’s football investor. On Wednesday the Uefa director of women’s football, Nadine Kessler, a href=\"https://www.theguardian.com/football/2026/may/20/uefa-m",
-        "en": "p Billionaire investor uses her wealth to pursue glory but the Women’s Champions League winners cannot take the moral high ground /p p It has been a bad week for Michele Kang, the billionaire women’s football investor. On Wednesday the Uefa director of women’s football, Nadine Kessler, a href=\"https://www.theguardian.com/football/2026/may/20/uefa-m"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/26/michele-kang-lyonnes-barcelona-womens-champions-league-spending",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 11:52:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/26/crystal-palace-european-final-road-leipzig-europa-league",
-      "title": {
-        "ar": "From fury to a European final: Crystal Palace’s topsy-turvy road to Leipzig",
-        "en": "From fury to a European final: Crystal Palace’s topsy-turvy road to Leipzig"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "p Palace were cruelly denied a place in the Europa League but they are now one win away from their first European trophy /p p By a href=\"https://thefootballmine.com/\" The Football Mine /a /p p If following a football club can be a rollercoaster, this season has been the equivalent of the Oblivion ride at Alton Towers for Crystal Palace supporters. ",
-        "en": "p Palace were cruelly denied a place in the Europa League but they are now one win away from their first European trophy /p p By a href=\"https://thefootballmine.com/\" The Football Mine /a /p p If following a football club can be a rollercoaster, this season has been the equivalent of the Oblivion ride at Alton Towers for Crystal Palace supporters. "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/26/crystal-palace-european-final-road-leipzig-europa-league",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 11:35:59 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/audio/2026/may/26/hull-city-roar-back-to-premier-league-efl-playoffs-special-football-weekly-podcast",
-      "title": {
-        "ar": "Hull City roar back to Premier League. EFL playoffs special: Football Weekly – podcast",
-        "en": "Hull City roar back to Premier League. EFL playoffs special: Football Weekly – podcast"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , George Elek and Ali Maxwell after a weekend of EFL playoffs that saw Oli McBurnie take Hull City back to the Premier League for the first time in a decade /p p strong Rate, ",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , George Elek and Ali Maxwell after a weekend of EFL playoffs that saw Oli McBurnie take Hull City back to the Premier League for the first time in a decade /p p strong Rate, "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/audio/2026/may/26/hull-city-roar-back-to-premier-league-efl-playoffs-special-football-weekly-podcast",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 11:35:36 GMT",
       "rewritten": false,
       "lang": "en"
     }
