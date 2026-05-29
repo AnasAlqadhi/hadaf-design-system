@@ -1,8 +1,483 @@
 {
   "version": 2,
-  "updated": "2026-05-29T15:56:25.608Z",
+  "updated": "2026-05-29T20:33:39.839Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13548577/anthony-gordon-transfer-news-barcelona-reach-agreement-with-newcastle-for-england-international-winger",
+      "title": {
+        "ar": "Gordon completes blockbuster Barcelona move",
+        "en": "Gordon completes blockbuster Barcelona move"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-anthony-gordon-barcelona_7261099.png?20260529143620",
+      "url": "https://www.skysports.com/football/news/12040/13548577/anthony-gordon-transfer-news-barcelona-reach-agreement-with-newcastle-for-england-international-winger",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 27 May 2026 21:54:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549155/atletico-madrid-accuse-barcelona-of-smear-campaign-over-potential-bid-for-julian-alvarez-this-summer",
+      "title": {
+        "ar": "Atletico accuse Barcelona of 'smear campaign' over Alvarez deal",
+        "en": "Atletico accuse Barcelona of 'smear campaign' over Alvarez deal"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-julian-alvarez-atletico-madrid_7261294.jpg?20260529191506",
+      "url": "https://www.skysports.com/football/news/12040/13549155/atletico-madrid-accuse-barcelona-of-smear-campaign-over-potential-bid-for-julian-alvarez-this-summer",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 29 May 2026 20:06:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549001/arsenal-ready-to-take-shot-at-immortality-in-champions-league-final-against-psg-but-which-side-has-the-edge",
+      "title": {
+        "ar": "Arsenal ready to take their shot at immortality",
+        "en": "Arsenal ready to take their shot at immortality"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-arsenal-psg_7260026.png?20260528082741",
+      "url": "https://www.skysports.com/football/news/12040/13549001/arsenal-ready-to-take-shot-at-immortality-in-champions-league-final-against-psg-but-which-side-has-the-edge",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 29 May 2026 10:34:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48904926/barcelona-anthony-gordon-newcastle-united-transfer",
+      "title": {
+        "ar": "Barcelona sign Gordon from Newcastle for $82M",
+        "en": "Barcelona sign Gordon from Newcastle for $82M"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48904926/barcelona-anthony-gordon-newcastle-united-transfer",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 29 May 2026 15:25:56 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48909150/chelsea-want-120m-enzo-fernandez-amid-potential-exit-sources",
+      "title": {
+        "ar": "Sources: Chelsea want $161M for Enzo Fernández",
+        "en": "Sources: Chelsea want $161M for Enzo Fernández"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48909150/chelsea-want-120m-enzo-fernandez-amid-potential-exit-sources",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 29 May 2026 15:25:56 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48910978/atletico-madrid-troll-barcelona-social-media-posts-amid-julian-alvarez-interest",
+      "title": {
+        "ar": "Atlético troll Barça amid Julian Álvarez interest",
+        "en": "Atlético troll Barça amid Julian Álvarez interest"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48910978/atletico-madrid-troll-barcelona-social-media-posts-amid-julian-alvarez-interest",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 29 May 2026 15:25:56 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48911172/jurrien-timber-arsenal-champions-league-final-injury",
+      "title": {
+        "ar": "Timber gives Arsenal major UCL final fitness boost...",
+        "en": "Timber gives Arsenal major UCL final fitness boost..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48911172/jurrien-timber-arsenal-champions-league-final-injury",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 29 May 2026 15:25:56 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48910396/psg-luis-enrique-arsenal-mikel-arteta-different-routes-same-destination",
+      "title": {
+        "ar": "PSG's Luis Enrique offers take on Arsenal style",
+        "en": "PSG's Luis Enrique offers take on Arsenal style"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48910396/psg-luis-enrique-arsenal-mikel-arteta-different-routes-same-destination",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 29 May 2026 15:25:56 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/29/anthony-gordon-signs-barcelona-from-newcastle-five-year-deal",
+      "title": {
+        "ar": "Anthony Gordon signs for Barcelona from Newcastle in £69.3m, five-year deal",
+        "en": "Anthony Gordon signs for Barcelona from Newcastle in £69.3m, five-year deal"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p England winger commits to Spanish giants to 2031 /p /li li p Of Newcastle: ‘I’ll be a fan for the rest of my life’ /p /li /ul p Anthony Gordon has signed for Barcelona from Newcastle in a five-year deal believed to be worth £69.3m. /p p Both clubs announced the move on Friday night, with the Spanish giants saying in a statement that the 25-",
+        "en": "ul li p England winger commits to Spanish giants to 2031 /p /li li p Of Newcastle: ‘I’ll be a fan for the rest of my life’ /p /li /ul p Anthony Gordon has signed for Barcelona from Newcastle in a five-year deal believed to be worth £69.3m. /p p Both clubs announced the move on Friday night, with the Spanish giants saying in a statement that the 25-"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/29/anthony-gordon-signs-barcelona-from-newcastle-five-year-deal",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 29 May 2026 19:48:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/29/liberation-of-premier-league-title-can-help-arsenal-blunt-psg-and-join-europes-elite",
+      "title": {
+        "ar": "Liberation of Premier League title can help Arsenal blunt PSG and join Europe’s elite",
+        "en": "Liberation of Premier League title can help Arsenal blunt PSG and join Europe’s elite"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p Mikel Arteta must find the balance between newfound freedom and tried-and-tested solidity against Luis Enrique’s attacking machine /p p Welcome to Budapest: city of stew, city of pavement squares, city of men in cotton smocks offering brisk muscular relaxation in geothermally heated cubicles. Eleven days on from the a href=\"https://www.theguardia",
+        "en": "p Mikel Arteta must find the balance between newfound freedom and tried-and-tested solidity against Luis Enrique’s attacking machine /p p Welcome to Budapest: city of stew, city of pavement squares, city of men in cotton smocks offering brisk muscular relaxation in geothermally heated cubicles. Eleven days on from the a href=\"https://www.theguardia"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/29/liberation-of-premier-league-title-can-help-arsenal-blunt-psg-and-join-europes-elite",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 29 May 2026 19:00:58 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48907909/messi-leads-experienced-argentina-world-cup-squad-scaloni-opts-continuity",
+      "title": {
+        "ar": "Messi leads an experienced Argentina World Cup squ...",
+        "en": "Messi leads an experienced Argentina World Cup squ..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48907909/messi-leads-experienced-argentina-world-cup-squad-scaloni-opts-continuity",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 29 May 2026 12:07:40 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/29/dick-advocaat-curacao-scotland-world-cup",
+      "title": {
+        "ar": "Dick Advocaat returns to Scotland with Curaçao before historic World Cup appearance",
+        "en": "Dick Advocaat returns to Scotland with Curaçao before historic World Cup appearance"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Manager recalls Rangers tenure fondly before friendly /p /li li p Steve Clarke: Scotland should be qualifing regularly /p /li /ul p A smile flashed across the face of Dick Advocaat as he was reminded that, 27 years earlier to the day, he had watched his Rangers team complete a domestic treble at Hampden Park. “I was quite successful in this",
+        "en": "ul li p Manager recalls Rangers tenure fondly before friendly /p /li li p Steve Clarke: Scotland should be qualifing regularly /p /li /ul p A smile flashed across the face of Dick Advocaat as he was reminded that, 27 years earlier to the day, he had watched his Rangers team complete a domestic treble at Hampden Park. “I was quite successful in this"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/29/dick-advocaat-curacao-scotland-world-cup",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 29 May 2026 16:30:40 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2026/may/29/champions-league-final-french-open-and-womens-fa-cup-final-follow-with-us",
+      "title": {
+        "ar": "Champions League final, French Open and Women’s FA Cup final – follow with us",
+        "en": "Champions League final, French Open and Women’s FA Cup final – follow with us"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports /p a href=\"https://www.theguardian.com/sport/2026/may/29/champions-league-final-french-open-and-womens-fa-cup-final-follow-with-us\" Continue reading... /a",
+        "en": "p Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports /p a href=\"https://www.theguardian.com/sport/2026/may/29/champions-league-final-french-open-and-womens-fa-cup-final-follow-with-us\" Continue reading... /a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2026/may/29/champions-league-final-french-open-and-womens-fa-cup-final-follow-with-us",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 29 May 2026 16:10:24 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/29/mikel-arteta-arsenal-basque-country-barcelona-champions-league-final",
+      "title": {
+        "ar": "‘He was alive – you saw it in his eyes’: inside the years that shaped Mikel Arteta",
+        "en": "‘He was alive – you saw it in his eyes’: inside the years that shaped Mikel Arteta"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p In the runup to the Champions League final, the Arsenal manager’s first footballing steps in the Basque Country and Barcelona are recalled by those who shared them /p p The way Santi Cazorla tells it, rolling about laughing, Mikel Arteta may just be the worst person you could ever wish to watch a match with. Which is why he knew a href=\"https://w",
+        "en": "p In the runup to the Champions League final, the Arsenal manager’s first footballing steps in the Basque Country and Barcelona are recalled by those who shared them /p p The way Santi Cazorla tells it, rolling about laughing, Mikel Arteta may just be the worst person you could ever wish to watch a match with. Which is why he knew a href=\"https://w"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/29/mikel-arteta-arsenal-basque-country-barcelona-champions-league-final",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 29 May 2026 16:00:54 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48901215/how-2026-world-cup-least-known-player-became-viral-sensation",
+      "title": {
+        "ar": "How the World Cup's 'least-known' player became a ...",
+        "en": "How the World Cup's 'least-known' player became a ..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48901215/how-2026-world-cup-least-known-player-became-viral-sensation",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 29 May 2026 08:38:26 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48896974/uefa-needs-save-champions-league-boring-finals",
+      "title": {
+        "ar": "Copy of UEFA needs to fix terrible Champions League final ...",
+        "en": "Copy of UEFA needs to fix terrible Champions League final ..."
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48896974/uefa-needs-save-champions-league-boring-finals",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 29 May 2026 08:37:29 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48901256/uefa-champions-league-final-psg-arsenal-gab-marcotti-mikel-arteta-luis-enrique",
+      "title": {
+        "ar": "Copy of Expect surprises, not just PSG attack vs. Arsenal ...",
+        "en": "Copy of Expect surprises, not just PSG attack vs. Arsenal ..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48901256/uefa-champions-league-final-psg-arsenal-gab-marcotti-mikel-arteta-luis-enrique",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 29 May 2026 08:37:29 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48907583/transfer-rumors-news-barcelona-beat-arsenal-hincapie",
+      "title": {
+        "ar": "Transfer rumors, news: Barcelona to beat Arsenal t...",
+        "en": "Transfer rumors, news: Barcelona to beat Arsenal t..."
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48907583/transfer-rumors-news-barcelona-beat-arsenal-hincapie",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 29 May 2026 08:04:52 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48908119/what-next-uwcl-winners-barcelona-putellas-others-depart",
+      "title": {
+        "ar": "What next for UWCL winners Barcelona after Putellas and others depart?",
+        "en": "What next for UWCL winners Barcelona after Putellas and others depart?"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48908119/what-next-uwcl-winners-barcelona-putellas-others-depart",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 29 May 2026 05:37:08 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13548995/ibrahima-konates-liverpool-exit-summer-transfer-window-becomes-more-complicated-for-arne-slot",
       "title": {
@@ -1525,481 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Thu, 28 May 2026 10:32:59 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/cj9pgdrkjvdo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "مصري على رأس القائمة: من هم أكبر اللاعبين سناً في تاريخ كأس العالم؟",
-        "en": "مصري على رأس القائمة: من هم أكبر اللاعبين سناً في تاريخ كأس العالم؟"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b80/live/1a5466d0-55d5-11f1-8b8c-6d33e1d5abb6.jpg",
-      "url": "https://www.bbc.com/arabic/articles/cj9pgdrkjvdo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Thu, 28 May 2026 10:21:18 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13548482/champions-league-final-who-does-mikel-arteta-pick-in-his-arsenal-starting-xi-to-face-psg-in-budapest",
-      "title": {
-        "ar": "Arteta's big Champions League final selection dilemmas",
-        "en": "Arteta's big Champions League final selection dilemmas"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-champions-league_7259597.jpg?20260527152724",
-      "url": "https://www.skysports.com/football/news/12040/13548482/champions-league-final-who-does-mikel-arteta-pick-in-his-arsenal-starting-xi-to-face-psg-in-budapest",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 28 May 2026 10:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/f1/news/12040/13546931/oscar-piastri-mclaren-driver-flattered-by-reports-he-is-red-bulls-first-choice-as-max-verstappen-replacement",
-      "title": {
-        "ar": "Piastri 'flattered' by possible Red Bull interest amid Verstappen uncertainty",
-        "en": "Piastri 'flattered' by possible Red Bull interest amid Verstappen uncertainty"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-oscar-piastri-max_7241267.jpg?20260507112045",
-      "url": "https://www.skysports.com/f1/news/12040/13546931/oscar-piastri-mclaren-driver-flattered-by-reports-he-is-red-bulls-first-choice-as-max-verstappen-replacement",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 28 May 2026 07:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13548061/andrea-pirlo-interview-legendary-italy-midfielder-on-psg-and-how-football-has-changed-you-need-players-who-are-fast",
-      "title": {
-        "ar": "Pirlo: Football has changed and you need fast players now",
-        "en": "Pirlo: Football has changed and you need fast players now"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "Sky Sports. It has become much more physical, much faster. In fact, if you want to win now, you need players who are fast and technically good one-on-one. Otherwise, you go nowhere. ]]>",
-        "en": "Sky Sports. It has become much more physical, much faster. In fact, if you want to win now, you need players who are fast and technically good one-on-one. Otherwise, you go nowhere. ]]>"
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-andrea-pirlo-italy_7259680.jpg?20260527170524",
-      "url": "https://www.skysports.com/football/news/12040/13548061/andrea-pirlo-interview-legendary-italy-midfielder-on-psg-and-how-football-has-changed-you-need-players-who-are-fast",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 28 May 2026 07:30:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/28/a-champions-league-final-in-budapest-marks-a-return-and-begs-a-bigger-question",
-      "title": {
-        "ar": "Budapest is perfect for the Champions League final – but tournament remains a closed shop",
-        "en": "Budapest is perfect for the Champions League final – but tournament remains a closed shop"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Hungary’s rich footballing heritage is unlikely to make an impact on Europe’s premier club competition as clubs from small countries stand no chance /p p Before the Champions League final, I want to spare a thought for one of the eliminated semi-finalists. Diego Simeone impresses me. For 15 years, he has had to push the boulder up the mountain ag",
-        "en": "p Hungary’s rich footballing heritage is unlikely to make an impact on Europe’s premier club competition as clubs from small countries stand no chance /p p Before the Champions League final, I want to spare a thought for one of the eliminated semi-finalists. Diego Simeone impresses me. For 15 years, he has had to push the boulder up the mountain ag"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/28/a-champions-league-final-in-budapest-marks-a-return-and-begs-a-bigger-question",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 09:00:01 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/28/bosnia-and-herzegovina-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Bosnia and Herzegovina  World Cup 2026 team guide",
-        "en": "Bosnia and Herzegovina  World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p After finally getting his chance to manage his country, Sergej Barbarez has conjured the passion and energy that could make his team an interesting watch /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation bet",
-        "en": "p After finally getting his chance to manage his country, Sergej Barbarez has conjured the passion and energy that could make his team an interesting watch /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation bet"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/28/bosnia-and-herzegovina-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 07:00:03 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/28/bournemouth-transfer-window-eli-junior-kroupi-rayan-alex-scott",
-      "title": {
-        "ar": "Bournemouth determined to hold on to Kroupi, Rayan and Scott this summer",
-        "en": "Bournemouth determined to hold on to Kroupi, Rayan and Scott this summer"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Club ready to resist offers for trio amid mounting interest /p /li li p Bournemouth hope to agree new contract with Alex Scott /p /li /ul p Bournemouth are determined to resist any summer offers for Eli Junior Kroupi, Rayan and Alex Scott with mounting interest in the trio. The club are confident Scott will sign a new long-term contract des",
-        "en": "ul li p Club ready to resist offers for trio amid mounting interest /p /li li p Bournemouth hope to agree new contract with Alex Scott /p /li /ul p Bournemouth are determined to resist any summer offers for Eli Junior Kroupi, Rayan and Alex Scott with mounting interest in the trio. The club are confident Scott will sign a new long-term contract des"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/28/bournemouth-transfer-window-eli-junior-kroupi-rayan-alex-scott",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 07:00:02 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/28/sol-campbell-psg-favourites-luck-arsenal-champions-league-interview",
-      "title": {
-        "ar": "Sol Campbell: ‘PSG are favourites but sometimes you need a little luck’",
-        "en": "Sol Campbell: ‘PSG are favourites but sometimes you need a little luck’"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Former England defender on why he walked out on Arsenal, their chances in the Champions League final and Tuchel wielding the axe /p p “They’ve got a wonderful group of players and a great manager in Mikel Arteta but having come so close three times on the bounce I felt these guys needed it,” Sol Campbell says of a href=\"https://www.theguardian.co",
-        "en": "p Former England defender on why he walked out on Arsenal, their chances in the Champions League final and Tuchel wielding the axe /p p “They’ve got a wonderful group of players and a great manager in Mikel Arteta but having come so close three times on the bounce I felt these guys needed it,” Sol Campbell says of a href=\"https://www.theguardian.co"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/28/sol-campbell-psg-favourites-luck-arsenal-champions-league-interview",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 05:00:54 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48894901/neymar-misses-first-brazil-training-camp-further-tests",
-      "title": {
-        "ar": "Neymar misses first Brazil camp after further test...",
-        "en": "Neymar misses first Brazil camp after further test..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48894901/neymar-misses-first-brazil-training-camp-further-tests",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 27 May 2026 21:11:57 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48888696/messi-mls-colorado-rapids-herrington-primed-world-cup",
-      "title": {
-        "ar": "Messi, MLS has Herrington primed for World Cup",
-        "en": "Messi, MLS has Herrington primed for World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48888696/messi-mls-colorado-rapids-herrington-primed-world-cup",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 27 May 2026 21:11:57 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/28/south-korea-world-cup-2026-team-guide-soccer",
-      "title": {
-        "ar": "South Korea World Cup 2026 team guide",
-        "en": "South Korea World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Doubts over formation and form of key players means hopes of advancing to knockout stages are not high /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations from the ",
-        "en": "p Doubts over formation and form of key players means hopes of advancing to knockout stages are not high /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations from the "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/28/south-korea-world-cup-2026-team-guide-soccer",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 27 May 2026 23:01:47 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/27/crystal-palace-rayo-vallecano-conference-league-final-match-report",
-      "title": {
-        "ar": "Crystal Palace win Conference League after Mateta strike sinks Rayo Vallecano",
-        "en": "Crystal Palace win Conference League after Mateta strike sinks Rayo Vallecano"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "p After being denied their rightful place in this season’s Europa League, Crystal Palace finally have their revenge. In Oliver Glasner’s final match in charge, it was fitting that Jean-Philippe Mateta should score what turned out to be the winning goal after his January move to Milan was scuppered by a failed medical. It has been that kind of seaso",
-        "en": "p After being denied their rightful place in this season’s Europa League, Crystal Palace finally have their revenge. In Oliver Glasner’s final match in charge, it was fitting that Jean-Philippe Mateta should score what turned out to be the winning goal after his January move to Milan was scuppered by a failed medical. It has been that kind of seaso"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/27/crystal-palace-rayo-vallecano-conference-league-final-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 27 May 2026 21:05:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/27/barcelona-advanced-talks-signing-anthony-gordon-newcastle",
-      "title": {
-        "ar": "Anthony Gordon to undergo medical at Barça before £69.3m move from Newcastle",
-        "en": "Anthony Gordon to undergo medical at Barça before £69.3m move from Newcastle"
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "ul li p England winger flying out for medical on Thursday /p /li li p Gordon could double wages to around £300,000 a week /p /li /ul p Anthony Gordon is due to undergo a medical in Barcelona on Thursday after the La Liga winners agreed a £69.3m transfer with Newcastle on Wednesday night. Should everything proceed to plan the England winger is set t",
-        "en": "ul li p England winger flying out for medical on Thursday /p /li li p Gordon could double wages to around £300,000 a week /p /li /ul p Anthony Gordon is due to undergo a medical in Barcelona on Thursday after the La Liga winners agreed a £69.3m transfer with Newcastle on Wednesday night. Should everything proceed to plan the England winger is set t"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/27/barcelona-advanced-talks-signing-anthony-gordon-newcastle",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 27 May 2026 20:10:11 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/live/2026/may/27/crystal-palace-v-rayo-vallecano-conference-league-final-live",
-      "title": {
-        "ar": "Crystal Palace v Rayo Vallecano: Conference League final – live",
-        "en": "Crystal Palace v Rayo Vallecano: Conference League final – live"
-      },
-      "kicker": {
-        "ar": "الدوري الأوروبي",
-        "en": "Europa League"
-      },
-      "excerpt": {
-        "ar": "p ⚽ Updates from 8pm (BST) kick-off in Leipzig br ⚽ a href=\"https://www.theguardian.com/football/2026/may/26/crystal-palace-european-final-road-leipzig-europa-league\" From fury to a final: Palace’s topsy-turvy road /a strong br /strong ⚽ Get in touch! a href=\"mailto:dominic.booth.casual@guardian.co.uk\" Email Dominic /a with any thoughts /p p strong",
-        "en": "p ⚽ Updates from 8pm (BST) kick-off in Leipzig br ⚽ a href=\"https://www.theguardian.com/football/2026/may/26/crystal-palace-european-final-road-leipzig-europa-league\" From fury to a final: Palace’s topsy-turvy road /a strong br /strong ⚽ Get in touch! a href=\"mailto:dominic.booth.casual@guardian.co.uk\" Email Dominic /a with any thoughts /p p strong"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/live/2026/may/27/crystal-palace-v-rayo-vallecano-conference-league-final-live",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 27 May 2026 20:10:02 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48885837/new-jersey-new-york-subpoena-20926-fifa-world-cup-tickets",
-      "title": {
-        "ar": "FIFA subpoenaed over World Cup ticket practices",
-        "en": "FIFA subpoenaed over World Cup ticket practices"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48885837/new-jersey-new-york-subpoena-20926-fifa-world-cup-tickets",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 27 May 2026 14:02:27 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48890354/netherlands-confirm-world-cup-2026-squad-jeremie-frimpong-crysencio-summerville-picked",
-      "title": {
-        "ar": "Frimpong left out of Netherlands World Cup squad",
-        "en": "Frimpong left out of Netherlands World Cup squad"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48890354/netherlands-confirm-world-cup-2026-squad-jeremie-frimpong-crysencio-summerville-picked",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 27 May 2026 14:02:27 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48890258/real-madrid-candidate-sign-spain-international-become-president",
-      "title": {
-        "ar": "Real Madrid president candidate: I'll sign Spain s...",
-        "en": "Real Madrid president candidate: I'll sign Spain s..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48890258/real-madrid-candidate-sign-spain-international-become-president",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 27 May 2026 14:02:27 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/27/uefa-action-russia-fake-ukrainian-clubs-shakhtar-donetsk",
-      "title": {
-        "ar": "Uefa drags its heels over action against Russia’s fake Ukrainian clubs",
-        "en": "Uefa drags its heels over action against Russia’s fake Ukrainian clubs"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Imitation versions of Shakhtar Donetsk and Zorya Luhansk remain in Russian league, despite the real teams playing in Ukrainian competition /p p Uefa is yet to take action against the integration of clubs from illegally occupied parts of Ukraine into Russia’s football system despite being urged to do so by the Ukrainian Association of Football (UA",
-        "en": "p Imitation versions of Shakhtar Donetsk and Zorya Luhansk remain in Russian league, despite the real teams playing in Ukrainian competition /p p Uefa is yet to take action against the integration of clubs from illegally occupied parts of Ukraine into Russia’s football system despite being urged to do so by the Ukrainian Association of Football (UA"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/27/uefa-action-russia-fake-ukrainian-clubs-shakhtar-donetsk",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 27 May 2026 19:00:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/27/usmnt-rejects-mauricio-pochettino-world-cup-football-daily",
-      "title": {
-        "ar": "Football Daily | To all USMNT rejects, Mauricio Pochettino hopes this email finds you well",
-        "en": "Football Daily | To all USMNT rejects, Mauricio Pochettino hopes this email finds you well"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p As a football newsletter whose entire raison d’etre is sending people emails they are desperate to receive and read, Football Daily is fully behind Mauricio Pochettino. The Argentinian has t",
-        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p As a football newsletter whose entire raison d’etre is sending people emails they are desperate to receive and read, Football Daily is fully behind Mauricio Pochettino. The Argentinian has t"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/27/usmnt-rejects-mauricio-pochettino-world-cup-football-daily",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 27 May 2026 17:29:40 GMT",
       "rewritten": false,
       "lang": "en"
     }
