@@ -1,8 +1,158 @@
 {
   "version": 2,
-  "updated": "2026-05-30T03:58:31.767Z",
+  "updated": "2026-05-30T08:34:53.343Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": {
+        "ar": "Arsenal latest: Timber pictured as Gunners train in high spirits before final",
+        "en": "Arsenal latest: Timber pictured as Gunners train in high spirits before final"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-arsenal-news-club_7039237.jpg?20251002155710",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 29 May 2026 17:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950",
+      "title": {
+        "ar": "PSG vs Arsenal build-up: Dembele declares himself '100 per cent' fit for final",
+        "en": "PSG vs Arsenal build-up: Dembele declares himself '100 per cent' fit for final"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-champions-league_7257928.jpg?20260525093031",
+      "url": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 26 May 2026 16:29:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live",
+      "title": {
+        "ar": "Champions League final buildup, World Cup news, transfers and more – matchday live",
+        "en": "Champions League final buildup, World Cup news, transfers and more – matchday live"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p ⚽ All the latest pre-match news for a href=\"https://www.theguardian.com/football/2026/may/29/liberation-of-premier-league-title-can-help-arsenal-blunt-psg-and-join-europes-elite\" PSG v Arsenal /a br ⚽ a href=\"https://www.theguardian.com/football/2026/may/30/arsenal-fans-race-budapest-champions-league-final\" Arsenal fans’ race to Budapest /a | a h",
+        "en": "p ⚽ All the latest pre-match news for a href=\"https://www.theguardian.com/football/2026/may/29/liberation-of-premier-league-title-can-help-arsenal-blunt-psg-and-join-europes-elite\" PSG v Arsenal /a br ⚽ a href=\"https://www.theguardian.com/football/2026/may/30/arsenal-fans-race-budapest-champions-league-final\" Arsenal fans’ race to Budapest /a | a h"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 08:16:20 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/i-read-gianni-infantinos-name-dropping-despot-fluffing-book-so-you-dont-have-to",
+      "title": {
+        "ar": "I read Gianni Infantino’s name-dropping, despot-fluffing book so you don’t have to | Barney Ronay",
+        "en": "I read Gianni Infantino’s name-dropping, despot-fluffing book so you don’t have to | Barney Ronay"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The Fifa president’s biography talks about magic a lot – and no wonder. There is no other way to explain his utterly ludicrous proximity to power /p p em Gliding through time as if surfing a rainbow, you can transform uncertainty into something beautiful. /em /p p People sometimes like to talk in general terms about the idea, the abstract concept",
+        "en": "p The Fifa president’s biography talks about magic a lot – and no wonder. There is no other way to explain his utterly ludicrous proximity to power /p p em Gliding through time as if surfing a rainbow, you can transform uncertainty into something beautiful. /em /p p People sometimes like to talk in general terms about the idea, the abstract concept"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/i-read-gianni-infantinos-name-dropping-despot-fluffing-book-so-you-dont-have-to",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 07:01:12 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/haiti-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Haiti World Cup 2026 team guide",
+        "en": "Haiti World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p The manager strong Sébastien Migné /strong has never set foot in the country, but there will be pride, passion and no little ability from the Caribbean nation /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperatio",
+        "en": "p The manager strong Sébastien Migné /strong has never set foot in the country, but there will be pride, passion and no little ability from the Caribbean nation /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperatio"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/haiti-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 07:00:12 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/my-arsenal-devotion-began-watching-them-lose-south-african-cinema-champions-league-final",
+      "title": {
+        "ar": "My Arsenal devotion began with watching them lose in a South African cinema",
+        "en": "My Arsenal devotion began with watching them lose in a South African cinema"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p As a boy in the apartheid era I saw footage of the Gunners beaten in the 1969 League Cup final – on Saturday I will attend the Champions League showpiece with my son /p p I fell for Arsenal in the white‑and-black world of apartheid, where television was banned as a tool of communist propaganda and the club of my dreams was 6,000 miles away and mo",
+        "en": "p As a boy in the apartheid era I saw footage of the Gunners beaten in the 1969 League Cup final – on Saturday I will attend the Champions League showpiece with my son /p p I fell for Arsenal in the white‑and-black world of apartheid, where television was banned as a tool of communist propaganda and the club of my dreams was 6,000 miles away and mo"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/my-arsenal-devotion-began-watching-them-lose-south-african-cinema-champions-league-final",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 05:00:10 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.theguardian.com/football/2026/may/30/scotland-world-cup-2026-team-guide",
       "title": {
@@ -1850,156 +2000,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Mon, 25 May 2026 14:20:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13547056/world-cup-ivan-perisic-on-croatia-pride-secrets-to-their-success-and-relishing-another-match-up-with-england",
-      "title": {
-        "ar": "Perisic relishing England test as Croatia target another 'special' World Cup",
-        "en": "Perisic relishing England test as Croatia target another 'special' World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-perisic-ivan-croatia_7255870.jpg?20260522155443",
-      "url": "https://www.skysports.com/football/news/12040/13547056/world-cup-ivan-perisic-on-croatia-pride-secrets-to-their-success-and-relishing-another-match-up-with-england",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 28 May 2026 13:40:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13548716/inside-liverpools-season-of-pain-diogo-jotas-tragic-death-and-a-dreadful-defence-of-their-premier-league-title",
-      "title": {
-        "ar": "Inside Liverpool's season of pain",
-        "en": "Inside Liverpool's season of pain"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/02/1920x1080/skysports-virgil-van-dijk-liverpool_7159562.jpg?20260208195542",
-      "url": "https://www.skysports.com/football/news/12040/13548716/inside-liverpools-season-of-pain-diogo-jotas-tragic-death-and-a-dreadful-defence-of-their-premier-league-title",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 28 May 2026 12:32:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/28/canada-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Canada World Cup 2026 team guide",
-        "en": "Canada World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Jesse Marsch has developed an in-form team that has lifted the co-hosts’ hopes, though the fitness of Alphonso Davies and Moïse Bombito is a concern /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between ",
-        "en": "p Jesse Marsch has developed an in-form team that has lifted the co-hosts’ hopes, though the fitness of Alphonso Davies and Moïse Bombito is a concern /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/28/canada-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 15:00:25 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/28/direct-intense-selfish-what-are-barcelona-getting-in-anthony-gordon",
-      "title": {
-        "ar": "Direct, intense … selfish? What are Barcelona getting in Anthony Gordon?",
-        "en": "Direct, intense … selfish? What are Barcelona getting in Anthony Gordon?"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Some Newcastle fans are pleased to cash in but the winger’s pedigree in the Champions League is unquestionable /p p José Mourinho was a man on a mission. Once the final whistle blew, he made a beeline for Anthony Gordon and not only embraced the England winger but whispered four words in his ear. /p p “You are too much,” was the message from Benf",
-        "en": "p Some Newcastle fans are pleased to cash in but the winger’s pedigree in the Champions League is unquestionable /p p José Mourinho was a man on a mission. Once the final whistle blew, he made a beeline for Anthony Gordon and not only embraced the England winger but whispered four words in his ear. /p p “You are too much,” was the message from Benf"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/28/direct-intense-selfish-what-are-barcelona-getting-in-anthony-gordon",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 14:58:05 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/28/crystal-palace-keep-good-times-rolling-but-must-now-fend-off-more-sharks",
-      "title": {
-        "ar": "Football Daily | Crystal Palace keep good times rolling but must now fend off more sharks",
-        "en": "Football Daily | Crystal Palace keep good times rolling but must now fend off more sharks"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p Described as “a feel-good final” at kick-off by commentator Adam Summerton, last night’s Tin Pot decider between Crystal Palace and Rayo Vallecano could scarcely have been more gloopy. It wa",
-        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p Described as “a feel-good final” at kick-off by commentator Adam Summerton, last night’s Tin Pot decider between Crystal Palace and Rayo Vallecano could scarcely have been more gloopy. It wa"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/28/crystal-palace-keep-good-times-rolling-but-must-now-fend-off-more-sharks",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 14:25:23 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/28/full-backs-midfield-balance-arsenal-tactics-psg-champions-league-final",
-      "title": {
-        "ar": "Full-backs and midfield balance key to Arsenal hopes of taming PSG’s devastating wings",
-        "en": "Full-backs and midfield balance key to Arsenal hopes of taming PSG’s devastating wings"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Jurriën Timber’s likely unavailability means a reshuffle that will affect selections in all areas of the side /p p It would be easy to look at Saturday’s Champions League final between Paris Saint-Germain and Arsenal and see it as a battle of attack versus defence, of beauty against pragmatism, of French elan against English doughtiness, as some ",
-        "en": "p Jurriën Timber’s likely unavailability means a reshuffle that will affect selections in all areas of the side /p p It would be easy to look at Saturday’s Champions League final between Paris Saint-Germain and Arsenal and see it as a battle of attack versus defence, of beauty against pragmatism, of French elan against English doughtiness, as some "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/28/full-backs-midfield-balance-arsenal-tactics-psg-champions-league-final",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 13:41:40 GMT",
       "rewritten": false,
       "lang": "en"
     }
