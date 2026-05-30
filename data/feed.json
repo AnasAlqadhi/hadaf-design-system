@@ -1,8 +1,283 @@
 {
   "version": 2,
-  "updated": "2026-05-30T08:34:53.343Z",
+  "updated": "2026-05-30T13:53:17.579Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13476707/arne-slot-liverpool-head-coach-sacked-a-year-after-premier-league-title-win-following-fifth-place-finish-this-season",
+      "title": {
+        "ar": "Slot sacked with Iraola frontrunner for Liverpool job",
+        "en": "Slot sacked with Iraola frontrunner for Liverpool job"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/01/1920x1080/skysports-arne-slot-liverpool_7146722.jpg?20260126210126",
+      "url": "https://www.skysports.com/football/news/12040/13476707/arne-slot-liverpool-head-coach-sacked-a-year-after-premier-league-title-win-following-fifth-place-finish-this-season",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 30 May 2026 14:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/cricket/england-women-v-india-women/scorecard/65177e58-6c23-581f-866d-5fdf7032b667",
+      "title": {
+        "ar": "Scorecard: England vs India, second T20 international, Bristol",
+        "en": "Scorecard: England vs India, second T20 international, Bristol"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-charlie-dean_7259863.jpg?20260530130106",
+      "url": "https://www.skysports.com/cricket/england-women-v-india-women/scorecard/65177e58-6c23-581f-866d-5fdf7032b667",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 30 May 2026 14:20:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48918413/arne-slot-leaves-liverpool-immediate-effect",
+      "title": {
+        "ar": "Arne Slot leaves Liverpool with immediate effect",
+        "en": "Arne Slot leaves Liverpool with immediate effect"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48918413/arne-slot-leaves-liverpool-immediate-effect",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 30 May 2026 09:29:37 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48918737/andoni-iraola-frontrunner-succeed-slot-liverpool-boss",
+      "title": {
+        "ar": "Iraola the frontrunner to become Liverpool boss",
+        "en": "Iraola the frontrunner to become Liverpool boss"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48918737/andoni-iraola-frontrunner-succeed-slot-liverpool-boss",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 30 May 2026 09:29:36 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/may/30/scotland-v-curacao-world-cup-warm-up-match-live",
+      "title": {
+        "ar": "Scotland v Curaçao: World Cup warm-up match – live",
+        "en": "Scotland v Curaçao: World Cup warm-up match – live"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p ⚽ Latest updates from 1pm (BST) kick-off at Hampden Park br ⚽ a href=\"https://www.theguardian.com/football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live\" Slot sacked by Liverpool: live reaction /a | a href=\"mailto:scott.murray.casual@guardian.co.uk\" Mail Scott /a /p p strong But first, the nationa",
+        "en": "p ⚽ Latest updates from 1pm (BST) kick-off at Hampden Park br ⚽ a href=\"https://www.theguardian.com/football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live\" Slot sacked by Liverpool: live reaction /a | a href=\"mailto:scott.murray.casual@guardian.co.uk\" Mail Scott /a /p p strong But first, the nationa"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/may/30/scotland-v-curacao-world-cup-warm-up-match-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 13:39:30 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/liverpool-sack-arne-slot-one-year-after-winning-premier-league-title",
+      "title": {
+        "ar": "Liverpool sack Arne Slot after two years with Andoni Iraola in line to replace him",
+        "en": "Liverpool sack Arne Slot after two years with Andoni Iraola in line to replace him"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "ul li p Dutchman departs after disappointing title defence /p /li li p a href=\"https://www.theguardian.com/football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live\" Live reaction: Slot leaves Anfield after two years /a /p /li /ul p Liverpool have sacked Arne Slot after a troubled Premier League title ",
+        "en": "ul li p Dutchman departs after disappointing title defence /p /li li p a href=\"https://www.theguardian.com/football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live\" Live reaction: Slot leaves Anfield after two years /a /p /li /ul p Liverpool have sacked Arne Slot after a troubled Premier League title "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/liverpool-sack-arne-slot-one-year-after-winning-premier-league-title",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 11:36:51 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48908448/whats-happened-soccer-2022-fifa-world-cup",
+      "title": {
+        "ar": "What's happened in soccer since the 2022 World Cup...",
+        "en": "What's happened in soccer since the 2022 World Cup..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48908448/whats-happened-soccer-2022-fifa-world-cup",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 30 May 2026 06:21:05 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c4g8xg3g6ppo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كيف يمكن أن يفوز أرسنال بدوري أبطال أوروبا؟",
+        "en": "كيف يمكن أن يفوز أرسنال بدوري أبطال أوروبا؟"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63d3/live/d6c79510-5b63-11f1-b988-6f2916478bf9.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c4g8xg3g6ppo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sat, 30 May 2026 11:11:20 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/usa-north-america-1994-world-cup-memories",
+      "title": {
+        "ar": "Commercialised, curious, sometimes raucous: USA 94 was a joy to attend",
+        "en": "Commercialised, curious, sometimes raucous: USA 94 was a joy to attend"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p As a skint 23-year-old I did two weeks in the US. It remains a personal favourite tournament 32 years later /p p You never forget your first World Cup, and the tournament’s return to American shores this year will stir vivid memories for anyone who attended USA 94. It was a curious and distinctive tournament, one that heralded the World Cup’s mor",
+        "en": "p As a skint 23-year-old I did two weeks in the US. It remains a personal favourite tournament 32 years later /p p You never forget your first World Cup, and the tournament’s return to American shores this year will stir vivid memories for anyone who attended USA 94. It was a curious and distinctive tournament, one that heralded the World Cup’s mor"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/usa-north-america-1994-world-cup-memories",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 10:00:16 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/brighton-womens-fa-cup-final-dario-vidosic-rado",
+      "title": {
+        "ar": "Dario Vidosic driven by family tragedy as Brighton chase Women’s FA Cup glory",
+        "en": "Dario Vidosic driven by family tragedy as Brighton chase Women’s FA Cup glory"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Brighton’s head coach has led team to Wembley date with Manchester City despite losing his father four months ago /p p Growing up in Brisbane with a big time difference to London, Dario Vidosic loved being allowed to stay up past his bedtime to watch a big Wembley final on television next to his father, Rado, before trying to recreate a great goa",
+        "en": "p Brighton’s head coach has led team to Wembley date with Manchester City despite losing his father four months ago /p p Growing up in Brisbane with a big time difference to London, Dario Vidosic loved being allowed to stay up past his bedtime to watch a big Wembley final on television next to his father, Rado, before trying to recreate a great goa"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/brighton-womens-fa-cup-final-dario-vidosic-rado",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 09:00:15 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/28/canada-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Canada World Cup 2026 team guide",
+        "en": "Canada World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Jesse Marsch has developed an in-form team that has lifted the co-hosts’ hopes, though the fitness of Alphonso Davies and Moïse Bombito is a concern /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between ",
+        "en": "p Jesse Marsch has developed an in-form team that has lifted the co-hosts’ hopes, though the fitness of Alphonso Davies and Moïse Bombito is a concern /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/28/canada-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 15:00:25 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "title": {
@@ -1725,281 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Thu, 28 May 2026 12:07:24 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48875206/ranked-world-cup-2026-favorites-most-likely-crash-out",
-      "title": {
-        "ar": "Ranked: Which World Cup favorite teams are most likely to implode this summer?",
-        "en": "Ranked: Which World Cup favorite teams are most likely to implode this summer?"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48875206/ranked-world-cup-2026-favorites-most-likely-crash-out",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 26 May 2026 09:56:01 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/cricket/england-women-v-india-women/scorecard/93b6fe64-8c4a-51e4-822f-7457dfe61a3d",
-      "title": {
-        "ar": "Scorecard: England vs India, first T20 international",
-        "en": "Scorecard: England vs India, first T20 international"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-england-t20-wicket_7260568.jpg?20260528190058",
-      "url": "https://www.skysports.com/cricket/england-women-v-india-women/scorecard/93b6fe64-8c4a-51e4-822f-7457dfe61a3d",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 28 May 2026 18:25:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/28/mauricio-pochettino-in-talks-with-milan-amid-broader-interest-as-us-opens-world-cup-camp",
-      "title": {
-        "ar": "Mauricio Pochettino in talks with Milan over head coach’s role as US open World Cup camp",
-        "en": "Mauricio Pochettino in talks with Milan over head coach’s role as US open World Cup camp"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p USMNT head coach has drawn broader interest, CEO says /p /li li p World Cup camp opens after squad reveal on Tuesday /p /li li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p /li /ul p US ",
-        "en": "ul li p USMNT head coach has drawn broader interest, CEO says /p /li li p World Cup camp opens after squad reveal on Tuesday /p /li li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p /li /ul p US "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/28/mauricio-pochettino-in-talks-with-milan-amid-broader-interest-as-us-opens-world-cup-camp",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 16:53:41 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/28/arsenal-owners-promise-to-strengthen-squad-even-if-double-is-achieved-in-budapest",
-      "title": {
-        "ar": "Arsenal owners promise to strengthen squad even if Champions League is won",
-        "en": "Arsenal owners promise to strengthen squad even if Champions League is won"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "ul li p Josh Kroenke says there will be no ‘standing still’ /p /li li p Extending Mikel Arteta’s contract the ‘utmost priority’ /p /li /ul p Josh Kroenke has promised that ­Arsenal will strengthen their squad even if they are crowned European champions for the first time and said rewarding Mikel Arteta with a new contract is an “utmost priority”. /",
-        "en": "ul li p Josh Kroenke says there will be no ‘standing still’ /p /li li p Extending Mikel Arteta’s contract the ‘utmost priority’ /p /li /ul p Josh Kroenke has promised that ­Arsenal will strengthen their squad even if they are crowned European champions for the first time and said rewarding Mikel Arteta with a new contract is an “utmost priority”. /"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/28/arsenal-owners-promise-to-strengthen-squad-even-if-double-is-achieved-in-budapest",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 16:00:25 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/27/czechia-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Czechia World Cup 2026 team guide",
-        "en": "Czechia World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Two penalty shootout triumphs in the playoffs sent the Czechs to a first World Cup in 20 years and an experienced side look capable of progress /p p em This article is part of the Guardian’s 2026 a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" World Cup Experts’ Network /a , a cooperation between some ",
-        "en": "p Two penalty shootout triumphs in the playoffs sent the Czechs to a first World Cup in 20 years and an experienced side look capable of progress /p p em This article is part of the Guardian’s 2026 a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" World Cup Experts’ Network /a , a cooperation between some "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/27/czechia-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 23:01:11 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-season-review-predictions-reality-liverpool-chelsea-brentford-sunderland",
-      "title": {
-        "ar": "Premier League 2025-26 season review: our predictions v reality",
-        "en": "Premier League 2025-26 season review: our predictions v reality"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear /p p strong What we predicted: /strong Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in the Premier League for a third season in succession and the new sporting director, Andrea Berta, has delivered on a",
-        "en": "p We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear /p p strong What we predicted: /strong Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in the Premier League for a third season in succession and the new sporting director, Andrea Berta, has delivered on a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-season-review-predictions-reality-liverpool-chelsea-brentford-sunderland",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 26 May 2026 15:56:24 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13548799/arsenals-co-chair-reveals-secrets-of-how-kroenke-family-went-from-furious-fan-protests-to-premier-league-title-glory-and-dynasty-planning",
-      "title": {
-        "ar": "Kroenke: We have foundations to dominate after waking 'sleeping giant' Arsenal",
-        "en": "Kroenke: We have foundations to dominate after waking 'sleeping giant' Arsenal"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-josh-kroenke-arsenal_7260181.jpg?20260528114922",
-      "url": "https://www.skysports.com/football/news/12040/13548799/arsenals-co-chair-reveals-secrets-of-how-kroenke-family-went-from-furious-fan-protests-to-premier-league-title-glory-and-dynasty-planning",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 28 May 2026 16:52:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13548735/mikel-arteta-new-contract-arsenal-owners-optimistic-of-tying-manager-to-new-deal-after-premier-league-win",
-      "title": {
-        "ar": "Arsenal owners planning new contract for Arteta",
-        "en": "Arsenal owners planning new contract for Arteta"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-premier-league-arsenal_7259386.jpg?20260527100137",
-      "url": "https://www.skysports.com/football/news/12040/13548735/mikel-arteta-new-contract-arsenal-owners-optimistic-of-tying-manager-to-new-deal-after-premier-league-win",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 28 May 2026 17:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13548706/exclusive-anthony-gordon-boards-flight-to-barcelona-to-complete-medical",
-      "title": {
-        "ar": "EXCLUSIVE! Gordon boards flight ahead of £69.3m Barcelona move!",
-        "en": "EXCLUSIVE! Gordon boards flight ahead of £69.3m Barcelona move!"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-gordon-barca_7260218.jpg?20260528122641",
-      "url": "https://www.skysports.com/watch/video/13548706/exclusive-anthony-gordon-boards-flight-to-barcelona-to-complete-medical",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 28 May 2026 12:25:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/cricket/news/12040/13548573/charlie-dean-says-england-will-do-whatever-it-takes-to-keep-winning-ahead-of-womens-t20-world-cup",
-      "title": {
-        "ar": "'Keep winning' - Dean reveals Edwards' instructions ahead of T20 World Cup",
-        "en": "'Keep winning' - Dean reveals Edwards' instructions ahead of T20 World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-charlie-dean_7259852.jpg?20260528100711",
-      "url": "https://www.skysports.com/cricket/news/12040/13548573/charlie-dean-says-england-will-do-whatever-it-takes-to-keep-winning-ahead-of-womens-t20-world-cup",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 27 May 2026 20:46:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13547830/world-sevens-football-fixtures-schedule-teams-and-how-to-watch-live-on-sky-sports",
-      "title": {
-        "ar": "Chelsea, Man Utd in World Sevens tournament, live on Sky Sports!",
-        "en": "Chelsea, Man Utd in World Sevens tournament, live on Sky Sports!"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "Sky Sports, with eight WSL and WSL2 teams taking part. From the teams to the fixture schedule and format, here's all you need to know...]]>",
-        "en": "Sky Sports, with eight WSL and WSL2 teams taking part. From the teams to the fixture schedule and format, here's all you need to know...]]>"
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-womens-football-world-sevens_7258182.jpg?20260525135707",
-      "url": "https://www.skysports.com/football/news/12040/13547830/world-sevens-football-fixtures-schedule-teams-and-how-to-watch-live-on-sky-sports",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 25 May 2026 14:20:00 BST",
       "rewritten": false,
       "lang": "en"
     }
