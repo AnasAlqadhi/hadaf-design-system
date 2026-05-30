@@ -1,8 +1,383 @@
 {
   "version": 2,
-  "updated": "2026-05-30T13:53:17.579Z",
+  "updated": "2026-05-30T19:26:36.367Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/report/554950",
+      "title": {
+        "ar": "Arsenal suffer penalty heartbreak as PSG win Champions League final",
+        "en": "Arsenal suffer penalty heartbreak as PSG win Champions League final"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-psg-arsenal_7261889.jpg?20260530200634",
+      "url": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/report/554950",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 30 May 2026 20:05:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549373/billy-gilmour-scotland-midfielder-ruled-out-of-world-cup-with-knee-injury",
+      "title": {
+        "ar": "Scotland injury blow as Gilmour ruled out of World Cup",
+        "en": "Scotland injury blow as Gilmour ruled out of World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-billy-gilmour-scotland_7261764.jpg?20260530163950",
+      "url": "https://www.skysports.com/football/news/12040/13549373/billy-gilmour-scotland-midfielder-ruled-out-of-world-cup-with-knee-injury",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 30 May 2026 20:14:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13549385/champions-league-gabriel-misses-as-arsenal-lose-on-penalties-to-psg-in-final",
+      "title": {
+        "ar": "'Heartbreak for Arsenal' | Fans react as Gunners lose on penalties to PSG",
+        "en": "'Heartbreak for Arsenal' | Fans react as Gunners lose on penalties to PSG"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-football-cl-arsenal_7261896.jpg?20260530201202",
+      "url": "https://www.skysports.com/watch/video/13549385/champions-league-gabriel-misses-as-arsenal-lose-on-penalties-to-psg-in-final",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 30 May 2026 20:07:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549344/billy-gilmour-scotland-boss-steve-clarke-100-per-cent-worried-after-midfielder-goes-off-injured-against-curacao",
+      "title": {
+        "ar": "Clarke 'praying' Gilmour makes World Cup",
+        "en": "Clarke 'praying' Gilmour makes World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-billy-gilmour-scotland_7261764.jpg?20260530163950",
+      "url": "https://www.skysports.com/football/news/12040/13549344/billy-gilmour-scotland-boss-steve-clarke-100-per-cent-worried-after-midfielder-goes-off-injured-against-curacao",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 30 May 2026 16:29:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/scotland-vs-curacao/report/552902",
+      "title": {
+        "ar": "Scotland beat 10-man Curacao 4-1 in World Cup send-off match",
+        "en": "Scotland beat 10-man Curacao 4-1 in World Cup send-off match"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-curtis-shankland_7261662.jpg?20260530150358",
+      "url": "https://www.skysports.com/football/scotland-vs-curacao/report/552902",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 30 May 2026 15:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/golf/news/12040/13549342/dp-world-tour-andrew-beef-johnston-falls-back-at-austrian-alpine-open-as-kota-kaneko-leads-heading-into-final-round",
+      "title": {
+        "ar": "Johnston falls back in Austria as Kaneko leads heading into final round",
+        "en": "Johnston falls back in Austria as Kaneko leads heading into final round"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-andrew-johnston_7261299.jpg?20260530171203",
+      "url": "https://www.skysports.com/golf/news/12040/13549342/dp-world-tour-andrew-beef-johnston-falls-back-at-austrian-alpine-open-as-kota-kaneko-leads-heading-into-final-round",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 30 May 2026 17:55:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c5y7e872zl9o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "دوري أبطال أوروبا: باريس سان جيرمان يفوز باللقب بعد تجاوز أرسنال بركلات الترجيح",
+        "en": "دوري أبطال أوروبا: باريس سان جيرمان يفوز باللقب بعد تجاوز أرسنال بركلات الترجيح"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/def6/live/169b93b0-5c5b-11f1-b682-cf91850925ea.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c5y7e872zl9o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sat, 30 May 2026 19:23:01 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/may/30/paris-saint-germain-arsenal-champions-league-final-live-psg-score-updates",
+      "title": {
+        "ar": "Paris Saint-Germain v Arsenal: PSG win Champions League final on penalties – live",
+        "en": "Paris Saint-Germain v Arsenal: PSG win Champions League final on penalties – live"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p ⚽ Latest updates from 5pm BST kick-off in Budapest br ⚽ a href=\"https://www.theguardian.com/football/2026/may/30/my-arsenal-devotion-began-watching-them-lose-south-african-cinema-champions-league-final\" Donald McRae’s Arsenal journey /a | a href=\"https://bsky.app/profile/sport.theguardian.com\" Follow us on Bluesky /a /p p strong “They’ve got a wo",
+        "en": "p ⚽ Latest updates from 5pm BST kick-off in Budapest br ⚽ a href=\"https://www.theguardian.com/football/2026/may/30/my-arsenal-devotion-began-watching-them-lose-south-african-cinema-champions-league-final\" Donald McRae’s Arsenal journey /a | a href=\"https://bsky.app/profile/sport.theguardian.com\" Follow us on Bluesky /a /p p strong “They’ve got a wo"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/may/30/paris-saint-germain-arsenal-champions-league-final-live-psg-score-updates",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 19:10:03 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/arne-slot-liverpool-mohamed-salah-fenway-sports-group",
+      "title": {
+        "ar": "FSG agreed with Salah: loss of style meant Arne Slot had to go to win back fans | Andy Hunter",
+        "en": "FSG agreed with Salah: loss of style meant Arne Slot had to go to win back fans | Andy Hunter"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Club’s flawed recruitment meant coach did not deserve the vitriol, but Anfield boos led to executives needing to act /p p Mohamed Salah’s parting shot was to a href=\"https://www.theguardian.com/football/2026/may/16/mohamed-salah-criticises-crumbling-liverpools-season-and-demands-return-to-heavy-metal-football\" demand the return of heavy-metal foo",
+        "en": "p Club’s flawed recruitment meant coach did not deserve the vitriol, but Anfield boos led to executives needing to act /p p Mohamed Salah’s parting shot was to a href=\"https://www.theguardian.com/football/2026/may/16/mohamed-salah-criticises-crumbling-liverpools-season-and-demands-return-to-heavy-metal-football\" demand the return of heavy-metal foo"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/arne-slot-liverpool-mohamed-salah-fenway-sports-group",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 18:00:25 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/raheem-sterling-suffered-immeasurable-psychological-strain-close-source-says",
+      "title": {
+        "ar": "Raheem Sterling made to feel ‘worthless’, says close source amid player’s arrest",
+        "en": "Raheem Sterling made to feel ‘worthless’, says close source amid player’s arrest"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Former England and Chelsea star arrested on M3 on Thursday under suspicion of driving while unfit through drugs /p p Raheem Sterling has been made to feel “disposable” after a decade at the top of football, a source close to the former England star has said, after his arrest on suspicion of driving “whilst unfit through drugs”. /p p The source sa",
+        "en": "p Former England and Chelsea star arrested on M3 on Thursday under suspicion of driving while unfit through drugs /p p Raheem Sterling has been made to feel “disposable” after a decade at the top of football, a source close to the former England star has said, after his arrest on suspicion of driving “whilst unfit through drugs”. /p p The source sa"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/raheem-sterling-suffered-immeasurable-psychological-strain-close-source-says",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 15:57:26 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/a-season-from-hell-how-arne-slots-liverpool-fell-apart-after-death-of-jota",
+      "title": {
+        "ar": "A season from hell: how Arne Slot’s Liverpool fell apart after death of Jota",
+        "en": "A season from hell: how Arne Slot’s Liverpool fell apart after death of Jota"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The title-winning glow soon faded for the champions’ manager after tragedy in Spain presaged a dramatic decline on the pitch /p p The Liverpool forward was returning from his native Portugal to England via car then ferry, on medical advice after having a minor lung operation, and was killed in an accident along with his brother, André Silva, en r",
+        "en": "p The title-winning glow soon faded for the champions’ manager after tragedy in Spain presaged a dramatic decline on the pitch /p p The Liverpool forward was returning from his native Portugal to England via car then ferry, on medical advice after having a minor lung operation, and was killed in an accident along with his brother, André Silva, en r"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/a-season-from-hell-how-arne-slots-liverpool-fell-apart-after-death-of-jota",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 15:19:08 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/morocco-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Morocco World Cup 2026 team guide",
+        "en": "Morocco World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Expectations were raised after a first semi-final at Qatar 2022 and Mohamed Ouahbi’s side will hope history can repeat itself /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media ",
+        "en": "p Expectations were raised after a first semi-final at Qatar 2022 and Mohamed Ouahbi’s side will hope history can repeat itself /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/morocco-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 15:00:22 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/scotland-curacao-world-cup-warm-up-match-report",
+      "title": {
+        "ar": "Shankland leads Scotland recovery to defeat 10-man Curaçao in World Cup warm-up",
+        "en": "Shankland leads Scotland recovery to defeat 10-man Curaçao in World Cup warm-up"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p In the early stages, Scotland looked to be opting for something different. That is, heading to a major tournament while completely unburdened by expectation. Little Curaçao were embarrassing Steve Clarke and his team. Scottish Football Association big wigs, a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-c",
+        "en": "p In the early stages, Scotland looked to be opting for something different. That is, heading to a major tournament while completely unburdened by expectation. Little Curaçao were embarrassing Steve Clarke and his team. Scottish Football Association big wigs, a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-c"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/scotland-curacao-world-cup-warm-up-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 14:26:42 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/28/mauricio-pochettino-in-talks-with-milan-amid-broader-interest-as-us-opens-world-cup-camp",
+      "title": {
+        "ar": "Mauricio Pochettino in talks with Milan over head coach’s role as US open World Cup camp",
+        "en": "Mauricio Pochettino in talks with Milan over head coach’s role as US open World Cup camp"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p USMNT head coach has drawn broader interest, CEO says /p /li li p World Cup camp opens after squad reveal on Tuesday /p /li li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p /li /ul p US ",
+        "en": "ul li p USMNT head coach has drawn broader interest, CEO says /p /li li p World Cup camp opens after squad reveal on Tuesday /p /li li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p /li /ul p US "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/28/mauricio-pochettino-in-talks-with-milan-amid-broader-interest-as-us-opens-world-cup-camp",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 16:53:41 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-season-review-predictions-reality-liverpool-chelsea-brentford-sunderland",
+      "title": {
+        "ar": "Premier League 2025-26 season review: our predictions v reality",
+        "en": "Premier League 2025-26 season review: our predictions v reality"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear /p p strong What we predicted: /strong Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in the Premier League for a third season in succession and the new sporting director, Andrea Berta, has delivered on a",
+        "en": "p We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear /p p strong What we predicted: /strong Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in the Premier League for a third season in succession and the new sporting director, Andrea Berta, has delivered on a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-season-review-predictions-reality-liverpool-chelsea-brentford-sunderland",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 26 May 2026 15:56:24 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13476707/arne-slot-liverpool-head-coach-sacked-a-year-after-premier-league-title-win-following-fifth-place-finish-this-season",
       "title": {
@@ -1625,381 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Thu, 28 May 2026 23:43:47 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48889090/tactical-keys-champions-league-final-psgs-bizarre-kickoff-arsenal-striker-choice",
-      "title": {
-        "ar": "3 tactical keys: PSG's bizarre kick off, Arsenal's...",
-        "en": "3 tactical keys: PSG's bizarre kick off, Arsenal's..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48889090/tactical-keys-champions-league-final-psgs-bizarre-kickoff-arsenal-striker-choice",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 28 May 2026 23:43:47 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48904313/lionel-messi-argentina-2026-world-cup-squad",
-      "title": {
-        "ar": "Messi to lead Argentina at record 6th World Cup",
-        "en": "Messi to lead Argentina at record 6th World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48904313/lionel-messi-argentina-2026-world-cup-squad",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 28 May 2026 23:43:38 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48901406/usa-coach-mauricio-pochettino-ac-milan-talks-world-cup-job",
-      "title": {
-        "ar": "Sources: USMNT coach Poch met Milan over job",
-        "en": "Sources: USMNT coach Poch met Milan over job"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48901406/usa-coach-mauricio-pochettino-ac-milan-talks-world-cup-job",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 28 May 2026 23:43:38 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48898915/barcelona-julian-alvarez-hopeful-signing-believe-striker-wants-join-sources",
-      "title": {
-        "ar": "Sources: Barcelona hopeful of signing Álvarez",
-        "en": "Sources: Barcelona hopeful of signing Álvarez"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48898915/barcelona-julian-alvarez-hopeful-signing-believe-striker-wants-join-sources",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 28 May 2026 23:43:38 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48900541/tottenham-advancing-andy-robertson-deal",
-      "title": {
-        "ar": "Sources: Spurs closing in on Liverpool's Robertson...",
-        "en": "Sources: Spurs closing in on Liverpool's Robertson..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48900541/tottenham-advancing-andy-robertson-deal",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 28 May 2026 23:43:38 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48900253/neymar-calf-injury-three-weeks-miss-world-cup-opener",
-      "title": {
-        "ar": "Brazil's Neymar (calf) may miss World Cup opener",
-        "en": "Brazil's Neymar (calf) may miss World Cup opener"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48900253/neymar-calf-injury-three-weeks-miss-world-cup-opener",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 28 May 2026 23:43:37 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/29/fifa-world-cup-football-group-stage-new-zealand-iran",
-      "title": {
-        "ar": "NZ and Iran in World Cup limbo with LA story about more than football",
-        "en": "NZ and Iran in World Cup limbo with LA story about more than football"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Uncertainty has clouded the All Whites and Team Melli’s group stage opener to be held in Los Angeles on 15 June /p p New Zealand will play their first World Cup game in 16 years with much of the planet watching what is surely the biggest event of the group stage. But little attention will be on whether New Zealand can record their first World Cup",
-        "en": "p Uncertainty has clouded the All Whites and Team Melli’s group stage opener to be held in Los Angeles on 15 June /p p New Zealand will play their first World Cup game in 16 years with much of the planet watching what is surely the biggest event of the group stage. But little attention will be on whether New Zealand can record their first World Cup"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/29/fifa-world-cup-football-group-stage-new-zealand-iran",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 29 May 2026 03:00:38 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/29/tim-payne-new-zealand-player-world-cup-2026-social-media",
-      "title": {
-        "ar": "From 5,000 followers to over a million: New Zealand World Cup player Tim Payne finds social media fame",
-        "en": "From 5,000 followers to over a million: New Zealand World Cup player Tim Payne finds social media fame"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Tim Payne identified as least-known player by Argentinian influencer /p /li li p Campaign launched to make defender a ‘hero’ before tournament /p /li /ul p New Zealand defender Tim Payne has become an unlikely star after an influencer from Argentina called on his followers to unite and make the little-known 32-year-old a “hero” of the upcom",
-        "en": "ul li p Tim Payne identified as least-known player by Argentinian influencer /p /li li p Campaign launched to make defender a ‘hero’ before tournament /p /li /ul p New Zealand defender Tim Payne has become an unlikely star after an influencer from Argentina called on his followers to unite and make the little-known 32-year-old a “hero” of the upcom"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/29/tim-payne-new-zealand-player-world-cup-2026-social-media",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 29 May 2026 00:55:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48898174/can-arsenal-win-champions-league-final-give-premier-league-clean-sweep-european-trophies-europa-league-conference-league-aston-villa-crystal-palace",
-      "title": {
-        "ar": "Premier League can claim clean sweep of European t...",
-        "en": "Premier League can claim clean sweep of European t..."
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48898174/can-arsenal-win-champions-league-final-give-premier-league-clean-sweep-european-trophies-europa-league-conference-league-aston-villa-crystal-palace",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 28 May 2026 18:58:44 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/29/switzerland-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Switzerland World Cup 2026 team guide",
-        "en": "Switzerland World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Granit Xhaka and his teammates enter with high expectations after a smooth route through qualifying /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations from the 48 ",
-        "en": "p Granit Xhaka and his teammates enter with high expectations after a smooth route through qualifying /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations from the 48 "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/29/switzerland-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 23:01:34 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/28/ibrahima-konate-set-to-leave-liverpool-after-failing-to-agree-new-contract",
-      "title": {
-        "ar": "Ibrahima Konaté poised to leave Liverpool after failing to agree new contract",
-        "en": "Ibrahima Konaté poised to leave Liverpool after failing to agree new contract"
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "ul li p Defender will depart Anfield on a free transfer /p /li li p France international linked with Paris Saint-Germain /p /li /ul p Ibrahima Konaté looks set to leave Liverpool after failing to agree a contract extension. /p p The 27-year-old’s representatives have been in extensive talks with the club about extending his five-year stay at Anfiel",
-        "en": "ul li p Defender will depart Anfield on a free transfer /p /li li p France international linked with Paris Saint-Germain /p /li /ul p Ibrahima Konaté looks set to leave Liverpool after failing to agree a contract extension. /p p The 27-year-old’s representatives have been in extensive talks with the club about extending his five-year stay at Anfiel"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/28/ibrahima-konate-set-to-leave-liverpool-after-failing-to-agree-new-contract",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 22:21:53 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/28/kai-havertz-champions-league-final-special-arsenal-psg-2026-budapest",
-      "title": {
-        "ar": "Kai Havertz: ‘Just to watch the Champions League final is very special, to play in it is unreal’",
-        "en": "Kai Havertz: ‘Just to watch the Champions League final is very special, to play in it is unreal’"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Arsenal striker scored the winner in the final five years ago and is determined to make up for being ‘in a bad place’ when injured this season /p p When Kai Havertz thinks back to the 2021 Champions League final, he can’t help smiling. a href=\"https://www.theguardian.com/football/2021/may/29/manchester-city-chelsea-champions-league-final-match-re",
-        "en": "p Arsenal striker scored the winner in the final five years ago and is determined to make up for being ‘in a bad place’ when injured this season /p p When Kai Havertz thinks back to the 2021 Champions League final, he can’t help smiling. a href=\"https://www.theguardian.com/football/2021/may/29/manchester-city-chelsea-champions-league-final-match-re"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/28/kai-havertz-champions-league-final-special-arsenal-psg-2026-budapest",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 21:30:32 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48882849/usmnt-final-world-cup-roster-pochettino-taking-risks",
-      "title": {
-        "ar": "USMNT's final World Cup roster is classic Pochetti...",
-        "en": "USMNT's final World Cup roster is classic Pochetti..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48882849/usmnt-final-world-cup-roster-pochettino-taking-risks",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 28 May 2026 13:51:50 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48352807/world-cup-2026-kit-ranking-canada-mexico-united-states-argentina-australia-brazil-england-france-germany-portugal-spain",
-      "title": {
-        "ar": "World Cup 2026 kit ranking: All 105 jerseys that a...",
-        "en": "World Cup 2026 kit ranking: All 105 jerseys that a..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48352807/world-cup-2026-kit-ranking-canada-mexico-united-states-argentina-australia-brazil-england-france-germany-portugal-spain",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 28 May 2026 13:00:44 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48899831/how-kroenkes-ended-arsenal-banter-era-win-premier-league-title",
-      "title": {
-        "ar": "How the Kroenkes ended Arsenal's 'banter era' and ...",
-        "en": "How the Kroenkes ended Arsenal's 'banter era' and ..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48899831/how-kroenkes-ended-arsenal-banter-era-win-premier-league-title",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 28 May 2026 12:07:24 EST",
       "rewritten": false,
       "lang": "en"
     }
