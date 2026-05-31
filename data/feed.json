@@ -1,8 +1,208 @@
 {
   "version": 2,
-  "updated": "2026-05-30T19:26:36.367Z",
+  "updated": "2026-05-31T04:23:40.346Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549412/liverpool-u-turn-for-mohamed-salah-now-arne-slot-is-gone-paper-talk",
+      "title": {
+        "ar": "Papers: Liverpool U-turn for Salah now Slot is gone?",
+        "en": "Papers: Liverpool U-turn for Salah now Slot is gone?"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "url": "https://www.skysports.com/football/news/12040/13549412/liverpool-u-turn-for-mohamed-salah-now-arne-slot-is-gone-paper-talk",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 30 May 2026 23:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13548476/arsenals-declan-rice-on-cruel-champions-league-shoot-out-heartbreak-against-psg-it-wont-define-us",
+      "title": {
+        "ar": "'Cruel' Champions League defeat won't define us, says Rice",
+        "en": "'Cruel' Champions League defeat won't define us, says Rice"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-gabriel-arsenal-declan-rice_7261933.jpg?20260530210341",
+      "url": "https://www.skysports.com/football/news/12040/13548476/arsenals-declan-rice-on-cruel-champions-league-shoot-out-heartbreak-against-psg-it-wont-define-us",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 30 May 2026 21:13:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/canada-world-cup-roster-analysis-jesse-marsch-davies",
+      "title": {
+        "ar": "Canada bet on health, speed and belief as Marsch names World Cup squad",
+        "en": "Canada bet on health, speed and belief as Marsch names World Cup squad"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Injuries forced late decisions, but Jesse Marsch remains convinced this is the strongest squad Canada has ever assembled. Now comes the harder question: can they finally deliver on home soil? /p p The only surprise is that we were surprised. In his final moments of deliberation Jesse Marsch looked at the options in front of him and chose speed. W",
+        "en": "p Injuries forced late decisions, but Jesse Marsch remains convinced this is the strongest squad Canada has ever assembled. Now comes the harder question: can they finally deliver on home soil? /p p The only surprise is that we were surprised. In his final moments of deliberation Jesse Marsch looked at the options in front of him and chose speed. W"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/canada-world-cup-roster-analysis-jesse-marsch-davies",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 31 May 2026 00:31:34 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/31/usa-world-cup-2026-team-guide",
+      "title": {
+        "ar": "USA World Cup 2026 team guide",
+        "en": "USA World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Optimism is not high for Mauricio Pochettino’s co-hosts, who are under pressure to justify fans’ considerable outlay on tickets /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best medi",
+        "en": "p Optimism is not high for Mauricio Pochettino’s co-hosts, who are under pressure to justify fans’ considerable outlay on tickets /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best medi"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/31/usa-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 23:01:31 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/cruel-ending-to-arsenals-thrillingly-intense-high-quality-evening",
+      "title": {
+        "ar": "Lewis-Skelly dazzles but Arsenal endure cruel ending to thrillingly intense final | Barney Ronay",
+        "en": "Lewis-Skelly dazzles but Arsenal endure cruel ending to thrillingly intense final | Barney Ronay"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Some struggle to love Mikel Arteta’s side but they went toe-to-toe with PSG in a gruelling, high-grade contest /p p It always seemed likely, somehow, that Arsenal’s season was going to come down to Gabriel Magalhães strong /strong and a set piece. Just not, ideally, like this. /p p Football does love a note of dramatic irony. And while Arsenal ma",
+        "en": "p Some struggle to love Mikel Arteta’s side but they went toe-to-toe with PSG in a gruelling, high-grade contest /p p It always seemed likely, somehow, that Arsenal’s season was going to come down to Gabriel Magalhães strong /strong and a set piece. Just not, ideally, like this. /p p Football does love a note of dramatic irony. And while Arsenal ma"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/cruel-ending-to-arsenals-thrillingly-intense-high-quality-evening",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 21:55:29 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/cristiano-ronaldo-world-cup-lionel-messi-luka-modric",
+      "title": {
+        "ar": "Creaking Cristiano Ronaldo’s presence at World Cup is more a curse than a blessing | Jonathan Wilson",
+        "en": "Creaking Cristiano Ronaldo’s presence at World Cup is more a curse than a blessing | Jonathan Wilson"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Veterans such as Messi and Modric are much in evidence at the finals, but an obsession with celebrity may undermine Portugal /p p It turns out that 2022 wasn’t Lionel Messi’s last dance after all. He will turn 39 during the World Cup, but despite concerns over the “muscular overload” that led to him limping out of a href=\"https://www.theguardian.",
+        "en": "p Veterans such as Messi and Modric are much in evidence at the finals, but an obsession with celebrity may undermine Portugal /p p It turns out that 2022 wasn’t Lionel Messi’s last dance after all. He will turn 39 during the World Cup, but despite concerns over the “muscular overload” that led to him limping out of a href=\"https://www.theguardian."
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/cristiano-ronaldo-world-cup-lionel-messi-luka-modric",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 21:35:17 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/arsenal-fans-zen-like-champions-league-final-result",
+      "title": {
+        "ar": "‘Happy either way’: Arsenal fans find zen attitude to Champions League final",
+        "en": "‘Happy either way’: Arsenal fans find zen attitude to Champions League final"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p Supporters filling north London pubs said they were already gratified by Premier League win /p p The streets of Holloway, usually bustling with families and trolly-dragging shoppers, were uncharacteristically quiet on Saturday afternoon. But shortly after the clock struck 5pm, loud roars echoed through the north London high street, located a shor",
+        "en": "p Supporters filling north London pubs said they were already gratified by Premier League win /p p The streets of Holloway, usually bustling with families and trolly-dragging shoppers, were uncharacteristically quiet on Saturday afternoon. But shortly after the clock struck 5pm, loud roars echoed through the north London high street, located a shor"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/arsenal-fans-zen-like-champions-league-final-result",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 19:36:40 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout",
+      "title": {
+        "ar": "Paris Saint-Germain retain Champions League as Arsenal dream dashed in shootout",
+        "en": "Paris Saint-Germain retain Champions League as Arsenal dream dashed in shootout"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p It was a showpiece that held the football world in its grip, the tension mounting exponentially, everything on the line. For Paris Saint-Germain, there was the opportunity to make it clear that this is a dynastic team; the rarity of retaining a Champions League title. /p p For Arsenal, it was simple. Never mind the Invincibles. They stood to be i",
+        "en": "p It was a showpiece that held the football world in its grip, the tension mounting exponentially, everything on the line. For Paris Saint-Germain, there was the opportunity to make it clear that this is a dynastic team; the rarity of retaining a Champions League title. /p p For Arsenal, it was simple. Never mind the Invincibles. They stood to be i"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 19:19:41 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/report/554950",
       "title": {
@@ -1800,206 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Fri, 29 May 2026 09:00:46 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/29/cristian-volpato-switches-allegiance-italy-australia-world-cup-football",
-      "title": {
-        "ar": "Cristian Volpato to switch allegiance from Italy to Australia in time for World Cup",
-        "en": "Cristian Volpato to switch allegiance from Italy to Australia in time for World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p 22-year-old to join up with Socceroos training squad in Los Angeles /p /li li p Attacker turned down offer four years ago to play for country of birth /p /li /ul p The Socceroos have been handed a huge boost on the eve of the World Cup with young attacker Cristian Volpato to join up with the training squad before a friendly against Mexico i",
-        "en": "ul li p 22-year-old to join up with Socceroos training squad in Los Angeles /p /li li p Attacker turned down offer four years ago to play for country of birth /p /li /ul p The Socceroos have been handed a huge boost on the eve of the World Cup with young attacker Cristian Volpato to join up with the training squad before a friendly against Mexico i"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/29/cristian-volpato-switches-allegiance-italy-australia-world-cup-football",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 29 May 2026 08:02:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/29/qatar-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Qatar World Cup 2026 team guide",
-        "en": "Qatar World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Unimpressive in qualification and with preparation disrupted, at least the squad will not be burdened with the pressure of hosting this time /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of ",
-        "en": "p Unimpressive in qualification and with preparation disrupted, at least the squad will not be burdened with the pressure of hosting this time /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/29/qatar-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 29 May 2026 07:00:44 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/29/arsenal-psg-champions-league-final-luis-enrique-ligue-1-mikel-arteta",
-      "title": {
-        "ar": "Fresh v fatigued? Why PSG have a big advantage in Champions League final",
-        "en": "Fresh v fatigued? Why PSG have a big advantage in Champions League final"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Luis Enrique rotated his squad in Ligue 1, whereas Mikel Arteta relied on his best XI in three domestic competitions /p p By a href=\"https://theanalyst.com/\" Opta Analyst /a /p p A look at the most basic numbers might have you believe that the Champions League finalists have had equally demanding campaigns. The final in Budapest on Saturday will ",
-        "en": "p Luis Enrique rotated his squad in Ligue 1, whereas Mikel Arteta relied on his best XI in three domestic competitions /p p By a href=\"https://theanalyst.com/\" Opta Analyst /a /p p A look at the most basic numbers might have you believe that the Champions League finalists have had equally demanding campaigns. The final in Budapest on Saturday will "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/29/arsenal-psg-champions-league-final-luis-enrique-ligue-1-mikel-arteta",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 29 May 2026 07:00:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/darts/news/12040/13548910/luke-littler-breaks-down-in-tears-after-epic-premier-league-triumph-i-picked-myself-up-after-tough-times",
-      "title": {
-        "ar": "Littler breaks down after Premier League win: 'I picked myself up after tough times'",
-        "en": "Littler breaks down after Premier League win: 'I picked myself up after tough times'"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-luke-littler-darts_7260741.jpg?20260528230156",
-      "url": "https://www.skysports.com/darts/news/12040/13548910/luke-littler-breaks-down-in-tears-after-epic-premier-league-triumph-i-picked-myself-up-after-tough-times",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 28 May 2026 23:29:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/darts/news/12040/13548717/premier-league-darts-luke-littler-crowned-champion-after-dramatic-11-10-victory-over-luke-humphries-in-final",
-      "title": {
-        "ar": "Littler crowned Premier League champion after dramatic win over Humphries",
-        "en": "Littler crowned Premier League champion after dramatic win over Humphries"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-luke-littler-darts_7260734.jpg?20260528224804",
-      "url": "https://www.skysports.com/darts/news/12040/13548717/premier-league-darts-luke-littler-crowned-champion-after-dramatic-11-10-victory-over-luke-humphries-in-final",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 28 May 2026 22:07:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13548896/liverpool-transfer-news-ibrahima-konate",
-      "title": {
-        "ar": "Konate set to leave Liverpool on free transfer",
-        "en": "Konate set to leave Liverpool on free transfer"
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-ibrahima-konate-liverpool_7260704.jpg?20260528220812",
-      "url": "https://www.skysports.com/football/news/12040/13548896/liverpool-transfer-news-ibrahima-konate",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 28 May 2026 21:57:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13548854/arsenal-transfer-news-barcelona-weigh-up-approach-for-defender-piero-hincapie-paper-talk",
-      "title": {
-        "ar": "Papers: Barcelona weighing up approach for Arsenal defender",
-        "en": "Papers: Barcelona weighing up approach for Arsenal defender"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "url": "https://www.skysports.com/football/news/12040/13548854/arsenal-transfer-news-barcelona-weigh-up-approach-for-defender-piero-hincapie-paper-talk",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 28 May 2026 22:58:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48891938/2025-26-champions-league-final-arsenal-paris-saint-germain-preview-predictions-analysis-key-players",
-      "title": {
-        "ar": "Champions League final: Everything you need to kno...",
-        "en": "Champions League final: Everything you need to kno..."
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48891938/2025-26-champions-league-final-arsenal-paris-saint-germain-preview-predictions-analysis-key-players",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 28 May 2026 23:43:47 EST",
       "rewritten": false,
       "lang": "en"
     }
