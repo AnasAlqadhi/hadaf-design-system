@@ -1,8 +1,258 @@
 {
   "version": 2,
-  "updated": "2026-05-31T08:54:42.038Z",
+  "updated": "2026-05-31T13:58:22.295Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-build-up-plus-latest-on-trump-tickets-and-fans",
+      "title": {
+        "ar": "World Cup latest: Scotland call up Man Utd teenager to replace Gilmour",
+        "en": "World Cup latest: Scotland call up Man Utd teenager to replace Gilmour"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-tyler-fletcher-scotland_7262128.jpg?20260531104300",
+      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-build-up-plus-latest-on-trump-tickets-and-fans",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 31 May 2026 10:41:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549469/arne-slots-liverpool-sacking-a-shock-but-an-elite-manager-would-have-fixed-club-last-season-says-jamie-carragher",
+      "title": {
+        "ar": "Carra: An elite manager would have fixed Liverpool",
+        "en": "Carra: An elite manager would have fixed Liverpool"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-arne-slot-liverpool_7243662.jpg?20260509165150",
+      "url": "https://www.skysports.com/football/news/12040/13549469/arne-slots-liverpool-sacking-a-shock-but-an-elite-manager-would-have-fixed-club-last-season-says-jamie-carragher",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 31 May 2026 09:34:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549508/arsenal-lose-champions-league-final-to-psg-progress-but-was-this-a-missed-opportunity-for-mikel-arteta-in-budapest",
+      "title": {
+        "ar": "Arsenal so close and growing – but this was still a missed opportunity",
+        "en": "Arsenal so close and growing – but this was still a missed opportunity"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-arsenal-boss-mikel-arteta_7261921.jpg?20260530204017",
+      "url": "https://www.skysports.com/football/news/12040/13549508/arsenal-lose-champions-league-final-to-psg-progress-but-was-this-a-missed-opportunity-for-mikel-arteta-in-budapest",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 31 May 2026 12:55:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/may/31/arsenal-premier-league-trophy-parade-title-celebrations-in-north-london-live",
+      "title": {
+        "ar": "Arsenal’s Premier League trophy parade: title celebrations in north London – live",
+        "en": "Arsenal’s Premier League trophy parade: title celebrations in north London – live"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p ⚽ Hundreds of thousands attend London event (2pm BST) br ⚽ a href=\"https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout\" PSG dash Arsenal’s Champions League dream /a | a href=\"mailto:john.brewin.casual@theguardian.com\" Mail John /a /p p strong It’s available at the top of",
+        "en": "p ⚽ Hundreds of thousands attend London event (2pm BST) br ⚽ a href=\"https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout\" PSG dash Arsenal’s Champions League dream /a | a href=\"mailto:john.brewin.casual@theguardian.com\" Mail John /a /p p strong It’s available at the top of"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/may/31/arsenal-premier-league-trophy-parade-title-celebrations-in-north-london-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 31 May 2026 13:44:03 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/may/31/brighton-v-manchester-city-womens-fa-cup-final-live",
+      "title": {
+        "ar": "Brighton v Manchester City: Women’s FA Cup final – live",
+        "en": "Brighton v Manchester City: Women’s FA Cup final – live"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p ⚽ FA Cup final updates from Wembley, kick-off 3pm BST br ⚽ a href=\"https://www.theguardian.com/football/2026/may/30/brighton-womens-fa-cup-final-dario-vidosic-rado\" Vidosic driven by family tragedy /a | a href=\"https://www.theguardian.com/football/2026/may/29/manchester-city-women-khadija-bunny-shaw-title-fa-cup-double-brighton\" City target the d",
+        "en": "p ⚽ FA Cup final updates from Wembley, kick-off 3pm BST br ⚽ a href=\"https://www.theguardian.com/football/2026/may/30/brighton-womens-fa-cup-final-dario-vidosic-rado\" Vidosic driven by family tragedy /a | a href=\"https://www.theguardian.com/football/2026/may/29/manchester-city-women-khadija-bunny-shaw-title-fa-cup-double-brighton\" City target the d"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/may/31/brighton-v-manchester-city-womens-fa-cup-final-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 31 May 2026 13:43:31 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/31/slots-axe-was-brutal-but-most-liverpool-supporters-agree-he-had-to-go",
+      "title": {
+        "ar": "Arne Slot’s axe was brutal but most Liverpool supporters agree he had to go | David Usher",
+        "en": "Arne Slot’s axe was brutal but most Liverpool supporters agree he had to go | David Usher"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Fan discontent boiled over last season but the head coach wasn’t the only one who made mistakes at the club /p p Inevitable and necessary. Despite the continual briefings coming out of the UK side of the club’s operation, the silence from Liverpool’s American ownership was deafening. No vote of confidence, no contract extension talks and – most s",
+        "en": "p Fan discontent boiled over last season but the head coach wasn’t the only one who made mistakes at the club /p p Inevitable and necessary. Despite the continual briefings coming out of the UK side of the club’s operation, the silence from Liverpool’s American ownership was deafening. No vote of confidence, no contract extension talks and – most s"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/31/slots-axe-was-brutal-but-most-liverpool-supporters-agree-he-had-to-go",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 31 May 2026 13:00:49 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/31/what-next-for-liverpool-challenges-arne-slot-successor",
+      "title": {
+        "ar": "What next for Liverpool? The major challenges facing Arne Slot’s successor",
+        "en": "What next for Liverpool? The major challenges facing Arne Slot’s successor"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p We look at the faultlines within Anfield and what is needed in the aftermath of the head coach’s sacking /p p Maybe a href=\"https://www.theguardian.com/football/2026/may/30/arne-slot-liverpool-mohamed-salah-fenway-sports-group\" Mohamed Salah’s style of communication /a was not the slickest but he was correct that Liverpool need to redefine the st",
+        "en": "p We look at the faultlines within Anfield and what is needed in the aftermath of the head coach’s sacking /p p Maybe a href=\"https://www.theguardian.com/football/2026/may/30/arne-slot-liverpool-mohamed-salah-fenway-sports-group\" Mohamed Salah’s style of communication /a was not the slickest but he was correct that Liverpool need to redefine the st"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/31/what-next-for-liverpool-challenges-arne-slot-successor",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 31 May 2026 09:57:27 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/29/brazil-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Brazil World Cup 2026 team guide",
+        "en": "Brazil World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Unimpressive in qualification, fans will be hoping Carlo Ancelotti can get the best out of Vinícius Júnior, as he did at Real Madrid /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best",
+        "en": "p Unimpressive in qualification, fans will be hoping Carlo Ancelotti can get the best out of Vinícius Júnior, as he did at Real Madrid /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/29/brazil-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 29 May 2026 15:00:55 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c78qg33q5jqo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "دوري أبطال أوروبا: كيف بدأت الحكاية؟",
+        "en": "دوري أبطال أوروبا: كيف بدأت الحكاية؟"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b5f2/live/56bf0910-5b69-11f1-b682-cf91850925ea.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c78qg33q5jqo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Fri, 29 May 2026 14:23:09 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/29/liverpool-unveil-new-memorial-to-heysel-stadium-tragedy-on-41st-anniversary",
+      "title": {
+        "ar": "Liverpool unveil new memorial to Heysel Stadium tragedy on 41st anniversary",
+        "en": "Liverpool unveil new memorial to Heysel Stadium tragedy on 41st anniversary"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Ian Rush among those from Liverpool and Juventus at ceremony /p /li li p New Anfield Road monument replaces original plaque /p /li /ul p Liverpool have unveiled a new memorial on the 41st anniversary of a href=\"https://www.theguardian.com/football/2015/may/27/heysel-stadium-disaster-30th-anniversary\" the Heysel Stadium tragedy /a to the 39 ",
+        "en": "ul li p Ian Rush among those from Liverpool and Juventus at ceremony /p /li li p New Anfield Road monument replaces original plaque /p /li /ul p Liverpool have unveiled a new memorial on the 41st anniversary of a href=\"https://www.theguardian.com/football/2015/may/27/heysel-stadium-disaster-30th-anniversary\" the Heysel Stadium tragedy /a to the 39 "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/29/liverpool-unveil-new-memorial-to-heysel-stadium-tragedy-on-41st-anniversary",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 29 May 2026 12:31:27 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13549453/psg-vs-arsenal-hundreds-of-arrests-made-across-france-after-paris-saint-germain-win-champions-league-final",
       "title": {
@@ -450,56 +700,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Thu, 28 May 2026 11:39:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1800,206 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Fri, 29 May 2026 15:25:56 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48910396/psg-luis-enrique-arsenal-mikel-arteta-different-routes-same-destination",
-      "title": {
-        "ar": "PSG's Luis Enrique offers take on Arsenal style",
-        "en": "PSG's Luis Enrique offers take on Arsenal style"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48910396/psg-luis-enrique-arsenal-mikel-arteta-different-routes-same-destination",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 29 May 2026 15:25:56 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/29/anthony-gordon-signs-barcelona-from-newcastle-five-year-deal",
-      "title": {
-        "ar": "Anthony Gordon signs for Barcelona from Newcastle in £69.3m, five-year deal",
-        "en": "Anthony Gordon signs for Barcelona from Newcastle in £69.3m, five-year deal"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p England winger commits to Spanish giants to 2031 /p /li li p Of Newcastle: ‘I’ll be a fan for the rest of my life’ /p /li /ul p Anthony Gordon has signed for Barcelona from Newcastle in a five-year deal believed to be worth £69.3m. /p p Both clubs announced the move on Friday night, with the Spanish giants saying in a statement that the 25-",
-        "en": "ul li p England winger commits to Spanish giants to 2031 /p /li li p Of Newcastle: ‘I’ll be a fan for the rest of my life’ /p /li /ul p Anthony Gordon has signed for Barcelona from Newcastle in a five-year deal believed to be worth £69.3m. /p p Both clubs announced the move on Friday night, with the Spanish giants saying in a statement that the 25-"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/29/anthony-gordon-signs-barcelona-from-newcastle-five-year-deal",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 29 May 2026 19:48:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/29/liberation-of-premier-league-title-can-help-arsenal-blunt-psg-and-join-europes-elite",
-      "title": {
-        "ar": "Liberation of Premier League title can help Arsenal blunt PSG and join Europe’s elite",
-        "en": "Liberation of Premier League title can help Arsenal blunt PSG and join Europe’s elite"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p Mikel Arteta must find the balance between newfound freedom and tried-and-tested solidity against Luis Enrique’s attacking machine /p p Welcome to Budapest: city of stew, city of pavement squares, city of men in cotton smocks offering brisk muscular relaxation in geothermally heated cubicles. Eleven days on from the a href=\"https://www.theguardia",
-        "en": "p Mikel Arteta must find the balance between newfound freedom and tried-and-tested solidity against Luis Enrique’s attacking machine /p p Welcome to Budapest: city of stew, city of pavement squares, city of men in cotton smocks offering brisk muscular relaxation in geothermally heated cubicles. Eleven days on from the a href=\"https://www.theguardia"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/29/liberation-of-premier-league-title-can-help-arsenal-blunt-psg-and-join-europes-elite",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 29 May 2026 19:00:58 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48907909/messi-leads-experienced-argentina-world-cup-squad-scaloni-opts-continuity",
-      "title": {
-        "ar": "Messi leads an experienced Argentina World Cup squ...",
-        "en": "Messi leads an experienced Argentina World Cup squ..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48907909/messi-leads-experienced-argentina-world-cup-squad-scaloni-opts-continuity",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 29 May 2026 12:07:40 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/29/dick-advocaat-curacao-scotland-world-cup",
-      "title": {
-        "ar": "Dick Advocaat returns to Scotland with Curaçao before historic World Cup appearance",
-        "en": "Dick Advocaat returns to Scotland with Curaçao before historic World Cup appearance"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Manager recalls Rangers tenure fondly before friendly /p /li li p Steve Clarke: Scotland should be qualifing regularly /p /li /ul p A smile flashed across the face of Dick Advocaat as he was reminded that, 27 years earlier to the day, he had watched his Rangers team complete a domestic treble at Hampden Park. “I was quite successful in this",
-        "en": "ul li p Manager recalls Rangers tenure fondly before friendly /p /li li p Steve Clarke: Scotland should be qualifing regularly /p /li /ul p A smile flashed across the face of Dick Advocaat as he was reminded that, 27 years earlier to the day, he had watched his Rangers team complete a domestic treble at Hampden Park. “I was quite successful in this"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/29/dick-advocaat-curacao-scotland-world-cup",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 29 May 2026 16:30:40 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2026/may/29/champions-league-final-french-open-and-womens-fa-cup-final-follow-with-us",
-      "title": {
-        "ar": "Champions League final, French Open and Women’s FA Cup final – follow with us",
-        "en": "Champions League final, French Open and Women’s FA Cup final – follow with us"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports /p a href=\"https://www.theguardian.com/sport/2026/may/29/champions-league-final-french-open-and-womens-fa-cup-final-follow-with-us\" Continue reading... /a",
-        "en": "p Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports /p a href=\"https://www.theguardian.com/sport/2026/may/29/champions-league-final-french-open-and-womens-fa-cup-final-follow-with-us\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2026/may/29/champions-league-final-french-open-and-womens-fa-cup-final-follow-with-us",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 29 May 2026 16:10:24 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/29/mikel-arteta-arsenal-basque-country-barcelona-champions-league-final",
-      "title": {
-        "ar": "‘He was alive – you saw it in his eyes’: inside the years that shaped Mikel Arteta",
-        "en": "‘He was alive – you saw it in his eyes’: inside the years that shaped Mikel Arteta"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p In the runup to the Champions League final, the Arsenal manager’s first footballing steps in the Basque Country and Barcelona are recalled by those who shared them /p p The way Santi Cazorla tells it, rolling about laughing, Mikel Arteta may just be the worst person you could ever wish to watch a match with. Which is why he knew a href=\"https://w",
-        "en": "p In the runup to the Champions League final, the Arsenal manager’s first footballing steps in the Basque Country and Barcelona are recalled by those who shared them /p p The way Santi Cazorla tells it, rolling about laughing, Mikel Arteta may just be the worst person you could ever wish to watch a match with. Which is why he knew a href=\"https://w"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/29/mikel-arteta-arsenal-basque-country-barcelona-champions-league-final",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 29 May 2026 16:00:54 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48901215/how-2026-world-cup-least-known-player-became-viral-sensation",
-      "title": {
-        "ar": "How the World Cup's 'least-known' player became a ...",
-        "en": "How the World Cup's 'least-known' player became a ..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48901215/how-2026-world-cup-least-known-player-became-viral-sensation",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 29 May 2026 08:38:26 EST",
       "rewritten": false,
       "lang": "en"
     }
