@@ -1,8 +1,483 @@
 {
   "version": 2,
-  "updated": "2026-06-01T11:47:58.067Z",
+  "updated": "2026-06-01T17:53:40.783Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/watch/video/13549831/on-their-way-england-fly-out-to-miami-ahead-of-world-cup-preparations",
+      "title": {
+        "ar": "On their way! England fly out to Miami ahead of World Cup preparations",
+        "en": "On their way! England fly out to Miami ahead of World Cup preparations"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-world-cup_7263040.jpg?20260601145743",
+      "url": "https://www.skysports.com/watch/video/13549831/on-their-way-england-fly-out-to-miami-ahead-of-world-cup-preparations",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 01 Jun 2026 14:53:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549821/barcelona-transfers-how-can-laliga-champions-afford-to-make-signings-this-summer-after-anthony-gordon-deal",
+      "title": {
+        "ar": "Gordon? Alvarez? Rashford? How can Barcelona afford transfers this summer?",
+        "en": "Gordon? Alvarez? Rashford? How can Barcelona afford transfers this summer?"
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-anthony-gordon-marcus-rashford_7263082.jpg?20260601154934",
+      "url": "https://www.skysports.com/football/news/12040/13549821/barcelona-transfers-how-can-laliga-champions-afford-to-make-signings-this-summer-after-anthony-gordon-deal",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 01 Jun 2026 14:11:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/01/tuchel-reveals-team-gb-have-been-helping-england-get-ready-for-world-cup-heat",
+      "title": {
+        "ar": "Tuchel reveals Team GB have been helping England get ready for World Cup heat",
+        "en": "Tuchel reveals Team GB have been helping England get ready for World Cup heat"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p ‘The heat is a challenge but we are prepared already’ /p /li li p Head coach believes team can go far at tournament /p p /p /li /ul p Heat and humidity will be obstacles to overcome but England have full belief in their ability and can go far at the World Cup, Thomas Tuchel has said. The head coach has received help from Team GB, drawing on",
+        "en": "ul li p ‘The heat is a challenge but we are prepared already’ /p /li li p Head coach believes team can go far at tournament /p p /p /li /ul p Heat and humidity will be obstacles to overcome but England have full belief in their ability and can go far at the World Cup, Thomas Tuchel has said. The head coach has received help from Team GB, drawing on"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/01/tuchel-reveals-team-gb-have-been-helping-england-get-ready-for-world-cup-heat",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 01 Jun 2026 17:05:16 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/01/psg-champions-league-ligue-1-arsenal",
+      "title": {
+        "ar": "PSG now stand alongside some of Europe’s best-ever, but with caveats",
+        "en": "PSG now stand alongside some of Europe’s best-ever, but with caveats"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The origin of PSG’s largesse and the effect it’s had on their domestic game can’t be ignored, even as we appreciate the team’s stunning quality /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong",
+        "en": "p The origin of PSG’s largesse and the effect it’s had on their domestic game can’t be ignored, even as we appreciate the team’s stunning quality /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/01/psg-champions-league-ligue-1-arsenal",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 01 Jun 2026 16:00:22 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/01/arsenal-psg-illegal-stream-views-tnt-champions-league-final",
+      "title": {
+        "ar": "Arsenal v PSG got 16.2m illegal stream views in UK after not being free-to-air",
+        "en": "Arsenal v PSG got 16.2m illegal stream views in UK after not being free-to-air"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "ul li p Analysts trace illegal views to 3.7m IP addresses in UK /p /li li p Champions League final watched legally by more than 7m /p /li /ul p Arsenal’s Champions League final a href=\"https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout\" defeat by Paris Saint-Germain /a at",
+        "en": "ul li p Analysts trace illegal views to 3.7m IP addresses in UK /p /li li p Champions League final watched legally by more than 7m /p /li /ul p Arsenal’s Champions League final a href=\"https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout\" defeat by Paris Saint-Germain /a at"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/01/arsenal-psg-illegal-stream-views-tnt-champions-league-final",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 01 Jun 2026 15:40:48 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/01/arsenal-psg-champions-league-final-trophy-parade",
+      "title": {
+        "ar": "Football Daily | Arsenal feel the love after Arteta’s Bigger Cup masterplan falls short",
+        "en": "Football Daily | Arsenal feel the love after Arteta’s Bigger Cup masterplan falls short"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p In recent weeks, there has been endless discourse on why so many people hate Arsenal. Yet, yesterday’s parade in the cultural melting pot of north London proved that plenty of people out the",
+        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p In recent weeks, there has been endless discourse on why so many people hate Arsenal. Yet, yesterday’s parade in the cultural melting pot of north London proved that plenty of people out the"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/01/arsenal-psg-champions-league-final-trophy-parade",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 01 Jun 2026 15:03:21 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/01/kevin-keegan-former-england-newcastle-manager-stage-four-cancer-diagnosis",
+      "title": {
+        "ar": "Kevin Keegan, former England and Newcastle manager, reveals stage four cancer diagnosis",
+        "en": "Kevin Keegan, former England and Newcastle manager, reveals stage four cancer diagnosis"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p 75-year-old says he has ‘top doctor’ working on his case /p /li li p Newcastle send ‘heartfelt support and warmest wishes’ /p /li /ul p The former England and Newcastle manager Kevin Keegan has revealed he has stage four cancer. His family had said in January the former England, Liverpool and Newcastle player had been diagnosed with cancer ",
+        "en": "ul li p 75-year-old says he has ‘top doctor’ working on his case /p /li li p Newcastle send ‘heartfelt support and warmest wishes’ /p /li /ul p The former England and Newcastle manager Kevin Keegan has revealed he has stage four cancer. His family had said in January the former England, Liverpool and Newcastle player had been diagnosed with cancer "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/01/kevin-keegan-former-england-newcastle-manager-stage-four-cancer-diagnosis",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 01 Jun 2026 15:01:33 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/01/curacao-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Curaçao World Cup 2026 team guide",
+        "en": "Curaçao World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Smallest nation to reach a World Cup will be guided by the oldest coach in Dick Advocaat /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations from the 48 countries w",
+        "en": "p Smallest nation to reach a World Cup will be guided by the oldest coach in Dick Advocaat /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations from the 48 countries w"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/01/curacao-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 01 Jun 2026 15:00:22 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/01/arsenal-fans-joy-pain-football-premier-league-title-win",
+      "title": {
+        "ar": "Arsenal have shown me nothing brings joy, pain and community like football | Suzanne Wrack",
+        "en": "Arsenal have shown me nothing brings joy, pain and community like football | Suzanne Wrack"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p It’s real and physical, it scars and heals: sport is a visceral high – and the Gunners have reminded fans just what it means /p p It’s going to take some time to shake this feeling. Frankly, I don’t want to shake it. I don’t want the flare smell, akin to a thousand party poppers going off at once, to leave my skin, I don’t want the stream of cont",
+        "en": "p It’s real and physical, it scars and heals: sport is a visceral high – and the Gunners have reminded fans just what it means /p p It’s going to take some time to shake this feeling. Frankly, I don’t want to shake it. I don’t want the flare smell, akin to a thousand party poppers going off at once, to leave my skin, I don’t want the stream of cont"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/01/arsenal-fans-joy-pain-football-premier-league-title-win",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 01 Jun 2026 13:00:18 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/01/andoni-iraola-liverpool-arne-slot-premier-league-bournemouth",
+      "title": {
+        "ar": "Andoni Iraola looks the right manager to help Liverpool get their swagger back | Ben Fisher",
+        "en": "Andoni Iraola looks the right manager to help Liverpool get their swagger back | Ben Fisher"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The Basque made his Bournemouth superbly watchable, just what the Reds need after Arne Slot’s meek title defence /p p Bravery. It is the recurring theme in conversations with those who have worked with Andoni Iraola at close quarters and the thing, they say, that sets him apart. It was evident in the manner his Bournemouth side illuminated the Pr",
+        "en": "p The Basque made his Bournemouth superbly watchable, just what the Reds need after Arne Slot’s meek title defence /p p Bravery. It is the recurring theme in conversations with those who have worked with Andoni Iraola at close quarters and the thing, they say, that sets him apart. It was evident in the manner his Bournemouth side illuminated the Pr"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/01/andoni-iraola-liverpool-arne-slot-premier-league-bournemouth",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 01 Jun 2026 11:30:15 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/scotland-curacao-world-cup-warm-up-match-report",
+      "title": {
+        "ar": "Scotland beat 10-man Curaçao but injury puts Billy Gilmour out of World Cup",
+        "en": "Scotland beat 10-man Curaçao but injury puts Billy Gilmour out of World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p In the early stages, Scotland looked to be opting for something different. That is, heading to a major tournament while completely unburdened by expectation. Little Curaçao were embarrassing Steve Clarke and his team. Scottish Football Association big wigs, a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-c",
+        "en": "p In the early stages, Scotland looked to be opting for something different. That is, heading to a major tournament while completely unburdened by expectation. Little Curaçao were embarrassing Steve Clarke and his team. Scottish Football Association big wigs, a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-c"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/scotland-curacao-world-cup-warm-up-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 19:23:54 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/raheem-sterling-suffered-immeasurable-psychological-strain-close-source-says",
+      "title": {
+        "ar": "Raheem Sterling made to feel ‘worthless’, says close source amid player’s arrest",
+        "en": "Raheem Sterling made to feel ‘worthless’, says close source amid player’s arrest"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Former England and Chelsea star arrested on M3 on Thursday under suspicion of driving while unfit through drugs /p p Raheem Sterling has been made to feel “disposable” after a decade at the top of football, a source close to the former England star has said, after his arrest on suspicion of driving “whilst unfit through drugs”. /p p The source sa",
+        "en": "p Former England and Chelsea star arrested on M3 on Thursday under suspicion of driving while unfit through drugs /p p Raheem Sterling has been made to feel “disposable” after a decade at the top of football, a source close to the former England star has said, after his arrest on suspicion of driving “whilst unfit through drugs”. /p p The source sa"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/raheem-sterling-suffered-immeasurable-psychological-strain-close-source-says",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 15:57:26 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/morocco-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Morocco World Cup 2026 team guide",
+        "en": "Morocco World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Expectations were raised after a first semi-final at Qatar 2022 and Mohamed Ouahbi’s side will hope history can repeat itself /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media ",
+        "en": "p Expectations were raised after a first semi-final at Qatar 2022 and Mohamed Ouahbi’s side will hope history can repeat itself /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/morocco-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 15:00:22 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/cj9pgdrkjvdo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "مصري على رأس القائمة: من هم أكبر اللاعبين سناً في تاريخ كأس العالم؟",
+        "en": "مصري على رأس القائمة: من هم أكبر اللاعبين سناً في تاريخ كأس العالم؟"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b80/live/1a5466d0-55d5-11f1-8b8c-6d33e1d5abb6.jpg",
+      "url": "https://www.bbc.com/arabic/articles/cj9pgdrkjvdo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Thu, 28 May 2026 10:21:18 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c5y88d80rzdo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "إسبانيا في المونديال من دون ريال مدريد",
+        "en": "إسبانيا في المونديال من دون ريال مدريد"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92d7/live/7e463720-5843-11f1-9fcc-95002e18ab8a.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c5y88d80rzdo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Mon, 25 May 2026 14:51:04 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم 2026: جدول المباريات",
+        "en": "كأس العالم 2026: جدول المباريات"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9111/live/adf4db00-5453-11f1-b682-cf91850925ea.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Wed, 20 May 2026 14:16:24 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c87q42ny258o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "عشب ملاعب كأس العالم ثمرة عقود من البحث والدراسة",
+        "en": "عشب ملاعب كأس العالم ثمرة عقود من البحث والدراسة"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0aec/live/fc25c850-524d-11f1-a015-9931c10f2fae.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c87q42ny258o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Mon, 18 May 2026 19:38:14 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/clypdm5xj1do?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم: مشجعون أفارقة يواجهون عقبات رغم تراجع الولايات المتحدة عن شرط الضمان المالي للتأشيرة",
+        "en": "كأس العالم: مشجعون أفارقة يواجهون عقبات رغم تراجع الولايات المتحدة عن شرط الضمان المالي للتأشيرة"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f90b/live/fb1326d0-4f8f-11f1-9ab5-d7f2c647b333.jpg",
+      "url": "https://www.bbc.com/arabic/articles/clypdm5xj1do?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sat, 16 May 2026 15:08:09 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/darts/news/12040/13548806/premier-league-darts-luke-littler-luke-humphries-and-gerwyn-price-on-how-they-would-change-format-with-royal-rumble-suggested",
       "title": {
@@ -400,81 +875,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Mon, 01 Jun 2026 02:07:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13509222/james-milner-announces-retirement-from-football-at-40-milners-best-pl-goals",
-      "title": {
-        "ar": "James Milner's best Premier League goals!",
-        "en": "James Milner's best Premier League goals!"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-james-milner-milner_7168477.jpg?20260218174113",
-      "url": "https://www.skysports.com/watch/video/13509222/james-milner-announces-retirement-from-football-at-40-milners-best-pl-goals",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 18 Feb 2026 17:35:00 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1600,406 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Sat, 30 May 2026 20:19:43 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48919598/liverpool-arne-slot-dismissed-manager-jurgen-klopp-andoni-iraola-analysis-beth-lindop",
-      "title": {
-        "ar": "Arne Slot should be remembered well at Liverpool d...",
-        "en": "Arne Slot should be remembered well at Liverpool d..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48919598/liverpool-arne-slot-dismissed-manager-jurgen-klopp-andoni-iraola-analysis-beth-lindop",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sat, 30 May 2026 13:18:18 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/29/cristian-volpato-switches-allegiance-italy-australia-world-cup-football",
-      "title": {
-        "ar": "Cristian Volpato to switch allegiance from Italy to Australia in time for World Cup",
-        "en": "Cristian Volpato to switch allegiance from Italy to Australia in time for World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p 22-year-old to join up with Socceroos training squad in Los Angeles /p /li li p Attacker turned down offer four years ago to play for country of birth /p /li /ul p The Socceroos have been handed a huge boost on the eve of the World Cup with young attacker Cristian Volpato to join up with the training squad before a friendly against Mexico i",
-        "en": "ul li p 22-year-old to join up with Socceroos training squad in Los Angeles /p /li li p Attacker turned down offer four years ago to play for country of birth /p /li /ul p The Socceroos have been handed a huge boost on the eve of the World Cup with young attacker Cristian Volpato to join up with the training squad before a friendly against Mexico i"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/29/cristian-volpato-switches-allegiance-italy-australia-world-cup-football",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 29 May 2026 08:02:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48899831/how-kroenkes-ended-arsenal-banter-era-win-premier-league-title",
-      "title": {
-        "ar": "How the Kroenkes ended Arsenal's 'banter era' and made them Premier League champions",
-        "en": "How the Kroenkes ended Arsenal's 'banter era' and made them Premier League champions"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48899831/how-kroenkes-ended-arsenal-banter-era-win-premier-league-title",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 28 May 2026 12:00:24 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "title": {
-        "ar": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly",
-        "en": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 11:39:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13549412/liverpool-u-turn-for-mohamed-salah-now-arne-slot-is-gone-paper-talk",
-      "title": {
-        "ar": "Papers: Liverpool U-turn for Salah now Slot is gone?",
-        "en": "Papers: Liverpool U-turn for Salah now Slot is gone?"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "url": "https://www.skysports.com/football/news/12040/13549412/liverpool-u-turn-for-mohamed-salah-now-arne-slot-is-gone-paper-talk",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sat, 30 May 2026 23:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13548476/arsenals-declan-rice-on-cruel-champions-league-shoot-out-heartbreak-against-psg-it-wont-define-us",
-      "title": {
-        "ar": "'Cruel' Champions League defeat won't define us, says Rice",
-        "en": "'Cruel' Champions League defeat won't define us, says Rice"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-gabriel-arsenal-declan-rice_7261933.jpg?20260530210341",
-      "url": "https://www.skysports.com/football/news/12040/13548476/arsenals-declan-rice-on-cruel-champions-league-shoot-out-heartbreak-against-psg-it-wont-define-us",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sat, 30 May 2026 21:13:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/30/canada-world-cup-roster-analysis-jesse-marsch-davies",
-      "title": {
-        "ar": "Canada bet on health, speed and belief as Marsch names World Cup squad",
-        "en": "Canada bet on health, speed and belief as Marsch names World Cup squad"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Injuries forced late decisions, but Jesse Marsch remains convinced this is the strongest squad Canada has ever assembled. Now comes the harder question: can they finally deliver on home soil? /p p The only surprise is that we were surprised. In his final moments of deliberation Jesse Marsch looked at the options in front of him and chose speed. W",
-        "en": "p Injuries forced late decisions, but Jesse Marsch remains convinced this is the strongest squad Canada has ever assembled. Now comes the harder question: can they finally deliver on home soil? /p p The only surprise is that we were surprised. In his final moments of deliberation Jesse Marsch looked at the options in front of him and chose speed. W"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/30/canada-world-cup-roster-analysis-jesse-marsch-davies",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 31 May 2026 00:31:34 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/31/usa-world-cup-2026-team-guide",
-      "title": {
-        "ar": "USA World Cup 2026 team guide",
-        "en": "USA World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Optimism is not high for Mauricio Pochettino’s co-hosts, who are under pressure to justify fans’ considerable outlay on tickets /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best medi",
-        "en": "p Optimism is not high for Mauricio Pochettino’s co-hosts, who are under pressure to justify fans’ considerable outlay on tickets /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best medi"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/31/usa-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 30 May 2026 23:01:31 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/30/cruel-ending-to-arsenals-thrillingly-intense-high-quality-evening",
-      "title": {
-        "ar": "Lewis-Skelly dazzles but Arsenal endure cruel ending to thrillingly intense final | Barney Ronay",
-        "en": "Lewis-Skelly dazzles but Arsenal endure cruel ending to thrillingly intense final | Barney Ronay"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Some struggle to love Mikel Arteta’s side but they went toe-to-toe with PSG in a gruelling, high-grade contest /p p It always seemed likely, somehow, that Arsenal’s season was going to come down to Gabriel Magalhães strong /strong and a set piece. Just not, ideally, like this. /p p Football does love a note of dramatic irony. And while Arsenal ma",
-        "en": "p Some struggle to love Mikel Arteta’s side but they went toe-to-toe with PSG in a gruelling, high-grade contest /p p It always seemed likely, somehow, that Arsenal’s season was going to come down to Gabriel Magalhães strong /strong and a set piece. Just not, ideally, like this. /p p Football does love a note of dramatic irony. And while Arsenal ma"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/30/cruel-ending-to-arsenals-thrillingly-intense-high-quality-evening",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 30 May 2026 21:55:29 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/30/cristiano-ronaldo-world-cup-lionel-messi-luka-modric",
-      "title": {
-        "ar": "Creaking Cristiano Ronaldo’s presence at World Cup is more a curse than a blessing | Jonathan Wilson",
-        "en": "Creaking Cristiano Ronaldo’s presence at World Cup is more a curse than a blessing | Jonathan Wilson"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Veterans such as Messi and Modric are much in evidence at the finals, but an obsession with celebrity may undermine Portugal /p p It turns out that 2022 wasn’t Lionel Messi’s last dance after all. He will turn 39 during the World Cup, but despite concerns over the “muscular overload” that led to him limping out of a href=\"https://www.theguardian.",
-        "en": "p Veterans such as Messi and Modric are much in evidence at the finals, but an obsession with celebrity may undermine Portugal /p p It turns out that 2022 wasn’t Lionel Messi’s last dance after all. He will turn 39 during the World Cup, but despite concerns over the “muscular overload” that led to him limping out of a href=\"https://www.theguardian."
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/30/cristiano-ronaldo-world-cup-lionel-messi-luka-modric",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 30 May 2026 21:35:17 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/30/arsenal-fans-zen-like-champions-league-final-result",
-      "title": {
-        "ar": "‘Happy either way’: Arsenal fans find zen attitude to Champions League final",
-        "en": "‘Happy either way’: Arsenal fans find zen attitude to Champions League final"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Supporters filling north London pubs said they were already gratified by Premier League win /p p The streets of Holloway, usually bustling with families and trolly-dragging shoppers, were uncharacteristically quiet on Saturday afternoon. But shortly after the clock struck 5pm, loud roars echoed through the north London high street, located a shor",
-        "en": "p Supporters filling north London pubs said they were already gratified by Premier League win /p p The streets of Holloway, usually bustling with families and trolly-dragging shoppers, were uncharacteristically quiet on Saturday afternoon. But shortly after the clock struck 5pm, loud roars echoed through the north London high street, located a shor"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/30/arsenal-fans-zen-like-champions-league-final-result",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 30 May 2026 19:36:40 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout",
-      "title": {
-        "ar": "Paris Saint-Germain retain Champions League as Arsenal dream dashed in shootout",
-        "en": "Paris Saint-Germain retain Champions League as Arsenal dream dashed in shootout"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p It was a showpiece that held the football world in its grip, the tension mounting exponentially, everything on the line. For Paris Saint-Germain, there was the opportunity to make it clear that this is a dynastic team; the rarity of retaining a Champions League title. /p p For Arsenal, it was simple. Never mind the Invincibles. They stood to be i",
-        "en": "p It was a showpiece that held the football world in its grip, the tension mounting exponentially, everything on the line. For Paris Saint-Germain, there was the opportunity to make it clear that this is a dynastic team; the rarity of retaining a Champions League title. /p p For Arsenal, it was simple. Never mind the Invincibles. They stood to be i"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 30 May 2026 19:19:41 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/report/554950",
-      "title": {
-        "ar": "Arsenal suffer penalty heartbreak as PSG win Champions League final",
-        "en": "Arsenal suffer penalty heartbreak as PSG win Champions League final"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-psg-arsenal_7261889.jpg?20260530200634",
-      "url": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/report/554950",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sat, 30 May 2026 20:05:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13549373/billy-gilmour-scotland-midfielder-ruled-out-of-world-cup-with-knee-injury",
-      "title": {
-        "ar": "Scotland injury blow as Gilmour ruled out of World Cup",
-        "en": "Scotland injury blow as Gilmour ruled out of World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-billy-gilmour-scotland_7261764.jpg?20260530163950",
-      "url": "https://www.skysports.com/football/news/12040/13549373/billy-gilmour-scotland-midfielder-ruled-out-of-world-cup-with-knee-injury",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sat, 30 May 2026 20:14:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13549385/champions-league-gabriel-misses-as-arsenal-lose-on-penalties-to-psg-in-final",
-      "title": {
-        "ar": "'Heartbreak for Arsenal' | Fans react as Gunners lose on penalties to PSG",
-        "en": "'Heartbreak for Arsenal' | Fans react as Gunners lose on penalties to PSG"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-football-cl-arsenal_7261896.jpg?20260530201202",
-      "url": "https://www.skysports.com/watch/video/13549385/champions-league-gabriel-misses-as-arsenal-lose-on-penalties-to-psg-in-final",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sat, 30 May 2026 20:07:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13549344/billy-gilmour-scotland-boss-steve-clarke-100-per-cent-worried-after-midfielder-goes-off-injured-against-curacao",
-      "title": {
-        "ar": "Clarke 'praying' Gilmour makes World Cup",
-        "en": "Clarke 'praying' Gilmour makes World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-billy-gilmour-scotland_7261764.jpg?20260530163950",
-      "url": "https://www.skysports.com/football/news/12040/13549344/billy-gilmour-scotland-boss-steve-clarke-100-per-cent-worried-after-midfielder-goes-off-injured-against-curacao",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sat, 30 May 2026 16:29:00 BST",
       "rewritten": false,
       "lang": "en"
     }
