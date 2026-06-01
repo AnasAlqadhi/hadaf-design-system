@@ -1,8 +1,233 @@
 {
   "version": 2,
-  "updated": "2026-05-31T19:25:27.482Z",
+  "updated": "2026-06-01T04:53:32.672Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/darts/news/12040/13549660/baltic-sea-darts-open-luke-woodhouse-wins-again-for-first-european-tour-title-in-victory-over-ryan-joyce",
+      "title": {
+        "ar": "'It's like buses!' - Woodhouse wins again for first European Tour title",
+        "en": "'It's like buses!' - Woodhouse wins again for first European Tour title"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-luke-woodhouse-pdc_7262559.jpg?20260531225441",
+      "url": "https://www.skysports.com/darts/news/12040/13549660/baltic-sea-darts-open-luke-woodhouse-wins-again-for-first-european-tour-title-in-victory-over-ryan-joyce",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 31 May 2026 22:40:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549645/world-cup-ifab-confirm-new-var-powers-10-second-substitutions-and-tactical-timeout-ban-in-major-rule-changes",
+      "title": {
+        "ar": "Countdowns, banning timeouts and VAR changes: New laws for World Cup announced",
+        "en": "Countdowns, banning timeouts and VAR changes: New laws for World Cup announced"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/02/1920x1080/skysports-var-ifab_7176095.jpg?20260226203308",
+      "url": "https://www.skysports.com/football/news/12040/13549645/world-cup-ifab-confirm-new-var-powers-10-second-substitutions-and-tactical-timeout-ban-in-major-rule-changes",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 31 May 2026 21:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549643/tyler-fletcher-manchester-united-midfielder-replaces-billy-gilmour-in-scotland-world-cup-squad",
+      "title": {
+        "ar": "Fletcher called up to Scotland's World Cup squad to replace Gilmour",
+        "en": "Fletcher called up to Scotland's World Cup squad to replace Gilmour"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-tyler-fletcher-scotland_7262128.jpg?20260531104300",
+      "url": "https://www.skysports.com/football/news/12040/13549643/tyler-fletcher-manchester-united-midfielder-replaces-billy-gilmour-in-scotland-world-cup-squad",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 31 May 2026 20:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/01/australia-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Australia World Cup 2026 team guide",
+        "en": "Australia World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Tony Popovic has brought discipline and structure as the Socceroos target their first knockout win in a World Cup /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisation",
+        "en": "p Tony Popovic has brought discipline and structure as the Socceroos target their first knockout win in a World Cup /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisation"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/01/australia-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 31 May 2026 23:01:00 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/31/usmnt-senegal-christian-pulisic-world-cup-friendly",
+      "title": {
+        "ar": "Christian Pulisic shines as US kick off World Cup preparations with 3-2 win over Senegal",
+        "en": "Christian Pulisic shines as US kick off World Cup preparations with 3-2 win over Senegal"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Pulisic scores and assists in first half to break rotten run /p /li li p Sergiño Dest opens scoring just seven minutes in /p /li li p US final tune-up comes v Germany on 6 June in Chicago /p /li /ul p The dry spell is over. /p p Christian Pulisic broke a nearly six-month period without a goal on Sunday, assisting on the US opener and scorin",
+        "en": "ul li p Pulisic scores and assists in first half to break rotten run /p /li li p Sergiño Dest opens scoring just seven minutes in /p /li li p US final tune-up comes v Germany on 6 June in Chicago /p /li /ul p The dry spell is over. /p p Christian Pulisic broke a nearly six-month period without a goal on Sunday, assisting on the US opener and scorin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/31/usmnt-senegal-christian-pulisic-world-cup-friendly",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 31 May 2026 21:34:31 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/31/manchester-city-head-coach-praises-khadija-shaw-for-focus-after-cup-win",
+      "title": {
+        "ar": "Manchester City’s Khadija Shaw praised for focus after goal sets up Double glory",
+        "en": "Manchester City’s Khadija Shaw praised for focus after goal sets up Double glory"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Striker was going to leave club before U-turn /p /li li p ‘I’m very impressed how she handled that’ /p /li /ul p The Manchester City head coach, Andrée Jeglertz, heaped praise on his side’s prolific striker Khadija Shaw for not allowing speculation about her future to hinder her performances, after she continued her fine ­goalscoring form w",
+        "en": "ul li p Striker was going to leave club before U-turn /p /li li p ‘I’m very impressed how she handled that’ /p /li /ul p The Manchester City head coach, Andrée Jeglertz, heaped praise on his side’s prolific striker Khadija Shaw for not allowing speculation about her future to hinder her performances, after she continued her fine ­goalscoring form w"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/31/manchester-city-head-coach-praises-khadija-shaw-for-focus-after-cup-win",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 31 May 2026 18:33:22 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/31/arsenal-progress-mikel-arteta-champions-league-ultimate-glory-flaws",
+      "title": {
+        "ar": "Arsenal progress under Arteta is clear but flaws still remain for the ultimate glory",
+        "en": "Arsenal progress under Arteta is clear but flaws still remain for the ultimate glory"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Penalty misses from pre-season were repeated in Budapest while summer signings could help Gunners exert more control in biggest games /p p When it was finally over – on the night and for the club season, devastation the overriding emotion for everyone connected to Arsenal – Declan Rice wanted to go back to make the point. To last July and his clu",
+        "en": "p Penalty misses from pre-season were repeated in Budapest while summer signings could help Gunners exert more control in biggest games /p p When it was finally over – on the night and for the club season, devastation the overriding emotion for everyone connected to Arsenal – Declan Rice wanted to go back to make the point. To last July and his clu"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/31/arsenal-progress-mikel-arteta-champions-league-ultimate-glory-flaws",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 31 May 2026 14:21:21 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/may/30/haiti-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Haiti World Cup 2026 team guide",
+        "en": "Haiti World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p The manager strong Sébastien Migné /strong has never set foot in the country, but there will be pride, passion and no little ability from the Caribbean nation /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperatio",
+        "en": "p The manager strong Sébastien Migné /strong has never set foot in the country, but there will be pride, passion and no little ability from the Caribbean nation /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperatio"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/may/30/haiti-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 30 May 2026 07:00:12 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/golf/news/12040/13549597/dp-world-tour-kota-kaneko-wins-austrian-alpine-open-for-first-european-title-while-andrew-johnstons-challenge-fades",
       "title": {
@@ -325,56 +550,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Sun, 31 May 2026 15:00:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1825,181 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Sat, 30 May 2026 06:21:05 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c4g8xg3g6ppo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "كيف يمكن أن يفوز أرسنال بدوري أبطال أوروبا؟",
-        "en": "كيف يمكن أن يفوز أرسنال بدوري أبطال أوروبا؟"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63d3/live/d6c79510-5b63-11f1-b988-6f2916478bf9.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c4g8xg3g6ppo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Sat, 30 May 2026 11:11:20 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/30/usa-north-america-1994-world-cup-memories",
-      "title": {
-        "ar": "Commercialised, curious, sometimes raucous: USA 94 was a joy to attend",
-        "en": "Commercialised, curious, sometimes raucous: USA 94 was a joy to attend"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p As a skint 23-year-old I did two weeks in the US. It remains a personal favourite tournament 32 years later /p p You never forget your first World Cup, and the tournament’s return to American shores this year will stir vivid memories for anyone who attended USA 94. It was a curious and distinctive tournament, one that heralded the World Cup’s mor",
-        "en": "p As a skint 23-year-old I did two weeks in the US. It remains a personal favourite tournament 32 years later /p p You never forget your first World Cup, and the tournament’s return to American shores this year will stir vivid memories for anyone who attended USA 94. It was a curious and distinctive tournament, one that heralded the World Cup’s mor"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/30/usa-north-america-1994-world-cup-memories",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 30 May 2026 10:00:16 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/30/brighton-womens-fa-cup-final-dario-vidosic-rado",
-      "title": {
-        "ar": "Dario Vidosic driven by family tragedy as Brighton chase Women’s FA Cup glory",
-        "en": "Dario Vidosic driven by family tragedy as Brighton chase Women’s FA Cup glory"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Brighton’s head coach has led team to Wembley date with Manchester City despite losing his father four months ago /p p Growing up in Brisbane with a big time difference to London, Dario Vidosic loved being allowed to stay up past his bedtime to watch a big Wembley final on television next to his father, Rado, before trying to recreate a great goa",
-        "en": "p Brighton’s head coach has led team to Wembley date with Manchester City despite losing his father four months ago /p p Growing up in Brisbane with a big time difference to London, Dario Vidosic loved being allowed to stay up past his bedtime to watch a big Wembley final on television next to his father, Rado, before trying to recreate a great goa"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/30/brighton-womens-fa-cup-final-dario-vidosic-rado",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 30 May 2026 09:00:15 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/28/canada-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Canada World Cup 2026 team guide",
-        "en": "Canada World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Jesse Marsch has developed an in-form team that has lifted the co-hosts’ hopes, though the fitness of Alphonso Davies and Moïse Bombito is a concern /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between ",
-        "en": "p Jesse Marsch has developed an in-form team that has lifted the co-hosts’ hopes, though the fitness of Alphonso Davies and Moïse Bombito is a concern /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/28/canada-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 15:00:25 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "title": {
-        "ar": "Arsenal latest: Timber pictured as Gunners train in high spirits before final",
-        "en": "Arsenal latest: Timber pictured as Gunners train in high spirits before final"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-arsenal-news-club_7039237.jpg?20251002155710",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 29 May 2026 17:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950",
-      "title": {
-        "ar": "PSG vs Arsenal build-up: Dembele declares himself '100 per cent' fit for final",
-        "en": "PSG vs Arsenal build-up: Dembele declares himself '100 per cent' fit for final"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-champions-league_7257928.jpg?20260525093031",
-      "url": "https://www.skysports.com/football/paris-saint-germain-vs-arsenal/live/554950",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 26 May 2026 16:29:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live",
-      "title": {
-        "ar": "Champions League final buildup, World Cup news, transfers and more – matchday live",
-        "en": "Champions League final buildup, World Cup news, transfers and more – matchday live"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p ⚽ All the latest pre-match news for a href=\"https://www.theguardian.com/football/2026/may/29/liberation-of-premier-league-title-can-help-arsenal-blunt-psg-and-join-europes-elite\" PSG v Arsenal /a br ⚽ a href=\"https://www.theguardian.com/football/2026/may/30/arsenal-fans-race-budapest-champions-league-final\" Arsenal fans’ race to Budapest /a | a h",
-        "en": "p ⚽ All the latest pre-match news for a href=\"https://www.theguardian.com/football/2026/may/29/liberation-of-premier-league-title-can-help-arsenal-blunt-psg-and-join-europes-elite\" PSG v Arsenal /a br ⚽ a href=\"https://www.theguardian.com/football/2026/may/30/arsenal-fans-race-budapest-champions-league-final\" Arsenal fans’ race to Budapest /a | a h"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/live/2026/may/30/champions-league-final-buildup-world-cup-news-transfers-and-more-matchday-live",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 30 May 2026 08:16:20 GMT",
       "rewritten": false,
       "lang": "en"
     }
