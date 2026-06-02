@@ -1,8 +1,408 @@
 {
   "version": 2,
-  "updated": "2026-06-02T10:46:57.152Z",
+  "updated": "2026-06-02T16:45:21.694Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13550179/world-cup-2026-scotland-squad-numbers-revealed-with-angus-gunn-handed-no-1-jersey-ahead-of-craig-gordon",
+      "title": {
+        "ar": "Scotland's squad numbers for World Cup revealed",
+        "en": "Scotland's squad numbers for World Cup revealed"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-gunn-gordon-angus_7263895.jpg?20260602172040",
+      "url": "https://www.skysports.com/football/news/12040/13550179/world-cup-2026-scotland-squad-numbers-revealed-with-angus-gunn-handed-no-1-jersey-ahead-of-craig-gordon",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 02 Jun 2026 17:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13550121/england-reveal-world-cup-squad-numbers-with-harry-kane-jude-bellingham-and-marcus-rashford-handed-key-shirts",
+      "title": {
+        "ar": "England reveal squad numbers for World Cup",
+        "en": "England reveal squad numbers for World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-dressing-room_7263838.jpg?20260602161502",
+      "url": "https://www.skysports.com/football/news/12040/13550121/england-reveal-world-cup-squad-numbers-with-harry-kane-jude-bellingham-and-marcus-rashford-handed-key-shirts",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 02 Jun 2026 15:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13550104/world-cup-2026-harry-kane-sets-sights-on-ballon-dor-in-bid-to-help-england-to-glory",
+      "title": {
+        "ar": "Kane sets sights on Ballon d’Or in bid to help England to World Cup glory",
+        "en": "Kane sets sights on Ballon d’Or in bid to help England to World Cup glory"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-harry-kane-england_7263682.jpg?20260602130258",
+      "url": "https://www.skysports.com/football/news/12040/13550104/world-cup-2026-harry-kane-sets-sights-on-ballon-dor-in-bid-to-help-england-to-glory",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 02 Jun 2026 13:10:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/fulham-marco-silva-leaving-head-coach-benfica",
+      "title": {
+        "ar": "Fulham confirm Marco Silva is leaving as head coach amid Benfica interest",
+        "en": "Fulham confirm Marco Silva is leaving as head coach amid Benfica interest"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Silva had been in charge at Fulham for five years /p /li li p Benfica poised to lose José Mourinho for Madrid job /p /li /ul p Fulham have announced that Marco Silva is leaving after five years as their head coach. The Portuguese is wanted by Benfica, who are poised to lose José Mourinho to Real Madrid. /p p “Fulham and Marco were an excell",
+        "en": "ul li p Silva had been in charge at Fulham for five years /p /li li p Benfica poised to lose José Mourinho for Madrid job /p /li /ul p Fulham have announced that Marco Silva is leaving after five years as their head coach. The Portuguese is wanted by Benfica, who are poised to lose José Mourinho to Real Madrid. /p p “Fulham and Marco were an excell"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/fulham-marco-silva-leaving-head-coach-benfica",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 15:39:36 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/japan-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Japan World Cup 2026 team guide",
+        "en": "Japan World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Impressive results have fuelled belief that Hajime Moriyasu’s side can not just survive against the best but beat them too /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media org",
+        "en": "p Impressive results have fuelled belief that Hajime Moriyasu’s side can not just survive against the best but beat them too /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media org"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/japan-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 15:00:28 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/football-daily-newsletter-tonda-eckert-southampton-spying-scandal",
+      "title": {
+        "ar": "Football Daily | Southampton find a ‘super-talented’ reason to stick with Tonda Eckert",
+        "en": "Football Daily | Southampton find a ‘super-talented’ reason to stick with Tonda Eckert"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p Southampton don’t have an official club motto. But at the start of next season, as they try to leave behind the spying scandal that devastated their 2025-26 campaign, they could borrow a phr",
+        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p Southampton don’t have an official club motto. But at the start of next season, as they try to leave behind the spying scandal that devastated their 2025-26 campaign, they could borrow a phr"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/football-daily-newsletter-tonda-eckert-southampton-spying-scandal",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 14:49:00 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/ligue-1-season-awards-hits-misses-shocks-flops-2025-26-vitinha-sage-paul-pogba-nice",
+      "title": {
+        "ar": "Ligue 1 season awards: the big hits, misses, shocks and flops of 2025-26",
+        "en": "Ligue 1 season awards: the big hits, misses, shocks and flops of 2025-26"
+      },
+      "kicker": {
+        "ar": "الدوري الفرنسي",
+        "en": "Ligue 1"
+      },
+      "excerpt": {
+        "ar": "p It was a season to remember for Vitinha, Pierre Sage and Florian Thauvin but one to forget for Paul Pogba and Nice /p p By a href=\"https://www.getfootballnewsfrance.com/\" Get French Football News /a /p p “I like feeling the match go through me,” said Vitinha at the end of December. It’s an apt way for the 26-year-old to interpret his role at PSG,",
+        "en": "p It was a season to remember for Vitinha, Pierre Sage and Florian Thauvin but one to forget for Paul Pogba and Nice /p p By a href=\"https://www.getfootballnewsfrance.com/\" Get French Football News /a /p p “I like feeling the match go through me,” said Vitinha at the end of December. It’s an apt way for the 26-year-old to interpret his role at PSG,"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/ligue-1-season-awards-hits-misses-shocks-flops-2025-26-vitinha-sage-paul-pogba-nice",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 14:14:55 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/crystal-palace-in-talks-with-lens-manager-pierre-sage",
+      "title": {
+        "ar": "Crystal Palace switch focus from Iraola and Lampard to Lens manager Pierre Sage",
+        "en": "Crystal Palace switch focus from Iraola and Lampard to Lens manager Pierre Sage"
+      },
+      "kicker": {
+        "ar": "الدوري الفرنسي",
+        "en": "Ligue 1"
+      },
+      "excerpt": {
+        "ar": "ul li p Frenchman first choice now Iraola is in Liverpool talks /p /li li p Palace put off by compensation fee for Frank Lampard /p /li /ul p Crystal Palace are in talks with Pierre Sage with a view to making him their head coach after he led Lens to second in Ligue 1 this season. Andoni Iraola was the preferred option to replace Oliver Glasner but",
+        "en": "ul li p Frenchman first choice now Iraola is in Liverpool talks /p /li li p Palace put off by compensation fee for Frank Lampard /p /li /ul p Crystal Palace are in talks with Pierre Sage with a view to making him their head coach after he led Lens to second in Ligue 1 this season. Andoni Iraola was the preferred option to replace Oliver Glasner but"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/crystal-palace-in-talks-with-lens-manager-pierre-sage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 13:34:25 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/world-cup-arrival-usa-2026",
+      "title": {
+        "ar": "Has the World Cup arrived yet? In the US, it depends on who you ask",
+        "en": "Has the World Cup arrived yet? In the US, it depends on who you ask"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Just days away from the opener, the tournament has yet to feel fully real for fans and even some players /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p /li /ul p Organizationally speak",
+        "en": "p Just days away from the opener, the tournament has yet to feel fully real for fans and even some players /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p /li /ul p Organizationally speak"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/world-cup-arrival-usa-2026",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 12:00:23 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/liverpool-legend-sir-kenny-dalglish-reveals-he-is-receiving-treatment-for-cancer",
+      "title": {
+        "ar": "Liverpool legend Sir Kenny Dalglish reveals he is receiving treatment for cancer",
+        "en": "Liverpool legend Sir Kenny Dalglish reveals he is receiving treatment for cancer"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Scotland great, 75, mistakenly posted on social media /p /li li p ‘Treatment is going well,’ says former player and manager /p /li /ul p Sir Kenny Dalglish has revealed he is receiving treatment for cancer. The Liverpool legend, who is 75, confirmed the diagnosis on Tuesday having mistakenly posted about his treatment earlier in the day. /p",
+        "en": "ul li p Scotland great, 75, mistakenly posted on social media /p /li li p ‘Treatment is going well,’ says former player and manager /p /li /ul p Sir Kenny Dalglish has revealed he is receiving treatment for cancer. The Liverpool legend, who is 75, confirmed the diagnosis on Tuesday having mistakenly posted about his treatment earlier in the day. /p"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/liverpool-legend-sir-kenny-dalglish-reveals-he-is-receiving-treatment-for-cancer",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 11:44:37 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/pele-no-10-brazil-shirt-1958-world-cup-final-auction",
+      "title": {
+        "ar": "Pelé’s No 10 Brazil shirt from 1958 World Cup final expected to fetch £4.5m at auction",
+        "en": "Pelé’s No 10 Brazil shirt from 1958 World Cup final expected to fetch £4.5m at auction"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Iconic blue shirt was worn in 5-2 win against Sweden /p /li li p Sotheby’s auction takes place in New York in July /p /li /ul p Pelé’s iconic blue No 10 shirt from the 1958 World Cup final is expected to become one of the most expensive football artefacts ever sold after being put up for auction. /p p The Brazilian was 17 when he scored two",
+        "en": "ul li p Iconic blue shirt was worn in 5-2 win against Sweden /p /li li p Sotheby’s auction takes place in New York in July /p /li /ul p Pelé’s iconic blue No 10 shirt from the 1958 World Cup final is expected to become one of the most expensive football artefacts ever sold after being put up for auction. /p p The Brazilian was 17 when he scored two"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/pele-no-10-brazil-shirt-1958-world-cup-final-auction",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 11:00:03 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c62ey8xj0kyo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "وثائقي لبي بي سي يكشف حقائق عن الحرب الأهلية النيجيرية لم تُعرَض من قبل",
+        "en": "وثائقي لبي بي سي يكشف حقائق عن الحرب الأهلية النيجيرية لم تُعرَض من قبل"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f915/live/dc646a40-5e7c-11f1-ab70-cdbb605c4a31.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c62ey8xj0kyo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Tue, 02 Jun 2026 10:48:54 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم 2026: جدول المباريات",
+        "en": "كأس العالم 2026: جدول المباريات"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9111/live/adf4db00-5453-11f1-b682-cf91850925ea.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Tue, 02 Jun 2026 06:15:35 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c5y88d80rzdo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "إسبانيا في المونديال من دون ريال مدريد",
+        "en": "إسبانيا في المونديال من دون ريال مدريد"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92d7/live/7e463720-5843-11f1-9fcc-95002e18ab8a.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c5y88d80rzdo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Mon, 25 May 2026 14:51:04 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c87q42ny258o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "عشب ملاعب كأس العالم ثمرة عقود من البحث والدراسة",
+        "en": "عشب ملاعب كأس العالم ثمرة عقود من البحث والدراسة"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0aec/live/fc25c850-524d-11f1-a015-9931c10f2fae.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c87q42ny258o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Mon, 18 May 2026 19:38:14 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13545532/world-cup-2026-which-premier-league-efl-and-scottish-premiership-players-are-heading-to-this-summers-tournament",
       "title": {
@@ -929,56 +1329,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.skysports.com/football/news/12040/13549945/marc-cucurella-wants-a-return-to-spain-with-real-madrid-and-barcelona-interested-paper-talk",
       "title": {
         "ar": "Papers: Cucurella wanted by Barcelona & Real Madrid",
@@ -1650,356 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Mon, 01 Jun 2026 05:00:09 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/31/christian-pulisic-usmnt-senegal-world-cup",
-      "title": {
-        "ar": "Christian Pulisic wanted to talk about something else. Now he can",
-        "en": "Christian Pulisic wanted to talk about something else. Now he can"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The US forward’s imperious 45 minutes against Senegal put some questions to rest, while his manager still wants to see more /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p /li /ul p It ",
-        "en": "p The US forward’s imperious 45 minutes against Senegal put some questions to rest, while his manager still wants to see more /p ul li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Behind The Cup newsletter /strong /a /p /li /ul p It "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/31/christian-pulisic-usmnt-senegal-world-cup",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 01 Jun 2026 02:07:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/darts/news/12040/13549660/baltic-sea-darts-open-luke-woodhouse-wins-again-for-first-european-tour-title-in-victory-over-ryan-joyce",
-      "title": {
-        "ar": "'It's like buses!' - Woodhouse wins again for first European Tour title",
-        "en": "'It's like buses!' - Woodhouse wins again for first European Tour title"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-luke-woodhouse-pdc_7262559.jpg?20260531225441",
-      "url": "https://www.skysports.com/darts/news/12040/13549660/baltic-sea-darts-open-luke-woodhouse-wins-again-for-first-european-tour-title-in-victory-over-ryan-joyce",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 31 May 2026 22:40:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13549645/world-cup-ifab-confirm-new-var-powers-10-second-substitutions-and-tactical-timeout-ban-in-major-rule-changes",
-      "title": {
-        "ar": "Countdowns, banning timeouts and VAR changes: New laws for World Cup announced",
-        "en": "Countdowns, banning timeouts and VAR changes: New laws for World Cup announced"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/02/1920x1080/skysports-var-ifab_7176095.jpg?20260226203308",
-      "url": "https://www.skysports.com/football/news/12040/13549645/world-cup-ifab-confirm-new-var-powers-10-second-substitutions-and-tactical-timeout-ban-in-major-rule-changes",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 31 May 2026 21:30:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13549643/tyler-fletcher-manchester-united-midfielder-replaces-billy-gilmour-in-scotland-world-cup-squad",
-      "title": {
-        "ar": "Fletcher called up to Scotland's World Cup squad to replace Gilmour",
-        "en": "Fletcher called up to Scotland's World Cup squad to replace Gilmour"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-tyler-fletcher-scotland_7262128.jpg?20260531104300",
-      "url": "https://www.skysports.com/football/news/12040/13549643/tyler-fletcher-manchester-united-midfielder-replaces-billy-gilmour-in-scotland-world-cup-squad",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 31 May 2026 20:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/01/australia-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Australia World Cup 2026 team guide",
-        "en": "Australia World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Tony Popovic has brought discipline and structure as the Socceroos target their first knockout win in a World Cup /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisation",
-        "en": "p Tony Popovic has brought discipline and structure as the Socceroos target their first knockout win in a World Cup /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisation"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/01/australia-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 31 May 2026 23:01:00 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/31/usmnt-senegal-christian-pulisic-world-cup-friendly",
-      "title": {
-        "ar": "Christian Pulisic shines as US kick off World Cup preparations with 3-2 win over Senegal",
-        "en": "Christian Pulisic shines as US kick off World Cup preparations with 3-2 win over Senegal"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Pulisic scores and assists in first half to break rotten run /p /li li p Sergiño Dest opens scoring just seven minutes in /p /li li p US final tune-up comes v Germany on 6 June in Chicago /p /li /ul p The dry spell is over. /p p Christian Pulisic broke a nearly six-month period without a goal on Sunday, assisting on the US opener and scorin",
-        "en": "ul li p Pulisic scores and assists in first half to break rotten run /p /li li p Sergiño Dest opens scoring just seven minutes in /p /li li p US final tune-up comes v Germany on 6 June in Chicago /p /li /ul p The dry spell is over. /p p Christian Pulisic broke a nearly six-month period without a goal on Sunday, assisting on the US opener and scorin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/31/usmnt-senegal-christian-pulisic-world-cup-friendly",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 31 May 2026 21:34:31 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/31/manchester-city-head-coach-praises-khadija-shaw-for-focus-after-cup-win",
-      "title": {
-        "ar": "Manchester City’s Khadija Shaw praised for focus after goal sets up Double glory",
-        "en": "Manchester City’s Khadija Shaw praised for focus after goal sets up Double glory"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Striker was going to leave club before U-turn /p /li li p ‘I’m very impressed how she handled that’ /p /li /ul p The Manchester City head coach, Andrée Jeglertz, heaped praise on his side’s prolific striker Khadija Shaw for not allowing speculation about her future to hinder her performances, after she continued her fine ­goalscoring form w",
-        "en": "ul li p Striker was going to leave club before U-turn /p /li li p ‘I’m very impressed how she handled that’ /p /li /ul p The Manchester City head coach, Andrée Jeglertz, heaped praise on his side’s prolific striker Khadija Shaw for not allowing speculation about her future to hinder her performances, after she continued her fine ­goalscoring form w"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/31/manchester-city-head-coach-praises-khadija-shaw-for-focus-after-cup-win",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 31 May 2026 18:33:22 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/31/arsenal-progress-mikel-arteta-champions-league-ultimate-glory-flaws",
-      "title": {
-        "ar": "Arsenal progress under Arteta is clear but flaws still remain for the ultimate glory",
-        "en": "Arsenal progress under Arteta is clear but flaws still remain for the ultimate glory"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Penalty misses from pre-season were repeated in Budapest while summer signings could help Gunners exert more control in biggest games /p p When it was finally over – on the night and for the club season, devastation the overriding emotion for everyone connected to Arsenal – Declan Rice wanted to go back to make the point. To last July and his clu",
-        "en": "p Penalty misses from pre-season were repeated in Budapest while summer signings could help Gunners exert more control in biggest games /p p When it was finally over – on the night and for the club season, devastation the overriding emotion for everyone connected to Arsenal – Declan Rice wanted to go back to make the point. To last July and his clu"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/31/arsenal-progress-mikel-arteta-champions-league-ultimate-glory-flaws",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 31 May 2026 14:21:21 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/30/haiti-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Haiti World Cup 2026 team guide",
-        "en": "Haiti World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p The manager strong Sébastien Migné /strong has never set foot in the country, but there will be pride, passion and no little ability from the Caribbean nation /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperatio",
-        "en": "p The manager strong Sébastien Migné /strong has never set foot in the country, but there will be pride, passion and no little ability from the Caribbean nation /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperatio"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/30/haiti-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 30 May 2026 07:00:12 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/golf/news/12040/13549597/dp-world-tour-kota-kaneko-wins-austrian-alpine-open-for-first-european-title-while-andrew-johnstons-challenge-fades",
-      "title": {
-        "ar": "Rising star Kaneko secures first DP World Tour win at just 12th attempt",
-        "en": "Rising star Kaneko secures first DP World Tour win at just 12th attempt"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-kota-kaneko-golf_7262423.jpg?20260531174025",
-      "url": "https://www.skysports.com/golf/news/12040/13549597/dp-world-tour-kota-kaneko-wins-austrian-alpine-open-for-first-european-title-while-andrew-johnstons-challenge-fades",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 31 May 2026 16:47:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "title": {
-        "ar": "Liverpool latest: Talks with Iraola to start",
-        "en": "Liverpool latest: Talks with Iraola to start"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-iraola-bournemouth_7219746.jpg?20260414122935",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 31 May 2026 11:11:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13549565/austrian-alpine-open-day-four-highlights",
-      "title": {
-        "ar": "Japan's Kaneko secures maiden DP World Tour in Austria",
-        "en": "Japan's Kaneko secures maiden DP World Tour in Austria"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-austrian-alpine-open_7262405.png?20260531165601",
-      "url": "https://www.skysports.com/watch/video/13549565/austrian-alpine-open-day-four-highlights",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 31 May 2026 15:26:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13549624/champions-league-french-capital-hosts-paris-saint-germain-title-victory-parade",
-      "title": {
-        "ar": "Celebrations and a sing-song... PSG's Champions League title victory parade in Paris",
-        "en": "Celebrations and a sing-song... PSG's Champions League title victory parade in Paris"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-psg-football_7262463.jpg?20260531190236",
-      "url": "https://www.skysports.com/watch/video/13549624/champions-league-french-capital-hosts-paris-saint-germain-title-victory-parade",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 31 May 2026 18:58:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2026/may/31/psg-arsenal-champions-league-final-qatar-football",
-      "title": {
-        "ar": "PSG provide perfect illusion with a model of beauty in soft-power project | Barney Ronay",
-        "en": "PSG provide perfect illusion with a model of beauty in soft-power project | Barney Ronay"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Re-enthroned Champions League-winning club should have always been this good but Qatar’s propaganda project is finally listening to an elite manager /p p em P /em em aris est mythique /em . There was nothing understated, no obvious shades of faux em humilité /em about the headline in em L’Équipe /em after Paris Saint-Germain had been a href=\"http",
-        "en": "p Re-enthroned Champions League-winning club should have always been this good but Qatar’s propaganda project is finally listening to an elite manager /p p em P /em em aris est mythique /em . There was nothing understated, no obvious shades of faux em humilité /em about the headline in em L’Équipe /em after Paris Saint-Germain had been a href=\"http"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2026/may/31/psg-arsenal-champions-league-final-qatar-football",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 31 May 2026 19:12:15 GMT",
       "rewritten": false,
       "lang": "en"
     }
