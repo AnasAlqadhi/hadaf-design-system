@@ -1,8 +1,283 @@
 {
   "version": 2,
-  "updated": "2026-06-02T16:45:21.694Z",
+  "updated": "2026-06-02T20:57:22.130Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/wales-vs-ghana/live/554991",
+      "title": {
+        "ar": "Ghana held by Wales in World Cup warm-up LIVE!",
+        "en": "Ghana held by Wales in World Cup warm-up LIVE!"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-daniel-james_7264040.jpg?20260602210931",
+      "url": "https://www.skysports.com/football/wales-vs-ghana/live/554991",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 02 Jun 2026 17:09:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": {
+        "ar": "Liverpool latest: Do Reds have the finances to rebuild under Iraola?",
+        "en": "Liverpool latest: Do Reds have the finances to rebuild under Iraola?"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-iraola-bournemouth_7219746.jpg?20260414122935",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 02 Jun 2026 18:50:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13550266/andoni-iraola-liverpool-reach-agreement-with-former-bournemouth-head-coach-to-succeed-arne-slot",
+      "title": {
+        "ar": "Liverpool reach agreement with Iraola",
+        "en": "Liverpool reach agreement with Iraola"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-iraola-andoni-bournemouth_7219744.jpg?20260414122859",
+      "url": "https://www.skysports.com/football/news/12040/13550266/andoni-iraola-liverpool-reach-agreement-with-former-bournemouth-head-coach-to-succeed-arne-slot",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 02 Jun 2026 21:27:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13550223/ibrahima-konate-transfer-news-defender-edges-closer-to-joining-real-madrid-as-talks-continue-with-laliga-giants",
+      "title": {
+        "ar": "Konate edges closer to joining Real Madrid after Liverpool exit confirmed",
+        "en": "Konate edges closer to joining Real Madrid after Liverpool exit confirmed"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-ibrahima-konate-liverpool_7260704.jpg?20260528220812",
+      "url": "https://www.skysports.com/football/news/12040/13550223/ibrahima-konate-transfer-news-defender-edges-closer-to-joining-real-madrid-as-talks-continue-with-laliga-giants",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 02 Jun 2026 18:35:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/world-cup-fans-16-host-cities-us-mexico-canada-fifa-ticket-prices",
+      "title": {
+        "ar": "‘Excited but wary’: fans in the 16 host cities share their hopes and fears before the World Cup",
+        "en": "‘Excited but wary’: fans in the 16 host cities share their hopes and fears before the World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p In the first of a new series of dispatches, fans in US, Mexico and Canada tell us that they want visitors to have a good time but are angry about ticket prices, Fifa’s priorities and a lack of long-term thinking from politicians /p p em The 2026 World Cup features 104 matches in 16 cities across Canada, Mexico and the USA, from Vancouver to Mexic",
+        "en": "p In the first of a new series of dispatches, fans in US, Mexico and Canada tell us that they want visitors to have a good time but are angry about ticket prices, Fifa’s priorities and a lack of long-term thinking from politicians /p p em The 2026 World Cup features 104 matches in 16 cities across Canada, Mexico and the USA, from Vancouver to Mexic"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/world-cup-fans-16-host-cities-us-mexico-canada-fifa-ticket-prices",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 19:00:30 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/dr-congo-chile-world-cup-warm-up-cancelled-ebola",
+      "title": {
+        "ar": "Spanish authorities cancel DR Congo v Chile World Cup warm-up tie over Ebola fears",
+        "en": "Spanish authorities cancel DR Congo v Chile World Cup warm-up tie over Ebola fears"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Ebola outbreak occurred in African country last month /p /li li p DR Congo have been based in Belgium before World Cup /p /li /ul p A pre-World Cup friendly involving the Democratic Republic of Congo has been cancelled by the mayor of the Spanish town hosting the match over health concerns regarding the Ebola outbreak in the African country",
+        "en": "ul li p Ebola outbreak occurred in African country last month /p /li li p DR Congo have been based in Belgium before World Cup /p /li /ul p A pre-World Cup friendly involving the Democratic Republic of Congo has been cancelled by the mayor of the Spanish town hosting the match over health concerns regarding the Ebola outbreak in the African country"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/dr-congo-chile-world-cup-warm-up-cancelled-ebola",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 18:39:10 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/jude-bellingham-england-world-cup-2026-shirt-no-10",
+      "title": {
+        "ar": "Jude Bellingham handed World Cup boost for England after being given No 10 shirt",
+        "en": "Jude Bellingham handed World Cup boost for England after being given No 10 shirt"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Bellingham takes coveted shirt with Anderson given No 8 /p /li li p England train for first time in Florida ahead of World Cup /p /li /ul p Jude Bellingham has received a boost from Thomas Tuchel after being handed the coveted No 10 shirt for England’s World Cup campaign. /p p Preparations began at a training camp in Florida on Tuesday and ",
+        "en": "ul li p Bellingham takes coveted shirt with Anderson given No 8 /p /li li p England train for first time in Florida ahead of World Cup /p /li /ul p Jude Bellingham has received a boost from Thomas Tuchel after being handed the coveted No 10 shirt for England’s World Cup campaign. /p p Preparations began at a training camp in Florida on Tuesday and "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/jude-bellingham-england-world-cup-2026-shirt-no-10",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 18:33:45 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/ella-toone-weighs-up-manchester-united-future-after-tough-campaign",
+      "title": {
+        "ar": "Ella Toone weighs up Manchester United future after tough campaign",
+        "en": "Ella Toone weighs up Manchester United future after tough campaign"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p ‘Right now, I’m a Manchester United player’ says striker /p /li li p Toone back in England camp after injury absences /p /li /ul p Ella Toone has said she will have to decide “what’s best for me” as she weighs up her long-term future with one year remaining on her Manchester United contract. /p p The England midfielder, speaking before Frid",
+        "en": "ul li p ‘Right now, I’m a Manchester United player’ says striker /p /li li p Toone back in England camp after injury absences /p /li /ul p Ella Toone has said she will have to decide “what’s best for me” as she weighs up her long-term future with one year remaining on her Manchester United contract. /p p The England midfielder, speaking before Frid"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/ella-toone-weighs-up-manchester-united-future-after-tough-campaign",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 17:51:16 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/mexico-homophobic-chant-appeal-fifa",
+      "title": {
+        "ar": "Mexico federation loses appeal against Fifa fines for fans’ homophobic chant",
+        "en": "Mexico federation loses appeal against Fifa fines for fans’ homophobic chant"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Fifa doled out heavy fines for repeated violations /p /li li p Mexico has campaigned to eradicate the chant /p /li li p World Cup opener features Mexico at the Azteca /p /li li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Beh",
+        "en": "ul li p Fifa doled out heavy fines for repeated violations /p /li li p Mexico has campaigned to eradicate the chant /p /li li p World Cup opener features Mexico at the Azteca /p /li li p a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\" strong Sign up for the World Beh"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/mexico-homophobic-chant-appeal-fifa",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 17:00:58 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13550179/world-cup-2026-scotland-squad-numbers-revealed-with-angus-gunn-handed-no-1-jersey-ahead-of-craig-gordon",
       "title": {
@@ -327,81 +602,6 @@
       "pubDate": "Tue, 02 Jun 2026 06:15:35 GMT",
       "rewritten": false,
       "lang": "ar"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c5y88d80rzdo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "إسبانيا في المونديال من دون ريال مدريد",
-        "en": "إسبانيا في المونديال من دون ريال مدريد"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92d7/live/7e463720-5843-11f1-9fcc-95002e18ab8a.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c5y88d80rzdo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Mon, 25 May 2026 14:51:04 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c87q42ny258o?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "عشب ملاعب كأس العالم ثمرة عقود من البحث والدراسة",
-        "en": "عشب ملاعب كأس العالم ثمرة عقود من البحث والدراسة"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0aec/live/fc25c850-524d-11f1-a015-9931c10f2fae.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c87q42ny258o?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Mon, 18 May 2026 19:38:14 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
-      "rewritten": false,
-      "lang": "en"
     },
     {
       "id": "https://www.skysports.com/football/news/12040/13545532/world-cup-2026-which-premier-league-efl-and-scottish-premiership-players-are-heading-to-this-summers-tournament",
@@ -1800,206 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Mon, 01 Jun 2026 10:00:14 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/01/james-milner-retires-premier-league-record-appearance-holder",
-      "title": {
-        "ar": "James Milner, Premier League’s appearance record holder, retires aged 40",
-        "en": "James Milner, Premier League’s appearance record holder, retires aged 40"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "ul li p Last of his 24 Premier League seasons was at Brighton /p /li li p ‘I could never have dreamed of the journey,’ he says /p /li /ul p James Milner has announced his retirement. The 40-year-old, who has spent the past three years at Brighton, began his career at Leeds, his boyhood club, and has played 24 seasons in the Premier League. /p p Mil",
-        "en": "ul li p Last of his 24 Premier League seasons was at Brighton /p /li li p ‘I could never have dreamed of the journey,’ he says /p /li /ul p James Milner has announced his retirement. The 40-year-old, who has spent the past three years at Brighton, began his career at Leeds, his boyhood club, and has played 24 seasons in the Premier League. /p p Mil"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/01/james-milner-retires-premier-league-record-appearance-holder",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 01 Jun 2026 09:06:36 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/01/champions-league-team-of-the-season-lamine-yamal-harry-kane",
-      "title": {
-        "ar": "Champions League team of the season: Lamine Yamal, Harry Kane … and a Spurs player",
-        "en": "Champions League team of the season: Lamine Yamal, Harry Kane … and a Spurs player"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p To better highlight the whole field among Europe’s elite, we chose an XI that couldn’t feature more than one player from any one team /p p This year we are picking a team of the season with a difference: I am allowed only one player per team. Of course, as finalists Paris Saint-Germain and Arsenal have players with claims to all of these position",
-        "en": "p To better highlight the whole field among Europe’s elite, we chose an XI that couldn’t feature more than one player from any one team /p p This year we are picking a team of the season with a difference: I am allowed only one player per team. Of course, as finalists Paris Saint-Germain and Arsenal have players with claims to all of these position"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/01/champions-league-team-of-the-season-lamine-yamal-harry-kane",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 01 Jun 2026 08:00:11 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/01/liverpool-arne-slot-andoni-iraola-head-coach",
-      "title": {
-        "ar": "Arne Slot thanks Liverpool fans after leaving with club ‘among Europe’s elite’",
-        "en": "Arne Slot thanks Liverpool fans after leaving with club ‘among Europe’s elite’"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Slot says connection to Liverpool ‘goes beyond football’ /p /li li p Diogo Jota’s death ‘one of club’s most difficult moments’ /p /li /ul p Arne Slot has claimed Liverpool have the foundations to compete at the highest level for years to come and has thanked supporters for a connection that “goes beyond football”. /p p Slot was a href=\"http",
-        "en": "ul li p Slot says connection to Liverpool ‘goes beyond football’ /p /li li p Diogo Jota’s death ‘one of club’s most difficult moments’ /p /li /ul p Arne Slot has claimed Liverpool have the foundations to compete at the highest level for years to come and has thanked supporters for a connection that “goes beyond football”. /p p Slot was a href=\"http"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/01/liverpool-arne-slot-andoni-iraola-head-coach",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 01 Jun 2026 07:20:46 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/01/if-arsenal-have-made-most-of-their-resources-is-this-as-good-as-it-gets",
-      "title": {
-        "ar": "If Arsenal have made most of their resources, is this as good as it gets? | Jonathan Liew",
-        "en": "If Arsenal have made most of their resources, is this as good as it gets? | Jonathan Liew"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Thirst for renewal is strong and new players could help bridge the gap to PSG but there are no guarantees /p p The greatest lie ever told about penalty shootouts is that they are a lottery. This is a recognisable and trainable footballing skill, a test not just of ball-striking and placement but research, psychology, mettle under pressure. Eberec",
-        "en": "p Thirst for renewal is strong and new players could help bridge the gap to PSG but there are no guarantees /p p The greatest lie ever told about penalty shootouts is that they are a lottery. This is a recognisable and trainable footballing skill, a test not just of ball-striking and placement but research, psychology, mettle under pressure. Eberec"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/01/if-arsenal-have-made-most-of-their-resources-is-this-as-good-as-it-gets",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 01 Jun 2026 07:00:12 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/01/brazil-1970-world-cup-pele",
-      "title": {
-        "ar": "Communism, Nasa and a place for Pelé: how Brazil prepared for the 1970 World Cup",
-        "en": "Communism, Nasa and a place for Pelé: how Brazil prepared for the 1970 World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p In this extract from their forthcoming book on South America and the World Cup, Mark Biram and Tim Vickery describe la Seleçao’s strange buildup to the classic tournament /p p In January 1969, João Saldanha was appointed as Brazil’s coach. Saldanha was barely a coach – he had had a brief spell in charge of Botafogo more than a decade earlier. He ",
-        "en": "p In this extract from their forthcoming book on South America and the World Cup, Mark Biram and Tim Vickery describe la Seleçao’s strange buildup to the classic tournament /p p In January 1969, João Saldanha was appointed as Brazil’s coach. Saldanha was barely a coach – he had had a brief spell in charge of Botafogo more than a decade earlier. He "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/01/brazil-1970-world-cup-pele",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 01 Jun 2026 07:00:11 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/01/cote-divoire-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Côte d’Ivoire World Cup 2026 team guide",
-        "en": "Côte d’Ivoire World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Returning to the world stage after 12 years the 2023 African champions are ambitious and have plenty of options in attack /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media orga",
-        "en": "p Returning to the world stage after 12 years the 2023 African champions are ambitious and have plenty of options in attack /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media orga"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/01/cote-divoire-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 01 Jun 2026 07:00:10 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/cn9pve4jj7eo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "كأس العالم 2026: وجوه جديدة تشارك لأول مرة وعودة لمنتخبات غابت طويلاً",
-        "en": "كأس العالم 2026: وجوه جديدة تشارك لأول مرة وعودة لمنتخبات غابت طويلاً"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3eed/live/738602a0-5cbe-11f1-9e9d-1540dd75c5ed.jpg",
-      "url": "https://www.bbc.com/arabic/articles/cn9pve4jj7eo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Mon, 01 Jun 2026 05:33:02 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/01/world-cup-2026-stadium-guide",
-      "title": {
-        "ar": "World Cup 2026: a visual guide to the stadiums across the trio of host nations",
-        "en": "World Cup 2026: a visual guide to the stadiums across the trio of host nations"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p All you need to know about the 16 host stadiums in the US, Mexico and Canada /p p The 2026 World Cup is the largest tournament ever, and as such it involves more stadiums in more countries than ever before. A total of 16 venues will play host to this summer’s big games, and each has a story to tell about the past, present and future of sports in ",
-        "en": "p All you need to know about the 16 host stadiums in the US, Mexico and Canada /p p The 2026 World Cup is the largest tournament ever, and as such it involves more stadiums in more countries than ever before. A total of 16 venues will play host to this summer’s big games, and each has a story to tell about the past, present and future of sports in "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/01/world-cup-2026-stadium-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 01 Jun 2026 05:00:09 GMT",
       "rewritten": false,
       "lang": "en"
     }
