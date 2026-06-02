@@ -1,8 +1,258 @@
 {
   "version": 2,
-  "updated": "2026-06-02T04:41:50.192Z",
+  "updated": "2026-06-02T10:46:57.152Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13545532/world-cup-2026-which-premier-league-efl-and-scottish-premiership-players-are-heading-to-this-summers-tournament",
+      "title": {
+        "ar": "Which UK-based players are heading to the 2026 World Cup?",
+        "en": "Which UK-based players are heading to the 2026 World Cup?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-world-cup-2026-igor-thiago_7263064.jpg?20260601153146",
+      "url": "https://www.skysports.com/football/news/12040/13545532/world-cup-2026-which-premier-league-efl-and-scottish-premiership-players-are-heading-to-this-summers-tournament",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 02 Jun 2026 10:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549363/andoni-iraola-liverpool-begin-talks-with-former-bournemouth-head-coach-to-replace-arne-slot",
+      "title": {
+        "ar": "Liverpool begin talks with Iraola",
+        "en": "Liverpool begin talks with Iraola"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-andoni-iraola-liverpool_7263593.png?20260602114215",
+      "url": "https://www.skysports.com/football/news/12040/13549363/andoni-iraola-liverpool-begin-talks-with-former-bournemouth-head-coach-to-replace-arne-slot",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 02 Jun 2026 10:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13547847/asamoah-gyan-ghana-legend-on-antoine-semenyo-influence-and-facing-england-at-the-2026-world-cup",
+      "title": {
+        "ar": "Gyan: Ghana's success will depend on Semenyo at the World Cup",
+        "en": "Gyan: Ghana's success will depend on Semenyo at the World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-asamoah-gyan-ghana_7258079.jpg?20260525121926",
+      "url": "https://www.skysports.com/football/news/12040/13547847/asamoah-gyan-ghana-legend-on-antoine-semenyo-influence-and-facing-england-at-the-2026-world-cup",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 02 Jun 2026 10:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13550038/juventus-transfer-news-aston-villas-emi-martinez-and-tottenhams-guglielmo-vicario-emerge-as-goalkeeper-targets-for-italian-giants",
+      "title": {
+        "ar": "Juventus interested in signing either Martinez or Vicario",
+        "en": "Juventus interested in signing either Martinez or Vicario"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-aston-villa-tottenham_7263541.jpg?20260602103440",
+      "url": "https://www.skysports.com/football/news/12040/13550038/juventus-transfer-news-aston-villas-emi-martinez-and-tottenhams-guglielmo-vicario-emerge-as-goalkeeper-targets-for-italian-giants",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 02 Jun 2026 09:44:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13550025/everton-revive-interest-in-middlesbrough-midfielder-hayden-hackney",
+      "title": {
+        "ar": "Everton revive interest in Boro midfielder Hackney",
+        "en": "Everton revive interest in Boro midfielder Hackney"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-hayden-hackney-middlesbrough_7263485.jpg?20260602093435",
+      "url": "https://www.skysports.com/football/news/12040/13550025/everton-revive-interest-in-middlesbrough-midfielder-hayden-hackney",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 02 Jun 2026 09:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/picture/2026/jun/02/david-squires-arsenal-positive-after-penalty-pain-psg",
+      "title": {
+        "ar": "David Squires on … Arsenal staying positive after penalty pain against PSG",
+        "en": "David Squires on … Arsenal staying positive after penalty pain against PSG"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "p Our cartoonist on the Champions League final, some joy in Europe for English teams and Arne Slot’s sacking /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires\" strong Buy a cartoon /strong /a strong | /strong a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of-2025\" strong ",
+        "en": "p Our cartoonist on the Champions League final, some joy in Europe for English teams and Arne Slot’s sacking /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires\" strong Buy a cartoon /strong /a strong | /strong a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of-2025\" strong "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/picture/2026/jun/02/david-squires-arsenal-positive-after-penalty-pain-psg",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 10:19:04 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/southampton-owner-will-not-sack-tonda-eckert-spygate-scandal",
+      "title": {
+        "ar": "Southampton owner will not sack apologetic Eckert despite role in Spygate scandal",
+        "en": "Southampton owner will not sack apologetic Eckert despite role in Spygate scandal"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Saints head coach issues apology in club video message /p /li li p Dragan Solak wants to ‘close the chapter and look ahead’ /p /li /ul p Tonda Eckert has apologised for orchestrating the Spygate scandal that culminated in Southampton being a href=\"https://www.theguardian.com/football/2026/may/20/southampton-middlesbrough-championship-playof",
+        "en": "ul li p Saints head coach issues apology in club video message /p /li li p Dragan Solak wants to ‘close the chapter and look ahead’ /p /li /ul p Tonda Eckert has apologised for orchestrating the Spygate scandal that culminated in Southampton being a href=\"https://www.theguardian.com/football/2026/may/20/southampton-middlesbrough-championship-playof"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/southampton-owner-will-not-sack-tonda-eckert-spygate-scandal",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 09:35:12 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/liverpool-opened-talks-with-andoni-iraola-over-becoming-head-coach",
+      "title": {
+        "ar": "Liverpool open talks with Andoni Iraola over becoming head coach",
+        "en": "Liverpool open talks with Andoni Iraola over becoming head coach"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Spaniard is clear front-runner to replace Arne Slot /p /li li p Liverpool want to make hire before World Cup starts /p /li /ul p Liverpool have opened formal talks with Andoni Iraola over succeeding Arne Slot as the club’s head coach. /p p Iraola is the clear frontrunner for the Anfield vacancy with his style of play fitting Liverpool’s cri",
+        "en": "ul li p Spaniard is clear front-runner to replace Arne Slot /p /li li p Liverpool want to make hire before World Cup starts /p /li /ul p Liverpool have opened formal talks with Andoni Iraola over succeeding Arne Slot as the club’s head coach. /p p Iraola is the clear frontrunner for the Anfield vacancy with his style of play fitting Liverpool’s cri"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/liverpool-opened-talks-with-andoni-iraola-over-becoming-head-coach",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 09:00:46 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/london-city-lionesses-mary-earps-mapi-leon",
+      "title": {
+        "ar": "London City poised to sign Mary Earps and Mapi León in hunt for trophies and fans",
+        "en": "London City poised to sign Mary Earps and Mapi León in hunt for trophies and fans"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "ul li p Goalkeeper Earps leaving PSG after two seasons /p /li li p Léon has won four Champions Leagues with Barcelona /p /li /ul p London City Lionesses are poised to sign Mary Earps and the Barcelona defender Mapi León on free transfers, the Guardian understands, after agreements were reached for them join when their contracts expire at the end of",
+        "en": "ul li p Goalkeeper Earps leaving PSG after two seasons /p /li li p Léon has won four Champions Leagues with Barcelona /p /li /ul p London City Lionesses are poised to sign Mary Earps and the Barcelona defender Mapi León on free transfers, the Guardian understands, after agreements were reached for them join when their contracts expire at the end of"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/london-city-lionesses-mary-earps-mapi-leon",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 08:36:53 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/02/germany-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Germany World Cup 2026 team guide",
+        "en": "Germany World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Julian Nagelsmann will rely on a Bayern-based core, but individual class is in worryingly short supply /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations from the ",
+        "en": "p Julian Nagelsmann will rely on a Bayern-based core, but individual class is in worryingly short supply /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations from the "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/02/germany-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 02 Jun 2026 06:30:40 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.espn.com/soccer/story/_/id/48919132/need-pre-world-cup-soccer-fix-there-plenty-watch-know-where-look",
       "title": {
@@ -354,256 +604,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.espn.com/soccer/story/_/id/48936654/transfer-rumors-news-real-madrid-show-interest-arsenal-declan-rice",
-      "title": {
-        "ar": "Transfer rumors, news: Real Madrid show interest i...",
-        "en": "Transfer rumors, news: Real Madrid show interest i..."
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48936654/transfer-rumors-news-real-madrid-show-interest-arsenal-declan-rice",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 1 Jun 2026 08:49:49 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48901787/chelsea-keep-dump-xabi-alonso-enzo-fernandez-cole-palmer-gab-marcotti-mark-ogden",
-      "title": {
-        "ar": "Chelsea Keep or Dump: How can Blues help Xabi Alon...",
-        "en": "Chelsea Keep or Dump: How can Blues help Xabi Alon..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48901787/chelsea-keep-dump-xabi-alonso-enzo-fernandez-cole-palmer-gab-marcotti-mark-ogden",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 1 Jun 2026 08:49:49 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c5y88d80rzdo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "إسبانيا في المونديال من دون ريال مدريد",
-        "en": "إسبانيا في المونديال من دون ريال مدريد"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92d7/live/7e463720-5843-11f1-9fcc-95002e18ab8a.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c5y88d80rzdo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Mon, 25 May 2026 14:51:04 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "كأس العالم 2026: جدول المباريات",
-        "en": "كأس العالم 2026: جدول المباريات"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9111/live/adf4db00-5453-11f1-b682-cf91850925ea.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Wed, 20 May 2026 14:16:24 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c87q42ny258o?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "عشب ملاعب كأس العالم ثمرة عقود من البحث والدراسة",
-        "en": "عشب ملاعب كأس العالم ثمرة عقود من البحث والدراسة"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0aec/live/fc25c850-524d-11f1-a015-9931c10f2fae.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c87q42ny258o?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Mon, 18 May 2026 19:38:14 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/clypdm5xj1do?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "كأس العالم: مشجعون أفارقة يواجهون عقبات رغم تراجع الولايات المتحدة عن شرط الضمان المالي للتأشيرة",
-        "en": "كأس العالم: مشجعون أفارقة يواجهون عقبات رغم تراجع الولايات المتحدة عن شرط الضمان المالي للتأشيرة"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f90b/live/fb1326d0-4f8f-11f1-9ab5-d7f2c647b333.jpg",
-      "url": "https://www.bbc.com/arabic/articles/clypdm5xj1do?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Sat, 16 May 2026 15:08:09 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13549945/marc-cucurella-wants-a-return-to-spain-with-real-madrid-and-barcelona-interested-paper-talk",
-      "title": {
-        "ar": "Papers: Cucurella wanted by Barcelona & Real Madrid",
-        "en": "Papers: Cucurella wanted by Barcelona & Real Madrid"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "url": "https://www.skysports.com/football/news/12040/13549945/marc-cucurella-wants-a-return-to-spain-with-real-madrid-and-barcelona-interested-paper-talk",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 01 Jun 2026 20:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13549916/england-plane-touches-down-on-american-soil-ahead-of-their-2026-world-cup-campaign",
-      "title": {
-        "ar": "There it is! England's plane touches down in US ahead of World Cup",
-        "en": "There it is! England's plane touches down in US ahead of World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-england-plane-world-cup_7263234.jpg?20260601195530",
-      "url": "https://www.skysports.com/watch/video/13549916/england-plane-touches-down-on-american-soil-ahead-of-their-2026-world-cup-campaign",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 01 Jun 2026 19:47:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13549902/katie-mccabe-signs-for-chelsea-republic-of-ireland-captain-to-swap-arsenal-for-wsl-rivals",
-      "title": {
-        "ar": "Chelsea confirm signing of Arsenal great McCabe",
-        "en": "Chelsea confirm signing of Arsenal great McCabe"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-katie-mccabe-chelsea_7263201.jpg?20260601185541",
-      "url": "https://www.skysports.com/football/news/12040/13549902/katie-mccabe-signs-for-chelsea-republic-of-ireland-captain-to-swap-arsenal-for-wsl-rivals",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 01 Jun 2026 19:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.theguardian.com/football/2026/jun/01/manager-loved-it-tonda-eckert-found-to-have-initiated-southamptons-spying",
       "title": {
         "ar": "‘Manager loved it’: Tonda Eckert found to have initiated Southampton’s spying",
@@ -700,81 +700,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Mon, 01 Jun 2026 18:00:25 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "title": {
-        "ar": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly",
-        "en": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 11:39:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13549831/on-their-way-england-fly-out-to-miami-ahead-of-world-cup-preparations",
-      "title": {
-        "ar": "On their way! England fly out to Miami ahead of World Cup preparations",
-        "en": "On their way! England fly out to Miami ahead of World Cup preparations"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-world-cup_7263040.jpg?20260601145743",
-      "url": "https://www.skysports.com/watch/video/13549831/on-their-way-england-fly-out-to-miami-ahead-of-world-cup-preparations",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 01 Jun 2026 14:53:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13549821/barcelona-transfers-how-can-laliga-champions-afford-to-make-signings-this-summer-after-anthony-gordon-deal",
-      "title": {
-        "ar": "Gordon? Alvarez? Rashford? How can Barcelona afford transfers this summer?",
-        "en": "Gordon? Alvarez? Rashford? How can Barcelona afford transfers this summer?"
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-anthony-gordon-marcus-rashford_7263082.jpg?20260601154934",
-      "url": "https://www.skysports.com/football/news/12040/13549821/barcelona-transfers-how-can-laliga-champions-afford-to-make-signings-this-summer-after-anthony-gordon-deal",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 01 Jun 2026 14:11:00 BST",
       "rewritten": false,
       "lang": "en"
     },
@@ -900,6 +825,281 @@
         "en": "The Guardian"
       },
       "pubDate": "Mon, 01 Jun 2026 15:01:33 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48936654/transfer-rumors-news-real-madrid-show-interest-arsenal-declan-rice",
+      "title": {
+        "ar": "Transfer rumors, news: Real Madrid show interest i...",
+        "en": "Transfer rumors, news: Real Madrid show interest i..."
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48936654/transfer-rumors-news-real-madrid-show-interest-arsenal-declan-rice",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 1 Jun 2026 08:49:49 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48901787/chelsea-keep-dump-xabi-alonso-enzo-fernandez-cole-palmer-gab-marcotti-mark-ogden",
+      "title": {
+        "ar": "Chelsea Keep or Dump: How can Blues help Xabi Alon...",
+        "en": "Chelsea Keep or Dump: How can Blues help Xabi Alon..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48901787/chelsea-keep-dump-xabi-alonso-enzo-fernandez-cole-palmer-gab-marcotti-mark-ogden",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 1 Jun 2026 08:49:49 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c78qg33q5jqo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "دوري أبطال أوروبا: كيف بدأت الحكاية؟",
+        "en": "دوري أبطال أوروبا: كيف بدأت الحكاية؟"
+      },
+      "kicker": {
+        "ar": "دوري أبطال أوروبا",
+        "en": "Champions League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b5f2/live/56bf0910-5b69-11f1-b682-cf91850925ea.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c78qg33q5jqo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Fri, 29 May 2026 14:23:09 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
+      "title": {
+        "ar": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly",
+        "en": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba",
+        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 11:39:07 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549945/marc-cucurella-wants-a-return-to-spain-with-real-madrid-and-barcelona-interested-paper-talk",
+      "title": {
+        "ar": "Papers: Cucurella wanted by Barcelona & Real Madrid",
+        "en": "Papers: Cucurella wanted by Barcelona & Real Madrid"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "url": "https://www.skysports.com/football/news/12040/13549945/marc-cucurella-wants-a-return-to-spain-with-real-madrid-and-barcelona-interested-paper-talk",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 01 Jun 2026 20:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13549916/england-plane-touches-down-on-american-soil-ahead-of-their-2026-world-cup-campaign",
+      "title": {
+        "ar": "There it is! England's plane touches down in US ahead of World Cup",
+        "en": "There it is! England's plane touches down in US ahead of World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-england-plane-world-cup_7263234.jpg?20260601195530",
+      "url": "https://www.skysports.com/watch/video/13549916/england-plane-touches-down-on-american-soil-ahead-of-their-2026-world-cup-campaign",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 01 Jun 2026 19:47:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549902/katie-mccabe-signs-for-chelsea-republic-of-ireland-captain-to-swap-arsenal-for-wsl-rivals",
+      "title": {
+        "ar": "Chelsea confirm signing of Arsenal great McCabe",
+        "en": "Chelsea confirm signing of Arsenal great McCabe"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-katie-mccabe-chelsea_7263201.jpg?20260601185541",
+      "url": "https://www.skysports.com/football/news/12040/13549902/katie-mccabe-signs-for-chelsea-republic-of-ireland-captain-to-swap-arsenal-for-wsl-rivals",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 01 Jun 2026 19:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13549831/on-their-way-england-fly-out-to-miami-ahead-of-world-cup-preparations",
+      "title": {
+        "ar": "On their way! England fly out to Miami ahead of World Cup preparations",
+        "en": "On their way! England fly out to Miami ahead of World Cup preparations"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-world-cup_7263040.jpg?20260601145743",
+      "url": "https://www.skysports.com/watch/video/13549831/on-their-way-england-fly-out-to-miami-ahead-of-world-cup-preparations",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 01 Jun 2026 14:53:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549821/barcelona-transfers-how-can-laliga-champions-afford-to-make-signings-this-summer-after-anthony-gordon-deal",
+      "title": {
+        "ar": "Gordon? Alvarez? Rashford? How can Barcelona afford transfers this summer?",
+        "en": "Gordon? Alvarez? Rashford? How can Barcelona afford transfers this summer?"
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-anthony-gordon-marcus-rashford_7263082.jpg?20260601154934",
+      "url": "https://www.skysports.com/football/news/12040/13549821/barcelona-transfers-how-can-laliga-champions-afford-to-make-signings-this-summer-after-anthony-gordon-deal",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 01 Jun 2026 14:11:00 BST",
       "rewritten": false,
       "lang": "en"
     },
@@ -1800,206 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Sun, 31 May 2026 19:12:15 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/live/2026/may/31/usmnt-v-senegal-live-updates-analysis-lineups",
-      "title": {
-        "ar": "USMNT v Senegal: Updates and analysis from pre-World Cup friendly – live",
-        "en": "USMNT v Senegal: Updates and analysis from pre-World Cup friendly – live"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p strong ⚽ International friendly updates, kick-off at 3.30pm ET br ⚽ /strong a href=\"https://www.theguardian.com/football/2026/may/30/usmnt-questions-senegal-germany-christian-pulisic-gio-reyna\" strong Questions for US’s final tune-ups /strong /a strong | /strong a href=\"https://www.theguardian.com/football/2026/apr/22/overlooked-moments-in-us-wor",
-        "en": "p strong ⚽ International friendly updates, kick-off at 3.30pm ET br ⚽ /strong a href=\"https://www.theguardian.com/football/2026/may/30/usmnt-questions-senegal-germany-christian-pulisic-gio-reyna\" strong Questions for US’s final tune-ups /strong /a strong | /strong a href=\"https://www.theguardian.com/football/2026/apr/22/overlooked-moments-in-us-wor"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/live/2026/may/31/usmnt-v-senegal-live-updates-analysis-lineups",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 31 May 2026 19:11:14 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2026/may/31/virat-kohli-royal-challengers-bengaluru-retain-ipl-title-gujarat-titans",
-      "title": {
-        "ar": "Virat Kohli hits winning runs as Royal Challengers Bengaluru retain IPL title",
-        "en": "Virat Kohli hits winning runs as Royal Challengers Bengaluru retain IPL title"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "ul li p Final: Royal Challengers Bengaluru, 161-5, beat Gujarat Titans, 155-8, by 5 wkts /p /li li p Former India captain scores 75no off 42 balls /p /li /ul p The India veteran Virat Kohli produced an explosive knock as Royal Challengers Bengaluru secured a five-wicket win over Gujarat Titans to retain their Indian Premier League title on Sunday. ",
-        "en": "ul li p Final: Royal Challengers Bengaluru, 161-5, beat Gujarat Titans, 155-8, by 5 wkts /p /li li p Former India captain scores 75no off 42 balls /p /li /ul p The India veteran Virat Kohli produced an explosive knock as Royal Challengers Bengaluru secured a five-wicket win over Gujarat Titans to retain their Indian Premier League title on Sunday. "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2026/may/31/virat-kohli-royal-challengers-bengaluru-retain-ipl-title-gujarat-titans",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 31 May 2026 19:01:25 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/31/declan-rice-arsenal-champions-league",
-      "title": {
-        "ar": "Declan Rice vows Arsenal will ‘go even stronger’ and ‘are coming back for more’",
-        "en": "Declan Rice vows Arsenal will ‘go even stronger’ and ‘are coming back for more’"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "ul li p Premier League-winning midfielder defiant after PSG loss /p /li li p Arteta ‘told us he loves us all, to keep our heads up’ /p /li /ul p Declan Rice has promised that Arsenal “are coming back for more” next season after putting aside their disappointment at losing on penalties in the Champions League final by parading the Premier League tro",
-        "en": "ul li p Premier League-winning midfielder defiant after PSG loss /p /li li p Arteta ‘told us he loves us all, to keep our heads up’ /p /li /ul p Declan Rice has promised that Arsenal “are coming back for more” next season after putting aside their disappointment at losing on penalties in the Champions League final by parading the Premier League tro"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/31/declan-rice-arsenal-champions-league",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 31 May 2026 18:19:38 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/31/brighton-manchester-city-womens-fa-cup-final-match-report",
-      "title": {
-        "ar": "Manchester City thrash Brighton to seal Women’s FA Cup and historic Double",
-        "en": "Manchester City thrash Brighton to seal Women’s FA Cup and historic Double"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Was it ever in doubt that Khadija Shaw would grab the headlines? Never. A ruthless Manchester City side won the Women’s FA Cup for a fourth time and completed the Double as they eventually coasted to a 4-0 win over Brighton, with Shaw a href=\"https://www.theguardian.com/football/2026/may/25/khadija-shaw-makes-surprise-u-turn-and-opts-to-stay-at-m",
-        "en": "p Was it ever in doubt that Khadija Shaw would grab the headlines? Never. A ruthless Manchester City side won the Women’s FA Cup for a fourth time and completed the Double as they eventually coasted to a 4-0 win over Brighton, with Shaw a href=\"https://www.theguardian.com/football/2026/may/25/khadija-shaw-makes-surprise-u-turn-and-opts-to-stay-at-m"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/31/brighton-manchester-city-womens-fa-cup-final-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 31 May 2026 16:05:44 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/cvgzy027m6eo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "أشرف حكيمي.. أول لاعب عربي يعتلي عرش دوري أبطال أوروبا 3 مرات",
-        "en": "أشرف حكيمي.. أول لاعب عربي يعتلي عرش دوري أبطال أوروبا 3 مرات"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e6d0/live/c4547140-5cf4-11f1-b214-e766cd2606c4.jpg",
-      "url": "https://www.bbc.com/arabic/articles/cvgzy027m6eo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Sun, 31 May 2026 15:51:15 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/31/arsenal-trophy-bus-parade-supporters-north-london-champions-league",
-      "title": {
-        "ar": "Arsenal put Champions League anguish to one side with open-top bus parade",
-        "en": "Arsenal put Champions League anguish to one side with open-top bus parade"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "ul li p Hundreds of thousands of fans line streets in London /p /li li p Gabriel pays tribute to supporters after final agony /p /li /ul p Gabriel Magalhães admitted a href=\"https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout\" Arsenal’s Champions League penalty shootout de",
-        "en": "ul li p Hundreds of thousands of fans line streets in London /p /li li p Gabriel pays tribute to supporters after final agony /p /li /ul p Gabriel Magalhães admitted a href=\"https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout\" Arsenal’s Champions League penalty shootout de"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/31/arsenal-trophy-bus-parade-supporters-north-london-champions-league",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 31 May 2026 15:47:25 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/31/liverpool-talks-andoni-iraola-new-coach-world-cup-arne-slot",
-      "title": {
-        "ar": "Liverpool to hold talks with Iraola and seek swift appointment of head coach",
-        "en": "Liverpool to hold talks with Iraola and seek swift appointment of head coach"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Club want to name Slot’s successor before World Cup /p /li li p Stuttgart’s Hoeness and Lens’ Sage to be sounded out /p /li /ul p Liverpool will hold formal talks with Andoni Iraola over their managerial vacancy this week and hope to install Arne Slot’s successor before the World Cup begins. /p p Liverpool are planning to move quickly in th",
-        "en": "ul li p Club want to name Slot’s successor before World Cup /p /li li p Stuttgart’s Hoeness and Lens’ Sage to be sounded out /p /li /ul p Liverpool will hold formal talks with Andoni Iraola over their managerial vacancy this week and hope to install Arne Slot’s successor before the World Cup begins. /p p Liverpool are planning to move quickly in th"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/31/liverpool-talks-andoni-iraola-new-coach-world-cup-arne-slot",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 31 May 2026 15:05:38 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/may/31/turkey-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Turkey World Cup 2026 team guide",
-        "en": "Turkey World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Vincenzo Montella has created harmony in the squad to mould one of the country’s strongest teams ever around a generational talent in Arda Guler /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some",
-        "en": "p Vincenzo Montella has created harmony in the squad to mould one of the country’s strongest teams ever around a generational talent in Arda Guler /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/may/31/turkey-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 31 May 2026 15:00:50 GMT",
       "rewritten": false,
       "lang": "en"
     }
