@@ -1,8 +1,233 @@
 {
   "version": 2,
-  "updated": "2026-06-03T11:12:08.794Z",
+  "updated": "2026-06-03T17:01:58.278Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/darts/news/12040/13550475/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-northern-ireland-defend-crown-in-frankfurt",
+      "title": {
+        "ar": "World Cup of Darts 2026 schedule: Wales kick group-stage off as NI defend crown",
+        "en": "World Cup of Darts 2026 schedule: Wales kick group-stage off as NI defend crown"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-of-darts_7264633.jpg?20260603160958",
+      "url": "https://www.skysports.com/darts/news/12040/13550475/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-northern-ireland-defend-crown-in-frankfurt",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 03 Jun 2026 15:46:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13550486/enzo-maresca-to-man-city-compensation-negotiations-ongoing-with-chelsea-for-italian-to-be-pep-guardiolas-replacement",
+      "title": {
+        "ar": "Man City negotiating Maresca compensation fee with Chelsea",
+        "en": "Man City negotiating Maresca compensation fee with Chelsea"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-graphic-enzo-maresca_7253099.jpg?20260519131305",
+      "url": "https://www.skysports.com/football/news/12040/13550486/enzo-maresca-to-man-city-compensation-negotiations-ongoing-with-chelsea-for-italian-to-be-pep-guardiolas-replacement",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 26 May 2026 16:50:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13550409/liverpool-andoni-iraola-can-make-success-of-step-up-from-bournemouth-at-anfield-with-spaniard-primed-to-become-next-reds-boss-after-arne-slots-sacking",
+      "title": {
+        "ar": "Man management and 'a bottle of magic' - How Iraola can step up at Liverpool",
+        "en": "Man management and 'a bottle of magic' - How Iraola can step up at Liverpool"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-liverpool-andoni_7264436.jpg?20260603122747",
+      "url": "https://www.skysports.com/football/news/12040/13550409/liverpool-andoni-iraola-can-make-success-of-step-up-from-bournemouth-at-anfield-with-spaniard-primed-to-become-next-reds-boss-after-arne-slots-sacking",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 03 Jun 2026 12:27:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/03/campaign-to-deliver-biggest-complaint-fifa-has-ever-received-launches-before-world-cup",
+      "title": {
+        "ar": "Campaign to deliver ‘biggest complaint Fifa has ever received’ launches before World Cup",
+        "en": "Campaign to deliver ‘biggest complaint Fifa has ever received’ launches before World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p ‘Reboot Fifa’ calls for investigation into Infantino /p /li li p Complaint to be sent to ethics committee after World Cup /p /li /ul p A quest to deliver the “biggest complaint Fifa has ever received” is being launched by campaigners a week before the World Cup. /p p With a href=\"https://www.theguardian.com/football/2026/jun/02/world-cup-fa",
+        "en": "ul li p ‘Reboot Fifa’ calls for investigation into Infantino /p /li li p Complaint to be sent to ethics committee after World Cup /p /li /ul p A quest to deliver the “biggest complaint Fifa has ever received” is being launched by campaigners a week before the World Cup. /p p With a href=\"https://www.theguardian.com/football/2026/jun/02/world-cup-fa"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/03/campaign-to-deliver-biggest-complaint-fifa-has-ever-received-launches-before-world-cup",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 03 Jun 2026 15:15:09 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/03/tunisia-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Tunisia World Cup 2026 team guide",
+        "en": "Tunisia World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Having stormed through African qualifying without conceding a goal, can Sabri Lamouchi lead the Eagles of Carthage out of the group stage for the first time? /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation",
+        "en": "p Having stormed through African qualifying without conceding a goal, can Sabri Lamouchi lead the Eagles of Carthage out of the group stage for the first time? /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/03/tunisia-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 03 Jun 2026 15:00:10 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/03/football-seems-to-have-forgotten-about-fun-the-world-sevens-has-brought-it-back",
+      "title": {
+        "ar": "Football seems to have forgotten about fun: the World Sevens has brought it back | Tom Garry",
+        "en": "Football seems to have forgotten about fun: the World Sevens has brought it back | Tom Garry"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p We all have a tendency to take the game far too seriously – this seven-a-side tournament provided the perfect antidote /p p As much as it is tempting to romanticise about Bill Shankly’s most famous quote, he was wrong. Football is not more serious than life and death, and over the years far too many of us seem to have taken the former Liverpool m",
+        "en": "p We all have a tendency to take the game far too seriously – this seven-a-side tournament provided the perfect antidote /p p As much as it is tempting to romanticise about Bill Shankly’s most famous quote, he was wrong. Football is not more serious than life and death, and over the years far too many of us seem to have taken the former Liverpool m"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/03/football-seems-to-have-forgotten-about-fun-the-world-sevens-has-brought-it-back",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 03 Jun 2026 13:50:49 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/03/nwsl-us-mens-world-cup-womens-football",
+      "title": {
+        "ar": "NWSL plans to gain growth through men’s World Cup pandemonium",
+        "en": "NWSL plans to gain growth through men’s World Cup pandemonium"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Plenty of women watch the men’s tournament but are yet to translate fandom to the women’s game – will that change this summer? /p p The NWSL’s 14th regular season wrapped up match week 10 of 27 over the weekend, officially commencing a month-long break to honor the terms of their collective bargaining agreement (which stipulates a week-long inter",
+        "en": "p Plenty of women watch the men’s tournament but are yet to translate fandom to the women’s game – will that change this summer? /p p The NWSL’s 14th regular season wrapped up match week 10 of 27 over the weekend, officially commencing a month-long break to honor the terms of their collective bargaining agreement (which stipulates a week-long inter"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/03/nwsl-us-mens-world-cup-womens-football",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 03 Jun 2026 10:30:03 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c87q42ny258o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "عشب ملاعب كأس العالم ثمرة عقود من البحث والدراسة",
+        "en": "عشب ملاعب كأس العالم ثمرة عقود من البحث والدراسة"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0aec/live/fc25c850-524d-11f1-a015-9931c10f2fae.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c87q42ny258o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Mon, 18 May 2026 19:38:14 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13550048/world-cup-2026-scotland-winger-ben-gannon-doak-much-more-prepared-after-hurt-of-missing-euro-2024-due-to-injury",
       "title": {
@@ -202,56 +427,6 @@
       "pubDate": "Thu, 28 May 2026 10:21:18 GMT",
       "rewritten": false,
       "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
     },
     {
       "id": "https://www.skysports.com/cricket/news/12040/13550286/england-captain-nat-sciver-brunt-ready-to-go-for-t20-world-cup-but-probably-wont-bowl-says-coach-charlotte-edwards",
@@ -1825,181 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Mon, 01 Jun 2026 15:01:33 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48936654/transfer-rumors-news-real-madrid-show-interest-arsenal-declan-rice",
-      "title": {
-        "ar": "Transfer rumors, news: Real Madrid show interest i...",
-        "en": "Transfer rumors, news: Real Madrid show interest i..."
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48936654/transfer-rumors-news-real-madrid-show-interest-arsenal-declan-rice",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 1 Jun 2026 08:49:49 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48901787/chelsea-keep-dump-xabi-alonso-enzo-fernandez-cole-palmer-gab-marcotti-mark-ogden",
-      "title": {
-        "ar": "Chelsea Keep or Dump: How can Blues help Xabi Alon...",
-        "en": "Chelsea Keep or Dump: How can Blues help Xabi Alon..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48901787/chelsea-keep-dump-xabi-alonso-enzo-fernandez-cole-palmer-gab-marcotti-mark-ogden",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 1 Jun 2026 08:49:49 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c78qg33q5jqo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "دوري أبطال أوروبا: كيف بدأت الحكاية؟",
-        "en": "دوري أبطال أوروبا: كيف بدأت الحكاية؟"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b5f2/live/56bf0910-5b69-11f1-b682-cf91850925ea.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c78qg33q5jqo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Fri, 29 May 2026 14:23:09 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "title": {
-        "ar": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly",
-        "en": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 11:39:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13549945/marc-cucurella-wants-a-return-to-spain-with-real-madrid-and-barcelona-interested-paper-talk",
-      "title": {
-        "ar": "Papers: Cucurella wanted by Barcelona & Real Madrid",
-        "en": "Papers: Cucurella wanted by Barcelona & Real Madrid"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "url": "https://www.skysports.com/football/news/12040/13549945/marc-cucurella-wants-a-return-to-spain-with-real-madrid-and-barcelona-interested-paper-talk",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 01 Jun 2026 20:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13549916/england-plane-touches-down-on-american-soil-ahead-of-their-2026-world-cup-campaign",
-      "title": {
-        "ar": "There it is! England's plane touches down in US ahead of World Cup",
-        "en": "There it is! England's plane touches down in US ahead of World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-england-plane-world-cup_7263234.jpg?20260601195530",
-      "url": "https://www.skysports.com/watch/video/13549916/england-plane-touches-down-on-american-soil-ahead-of-their-2026-world-cup-campaign",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 01 Jun 2026 19:47:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13549902/katie-mccabe-signs-for-chelsea-republic-of-ireland-captain-to-swap-arsenal-for-wsl-rivals",
-      "title": {
-        "ar": "Chelsea confirm signing of Arsenal great McCabe",
-        "en": "Chelsea confirm signing of Arsenal great McCabe"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-katie-mccabe-chelsea_7263201.jpg?20260601185541",
-      "url": "https://www.skysports.com/football/news/12040/13549902/katie-mccabe-signs-for-chelsea-republic-of-ireland-captain-to-swap-arsenal-for-wsl-rivals",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 01 Jun 2026 19:00:00 BST",
       "rewritten": false,
       "lang": "en"
     }
