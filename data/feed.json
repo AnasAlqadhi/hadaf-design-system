@@ -1,8 +1,283 @@
 {
   "version": 2,
-  "updated": "2026-06-04T04:45:00.196Z",
+  "updated": "2026-06-04T10:05:14.843Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13550652/erling-haaland-man-city-threaten-legal-action-over-real-madrid-presidential-candidates-pledge-to-sign-striker",
+      "title": {
+        "ar": "Man City threaten legal action over Real presidential candidate's Haaland pledge",
+        "en": "Man City threaten legal action over Real presidential candidate's Haaland pledge"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-erling-haaland-man-city_7265065.png?20260604091832",
+      "url": "https://www.skysports.com/football/news/12040/13550652/erling-haaland-man-city-threaten-legal-action-over-real-madrid-presidential-candidates-pledge-to-sign-striker",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 04 Jun 2026 09:25:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13550654/wc-round-up-england-in-the-heat-brazil-messi-and-ronaldo-latest",
+      "title": {
+        "ar": "England in the heat, Brazil, Messi and Ronaldo - World Cup latest",
+        "en": "England in the heat, Brazil, Messi and Ronaldo - World Cup latest"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-england_7265021.jpg?20260604082357",
+      "url": "https://www.skysports.com/watch/video/13550654/wc-round-up-england-in-the-heat-brazil-messi-and-ronaldo-latest",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 04 Jun 2026 08:14:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13550670/bobby-tambling-chelsea-scoring-legend-dies-aged-84",
+      "title": {
+        "ar": "Chelsea legend Tambling dies aged 84",
+        "en": "Chelsea legend Tambling dies aged 84"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-bobby-tambling-chelsea_7265080.jpg?20260604092906",
+      "url": "https://www.skysports.com/football/news/12040/13550670/bobby-tambling-chelsea-scoring-legend-dies-aged-84",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 04 Jun 2026 09:21:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "title": {
+        "ar": "World Cup 2026: guide to all 1,248 players",
+        "en": "World Cup 2026: guide to all 1,248 players"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a",
+        "en": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 08:55:49 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/04/manchester-city-threaten-to-sue-real-madrid-presidential-candidate-erling-haaland-elliot-anderson",
+      "title": {
+        "ar": "Manchester City threaten to sue Real Madrid presidential hopeful over Haaland",
+        "en": "Manchester City threaten to sue Real Madrid presidential hopeful over Haaland"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Enrique Riquelme held Madrid shirt with Haaland’s name /p /li li p City bid rejected for Nottingham Forest’s Elliot Anderson /p /li /ul p Manchester City are considering legal action against Enrique Riquelme after the Real Madrid presidential candidate held up a Madrid shirt with Erling Haaland’s name on the back during a TV appearance. Riq",
+        "en": "ul li p Enrique Riquelme held Madrid shirt with Haaland’s name /p /li li p City bid rejected for Nottingham Forest’s Elliot Anderson /p /li /ul p Manchester City are considering legal action against Enrique Riquelme after the Real Madrid presidential candidate held up a Madrid shirt with Erling Haaland’s name on the back during a TV appearance. Riq"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/04/manchester-city-threaten-to-sue-real-madrid-presidential-candidate-erling-haaland-elliot-anderson",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 08:14:45 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/04/fifa-bans-reusable-water-bottles-world-cup-stadiums",
+      "title": {
+        "ar": "Fifa bans fans from taking reusable water bottles into World Cup stadiums after U-turn",
+        "en": "Fifa bans fans from taking reusable water bottles into World Cup stadiums after U-turn"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Move prevents ‘risk and injury to players and attendees’ /p /li li p Fans concerned about heat and access to drinking water /p /li /ul p Spectators will not be allowed to carry reusable water bottles into World Cup venues owing to safety concerns, Fifa has said, after a last-minute change to its stadium code of conduct. /p p The governing b",
+        "en": "ul li p Move prevents ‘risk and injury to players and attendees’ /p /li li p Fans concerned about heat and access to drinking water /p /li /ul p Spectators will not be allowed to carry reusable water bottles into World Cup venues owing to safety concerns, Fifa has said, after a last-minute change to its stadium code of conduct. /p p The governing b"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/04/fifa-bans-reusable-water-bottles-world-cup-stadiums",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 07:21:08 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/04/antonio-rudiger-refugees-have-no-other-choice-its-important-they-be-listened-to",
+      "title": {
+        "ar": "Antonio Rüdiger: ‘Refugees have no other choice – it’s important they be listened to’",
+        "en": "Antonio Rüdiger: ‘Refugees have no other choice – it’s important they be listened to’"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Drawing on his own family’s experience, the Real Madrid and Germany defender is advocating for refugees and challenging stereotypes /p p As a child, Antonio Rüdiger would look out of his bedroom window to see whether anyone was playing on the field it overlooked. It was not a big pitch, but it had two goals, enough room for six-a-side and was whe",
+        "en": "p Drawing on his own family’s experience, the Real Madrid and Germany defender is advocating for refugees and challenging stereotypes /p p As a child, Antonio Rüdiger would look out of his bedroom window to see whether anyone was playing on the field it overlooked. It was not a big pitch, but it had two goals, enough room for six-a-side and was whe"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/04/antonio-rudiger-refugees-have-no-other-choice-its-important-they-be-listened-to",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 07:00:29 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/04/la-liga-2025-26-awards-best-players-team-sid-lowe",
+      "title": {
+        "ar": "La Liga 2025-26 awards: the best players, team … and smelliest shirt of the season",
+        "en": "La Liga 2025-26 awards: the best players, team … and smelliest shirt of the season"
+      },
+      "kicker": {
+        "ar": "الليغا",
+        "en": "La Liga"
+      },
+      "excerpt": {
+        "ar": "p It was another season to remember for Lamine Yamal and Barcelona, along with Getafe, Rayo and one naughty fan /p p Lamine Yamal wore the crown and flew the flag. With the last kick of the opening game of 2025-26, Barcelona’s new No 10 – the teenager handed the shirt Ladislao Kubala, Luis Suárez, Diego Maradona, Rivaldo, Ronaldinho and Lionel Mess",
+        "en": "p It was another season to remember for Lamine Yamal and Barcelona, along with Getafe, Rayo and one naughty fan /p p Lamine Yamal wore the crown and flew the flag. With the last kick of the opening game of 2025-26, Barcelona’s new No 10 – the teenager handed the shirt Ladislao Kubala, Luis Suárez, Diego Maradona, Rivaldo, Ronaldinho and Lionel Mess"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/04/la-liga-2025-26-awards-best-players-team-sid-lowe",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 07:00:29 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/04/katie-mccabe-chelsea-arsenal-wsl-transfer-move-controversy-abuse",
+      "title": {
+        "ar": "Anger at Katie McCabe’s move to Chelsea is forgivable – crossing line into abuse is not | Suzanne Wrack",
+        "en": "Anger at Katie McCabe’s move to Chelsea is forgivable – crossing line into abuse is not | Suzanne Wrack"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p While small pool of talent and elite clubs in women’s game makes switches between rivals inevitable, this move is contentious. But some reaction has gone too far /p p The red neon lights flicker in the dark for a moment, then the room is blue, and there is Katie McCabe, a grin on her face and a Chelsea shirt on, a href=\"https://www.theguardian.co",
+        "en": "p While small pool of talent and elite clubs in women’s game makes switches between rivals inevitable, this move is contentious. But some reaction has gone too far /p p The red neon lights flicker in the dark for a moment, then the room is blue, and there is Katie McCabe, a grin on her face and a Chelsea shirt on, a href=\"https://www.theguardian.co"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/04/katie-mccabe-chelsea-arsenal-wsl-transfer-move-controversy-abuse",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 07:00:29 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13550591/world-cup-2026-why-harry-kane-could-play-less-minutes-for-england-in-the-usa-canada-and-mexico-this-summer",
       "title": {
@@ -100,56 +375,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Wed, 03 Jun 2026 15:00:10 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c87q42ny258o?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "عشب ملاعب كأس العالم ثمرة عقود من البحث والدراسة",
-        "en": "عشب ملاعب كأس العالم ثمرة عقود من البحث والدراسة"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0aec/live/fc25c850-524d-11f1-a015-9931c10f2fae.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c87q42ny258o?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Mon, 18 May 2026 19:38:14 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1775,231 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Mon, 1 Jun 2026 20:38:22 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48833479/transfer-window-preview-do-europes-big-clubs-need",
-      "title": {
-        "ar": "Transfer window preview: What do Europe's big club...",
-        "en": "Transfer window preview: What do Europe's big club..."
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48833479/transfer-window-preview-do-europes-big-clubs-need",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 1 Jun 2026 20:38:01 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48891022/wsl-transfer-window-preview-chelsea-sign-striker-shaw-snub",
-      "title": {
-        "ar": "WSL transfer window preview: Chelsea to sign a str...",
-        "en": "WSL transfer window preview: Chelsea to sign a str..."
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48891022/wsl-transfer-window-preview-chelsea-sign-striker-shaw-snub",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 1 Jun 2026 20:38:00 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48936926/inside-arsenal-mammoth-63game-season-premier-league-glory-ucl-heartbreak",
-      "title": {
-        "ar": "Inside Arsenal's mammoth 63-game season: Premier L...",
-        "en": "Inside Arsenal's mammoth 63-game season: Premier L..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48936926/inside-arsenal-mammoth-63game-season-premier-league-glory-ucl-heartbreak",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 1 Jun 2026 20:33:22 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48938049/france-william-saliba-doubtful-world-cup-sources",
-      "title": {
-        "ar": "Sources: France's Saliba doubtful for World Cup",
-        "en": "Sources: France's Saliba doubtful for World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48938049/france-william-saliba-doubtful-world-cup-sources",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 1 Jun 2026 19:58:43 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48940831/haaland-sits-isak-scores-norway-beats-sweden",
-      "title": {
-        "ar": "Haaland sits, Isak scores as Norway beat Sweden",
-        "en": "Haaland sits, Isak scores as Norway beat Sweden"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48940831/haaland-sits-isak-scores-norway-beats-sweden",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 1 Jun 2026 19:58:43 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48938327/rodri-wait-world-cup-discuss-future",
-      "title": {
-        "ar": "Rodri: I'll discuss my future after World Cup",
-        "en": "Rodri: I'll discuss my future after World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48938327/rodri-wait-world-cup-discuss-future",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 1 Jun 2026 19:58:43 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48757621/2026-world-cup-squad-lists-players-announced-all-48-teams",
-      "title": {
-        "ar": "✅ All 2026 World Cup squads announced so far",
-        "en": "✅ All 2026 World Cup squads announced so far"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48757621/2026-world-cup-squad-lists-players-announced-all-48-teams",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 1 Jun 2026 19:58:43 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48903308/this-starting-point-us-soccer-new-home-help-grow-game",
-      "title": {
-        "ar": "'This is a starting point': U.S. Soccer's new home...",
-        "en": "'This is a starting point': U.S. Soccer's new home..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48903308/this-starting-point-us-soccer-new-home-help-grow-game",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 1 Jun 2026 19:58:25 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48931409/usmnt-builds-world-cup-momentum-beating-senegal-questions-remain",
-      "title": {
-        "ar": "USMNT builds World Cup momentum by beating Senegal...",
-        "en": "USMNT builds World Cup momentum by beating Senegal..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48931409/usmnt-builds-world-cup-momentum-beating-senegal-questions-remain",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 1 Jun 2026 19:58:25 EST",
       "rewritten": false,
       "lang": "en"
     }
