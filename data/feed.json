@@ -1,8 +1,158 @@
 {
   "version": 2,
-  "updated": "2026-06-04T20:11:57.979Z",
+  "updated": "2026-06-05T04:19:30.601Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13550933/arsenal-transfer-news-mikel-arteta-handed-boost-in-race-for-eli-junior-kroupi-as-psg-drop-out-of-race-paper-talk",
+      "title": {
+        "ar": "Papers: Arsenal receive huge boost in race for Kroupi Jr",
+        "en": "Papers: Arsenal receive huge boost in race for Kroupi Jr"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "url": "https://www.skysports.com/football/news/12040/13550933/arsenal-transfer-news-mikel-arteta-handed-boost-in-race-for-eli-junior-kroupi-as-psg-drop-out-of-race-paper-talk",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 04 Jun 2026 22:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/05/new-zealand-world-cup-2026-team-guide",
+      "title": {
+        "ar": "New Zealand World Cup 2026 team guide",
+        "en": "New Zealand World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Despite being the lowest-ranked team at the tournament, All Whites are hoping Chris Wood can help fire them to a first appearance in the knockout rounds /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation betw",
+        "en": "p Despite being the lowest-ranked team at the tournament, All Whites are hoping Chris Wood can help fire them to a first appearance in the knockout rounds /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation betw"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/05/new-zealand-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 23:01:18 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/04/spain-iraq-friendly-international-match-report",
+      "title": {
+        "ar": "Doski stunner earns Iraq draw against understrength Spain in World Cup warm-up",
+        "en": "Doski stunner earns Iraq draw against understrength Spain in World Cup warm-up"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Spain will depart from Santiago de Compostela at 10am on Friday morning bound for Chattanooga, via Nashville, but seven of the eight men who made their debuts in the final preparation game before the World Cup will not be on board with them. Nor will the em seleccion /em be flying west with a victory after they bid em adios /em with a 1-1 draw ag",
+        "en": "p Spain will depart from Santiago de Compostela at 10am on Friday morning bound for Chattanooga, via Nashville, but seven of the eight men who made their debuts in the final preparation game before the World Cup will not be on board with them. Nor will the em seleccion /em be flying west with a victory after they bid em adios /em with a 1-1 draw ag"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/04/spain-iraq-friendly-international-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 22:04:33 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/04/egypt-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Egypt World Cup 2026 team guide",
+        "en": "Egypt World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p A first win at a World Cup is the floor-level target for a team that still relies heavily on the ability of Mohamed Salah /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media orga",
+        "en": "p A first win at a World Cup is the floor-level target for a team that still relies heavily on the ability of Mohamed Salah /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media orga"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/04/egypt-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 07:00:29 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم 2026: جدول المباريات",
+        "en": "كأس العالم 2026: جدول المباريات"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9111/live/adf4db00-5453-11f1-b682-cf91850925ea.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Tue, 02 Jun 2026 06:15:35 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13550174/andoni-iraola-liverpool-appoint-former-bournemouth-boss-as-arne-slots-successor-on-two-year-deal",
       "title": {
@@ -250,81 +400,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Tue, 02 Jun 2026 21:09:46 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "title": {
-        "ar": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly",
-        "en": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 11:39:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1925,81 +2000,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Tue, 02 Jun 2026 13:10:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/02/fulham-marco-silva-leaving-head-coach-benfica",
-      "title": {
-        "ar": "Fulham confirm Marco Silva is leaving as head coach amid Benfica interest",
-        "en": "Fulham confirm Marco Silva is leaving as head coach amid Benfica interest"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Silva had been in charge at Fulham for five years /p /li li p Benfica poised to lose José Mourinho for Madrid job /p /li /ul p Fulham have announced that Marco Silva is leaving after five years as their head coach. The Portuguese is wanted by Benfica, who are poised to lose José Mourinho to Real Madrid. /p p “Fulham and Marco were an excell",
-        "en": "ul li p Silva had been in charge at Fulham for five years /p /li li p Benfica poised to lose José Mourinho for Madrid job /p /li /ul p Fulham have announced that Marco Silva is leaving after five years as their head coach. The Portuguese is wanted by Benfica, who are poised to lose José Mourinho to Real Madrid. /p p “Fulham and Marco were an excell"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/02/fulham-marco-silva-leaving-head-coach-benfica",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 02 Jun 2026 15:39:36 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/02/japan-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Japan World Cup 2026 team guide",
-        "en": "Japan World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Impressive results have fuelled belief that Hajime Moriyasu’s side can not just survive against the best but beat them too /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media org",
-        "en": "p Impressive results have fuelled belief that Hajime Moriyasu’s side can not just survive against the best but beat them too /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media org"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/02/japan-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 02 Jun 2026 15:00:28 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/02/football-daily-newsletter-tonda-eckert-southampton-spying-scandal",
-      "title": {
-        "ar": "Football Daily | Southampton find a ‘super-talented’ reason to stick with Tonda Eckert",
-        "en": "Football Daily | Southampton find a ‘super-talented’ reason to stick with Tonda Eckert"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p Southampton don’t have an official club motto. But at the start of next season, as they try to leave behind the spying scandal that devastated their 2025-26 campaign, they could borrow a phr",
-        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p Southampton don’t have an official club motto. But at the start of next season, as they try to leave behind the spying scandal that devastated their 2025-26 campaign, they could borrow a phr"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/02/football-daily-newsletter-tonda-eckert-southampton-spying-scandal",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 02 Jun 2026 14:49:00 GMT",
       "rewritten": false,
       "lang": "en"
     }
