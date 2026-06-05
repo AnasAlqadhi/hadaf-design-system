@@ -1,8 +1,383 @@
 {
   "version": 2,
-  "updated": "2026-06-05T15:17:37.774Z",
+  "updated": "2026-06-05T20:02:34.477Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": {
+        "ar": "Crystal Palace latest: AC Milan considering Glasner move",
+        "en": "Crystal Palace latest: AC Milan considering Glasner move"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-crystal-palace-news_7039251.jpg?20251002160103",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 05 Jun 2026 18:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/jun/05/spain-v-england-womens-world-cup-2027-qualifying-live",
+      "title": {
+        "ar": "Spain v England: Women’s World Cup 2027 qualifying – live",
+        "en": "Spain v England: Women’s World Cup 2027 qualifying – live"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p ⚽️ Crucial qualifier kicks off at 8pm BST in Mallorca br ⚽️ a href=\"https://www.theguardian.com/football/2026/jun/04/lionesses-seek-to-tame-spain-again-and-show-they-are-ready-to-conquer-the-world\" Tom Garry’s preview /a | a href=\"https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts\"",
+        "en": "p ⚽️ Crucial qualifier kicks off at 8pm BST in Mallorca br ⚽️ a href=\"https://www.theguardian.com/football/2026/jun/04/lionesses-seek-to-tame-spain-again-and-show-they-are-ready-to-conquer-the-world\" Tom Garry’s preview /a | a href=\"https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts\""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/05/spain-v-england-womens-world-cup-2027-qualifying-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 19:48:42 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c0m2mwd9k7jo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "تعرفوا على أكثر قمصان كأس العالم  تميزاً عبر التاريخ، ولماذا تعد تصميماتها أيقونية؟",
+        "en": "تعرفوا على أكثر قمصان كأس العالم  تميزاً عبر التاريخ، ولماذا تعد تصميماتها أيقونية؟"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e65a/live/bb0d91d0-6068-11f1-8b8c-6d33e1d5abb6.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c0m2mwd9k7jo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Fri, 05 Jun 2026 18:51:51 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/05/toronto-world-cup-fifa",
+      "title": {
+        "ar": "‘I don’t want to give my money to Fifa’: Toronto turns its back on the World Cup",
+        "en": "‘I don’t want to give my money to Fifa’: Toronto turns its back on the World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p For football fans in Canada, the initial prospect of the World Cup coming to town was thrilling – but hundreds of tickets remain unsold /p p As far back as he can remember, football has long been a part of Lawrence Yee’s life. Growing up in a Canadian town where hockey was the dominant sport, he found community and passion in the game. The sport ",
+        "en": "p For football fans in Canada, the initial prospect of the World Cup coming to town was thrilling – but hundreds of tickets remain unsold /p p As far back as he can remember, football has long been a part of Lawrence Yee’s life. Growing up in a Canadian town where hockey was the dominant sport, he found community and passion in the game. The sport "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/05/toronto-world-cup-fifa",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 18:36:46 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/05/iran-world-cup-visas-united-states",
+      "title": {
+        "ar": "Iran’s World Cup players receive visas to enter US, White House official says",
+        "en": "Iran’s World Cup players receive visas to enter US, White House official says"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Mexican ambassador had said squad were still waiting /p /li li p Team have moved training base from Arizona to Mexico /p /li /ul p Iran’s World Cup players have been granted visas to enter the United States, a White House official told Reuters on Friday, just 10 days before their first match in Los Angeles amid the a href=\"https://www.thegu",
+        "en": "ul li p Mexican ambassador had said squad were still waiting /p /li li p Team have moved training base from Arizona to Mexico /p /li /ul p Iran’s World Cup players have been granted visas to enter the United States, a White House official told Reuters on Friday, just 10 days before their first match in Los Angeles amid the a href=\"https://www.thegu"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/05/iran-world-cup-visas-united-states",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 18:13:14 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2026/jun/05/french-open-finals-monaco-gp-and-world-cup-warm-ups-for-england-and-scotland-follow-with-us",
+      "title": {
+        "ar": "French Open finals, Monaco GP and World Cup warm-ups for England and Scotland – follow with us",
+        "en": "French Open finals, Monaco GP and World Cup warm-ups for England and Scotland – follow with us"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports /p a href=\"https://www.theguardian.com/sport/2026/jun/05/french-open-finals-monaco-gp-and-world-cup-warm-ups-for-england-and-scotland-follow-with-us\" Continue reading... /a",
+        "en": "p Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports /p a href=\"https://www.theguardian.com/sport/2026/jun/05/french-open-finals-monaco-gp-and-world-cup-warm-ups-for-england-and-scotland-follow-with-us\" Continue reading... /a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2026/jun/05/french-open-finals-monaco-gp-and-world-cup-warm-ups-for-england-and-scotland-follow-with-us",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 16:20:27 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/05/chris-richards-injury-status-world-cup",
+      "title": {
+        "ar": "Chris Richards’s World Cup in doubt as ankle injury rules USMNT defender out for Germany friendly",
+        "en": "Chris Richards’s World Cup in doubt as ankle injury rules USMNT defender out for Germany friendly"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Pochettino ‘not happy’ with Palace’s injury assessment /p /li li p Richards missed Conference League final /p /li li p a href=\"https://www.theguardian.com/football/world-cup-2026\" Predict your World Cup bracket /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Complete player ",
+        "en": "ul li p Pochettino ‘not happy’ with Palace’s injury assessment /p /li li p Richards missed Conference League final /p /li li p a href=\"https://www.theguardian.com/football/world-cup-2026\" Predict your World Cup bracket /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Complete player "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/05/chris-richards-injury-status-world-cup",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 16:17:01 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/05/fifa-expanding-ai-use-at-world-cup-to-reduce-amount-of-abuse-seen-by-players",
+      "title": {
+        "ar": "Fifa expanding AI use at World Cup to reduce amount of abuse seen by players",
+        "en": "Fifa expanding AI use at World Cup to reduce amount of abuse seen by players"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Social media protection service offered by Fifa /p /li li p English FA yet to confirm whether it will use service /p /li /ul p Fifa will expand the use of AI at the World Cup to reduce the amount of abusive messages that teams and players are exposed to on social media. /p p World football’s governing body introduced a social media protecti",
+        "en": "ul li p Social media protection service offered by Fifa /p /li li p English FA yet to confirm whether it will use service /p /li /ul p Fifa will expand the use of AI at the World Cup to reduce the amount of abusive messages that teams and players are exposed to on social media. /p p World football’s governing body introduced a social media protecti"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/05/fifa-expanding-ai-use-at-world-cup-to-reduce-amount-of-abuse-seen-by-players",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 16:00:03 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/05/saudi-arabia-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Saudi Arabia World Cup 2026 team guide",
+        "en": "Saudi Arabia World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p A pre-tournament change of manager has complicated planning but, with the pressure off to an extent, Saudi talent has a chance to prove itself /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some o",
+        "en": "p A pre-tournament change of manager has complicated planning but, with the pressure off to an extent, Saudi talent has a chance to prove itself /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some o"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/05/saudi-arabia-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 15:00:03 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/05/fifa-free-world-cup-tickets-fans",
+      "title": {
+        "ar": "Fifa asks fans mistakenly issued free World Cup tickets to re-buy at full price",
+        "en": "Fifa asks fans mistakenly issued free World Cup tickets to re-buy at full price"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Governing body ‘regrets’ website error that caused glitch /p /li li p Ticketing process being investigated by attorneys general /p /li /ul p Fifa has canceled World Cup tickets issued to about 60 fans who mistakenly got them for free because of a website error, and soccer’s governing body is now asking for them to be paid in full. /p p The ",
+        "en": "ul li p Governing body ‘regrets’ website error that caused glitch /p /li li p Ticketing process being investigated by attorneys general /p /li /ul p Fifa has canceled World Cup tickets issued to about 60 fans who mistakenly got them for free because of a website error, and soccer’s governing body is now asking for them to be paid in full. /p p The "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/05/fifa-free-world-cup-tickets-fans",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 14:48:00 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/05/real-madrid-to-launch-150m-bid-for-michael-olise-if-florentino-perez-re-elected",
+      "title": {
+        "ar": "Real Madrid to launch €150m bid for Michael Olise if Florentino Pérez re-elected",
+        "en": "Real Madrid to launch €150m bid for Michael Olise if Florentino Pérez re-elected"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Bayern midfielder to be No 1 target in summer window /p /li li p Olise was watched by potential new manager Mourinho /p /li /ul p Real Madrid will launch a €150m (£130m) bid for Bayern Munich’s Michael Olise if Florentino Pérez wins re-election as the club’s president. /p p The election is being held this weekend and Pérez is expected to be",
+        "en": "ul li p Bayern midfielder to be No 1 target in summer window /p /li li p Olise was watched by potential new manager Mourinho /p /li /ul p Real Madrid will launch a €150m (£130m) bid for Bayern Munich’s Michael Olise if Florentino Pérez wins re-election as the club’s president. /p p The election is being held this weekend and Pérez is expected to be"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/05/real-madrid-to-launch-150m-bid-for-michael-olise-if-florentino-perez-re-elected",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 12:38:10 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/05/graham-potter-sweden-head-coach-world-cup-2026",
+      "title": {
+        "ar": "Graham Potter: ‘I feel very Swedish when I’m working – I look a bit Swedish’",
+        "en": "Graham Potter: ‘I feel very Swedish when I’m working – I look a bit Swedish’"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Head coach looks forward to leading Sweden at World Cup after reflecting on failures with Chelsea and West Ham /p p If management has taught Graham Potter anything it is that there is no point in trying to run away from failure. “You’ve got to face the bad stuff,” the 51-year‑old says as he thinks about how he recovered from bruising spells at Ch",
+        "en": "p Head coach looks forward to leading Sweden at World Cup after reflecting on failures with Chelsea and West Ham /p p If management has taught Graham Potter anything it is that there is no point in trying to run away from failure. “You’ve got to face the bad stuff,” the 51-year‑old says as he thinks about how he recovered from bruising spells at Ch"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/05/graham-potter-sweden-head-coach-world-cup-2026",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 11:00:34 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
+      "title": {
+        "ar": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly",
+        "en": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba",
+        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 11:39:07 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "title": {
@@ -127,31 +502,6 @@
       "pubDate": "Mon, 01 Jun 2026 05:33:02 GMT",
       "rewritten": false,
       "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
-      "rewritten": false,
-      "lang": "en"
     },
     {
       "id": "https://www.skysports.com/rugby-union/news/12040/13551022/andy-farrell-contract-ireland-head-coach-extends-deal-until-end-of-2031-rugby-world-cup",
@@ -1650,356 +2000,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Wed, 03 Jun 2026 21:11:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/03/world-cup-underdog-victories-upsets",
-      "title": {
-        "ar": "Underdog victories at the World Cup: what were the biggest and best upsets?",
-        "en": "Underdog victories at the World Cup: what were the biggest and best upsets?"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p We’ve looked at data from USA 1994 onwards to see how and when classic upsets take place – and what that could mean for this year’s competition /p p This year, the biggest ever World Cup will feature 48 teams, an increase from 32, opening up the tournament to even more upsets, shocks and surprises. The vagaries of the World Cup draw have given ri",
-        "en": "p We’ve looked at data from USA 1994 onwards to see how and when classic upsets take place – and what that could mean for this year’s competition /p p This year, the biggest ever World Cup will feature 48 teams, an increase from 32, opening up the tournament to even more upsets, shocks and surprises. The vagaries of the World Cup draw have given ri"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/03/world-cup-underdog-victories-upsets",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 03 Jun 2026 19:00:14 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/03/ibrahima-konate-reveals-struggles-in-year-of-personal-tragedy",
-      "title": {
-        "ar": "‘There are low points’: Ibrahima Konaté reveals struggles in year of personal tragedy",
-        "en": "‘There are low points’: Ibrahima Konaté reveals struggles in year of personal tragedy"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p France defender devasted by deaths of Jota and father /p /li li p ‘Depression is personal; it’s deep inside you’ /p /li /ul p Ibrahima Konaté has spoken about the struggles he faced in a year of personal tragedy in which the death of his former Liverpool teammate Diogo Jota was followed by that of his father. /p p The France international’s",
-        "en": "ul li p France defender devasted by deaths of Jota and father /p /li li p ‘Depression is personal; it’s deep inside you’ /p /li /ul p Ibrahima Konaté has spoken about the struggles he faced in a year of personal tragedy in which the death of his former Liverpool teammate Diogo Jota was followed by that of his father. /p p The France international’s"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/03/ibrahima-konate-reveals-struggles-in-year-of-personal-tragedy",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 03 Jun 2026 17:40:37 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/03/millwall-publish-pride-playbook-to-help-clubs-form-stronger-links-with-lgbtq-teams",
-      "title": {
-        "ar": "Millwall publish ‘Pride playbook’ to help clubs form stronger links with LGBTQ+ teams",
-        "en": "Millwall publish ‘Pride playbook’ to help clubs form stronger links with LGBTQ+ teams"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Lions seek to help extend the reach of inclusive clubs /p /li li p 78-page document is the first of its kind in football /p /li /ul p Millwall have published a first-of-its-kind “Pride playbook” to help football clubs form stronger partnerships with LGBTQ+ teams across the country. /p p The move comes during Pride month as the Lions seek to",
-        "en": "ul li p Lions seek to help extend the reach of inclusive clubs /p /li li p 78-page document is the first of its kind in football /p /li /ul p Millwall have published a first-of-its-kind “Pride playbook” to help football clubs form stronger partnerships with LGBTQ+ teams across the country. /p p The move comes during Pride month as the Lions seek to"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/03/millwall-publish-pride-playbook-to-help-clubs-form-stronger-links-with-lgbtq-teams",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 03 Jun 2026 16:42:52 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/03/football-daily-newsletter-andoni-iraola-managerial-merry-go-round",
-      "title": {
-        "ar": "Football Daily | Will AI bring heavy-metal football back to Liverpool?",
-        "en": "Football Daily | Will AI bring heavy-metal football back to Liverpool?"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p It was only a matter of time before one of football’s big clubs placed their future in the hands of AI. Happily for Liverpool, a href=\"https://www.theguardian.com/football/2026/jun/02/liverp",
-        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p It was only a matter of time before one of football’s big clubs placed their future in the hands of AI. Happily for Liverpool, a href=\"https://www.theguardian.com/football/2026/jun/02/liverp"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/03/football-daily-newsletter-andoni-iraola-managerial-merry-go-round",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 03 Jun 2026 14:40:37 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/01/world-cup-2026-stadium-guide",
-      "title": {
-        "ar": "World Cup 2026: a visual guide to the stadiums across the trio of host nations",
-        "en": "World Cup 2026: a visual guide to the stadiums across the trio of host nations"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p All you need to know about the 16 host stadiums in the US, Mexico and Canada /p p The 2026 World Cup is the largest tournament ever. A total of 16 venues will play host to this summer’s big games, and each has a story to tell about the past, present and future of sports in its city. Stadium names may look unfamiliar, as we are using the Fifa-appr",
-        "en": "p All you need to know about the 16 host stadiums in the US, Mexico and Canada /p p The 2026 World Cup is the largest tournament ever. A total of 16 venues will play host to this summer’s big games, and each has a story to tell about the past, present and future of sports in its city. Stadium names may look unfamiliar, as we are using the Fifa-appr"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/01/world-cup-2026-stadium-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 01 Jun 2026 05:00:09 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/darts/news/12040/13550475/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-northern-ireland-defend-crown-in-frankfurt",
-      "title": {
-        "ar": "World Cup of Darts 2026 schedule: Wales kick group-stage off as NI defend crown",
-        "en": "World Cup of Darts 2026 schedule: Wales kick group-stage off as NI defend crown"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-of-darts_7264633.jpg?20260603160958",
-      "url": "https://www.skysports.com/darts/news/12040/13550475/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-northern-ireland-defend-crown-in-frankfurt",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 03 Jun 2026 15:46:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550486/enzo-maresca-to-man-city-compensation-negotiations-ongoing-with-chelsea-for-italian-to-be-pep-guardiolas-replacement",
-      "title": {
-        "ar": "Man City negotiating Maresca compensation fee with Chelsea",
-        "en": "Man City negotiating Maresca compensation fee with Chelsea"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-graphic-enzo-maresca_7253099.jpg?20260519131305",
-      "url": "https://www.skysports.com/football/news/12040/13550486/enzo-maresca-to-man-city-compensation-negotiations-ongoing-with-chelsea-for-italian-to-be-pep-guardiolas-replacement",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 26 May 2026 16:50:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550409/liverpool-andoni-iraola-can-make-success-of-step-up-from-bournemouth-at-anfield-with-spaniard-primed-to-become-next-reds-boss-after-arne-slots-sacking",
-      "title": {
-        "ar": "Man management and 'a bottle of magic' - How Iraola can step up at Liverpool",
-        "en": "Man management and 'a bottle of magic' - How Iraola can step up at Liverpool"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-liverpool-andoni_7264436.jpg?20260603122747",
-      "url": "https://www.skysports.com/football/news/12040/13550409/liverpool-andoni-iraola-can-make-success-of-step-up-from-bournemouth-at-anfield-with-spaniard-primed-to-become-next-reds-boss-after-arne-slots-sacking",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 03 Jun 2026 12:27:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/03/campaign-to-deliver-biggest-complaint-fifa-has-ever-received-launches-before-world-cup",
-      "title": {
-        "ar": "Campaign to deliver ‘biggest complaint Fifa has ever received’ launches before World Cup",
-        "en": "Campaign to deliver ‘biggest complaint Fifa has ever received’ launches before World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p ‘Reboot Fifa’ calls for investigation into Infantino /p /li li p Complaint to be sent to ethics committee after World Cup /p /li /ul p A quest to deliver the “biggest complaint Fifa has ever received” is being launched by campaigners a week before the World Cup. /p p With a href=\"https://www.theguardian.com/football/2026/jun/02/world-cup-fa",
-        "en": "ul li p ‘Reboot Fifa’ calls for investigation into Infantino /p /li li p Complaint to be sent to ethics committee after World Cup /p /li /ul p A quest to deliver the “biggest complaint Fifa has ever received” is being launched by campaigners a week before the World Cup. /p p With a href=\"https://www.theguardian.com/football/2026/jun/02/world-cup-fa"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/03/campaign-to-deliver-biggest-complaint-fifa-has-ever-received-launches-before-world-cup",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 03 Jun 2026 15:15:09 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/03/tunisia-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Tunisia World Cup 2026 team guide",
-        "en": "Tunisia World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Having stormed through African qualifying without conceding a goal, can Sabri Lamouchi lead the Eagles of Carthage out of the group stage for the first time? /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation",
-        "en": "p Having stormed through African qualifying without conceding a goal, can Sabri Lamouchi lead the Eagles of Carthage out of the group stage for the first time? /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/03/tunisia-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 03 Jun 2026 15:00:10 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/03/football-seems-to-have-forgotten-about-fun-the-world-sevens-has-brought-it-back",
-      "title": {
-        "ar": "Football seems to have forgotten about fun: the World Sevens has brought it back | Tom Garry",
-        "en": "Football seems to have forgotten about fun: the World Sevens has brought it back | Tom Garry"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p We all have a tendency to take the game far too seriously – this seven-a-side tournament provided the perfect antidote /p p As much as it is tempting to romanticise about Bill Shankly’s most famous quote, he was wrong. Football is not more serious than life and death, and over the years far too many of us seem to have taken the former Liverpool m",
-        "en": "p We all have a tendency to take the game far too seriously – this seven-a-side tournament provided the perfect antidote /p p As much as it is tempting to romanticise about Bill Shankly’s most famous quote, he was wrong. Football is not more serious than life and death, and over the years far too many of us seem to have taken the former Liverpool m"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/03/football-seems-to-have-forgotten-about-fun-the-world-sevens-has-brought-it-back",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 03 Jun 2026 13:50:49 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/03/nwsl-us-mens-world-cup-womens-football",
-      "title": {
-        "ar": "NWSL plans to gain growth through men’s World Cup pandemonium",
-        "en": "NWSL plans to gain growth through men’s World Cup pandemonium"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Plenty of women watch the men’s tournament but are yet to translate fandom to the women’s game – will that change this summer? /p p The NWSL’s 14th regular season wrapped up match week 10 of 27 over the weekend, officially commencing a month-long break to honor the terms of their collective bargaining agreement (which stipulates a week-long inter",
-        "en": "p Plenty of women watch the men’s tournament but are yet to translate fandom to the women’s game – will that change this summer? /p p The NWSL’s 14th regular season wrapped up match week 10 of 27 over the weekend, officially commencing a month-long break to honor the terms of their collective bargaining agreement (which stipulates a week-long inter"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/03/nwsl-us-mens-world-cup-womens-football",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 03 Jun 2026 10:30:03 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550048/world-cup-2026-scotland-winger-ben-gannon-doak-much-more-prepared-after-hurt-of-missing-euro-2024-due-to-injury",
-      "title": {
-        "ar": "Gannon-Doak 'much more prepared' for Scotland's WC trip after Euros hurt",
-        "en": "Gannon-Doak 'much more prepared' for Scotland's WC trip after Euros hurt"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gannon-doak-ben-scotland_7263539.jpg?20260602122023",
-      "url": "https://www.skysports.com/football/news/12040/13550048/world-cup-2026-scotland-winger-ben-gannon-doak-much-more-prepared-after-hurt-of-missing-euro-2024-due-to-injury",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 03 Jun 2026 08:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-build-up-plus-latest-on-trump-tickets-and-fans",
-      "title": {
-        "ar": "World Cup latest: England can '100 per cent' win tournament, says Mainoo",
-        "en": "World Cup latest: England can '100 per cent' win tournament, says Mainoo"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-kobbie-mainoo-premier-league_7238249.jpg?20260503171445",
-      "url": "https://www.skysports.com/football/live-blog/12040/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-build-up-plus-latest-on-trump-tickets-and-fans",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 03 Jun 2026 07:40:00 BST",
       "rewritten": false,
       "lang": "en"
     }
