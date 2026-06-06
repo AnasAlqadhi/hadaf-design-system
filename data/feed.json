@@ -1,8 +1,308 @@
 {
   "version": 2,
-  "updated": "2026-06-06T04:01:54.868Z",
+  "updated": "2026-06-06T08:41:10.967Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/darts/news/12040/13551270/luke-littler-not-feeling-the-pressure-ahead-of-world-cup-of-darts-return-with-luke-humphries-we-didnt-bond-on-the-stage-last-year",
+      "title": {
+        "ar": "Littler not feeling pressure ahead of World Cup of Darts return with Humphries",
+        "en": "Littler not feeling pressure ahead of World Cup of Darts return with Humphries"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-darts-pdc-pdc-world-cup_7245621.jpg?20260511152557",
+      "url": "https://www.skysports.com/darts/news/12040/13551270/luke-littler-not-feeling-the-pressure-ahead-of-world-cup-of-darts-return-with-luke-humphries-we-didnt-bond-on-the-stage-last-year",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 06 Jun 2026 07:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/jun/06/australia-vs-mexico-live-updates-matildas-aus-v-mex-womens-international-football-friendly",
+      "title": {
+        "ar": "Australia v Mexico: women’s international football friendly – live",
+        "en": "Australia v Mexico: women’s international football friendly – live"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Updates from the Matildas clash at McDonald Jones Stadium /p /li li p Kick-off time in Newcastle is 7.15pm AEST /p /li li p Any thoughts? Get in touch with a href=\"mailto:martin.pegan@theguardian.com\" an email /a /p /li /ul p strong Matildas head coach Joe Montemurro /strong said on Friday that he wants to use the two friendlies against Mex",
+        "en": "ul li p Updates from the Matildas clash at McDonald Jones Stadium /p /li li p Kick-off time in Newcastle is 7.15pm AEST /p /li li p Any thoughts? Get in touch with a href=\"mailto:martin.pegan@theguardian.com\" an email /a /p /li /ul p strong Matildas head coach Joe Montemurro /strong said on Friday that he wants to use the two friendlies against Mex"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/06/australia-vs-mexico-live-updates-matildas-aus-v-mex-womens-international-football-friendly",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 08:37:00 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/fifa-backtracks-on-plastic-water-bottles-at-world-cup-after-backlash-to-ban",
+      "title": {
+        "ar": "Fifa backtracks on plastic water bottles at World Cup after backlash to ban",
+        "en": "Fifa backtracks on plastic water bottles at World Cup after backlash to ban"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Fans will be allowed one sealed bottle at matches /p /li li p World body again alters policy after condemnation /p /li /ul p Fifa has again amended its water bottle policy for the World Cup in North America, allowing fans to bring in one sealed, disposable 590ml bottle into stadiums. /p p Ticket holders had previously been permitted an empt",
+        "en": "ul li p Fans will be allowed one sealed bottle at matches /p /li li p World body again alters policy after condemnation /p /li /ul p Fifa has again amended its water bottle policy for the World Cup in North America, allowing fans to bring in one sealed, disposable 590ml bottle into stadiums. /p p Ticket holders had previously been permitted an empt"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/fifa-backtracks-on-plastic-water-bottles-at-world-cup-after-backlash-to-ban",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 08:33:18 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/crr8l5x2z1eo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "4 منتخبات تكتب التاريخ وتعيش حلم كأس العالم لأول مرة، من هي؟",
+        "en": "4 منتخبات تكتب التاريخ وتعيش حلم كأس العالم لأول مرة، من هي؟"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd43/live/94afdc10-617f-11f1-8b8c-6d33e1d5abb6.jpg",
+      "url": "https://www.bbc.com/arabic/articles/crr8l5x2z1eo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sat, 06 Jun 2026 08:22:56 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c5y8l0e31lvo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم 1994: مونديال \"السوكر\" و\"السامبا\" واستبعاد مارادونا وقتل إسكوبار",
+        "en": "كأس العالم 1994: مونديال \"السوكر\" و\"السامبا\" واستبعاد مارادونا وقتل إسكوبار"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a107/live/d2bc0d80-617a-11f1-8ac1-371ebc895245.png",
+      "url": "https://www.bbc.com/arabic/articles/c5y8l0e31lvo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sat, 06 Jun 2026 07:27:21 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/uruguay-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Uruguay World Cup 2026 team guide",
+        "en": "Uruguay World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Uruguayans hope Marcelo Bielsa will have less of a rollercoaster of results so Federico Valverde can inspire them to reach the latter stages /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of ",
+        "en": "p Uruguayans hope Marcelo Bielsa will have less of a rollercoaster of results so Federico Valverde can inspire them to reach the latter stages /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/uruguay-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 07:00:04 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/06/power-and-glory-world-cup-promises-a-spectacle-impossible-to-ignore",
+      "title": {
+        "ar": "Power and glory: World Cup promises a spectacle impossible to ignore",
+        "en": "Power and glory: World Cup promises a spectacle impossible to ignore"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Ten years in the making, the greatest show on earth is set for a six-week sprint through Trump’s America /p p This is the end, of our elaborate plans, the end. Of everything that stands, the end. It seems fitting that football’s latest stopping point on its voyage upriver into the blank parts of the map, a mission so choice that when it’s over yo",
+        "en": "p Ten years in the making, the greatest show on earth is set for a six-week sprint through Trump’s America /p p This is the end, of our elaborate plans, the end. Of everything that stands, the end. It seems fitting that football’s latest stopping point on its voyage upriver into the blank parts of the map, a mission so choice that when it’s over yo"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/06/power-and-glory-world-cup-promises-a-spectacle-impossible-to-ignore",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 07:00:03 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/romario-2026-world-cup-brazil-interview",
+      "title": {
+        "ar": "Romário: ‘I consider myself one of the greatest players ever. An 11 out of 10’",
+        "en": "Romário: ‘I consider myself one of the greatest players ever. An 11 out of 10’"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Brazil’s 1994 World Cup winner on being good without training, his political legacy and why he loves social media /p p Few people’s interview list over the past year features Neymar, Robert Lewandowski, Xavi Hernández and Iker Casillas. But then not many interviewers have the pulling power of Romário. Thirty-two years after the former Brazil stri",
+        "en": "p Brazil’s 1994 World Cup winner on being good without training, his political legacy and why he loves social media /p p Few people’s interview list over the past year features Neymar, Robert Lewandowski, Xavi Hernández and Iker Casillas. But then not many interviewers have the pulling power of Romário. Thirty-two years after the former Brazil stri"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/romario-2026-world-cup-brazil-interview",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 07:00:02 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/05/sarina-wiegman-lionesses-spain-womens-world-cup-qualifier",
+      "title": {
+        "ar": "‘It hurts. I expected a different game’: Wiegman’s shock at Spain humbling",
+        "en": "‘It hurts. I expected a different game’: Wiegman’s shock at Spain humbling"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p England likely to face World Cup qualification playoffs /p /li li p Manager calls for a reaction in final group match /p /li /ul p Sarina Wiegman said she wants to see a reaction from her Lionesses after England suffered their heaviest defeat in 17 years against Spain. /p p It was a humbling evening for Wiegman and her team, who needed a wi",
+        "en": "ul li p England likely to face World Cup qualification playoffs /p /li li p Manager calls for a reaction in final group match /p /li /ul p Sarina Wiegman said she wants to see a reaction from her Lionesses after England suffered their heaviest defeat in 17 years against Spain. /p p It was a humbling evening for Wiegman and her team, who needed a wi"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/05/sarina-wiegman-lionesses-spain-womens-world-cup-qualifier",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 22:43:55 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
+      "title": {
+        "ar": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly",
+        "en": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba",
+        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 11:39:07 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13551266/thomas-tuchel-england-manager-discusses-harry-kanes-fitness-player-transfers-and-tampa-bay-pitch-concerns-ahead-of-new-zealand-friendly",
       "title": {
@@ -1700,306 +2000,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Thu, 04 Jun 2026 13:50:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550753/spain-vs-england-lucy-bronze-says-rivalry-makes-teams-stronger-as-lionesses-eye-statement-win-to-seal-2027-world-cup-spot",
-      "title": {
-        "ar": "England eye statement win over rivals Spain to seal World Cup 2027 spot",
-        "en": "England eye statement win over rivals Spain to seal World Cup 2027 spot"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-alessia-russo-mapi-leon_7220274.jpg?20260414210243",
-      "url": "https://www.skysports.com/football/news/12040/13550753/spain-vs-england-lucy-bronze-says-rivalry-makes-teams-stronger-as-lionesses-eye-statement-win-to-seal-2027-world-cup-spot",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 04 Jun 2026 14:03:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550716/world-cup-2026-why-lgbtq-fan-groups-are-not-attending-matches-in-the-united-states",
-      "title": {
-        "ar": "Why LGBTQ fans are snubbing World Cup games in America",
-        "en": "Why LGBTQ fans are snubbing World Cup games in America"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-donald-trump-gianni-infantino_7265246.jpg?20260604124642",
-      "url": "https://www.skysports.com/football/news/12040/13550716/world-cup-2026-why-lgbtq-fan-groups-are-not-attending-matches-in-the-united-states",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 04 Jun 2026 14:28:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/iran-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Iran World Cup 2026 team guide",
-        "en": "Iran World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p All eyes will be on Team Melli amid the ongoing conflict with the US and Israel, making their campaign one of the most unusual and unpredictable of recent times /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperat",
-        "en": "p All eyes will be on Team Melli amid the ongoing conflict with the US and Israel, making their campaign one of the most unusual and unpredictable of recent times /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperat"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/iran-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 15:00:09 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/football-daily-omitted-xi-geopolitics-world-cup",
-      "title": {
-        "ar": "Football Daily | World Cup Omitted XI: the star players watching from the sofa this summer",
-        "en": "Football Daily | World Cup Omitted XI: the star players watching from the sofa this summer"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p With every squad for the Geopolitics World Cup now finalised – Turkey, Jordan, Ghana and Uzbekistan were the last teams to confirm their 26-man rosters on Tuesday – we now know exactly who i",
-        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p With every squad for the Geopolitics World Cup now finalised – Turkey, Jordan, Ghana and Uzbekistan were the last teams to confirm their 26-man rosters on Tuesday – we now know exactly who i"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/football-daily-omitted-xi-geopolitics-world-cup",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 14:24:52 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/pep-guardiola-threatened-quit-100-times-as-manchester-city-manager",
-      "title": {
-        "ar": "Pep Guardiola ‘threatened to quit 100 times’ as Manchester City manager",
-        "en": "Pep Guardiola ‘threatened to quit 100 times’ as Manchester City manager"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Chair compares Guardiola with The Boy Who Cried Wolf /p /li li p ‘He never thought he would stay more than four years’ /p /li /ul p Khaldoon al-Mubarak has revealed Pep Guardiola “quit 100 times” as Manchester City manager, with the chair comparing the empty threats to The Boy Who Cried Wolf, one of Aesop’s Fables. /p p a href=\"https://www.",
-        "en": "ul li p Chair compares Guardiola with The Boy Who Cried Wolf /p /li li p ‘He never thought he would stay more than four years’ /p /li /ul p Khaldoon al-Mubarak has revealed Pep Guardiola “quit 100 times” as Manchester City manager, with the chair comparing the empty threats to The Boy Who Cried Wolf, one of Aesop’s Fables. /p p a href=\"https://www."
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/pep-guardiola-threatened-quit-100-times-as-manchester-city-manager",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 12:00:05 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/griping-thomas-tuchel-handbrake-mikel-arteta-bus-england-arsenal-bantersphere",
-      "title": {
-        "ar": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden",
-        "en": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "p Opinions, the game loves them, and after Arsenal’s hugely divisive final, here’s my truth – feel free to yell back /p p What the world needs now is one last hot take on a href=\"https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout\" Arsenal and the Champions League final /a",
-        "en": "p Opinions, the game loves them, and after Arsenal’s hugely divisive final, here’s my truth – feel free to yell back /p p What the world needs now is one last hot take on a href=\"https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout\" Arsenal and the Champions League final /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/griping-thomas-tuchel-handbrake-mikel-arteta-bus-england-arsenal-bantersphere",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 11:00:05 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
-      "title": {
-        "ar": "Bracketology: predict a path to World Cup victory",
-        "en": "Bracketology: predict a path to World Cup victory"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a",
-        "en": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 10:00:48 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/england-play-world-cup-final-dr-congo-mexico-brazil-argentina-spain",
-      "title": {
-        "ar": "Who would England be likely to play if they reach the World Cup final?",
-        "en": "Who would England be likely to play if they reach the World Cup final?"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p England could face knockout ties against DR Congo, Mexico, Brazil and Argentina before facing Spain in the final /p p By a href=\"https://theanalyst.com/\" Opta Analyst /a /p p Who will England have to beat to win the World Cup for the first time since 1966? We can’t predict the future but, with the help of the Opta supercomputer, we can give a pro",
-        "en": "p England could face knockout ties against DR Congo, Mexico, Brazil and Argentina before facing Spain in the final /p p By a href=\"https://theanalyst.com/\" Opta Analyst /a /p p Who will England have to beat to win the World Cup for the first time since 1966? We can’t predict the future but, with the help of the Opta supercomputer, we can give a pro"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/england-play-world-cup-final-dr-congo-mexico-brazil-argentina-spain",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 09:48:36 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550652/erling-haaland-man-city-threaten-legal-action-over-real-madrid-presidential-candidates-pledge-to-sign-striker",
-      "title": {
-        "ar": "Man City threaten legal action over Real presidential candidate's Haaland pledge",
-        "en": "Man City threaten legal action over Real presidential candidate's Haaland pledge"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-erling-haaland-man-city_7265065.png?20260604091832",
-      "url": "https://www.skysports.com/football/news/12040/13550652/erling-haaland-man-city-threaten-legal-action-over-real-madrid-presidential-candidates-pledge-to-sign-striker",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 04 Jun 2026 09:25:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13550654/wc-round-up-england-in-the-heat-brazil-messi-and-ronaldo-latest",
-      "title": {
-        "ar": "England in the heat, Brazil, Messi and Ronaldo - World Cup latest",
-        "en": "England in the heat, Brazil, Messi and Ronaldo - World Cup latest"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-world-cup-england_7265021.jpg?20260604082357",
-      "url": "https://www.skysports.com/watch/video/13550654/wc-round-up-england-in-the-heat-brazil-messi-and-ronaldo-latest",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 04 Jun 2026 08:14:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550670/bobby-tambling-chelsea-scoring-legend-dies-aged-84",
-      "title": {
-        "ar": "Chelsea legend Tambling dies aged 84",
-        "en": "Chelsea legend Tambling dies aged 84"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-bobby-tambling-chelsea_7265080.jpg?20260604092906",
-      "url": "https://www.skysports.com/football/news/12040/13550670/bobby-tambling-chelsea-scoring-legend-dies-aged-84",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 04 Jun 2026 09:21:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "title": {
-        "ar": "World Cup 2026: guide to all 1,248 players",
-        "en": "World Cup 2026: guide to all 1,248 players"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a",
-        "en": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 08:55:49 GMT",
       "rewritten": false,
       "lang": "en"
     }
