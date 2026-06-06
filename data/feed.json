@@ -1,8 +1,333 @@
 {
   "version": 2,
-  "updated": "2026-06-05T20:02:34.477Z",
+  "updated": "2026-06-06T04:01:54.868Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13551266/thomas-tuchel-england-manager-discusses-harry-kanes-fitness-player-transfers-and-tampa-bay-pitch-concerns-ahead-of-new-zealand-friendly",
+      "title": {
+        "ar": "Kane fitness, pitch concerns and transfers - what we learned from Tuchel",
+        "en": "Kane fitness, pitch concerns and transfers - what we learned from Tuchel"
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-tuchel-engladn_7266517.jpg?20260605210844",
+      "url": "https://www.skysports.com/football/news/12040/13551266/thomas-tuchel-england-manager-discusses-harry-kanes-fitness-player-transfers-and-tampa-bay-pitch-concerns-ahead-of-new-zealand-friendly",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 05 Jun 2026 21:01:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13551282/jurgen-klopp-real-madrid-presidential-candidate-enrique-riquelme-says-former-liverpool-boss-will-be-his-first-choice-head-coach-choice-if-elected",
+      "title": {
+        "ar": "Riquelme: Klopp will be first choice for Real Madrid job if I win election",
+        "en": "Riquelme: Klopp will be first choice for Real Madrid job if I win election"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-klopp-real-madrid_7134168.jpg?20260113130142",
+      "url": "https://www.skysports.com/football/news/12040/13551282/jurgen-klopp-real-madrid-presidential-candidate-enrique-riquelme-says-former-liverpool-boss-will-be-his-first-choice-head-coach-choice-if-elected",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 05 Jun 2026 22:15:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48978502/fifa-reverses-world-cup-water-bottle-ban-backlash",
+      "title": {
+        "ar": "FIFA reverses WC water bottle ban after backlash",
+        "en": "FIFA reverses WC water bottle ban after backlash"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48978502/fifa-reverses-world-cup-water-bottle-ban-backlash",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 5 Jun 2026 23:51:01 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48979047/scaloni-messi-doing-well-set-minutes-world-cup-warmups",
+      "title": {
+        "ar": "Messi 'doing well', could play World Cup warmups",
+        "en": "Messi 'doing well', could play World Cup warmups"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48979047/scaloni-messi-doing-well-set-minutes-world-cup-warmups",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 5 Jun 2026 23:51:01 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48977850/iran-players-receive-us-visas-2026-world-cup",
+      "title": {
+        "ar": "Iran players receive U.S. visas for World Cup",
+        "en": "Iran players receive U.S. visas for World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48977850/iran-players-receive-us-visas-2026-world-cup",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 5 Jun 2026 23:51:01 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/05/steve-clarke-scotland-haiti-world-cup-new-zealand",
+      "title": {
+        "ar": "Steve Clarke warns Scotland not to underestimate Haiti after New Zealand rout",
+        "en": "Steve Clarke warns Scotland not to underestimate Haiti after New Zealand rout"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Scotland face Haiti in Boston next Saturday /p /li li p Haiti beat New Zealand 4-0 in Florida friendly /p /li li p Napoli’s Billy Gilmour ruled out of World Cup /p /li /ul p Steve Clarke believes Haiti’s routing of New Zealand could be useful as a means of dispelling Scottish arrogance towards their first World Cup opponents. The 4-0 win fo",
+        "en": "ul li p Scotland face Haiti in Boston next Saturday /p /li li p Haiti beat New Zealand 4-0 in Florida friendly /p /li li p Napoli’s Billy Gilmour ruled out of World Cup /p /li /ul p Steve Clarke believes Haiti’s routing of New Zealand could be useful as a means of dispelling Scottish arrogance towards their first World Cup opponents. The 4-0 win fo"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/05/steve-clarke-scotland-haiti-world-cup-new-zealand",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 23:26:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/spain-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Spain World Cup 2026 team guide",
+        "en": "Spain World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Ranked only behind France and having a teenage prodigy in Lamine Yamal alongside an in-form Nico Williams, we can expect much from La Roja /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of th",
+        "en": "p Ranked only behind France and having a teenage prodigy in Lamine Yamal alongside an in-form Nico Williams, we can expect much from La Roja /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of th"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/spain-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 23:01:12 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/05/spain-england-world-cup-qualifying-match-report",
+      "title": {
+        "ar": "Putellas doubles up to lead Spain rout and leave England staring at playoffs",
+        "en": "Putellas doubles up to lead Spain rout and leave England staring at playoffs"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Spain 4-0 England /p /li li p Guijarro 19, Putellas 37 55, Pina 78 /p /li /ul p Only a minor miracle will save European champions England from having to come through World Cup qualifying playoffs after they suffered an utterly humiliating 4-0 defeat to the World Cup holders Spain in Mallorca. /p p A loss by only a one-goal deficit would hav",
+        "en": "ul li p Spain 4-0 England /p /li li p Guijarro 19, Putellas 37 55, Pina 78 /p /li /ul p Only a minor miracle will save European champions England from having to come through World Cup qualifying playoffs after they suffered an utterly humiliating 4-0 defeat to the World Cup holders Spain in Mallorca. /p p A loss by only a one-goal deficit would hav"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/05/spain-england-world-cup-qualifying-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 21:07:21 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/05/tuchel-confident-sharp-kane-is-in-perfect-form-to-lead-england-at-world-cup",
+      "title": {
+        "ar": "Tuchel confident ‘sharp’ Kane is in perfect form to lead England at World Cup",
+        "en": "Tuchel confident ‘sharp’ Kane is in perfect form to lead England at World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Head coach says Bayern Munich striker is in ‘top shape’ /p /li li p England face New Zealand in warm-up on Saturday /p /li /ul p Thomas Tuchel has said that Harry Kane is in top shape and ready to lead England to glory at the World Cup. The Bayern Munich striker has been short of fitness at previous major tournaments but he has enjoyed a br",
+        "en": "ul li p Head coach says Bayern Munich striker is in ‘top shape’ /p /li li p England face New Zealand in warm-up on Saturday /p /li /ul p Thomas Tuchel has said that Harry Kane is in top shape and ready to lead England to glory at the World Cup. The Bayern Munich striker has been short of fitness at previous major tournaments but he has enjoyed a br"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/05/tuchel-confident-sharp-kane-is-in-perfect-form-to-lead-england-at-world-cup",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 05 Jun 2026 20:53:05 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/espn/betting/story/_/id/48807078/fifa-world-cup-betting-preview-best-bets-picks-odds-props-futures-2026",
+      "title": {
+        "ar": "2026 World Cup betting preview: One bet to make on...",
+        "en": "2026 World Cup betting preview: One bet to make on..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48807078/fifa-world-cup-betting-preview-best-bets-picks-odds-props-futures-2026",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 5 Jun 2026 11:55:53 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48972917/should-jose-mourinho-return-real-madrid-coach-really-surprise",
+      "title": {
+        "ar": "Should Jose Mourinho's return as Real Madrid coach...",
+        "en": "Should Jose Mourinho's return as Real Madrid coach..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48972917/should-jose-mourinho-return-real-madrid-coach-really-surprise",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Fri, 5 Jun 2026 06:21:38 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/03/ibrahima-konate-reveals-struggles-in-year-of-personal-tragedy",
+      "title": {
+        "ar": "‘There are low points’: Ibrahima Konaté reveals struggles in year of personal tragedy",
+        "en": "‘There are low points’: Ibrahima Konaté reveals struggles in year of personal tragedy"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p France defender devasted by deaths of Jota and father /p /li li p ‘Depression is personal; it’s deep inside you’ /p /li /ul p Ibrahima Konaté has spoken about the struggles he faced in a year of personal tragedy in which the death of his former Liverpool teammate Diogo Jota was followed by that of his father. /p p The France international’s",
+        "en": "ul li p France defender devasted by deaths of Jota and father /p /li li p ‘Depression is personal; it’s deep inside you’ /p /li /ul p Ibrahima Konaté has spoken about the struggles he faced in a year of personal tragedy in which the death of his former Liverpool teammate Diogo Jota was followed by that of his father. /p p The France international’s"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/03/ibrahima-konate-reveals-struggles-in-year-of-personal-tragedy",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 03 Jun 2026 17:40:37 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/03/millwall-publish-pride-playbook-to-help-clubs-form-stronger-links-with-lgbtq-teams",
+      "title": {
+        "ar": "Millwall publish ‘Pride playbook’ to help clubs form stronger links with LGBTQ+ teams",
+        "en": "Millwall publish ‘Pride playbook’ to help clubs form stronger links with LGBTQ+ teams"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Lions seek to help extend the reach of inclusive clubs /p /li li p 78-page document is the first of its kind in football /p /li /ul p Millwall have published a first-of-its-kind “Pride playbook” to help football clubs form stronger partnerships with LGBTQ+ teams across the country. /p p The move comes during Pride month as the Lions seek to",
+        "en": "ul li p Lions seek to help extend the reach of inclusive clubs /p /li li p 78-page document is the first of its kind in football /p /li /ul p Millwall have published a first-of-its-kind “Pride playbook” to help football clubs form stronger partnerships with LGBTQ+ teams across the country. /p p The move comes during Pride month as the Lions seek to"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/03/millwall-publish-pride-playbook-to-help-clubs-form-stronger-links-with-lgbtq-teams",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 03 Jun 2026 16:42:52 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "title": {
@@ -300,81 +625,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Fri, 05 Jun 2026 11:00:34 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "title": {
-        "ar": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly",
-        "en": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 11:39:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1750,256 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Thu, 04 Jun 2026 08:55:49 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/manchester-city-threaten-to-sue-real-madrid-presidential-candidate-erling-haaland-elliot-anderson",
-      "title": {
-        "ar": "Manchester City threaten to sue Real Madrid presidential hopeful over Haaland",
-        "en": "Manchester City threaten to sue Real Madrid presidential hopeful over Haaland"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Enrique Riquelme held Madrid shirt with Haaland’s name /p /li li p City bid rejected for Nottingham Forest’s Elliot Anderson /p /li /ul p Manchester City are considering legal action against Enrique Riquelme after the Real Madrid presidential candidate held up a Madrid shirt with Erling Haaland’s name on the back during a TV appearance. Riq",
-        "en": "ul li p Enrique Riquelme held Madrid shirt with Haaland’s name /p /li li p City bid rejected for Nottingham Forest’s Elliot Anderson /p /li /ul p Manchester City are considering legal action against Enrique Riquelme after the Real Madrid presidential candidate held up a Madrid shirt with Erling Haaland’s name on the back during a TV appearance. Riq"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/manchester-city-threaten-to-sue-real-madrid-presidential-candidate-erling-haaland-elliot-anderson",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 08:14:45 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/fifa-bans-reusable-water-bottles-world-cup-stadiums",
-      "title": {
-        "ar": "Fifa bans fans from taking reusable water bottles into World Cup stadiums after U-turn",
-        "en": "Fifa bans fans from taking reusable water bottles into World Cup stadiums after U-turn"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Move prevents ‘risk and injury to players and attendees’ /p /li li p Fans concerned about heat and access to drinking water /p /li /ul p Spectators will not be allowed to carry reusable water bottles into World Cup venues owing to safety concerns, Fifa has said, after a last-minute change to its stadium code of conduct. /p p The governing b",
-        "en": "ul li p Move prevents ‘risk and injury to players and attendees’ /p /li li p Fans concerned about heat and access to drinking water /p /li /ul p Spectators will not be allowed to carry reusable water bottles into World Cup venues owing to safety concerns, Fifa has said, after a last-minute change to its stadium code of conduct. /p p The governing b"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/fifa-bans-reusable-water-bottles-world-cup-stadiums",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 07:21:08 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/antonio-rudiger-refugees-have-no-other-choice-its-important-they-be-listened-to",
-      "title": {
-        "ar": "Antonio Rüdiger: ‘Refugees have no other choice – it’s important they be listened to’",
-        "en": "Antonio Rüdiger: ‘Refugees have no other choice – it’s important they be listened to’"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Drawing on his own family’s experience, the Real Madrid and Germany defender is advocating for refugees and challenging stereotypes /p p As a child, Antonio Rüdiger would look out of his bedroom window to see whether anyone was playing on the field it overlooked. It was not a big pitch, but it had two goals, enough room for six-a-side and was whe",
-        "en": "p Drawing on his own family’s experience, the Real Madrid and Germany defender is advocating for refugees and challenging stereotypes /p p As a child, Antonio Rüdiger would look out of his bedroom window to see whether anyone was playing on the field it overlooked. It was not a big pitch, but it had two goals, enough room for six-a-side and was whe"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/antonio-rudiger-refugees-have-no-other-choice-its-important-they-be-listened-to",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 07:00:29 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/la-liga-2025-26-awards-best-players-team-sid-lowe",
-      "title": {
-        "ar": "La Liga 2025-26 awards: the best players, team … and smelliest shirt of the season",
-        "en": "La Liga 2025-26 awards: the best players, team … and smelliest shirt of the season"
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "p It was another season to remember for Lamine Yamal and Barcelona, along with Getafe, Rayo and one naughty fan /p p Lamine Yamal wore the crown and flew the flag. With the last kick of the opening game of 2025-26, Barcelona’s new No 10 – the teenager handed the shirt Ladislao Kubala, Luis Suárez, Diego Maradona, Rivaldo, Ronaldinho and Lionel Mess",
-        "en": "p It was another season to remember for Lamine Yamal and Barcelona, along with Getafe, Rayo and one naughty fan /p p Lamine Yamal wore the crown and flew the flag. With the last kick of the opening game of 2025-26, Barcelona’s new No 10 – the teenager handed the shirt Ladislao Kubala, Luis Suárez, Diego Maradona, Rivaldo, Ronaldinho and Lionel Mess"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/la-liga-2025-26-awards-best-players-team-sid-lowe",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 07:00:29 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/katie-mccabe-chelsea-arsenal-wsl-transfer-move-controversy-abuse",
-      "title": {
-        "ar": "Anger at Katie McCabe’s move to Chelsea is forgivable – crossing line into abuse is not | Suzanne Wrack",
-        "en": "Anger at Katie McCabe’s move to Chelsea is forgivable – crossing line into abuse is not | Suzanne Wrack"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p While small pool of talent and elite clubs in women’s game makes switches between rivals inevitable, this move is contentious. But some reaction has gone too far /p p The red neon lights flicker in the dark for a moment, then the room is blue, and there is Katie McCabe, a grin on her face and a Chelsea shirt on, a href=\"https://www.theguardian.co",
-        "en": "p While small pool of talent and elite clubs in women’s game makes switches between rivals inevitable, this move is contentious. But some reaction has gone too far /p p The red neon lights flicker in the dark for a moment, then the room is blue, and there is Katie McCabe, a grin on her face and a Chelsea shirt on, a href=\"https://www.theguardian.co"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/katie-mccabe-chelsea-arsenal-wsl-transfer-move-controversy-abuse",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 07:00:29 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550591/world-cup-2026-why-harry-kane-could-play-less-minutes-for-england-in-the-usa-canada-and-mexico-this-summer",
-      "title": {
-        "ar": "Why we could see less of Kane for England at the 2026 World Cup...",
-        "en": "Why we could see less of Kane for England at the 2026 World Cup..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-harry-kane-england_7264895.jpg?20260603222426",
-      "url": "https://www.skysports.com/football/news/12040/13550591/world-cup-2026-why-harry-kane-could-play-less-minutes-for-england-in-the-usa-canada-and-mexico-this-summer",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 03 Jun 2026 22:10:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/belgium-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Belgium World Cup 2026 team guide",
-        "en": "Belgium World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Not much of the fabled golden generation remains, but the Red Devils have a winnable group and possess genuine quality in De Bruyne and Doku /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of ",
-        "en": "p Not much of the fabled golden generation remains, but the Red Devils have a winnable group and possess genuine quality in De Bruyne and Doku /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/belgium-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 03 Jun 2026 23:01:19 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/03/perez-confirms-mourinho-will-return-to-real-madrid-if-he-is-re-elected-president",
-      "title": {
-        "ar": "Pérez confirms Mourinho will return to Real Madrid if he is re-elected president",
-        "en": "Pérez confirms Mourinho will return to Real Madrid if he is re-elected president"
-      },
-      "kicker": {
-        "ar": "الليغا",
-        "en": "La Liga"
-      },
-      "excerpt": {
-        "ar": "ul li p Rival Enrique Riquelme promises Rodri and Haaland /p /li li p Madrid without major silverware in last two seasons /p /li /ul p José Mourinho a href=\"https://www.theguardian.com/football/2026/may/15/real-madrid-jose-mourinho-saviour-la-liga\" will return to manage Real Madrid /a if Florentino Pérez wins the club’s presidential election on Sun",
-        "en": "ul li p Rival Enrique Riquelme promises Rodri and Haaland /p /li li p Madrid without major silverware in last two seasons /p /li /ul p José Mourinho a href=\"https://www.theguardian.com/football/2026/may/15/real-madrid-jose-mourinho-saviour-la-liga\" will return to manage Real Madrid /a if Florentino Pérez wins the club’s presidential election on Sun"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/03/perez-confirms-mourinho-will-return-to-real-madrid-if-he-is-re-elected-president",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 03 Jun 2026 22:01:30 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/australia-world-cup-team-socceroos-success-coach-tony-popovic",
-      "title": {
-        "ar": "‘Part machine’: World Cup success lies in the details for Socceroos coach Tony Popovic",
-        "en": "‘Part machine’: World Cup success lies in the details for Socceroos coach Tony Popovic"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p As a player Popovic was relentless in being his best. But behind his ruthless reputation is a focused leader deeply committed to his players /p p Where Tony Popovic goes, a culture follows. It’s been one of the most consistent themes of his time in dugouts across Australia. It was there at Western Sydney, when he was entrusted with the newly crea",
-        "en": "p As a player Popovic was relentless in being his best. But behind his ruthless reputation is a focused leader deeply committed to his players /p p Where Tony Popovic goes, a culture follows. It’s been one of the most consistent themes of his time in dugouts across Australia. It was there at Western Sydney, when he was entrusted with the newly crea"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/australia-world-cup-team-socceroos-success-coach-tony-popovic",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 03 Jun 2026 15:00:10 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550570/andoni-iraola-set-to-sign-liverpool-contract-on-thursday-after-reaching-agreement-to-become-arne-slots-successor",
-      "title": {
-        "ar": "Iraola set to sign Liverpool contract on Thursday",
-        "en": "Iraola set to sign Liverpool contract on Thursday"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-football-andoni-iraola_7264852.jpg?20260603211937",
-      "url": "https://www.skysports.com/football/news/12040/13550570/andoni-iraola-set-to-sign-liverpool-contract-on-thursday-after-reaching-agreement-to-become-arne-slots-successor",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 03 Jun 2026 21:11:00 BST",
       "rewritten": false,
       "lang": "en"
     }
