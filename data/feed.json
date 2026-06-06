@@ -1,8 +1,333 @@
 {
   "version": 2,
-  "updated": "2026-06-06T13:57:07.600Z",
+  "updated": "2026-06-06T19:40:28.027Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/england-vs-new-zealand/live/553972",
+      "title": {
+        "ar": "Tuchel starts Kane and Watkins as England face New Zealand LIVE!",
+        "en": "Tuchel starts Kane and Watkins as England face New Zealand LIVE!"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-harry-kane_7267031.jpg?20260606190427",
+      "url": "https://www.skysports.com/football/england-vs-new-zealand/live/553972",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 06 Jun 2026 19:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48965907/simulating-world-cup-did-ea-predict-winners-how-did-usmnt-get-on",
+      "title": {
+        "ar": "Simulating the World Cup: Who did EA Sports predic...",
+        "en": "Simulating the World Cup: Who did EA Sports predic..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48965907/simulating-world-cup-did-ea-predict-winners-how-did-usmnt-get-on",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 6 Jun 2026 15:05:38 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/jun/06/bolivia-v-scotland-world-cup-2026-warm-up-live",
+      "title": {
+        "ar": "Bolivia v Scotland: World Cup 2026 warm-up – live",
+        "en": "Bolivia v Scotland: World Cup 2026 warm-up – live"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Minute-by-minute updates from 9pm UK time /p /li li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Essential guide to all 1,248 World Cup players /a /p /li li p a href=\"mailto:john.brewin@theguardian.com\" You can email John /a | a href=\"https://www.theguardian.com/info/2022/no",
+        "en": "ul li p Minute-by-minute updates from 9pm UK time /p /li li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Essential guide to all 1,248 World Cup players /a /p /li li p a href=\"mailto:john.brewin@theguardian.com\" You can email John /a | a href=\"https://www.theguardian.com/info/2022/no"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/06/bolivia-v-scotland-world-cup-2026-warm-up-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 19:24:06 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/jun/06/england-v-new-zealand-world-cup-2026-warm-up-live",
+      "title": {
+        "ar": "England v New Zealand: World Cup 2026 warm-up – live",
+        "en": "England v New Zealand: World Cup 2026 warm-up – live"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Pre-World Cup friendly updates from 9pm UK time /p /li li p a href=\"https://www.theguardian.com/football/2026/jun/04/england-play-world-cup-final-dr-congo-mexico-brazil-argentina-spain\" Who might England play if they reach final? /a /p /li li p You can a href=\"mailto:scott.murray.casual@theguardian.com\" email Scott with your thoughts /a /p ",
+        "en": "ul li p Pre-World Cup friendly updates from 9pm UK time /p /li li p a href=\"https://www.theguardian.com/football/2026/jun/04/england-play-world-cup-final-dr-congo-mexico-brazil-argentina-spain\" Who might England play if they reach final? /a /p /li li p You can a href=\"mailto:scott.murray.casual@theguardian.com\" email Scott with your thoughts /a /p "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/06/england-v-new-zealand-world-cup-2026-warm-up-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 19:21:22 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/if-this-is-messis-last-world-cup-could-he-eclipse-maradona-and-win-it-twice",
+      "title": {
+        "ar": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice?",
+        "en": "If this is Messi’s last World Cup, could he eclipse Maradona and win it twice?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p After living in the Argentina idol’s shadow, the 39-year-old star of 2022 is still capable of a final glorious chapter /p p Lionel Messi in Qatar felt like the perfect story. It was the great finale. He is doomed always to be compared with Diego Maradona and, placed alongside a life of operatic ups and downs, of injury and addiction, drugs bans a",
+        "en": "p After living in the Argentina idol’s shadow, the 39-year-old star of 2022 is still capable of a final glorious chapter /p p Lionel Messi in Qatar felt like the perfect story. It was the great finale. He is doomed always to be compared with Diego Maradona and, placed alongside a life of operatic ups and downs, of injury and addiction, drugs bans a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/if-this-is-messis-last-world-cup-could-he-eclipse-maradona-and-win-it-twice",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 19:00:12 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/lionesses-have-no-reason-to-panic-despite-the-humiliation-in-spain",
+      "title": {
+        "ar": "Lionesses have no reason to panic despite the humiliation in Spain | Suzanne Wrack",
+        "en": "Lionesses have no reason to panic despite the humiliation in Spain | Suzanne Wrack"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p England’s heaviest defeat for decades does not signal the end for Sarina Wiegman’s European champions /p p It was a tough night for Sarina Wiegman and her charges at the Estadi Mallorca Son Moix. England’s biggest loss since a a href=\"https://www.theguardian.com/football/2009/sep/10/womens-european-championship-final-england-germany\" 6-2 defeat b",
+        "en": "p England’s heaviest defeat for decades does not signal the end for Sarina Wiegman’s European champions /p p It was a tough night for Sarina Wiegman and her charges at the Estadi Mallorca Son Moix. England’s biggest loss since a a href=\"https://www.theguardian.com/football/2009/sep/10/womens-european-championship-final-england-germany\" 6-2 defeat b"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/lionesses-have-no-reason-to-panic-despite-the-humiliation-in-spain",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 17:09:34 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/iraq-aymen-hussein-questioned-us-entry-world-cup",
+      "title": {
+        "ar": "Iraq striker Aymen Hussein questioned for hours on US arrival for World Cup",
+        "en": "Iraq striker Aymen Hussein questioned for hours on US arrival for World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Iraq striker questioned for seven hours at O’Hare /p /li li p Team photographer denied entry after more 10 hours /p /li li p Iraq return to World Cup for first time since 1986 /p /li /ul p Iraq’s World Cup striker, Aymen Hussein, was held and questioned for nearly seven hours at Chicago’s O’Hare airport after arriving with the squad early o",
+        "en": "ul li p Iraq striker questioned for seven hours at O’Hare /p /li li p Team photographer denied entry after more 10 hours /p /li li p Iraq return to World Cup for first time since 1986 /p /li /ul p Iraq’s World Cup striker, Aymen Hussein, was held and questioned for nearly seven hours at Chicago’s O’Hare airport after arriving with the squad early o"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/iraq-aymen-hussein-questioned-us-entry-world-cup",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 16:44:16 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/france-world-cup-2026-team-guide",
+      "title": {
+        "ar": "France World Cup 2026 team guide",
+        "en": "France World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Kylian Mbappé, Ousmane Dembélé and Michael Olise have the attacking power to shred opponents but will Didier Deschamps let them off the leash? /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some o",
+        "en": "p Kylian Mbappé, Ousmane Dembélé and Michael Olise have the attacking power to shred opponents but will Didier Deschamps let them off the leash? /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some o"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/france-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 15:00:07 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/mexico-security-world-cup-fan-zone-growing-protests-football",
+      "title": {
+        "ar": "Mexico steps up security at World Cup 2026 fan zone amid growing unrest",
+        "en": "Mexico steps up security at World Cup 2026 fan zone amid growing unrest"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Co-host’s government adamant Zócalo event will go ahead /p /li li p 100,000 expected at official fan festival for kick-off /p /li /ul p Mexico is planning to increase the police and security presence around Zócalo plaza in Mexico City to ensure the World Cup fan festival can go ahead amid growing social unrest and public protests. /p p Much",
+        "en": "ul li p Co-host’s government adamant Zócalo event will go ahead /p /li li p 100,000 expected at official fan festival for kick-off /p /li /ul p Mexico is planning to increase the police and security presence around Zócalo plaza in Mexico City to ensure the World Cup fan festival can go ahead amid growing social unrest and public protests. /p p Much"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/mexico-security-world-cup-fan-zone-growing-protests-football",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 14:30:10 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/shattered-dreams-best-xi-from-countries-not-at-the-world-cup",
+      "title": {
+        "ar": "Shattered dreams: best XI from countries not at the World Cup",
+        "en": "Shattered dreams: best XI from countries not at the World Cup"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p From Donnarumma to Kvaratskhelia, this all-star team, with a maximum of two players per country, all have the summer off /p p The 27-year-old Italy captain is widely considered one of the best goalkeepers in the world. After moving to Manchester City, he has quickly adapted to the Premier League demands for ball-playing, a skill he honed at Paris",
+        "en": "p From Donnarumma to Kvaratskhelia, this all-star team, with a maximum of two players per country, all have the summer off /p p The 27-year-old Italy captain is widely considered one of the best goalkeepers in the world. After moving to Manchester City, he has quickly adapted to the Premier League demands for ball-playing, a skill he honed at Paris"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/shattered-dreams-best-xi-from-countries-not-at-the-world-cup",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 13:58:48 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
+      "title": {
+        "ar": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly",
+        "en": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba",
+        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 28 May 2026 11:39:07 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/bolivia-vs-scotland/live/555767",
       "title": {
@@ -1675,331 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Thu, 4 Jun 2026 19:49:58 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48960585/riquelmes-haaland-promise-classic-spanish-election-move",
-      "title": {
-        "ar": "Like Figo and Beckham, Riquelme's Haaland promise ...",
-        "en": "Like Figo and Beckham, Riquelme's Haaland promise ..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48960585/riquelmes-haaland-promise-classic-spanish-election-move",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 4 Jun 2026 03:03:06 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48948006/why-liverpool-sacked-slot-how-iraola-klopp-comparisons-set-successor",
-      "title": {
-        "ar": "Why Liverpool sacked Slot and how Iraola's Klopp c...",
-        "en": "Why Liverpool sacked Slot and how Iraola's Klopp c..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48948006/why-liverpool-sacked-slot-how-iraola-klopp-comparisons-set-successor",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 4 Jun 2026 02:30:31 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48913347/gianni-infantino-fifa-world-cup-president-decade-platini-blatter-saudi-arabia",
-      "title": {
-        "ar": "Reformer or ringleader: A decade on, what is Infantino's legacy as FIFA president?",
-        "en": "Reformer or ringleader: A decade on, what is Infantino's legacy as FIFA president?"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48913347/gianni-infantino-fifa-world-cup-president-decade-platini-blatter-saudi-arabia",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 3 Jun 2026 03:52:13 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48903308/this-starting-point-us-soccer-new-home-help-grow-game",
-      "title": {
-        "ar": "'This is a starting point': U.S. Soccer's new home...",
-        "en": "'This is a starting point': U.S. Soccer's new home..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48903308/this-starting-point-us-soccer-new-home-help-grow-game",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 2 Jun 2026 09:12:03 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550933/arsenal-transfer-news-mikel-arteta-handed-boost-in-race-for-eli-junior-kroupi-as-psg-drop-out-of-race-paper-talk",
-      "title": {
-        "ar": "Papers: Arsenal receive huge boost in race for Kroupi Jr",
-        "en": "Papers: Arsenal receive huge boost in race for Kroupi Jr"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "url": "https://www.skysports.com/football/news/12040/13550933/arsenal-transfer-news-mikel-arteta-handed-boost-in-race-for-eli-junior-kroupi-as-psg-drop-out-of-race-paper-talk",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 04 Jun 2026 22:30:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/05/new-zealand-world-cup-2026-team-guide",
-      "title": {
-        "ar": "New Zealand World Cup 2026 team guide",
-        "en": "New Zealand World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Despite being the lowest-ranked team at the tournament, All Whites are hoping Chris Wood can help fire them to a first appearance in the knockout rounds /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation betw",
-        "en": "p Despite being the lowest-ranked team at the tournament, All Whites are hoping Chris Wood can help fire them to a first appearance in the knockout rounds /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation betw"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/05/new-zealand-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 23:01:18 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/spain-iraq-friendly-international-match-report",
-      "title": {
-        "ar": "Doski stunner earns Iraq draw against understrength Spain in World Cup warm-up",
-        "en": "Doski stunner earns Iraq draw against understrength Spain in World Cup warm-up"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Spain will depart from Santiago de Compostela at 10am on Friday morning bound for Chattanooga, via Nashville, but seven of the eight men who made their debuts in the final preparation game before the World Cup will not be on board with them. Nor will the em seleccion /em be flying west with a victory after they bid em adios /em with a 1-1 draw ag",
-        "en": "p Spain will depart from Santiago de Compostela at 10am on Friday morning bound for Chattanooga, via Nashville, but seven of the eight men who made their debuts in the final preparation game before the World Cup will not be on board with them. Nor will the em seleccion /em be flying west with a victory after they bid em adios /em with a 1-1 draw ag"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/spain-iraq-friendly-international-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 22:04:33 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/egypt-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Egypt World Cup 2026 team guide",
-        "en": "Egypt World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p A first win at a World Cup is the floor-level target for a team that still relies heavily on the ability of Mohamed Salah /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media orga",
-        "en": "p A first win at a World Cup is the floor-level target for a team that still relies heavily on the ability of Mohamed Salah /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media orga"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/egypt-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 07:00:29 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "كأس العالم 2026: جدول المباريات",
-        "en": "كأس العالم 2026: جدول المباريات"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9111/live/adf4db00-5453-11f1-b682-cf91850925ea.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Tue, 02 Jun 2026 06:15:35 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550174/andoni-iraola-liverpool-appoint-former-bournemouth-boss-as-arne-slots-successor-on-two-year-deal",
-      "title": {
-        "ar": "Liverpool announce Iraola as head coach",
-        "en": "Liverpool announce Iraola as head coach"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-iraola-liverpool_7265606.jpg?20260604200340",
-      "url": "https://www.skysports.com/football/news/12040/13550174/andoni-iraola-liverpool-appoint-former-bournemouth-boss-as-arne-slots-successor-on-two-year-deal",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 04 Jun 2026 19:28:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550159/andoni-iraola-whats-on-new-liverpool-head-coachs-to-do-list-at-anfield-following-reds-disappointing-season",
-      "title": {
-        "ar": "Iraola's Liverpool to-do list: Fix defence, get Isak firing and stop the Anfield boos",
-        "en": "Iraola's Liverpool to-do list: Fix defence, get Isak firing and stop the Anfield boos"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-iraola-liverpool_7264341.jpg?20260603104031",
-      "url": "https://www.skysports.com/football/news/12040/13550159/andoni-iraola-whats-on-new-liverpool-head-coachs-to-do-list-at-anfield-following-reds-disappointing-season",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 04 Jun 2026 19:30:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13550885/andoni-iraola-liverpool-boss-excited-by-the-challenge-ahead",
-      "title": {
-        "ar": "'This is a special club' | Andoni relishing Liverpool challenge ahead",
-        "en": "'This is a special club' | Andoni relishing Liverpool challenge ahead"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-andoni-iraola-liverpool_7265611.jpg?20260604200812",
-      "url": "https://www.skysports.com/watch/video/13550885/andoni-iraola-liverpool-boss-excited-by-the-challenge-ahead",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 04 Jun 2026 19:49:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550409/liverpool-andoni-iraola-can-make-success-of-step-up-from-bournemouth-at-anfield",
-      "title": {
-        "ar": "Man management and 'a bottle of magic' - How Iraola can step up at Liverpool",
-        "en": "Man management and 'a bottle of magic' - How Iraola can step up at Liverpool"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-liverpool-andoni_7264436.jpg?20260603122747",
-      "url": "https://www.skysports.com/football/news/12040/13550409/liverpool-andoni-iraola-can-make-success-of-step-up-from-bournemouth-at-anfield",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 03 Jun 2026 12:27:00 BST",
       "rewritten": false,
       "lang": "en"
     }
