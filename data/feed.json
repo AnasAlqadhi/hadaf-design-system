@@ -1,8 +1,283 @@
 {
   "version": 2,
-  "updated": "2026-06-06T08:41:10.967Z",
+  "updated": "2026-06-06T13:57:07.600Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/bolivia-vs-scotland/live/555767",
+      "title": {
+        "ar": "Bolivia vs Scotland: Clarke previews final World Cup warm-up game",
+        "en": "Bolivia vs Scotland: Clarke previews final World Cup warm-up game"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-steve-clarke-scotland_7261687.jpg?20260530152647",
+      "url": "https://www.skysports.com/football/bolivia-vs-scotland/live/555767",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 06 Jun 2026 12:15:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/jun/06/world-cup-2026-buildup-as-england-and-scotland-gear-up-for-friendlies-matchday-live",
+      "title": {
+        "ar": "World Cup 2026 news; England and Scotland friendlies; Sullivan resigns at West Ham – matchday live",
+        "en": "World Cup 2026 news; England and Scotland friendlies; Sullivan resigns at West Ham – matchday live"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p World Cup friendly football news from 8am UK time /p /li li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Your essential guide to every player at the World Cup /a /p /li li p a href=\"mailto:matchday.live@theguardian.com\" You can email us here /a | a href=\"https://www.theguard",
+        "en": "ul li p World Cup friendly football news from 8am UK time /p /li li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Your essential guide to every player at the World Cup /a /p /li li p a href=\"mailto:matchday.live@theguardian.com\" You can email us here /a | a href=\"https://www.theguard"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/06/world-cup-2026-buildup-as-england-and-scotland-gear-up-for-friendlies-matchday-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 13:48:46 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/jurgen-klopp-agent-shoots-down-annoying-talk-of-real-madrid-move",
+      "title": {
+        "ar": "Jürgen Klopp’s agent shoots down ‘annoying’ talk of Real Madrid move",
+        "en": "Jürgen Klopp’s agent shoots down ‘annoying’ talk of Real Madrid move"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Presidential candidate Riquelme wants German as coach /p /li li p Former Liverpool manager now works for Red Bull /p /li /ul p Jürgen Klopp’s agent has dismissed talk of the former Liverpool manager filling the vacant post at Real Madrid should Enrique Riquelme become the club’s next president. /p p Marc Kosicke rejected Riquelme’s statemen",
+        "en": "ul li p Presidential candidate Riquelme wants German as coach /p /li li p Former Liverpool manager now works for Red Bull /p /li /ul p Jürgen Klopp’s agent has dismissed talk of the former Liverpool manager filling the vacant post at Real Madrid should Enrique Riquelme become the club’s next president. /p p Marc Kosicke rejected Riquelme’s statemen"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/jurgen-klopp-agent-shoots-down-annoying-talk-of-real-madrid-move",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 11:25:12 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/video/2026/jun/06/zohran-mamdani-the-guardian-bracketology-predict-world-cup-winner-video",
+      "title": {
+        "ar": "Zohran Mamdani plays the Guardian's Bracketology to predict World Cup winner – video",
+        "en": "Zohran Mamdani plays the Guardian's Bracketology to predict World Cup winner – video"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p The New York City mayor, a href=\"https://www.theguardian.com/us-news/zohran-mamdani\" Zohran Mamdani /a , briefly stepped away from City Hall to tackle the ultimate soccer challenge: predicting the entire World Cup bracket In the Guardian's exclusive interactive game. From shocking early exits to his definitive pick for the final, see how Mamdani ",
+        "en": "p The New York City mayor, a href=\"https://www.theguardian.com/us-news/zohran-mamdani\" Zohran Mamdani /a , briefly stepped away from City Hall to tackle the ultimate soccer challenge: predicting the entire World Cup bracket In the Guardian's exclusive interactive game. From shocking early exits to his definitive pick for the final, see how Mamdani "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/video/2026/jun/06/zohran-mamdani-the-guardian-bracketology-predict-world-cup-winner-video",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 11:03:53 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48981738/how-iceland-women-compete-europe-top-nations-seal-first-world-cup-spot",
+      "title": {
+        "ar": "How can Iceland's women compete with Europe's top nations?",
+        "en": "How can Iceland's women compete with Europe's top nations?"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48981738/how-iceland-women-compete-europe-top-nations-seal-first-world-cup-spot",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 6 Jun 2026 05:10:12 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48981673/transfer-rumors-news-bayern-olise-real-madrid-target-perez",
+      "title": {
+        "ar": "Transfer rumors, news: Bayern's Olise is Perez's R...",
+        "en": "Transfer rumors, news: Bayern's Olise is Perez's R..."
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48981673/transfer-rumors-news-bayern-olise-real-madrid-target-perez",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 6 Jun 2026 04:15:36 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48956021/16-players-use-world-cup-get-big-transfer-europe",
+      "title": {
+        "ar": "16 players who could use World Cup to get a big tr...",
+        "en": "16 players who could use World Cup to get a big tr..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48956021/16-players-use-world-cup-get-big-transfer-europe",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 6 Jun 2026 04:14:44 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/relentless-rise-of-var-new-red-card-offences-and-more-those-new-world-cup-rules-in-full",
+      "title": {
+        "ar": "Relentless rise of VAR, new red card offences and more: those new World Cup rules in full",
+        "en": "Relentless rise of VAR, new red card offences and more: those new World Cup rules in full"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p 2026 tournament will be the biggest, longest and most expensive – and the most intricately refereed – ever seen /p p The 2026 World Cup will be the biggest, longest and most expensive. It will also feature a hefty number of rule changes. New responsibilities for video assistant referees, new red card offences and a number of initiatives to speed ",
+        "en": "p 2026 tournament will be the biggest, longest and most expensive – and the most intricately refereed – ever seen /p p The 2026 World Cup will be the biggest, longest and most expensive. It will also feature a hefty number of rule changes. New responsibilities for video assistant referees, new red card offences and a number of initiatives to speed "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/relentless-rise-of-var-new-red-card-offences-and-more-those-new-world-cup-rules-in-full",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 09:00:06 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/48976007/barcelona-keep-dump-summer-transfers-lewandowski-raphinha-marcus-rashford-joao-cancelo",
+      "title": {
+        "ar": "Barcelona Keep or Dump: How to replace Lewandowski...",
+        "en": "Barcelona Keep or Dump: How to replace Lewandowski..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/48976007/barcelona-keep-dump-summer-transfers-lewandowski-raphinha-marcus-rashford-joao-cancelo",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sat, 6 Jun 2026 03:34:09 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
+      "title": {
+        "ar": "Bracketology: predict a path to World Cup victory",
+        "en": "Bracketology: predict a path to World Cup victory"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a",
+        "en": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 10:00:48 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "title": {
+        "ar": "World Cup 2026: guide to all 1,248 players",
+        "en": "World Cup 2026: guide to all 1,248 players"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a",
+        "en": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 08:55:49 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/darts/news/12040/13551270/luke-littler-not-feeling-the-pressure-ahead-of-world-cup-of-darts-return-with-luke-humphries-we-didnt-bond-on-the-stage-last-year",
       "title": {
@@ -225,81 +500,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Fri, 05 Jun 2026 22:43:55 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "title": {
-        "ar": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly",
-        "en": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 11:39:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1800,206 +2000,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Wed, 03 Jun 2026 12:27:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550766/scotland-at-world-cup-2026-reporter-notebook-as-steve-clarkes-side-prepare-for-a-return-to-the-main-stage",
-      "title": {
-        "ar": "Scotland reporter notebook: Can Clarke's side land on cloud nine at World Cup?",
-        "en": "Scotland reporter notebook: Can Clarke's side land on cloud nine at World Cup?"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-steve-clarke-scotland_7261687.jpg?20260530152647",
-      "url": "https://www.skysports.com/football/news/12040/13550766/scotland-at-world-cup-2026-reporter-notebook-as-steve-clarkes-side-prepare-for-a-return-to-the-main-stage",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 04 Jun 2026 18:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/cricket/news/12040/13550699/icc-womens-t20-world-cup-free-live-cricket-streams-on-sky-sports-app-for-all-england-ireland-and-scotland-games",
-      "title": {
-        "ar": "Stream ICC Women's T20 World Cup matches FREE on the Sky Sports App",
-        "en": "Stream ICC Women's T20 World Cup matches FREE on the Sky Sports App"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-womens-t20-world_7265426.jpg?20260604165257",
-      "url": "https://www.skysports.com/cricket/news/12040/13550699/icc-womens-t20-world-cup-free-live-cricket-streams-on-sky-sports-app-for-all-england-ireland-and-scotland-games",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 04 Jun 2026 11:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/liverpool-confirm-appointment-of-andoni-iraola-as-new-head-coach",
-      "title": {
-        "ar": "Liverpool confirm appointment of Andoni Iraola as new head coach",
-        "en": "Liverpool confirm appointment of Andoni Iraola as new head coach"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Spaniard replaces Arne Slot and signs two-year deal /p /li li p Iraola worked with Richard Hughes at Bournemouth /p /li /ul p Andoni Iraola has been appointed the new head coach of Liverpool on a two-year contract. The 43-year-old’s arrival was confirmed just six days after the sacking of Arne Slot. /p p Liverpool moved a href=\"https://www.",
-        "en": "ul li p Spaniard replaces Arne Slot and signs two-year deal /p /li li p Iraola worked with Richard Hughes at Bournemouth /p /li /ul p Andoni Iraola has been appointed the new head coach of Liverpool on a two-year contract. The 43-year-old’s arrival was confirmed just six days after the sacking of Arne Slot. /p p Liverpool moved a href=\"https://www."
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/liverpool-confirm-appointment-of-andoni-iraola-as-new-head-coach",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 18:31:22 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/wed-like-him-to-stay-manchester-uniteds-berrada-hints-at-bruno-fernandes-doubts",
-      "title": {
-        "ar": "‘We’d like him to stay’: Manchester United’s Berrada hints at Bruno Fernandes doubts",
-        "en": "‘We’d like him to stay’: Manchester United’s Berrada hints at Bruno Fernandes doubts"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p CEO praises ‘great leader’ who knows club’s values /p /li li p Captain’s mixed messages have raised doubts on future /p /li /ul p Omar Berrada has not ruled out Bruno Fernandes leaving Manchester United in the summer, though the chief executive is adamant the club wants the captain to stay. /p p The 31-year-old Fernandes was voted the Footb",
-        "en": "ul li p CEO praises ‘great leader’ who knows club’s values /p /li li p Captain’s mixed messages have raised doubts on future /p /li /ul p Omar Berrada has not ruled out Bruno Fernandes leaving Manchester United in the summer, though the chief executive is adamant the club wants the captain to stay. /p p The 31-year-old Fernandes was voted the Footb"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/wed-like-him-to-stay-manchester-uniteds-berrada-hints-at-bruno-fernandes-doubts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 18:25:02 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/04/lionesses-seek-to-tame-spain-again-and-show-they-are-ready-to-conquer-the-world",
-      "title": {
-        "ar": "Lionesses seek to tame Spain again and show they are ready to conquer the world",
-        "en": "Lionesses seek to tame Spain again and show they are ready to conquer the world"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p England are upbeat going into the toughest fixture in international football but the hosts’ threat will be amplified by the returning Bonmatí /p p The equation sounds simple: avoid defeat on Friday and England will qualify automatically for the Women’s World Cup. The reality of the task ahead is far more complicated. Facing the world champions, S",
-        "en": "p England are upbeat going into the toughest fixture in international football but the hosts’ threat will be amplified by the returning Bonmatí /p p The equation sounds simple: avoid defeat on Friday and England will qualify automatically for the Women’s World Cup. The reality of the task ahead is far more complicated. Facing the world champions, S"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/04/lionesses-seek-to-tame-spain-again-and-show-they-are-ready-to-conquer-the-world",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 15:31:17 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/02/liverpool-opened-talks-with-andoni-iraola-over-becoming-head-coach",
-      "title": {
-        "ar": "Liverpool agree deal in principle with Andoni Iraola for two-year contract",
-        "en": "Liverpool agree deal in principle with Andoni Iraola for two-year contract"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Negotiations with Spaniard have progressed quickly /p /li li p Assistants Tommy Elphick and Shaun Cooper to join too /p /li /ul p Andoni Iraola is close to being confirmed as Liverpool’s new head coach after agreeing a deal in principle to succeed Arne Slot. /p p Iraola has been in talks with Liverpool’s sporting director, Richard Hughes, o",
-        "en": "ul li p Negotiations with Spaniard have progressed quickly /p /li li p Assistants Tommy Elphick and Shaun Cooper to join too /p /li /ul p Andoni Iraola is close to being confirmed as Liverpool’s new head coach after agreeing a deal in principle to succeed Arne Slot. /p p Iraola has been in talks with Liverpool’s sporting director, Richard Hughes, o"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/02/liverpool-opened-talks-with-andoni-iraola-over-becoming-head-coach",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 02 Jun 2026 21:09:46 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/darts/news/12040/13550718/luke-littler-world-no-1-will-make-his-first-appearance-since-picking-up-his-second-premier-league-title-at-the-nordic-darts-masters",
-      "title": {
-        "ar": "Littler set to make first appearance since winning Premier League title",
-        "en": "Littler set to make first appearance since winning Premier League title"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-luke-littler-darts_7260608.jpg?20260528200225",
-      "url": "https://www.skysports.com/darts/news/12040/13550718/luke-littler-world-no-1-will-make-his-first-appearance-since-picking-up-his-second-premier-league-title-at-the-nordic-darts-masters",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 04 Jun 2026 12:13:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13550740/england-women-lauren-james-fit-for-lionesses-vs-spain-as-sarina-wiegmans-side-target-world-cup-qualification",
-      "title": {
-        "ar": "James fit as England reignite Spain rivalry with World Cup spot at stake",
-        "en": "James fit as England reignite Spain rivalry with World Cup spot at stake"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-sarina-wiegman-lionesses_7265270.jpg?20260604134651",
-      "url": "https://www.skysports.com/football/news/12040/13550740/england-women-lauren-james-fit-for-lionesses-vs-spain-as-sarina-wiegmans-side-target-world-cup-qualification",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 04 Jun 2026 13:50:00 BST",
       "rewritten": false,
       "lang": "en"
     }
