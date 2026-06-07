@@ -1,8 +1,333 @@
 {
   "version": 2,
-  "updated": "2026-06-06T19:40:28.027Z",
+  "updated": "2026-06-07T04:38:46.292Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/bolivia-vs-scotland/report/555767",
+      "title": {
+        "ar": "Scotland thrash Bolivia ahead of World Cup opener",
+        "en": "Scotland thrash Bolivia ahead of World Cup opener"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-shankland-adams-mctominay_7267116.jpg?20260606213634",
+      "url": "https://www.skysports.com/football/bolivia-vs-scotland/report/555767",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 06 Jun 2026 22:58:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/england-vs-new-zealand/report/553972",
+      "title": {
+        "ar": "England beat New Zealand in first World Cup warm-up game",
+        "en": "England beat New Zealand in first World Cup warm-up game"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-football-harry-kane_7267197.jpg?20260606230829",
+      "url": "https://www.skysports.com/football/england-vs-new-zealand/report/553972",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 05 Jun 2026 17:16:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "title": {
+        "ar": "England latest: 'Best-in-world' Kane must be main man, says Keane",
+        "en": "England latest: 'Best-in-world' Kane must be main man, says Keane"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
+      "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 06 Jun 2026 16:35:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/boxing/news/12040/13551495/cheavon-clarke-recovers-from-two-knockdowns-to-stop-jack-massey-after-cruiserweight-thriller-in-bournemouth",
+      "title": {
+        "ar": "Clarke stuns Massey in epic KO comeback | 'Today is my parade for Arsenal!'",
+        "en": "Clarke stuns Massey in epic KO comeback | 'Today is my parade for Arsenal!'"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-massey-clarke-boxing_7267120.jpg?20260606214012",
+      "url": "https://www.skysports.com/boxing/news/12040/13551495/cheavon-clarke-recovers-from-two-knockdowns-to-stop-jack-massey-after-cruiserweight-thriller-in-bournemouth",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 06 Jun 2026 22:10:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13551535/morgan-gibbs-white-nottingham-forest-forward-on-arsenal-shortlist-as-alternative-to-morgan-rogers-paper-talk",
+      "title": {
+        "ar": "Papers: Gibbs-White on Arsenal shortlist as Rogers alternative",
+        "en": "Papers: Gibbs-White on Arsenal shortlist as Rogers alternative"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "url": "https://www.skysports.com/football/news/12040/13551535/morgan-gibbs-white-nottingham-forest-forward-on-arsenal-shortlist-as-alternative-to-morgan-rogers-paper-talk",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 06 Jun 2026 23:12:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": {
+        "ar": "Arsenal latest: 'Gunners make approach to sign PSG defender'",
+        "en": "Arsenal latest: 'Gunners make approach to sign PSG defender'"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-arsenal-news-club_7039237.jpg?20251002155710",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 06 Jun 2026 22:15:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/07/iraq-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Iraq World Cup 2026 team guide",
+        "en": "Iraq World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Graham Arnold’s team have overcome adversity on and off the pitch, but may benefit from the pressure being off them in a tough group /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best",
+        "en": "p Graham Arnold’s team have overcome adversity on and off the pitch, but may benefit from the pressure being off them in a tough group /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/07/iraq-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 23:01:16 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/scotland-bolivia-world-cup-warm-up-match-report",
+      "title": {
+        "ar": "Adams at the double as Scotland thrash Bolivia in perfect World Cup warm-up",
+        "en": "Adams at the double as Scotland thrash Bolivia in perfect World Cup warm-up"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p “I think a medal of some sort will come. I pray and hope that it is the gold one.” Ally MacLeod was never to live down a href=\"https://www.theguardian.com/football/blog/2014/mar/18/world-cup-moments-scotland-1978-rollercoaster\" his hubris of 1978 /a . A Scotland loss to Peru and draw with Iran saw to that. Unlike MacLeod, Steve Clarke has never b",
+        "en": "p “I think a medal of some sort will come. I pray and hope that it is the gold one.” Ally MacLeod was never to live down a href=\"https://www.theguardian.com/football/blog/2014/mar/18/world-cup-moments-scotland-1978-rollercoaster\" his hubris of 1978 /a . A Scotland loss to Peru and draw with Iran saw to that. Unlike MacLeod, Steve Clarke has never b"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/scotland-bolivia-world-cup-warm-up-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 22:55:47 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/england-1-0-new-zealand-five-talking-points-from-the-world-cup-warm-up",
+      "title": {
+        "ar": "England 1-0 New Zealand: five talking points from the World Cup warm-up | Jacob Steinberg",
+        "en": "England 1-0 New Zealand: five talking points from the World Cup warm-up | Jacob Steinberg"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Bellingham will have been happy to take the armband, O’Reilly is a midfield option but Stones looks a weak link /p p England may as well pack their bags and go home if Harry Kane picks up an injury. The captain laboured through Euro 2024, leaving some to wonder if his international career was winding down, but there is no doubting his importance ",
+        "en": "p Bellingham will have been happy to take the armband, O’Reilly is a midfield option but Stones looks a weak link /p p England may as well pack their bags and go home if Harry Kane picks up an injury. The captain laboured through Euro 2024, leaving some to wonder if his international career was winding down, but there is no doubting his importance "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/england-1-0-new-zealand-five-talking-points-from-the-world-cup-warm-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 22:53:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/england-new-zealand-world-cup-warm-up-match-report",
+      "title": {
+        "ar": "Kane heads England to narrow World Cup warm-up win against New Zealand",
+        "en": "Kane heads England to narrow World Cup warm-up win against New Zealand"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p It was a glorified training game, mainly about acclimatisation for Thomas Tuchel’s England players; unsexy stuff like the right amount of loading, re-connecting with the manager’s principles. But the win was good, too, and it was welcome after the stodge of the March internationals, which had seen the draw against Uruguay and the a href=\"https://",
+        "en": "p It was a glorified training game, mainly about acclimatisation for Thomas Tuchel’s England players; unsexy stuff like the right amount of loading, re-connecting with the manager’s principles. But the win was good, too, and it was welcome after the stodge of the March internationals, which had seen the draw against Uruguay and the a href=\"https://"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/england-new-zealand-world-cup-warm-up-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 22:10:07 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/usmnt-germany-world-cup-friendly-match-report",
+      "title": {
+        "ar": "US show fight and hunger, but lose final World Cup prep match 2-1 to Germany",
+        "en": "US show fight and hunger, but lose final World Cup prep match 2-1 to Germany"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Antonee Robinson scores the Americans’ only goal /p /li li p US open World Cup on 12 June against Paraguay /p /li li p a href=\"https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer\" strong World Cup newsletter /strong /a strong | /strong a href=\"https://www.the",
+        "en": "ul li p Antonee Robinson scores the Americans’ only goal /p /li li p US open World Cup on 12 June against Paraguay /p /li li p a href=\"https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer\" strong World Cup newsletter /strong /a strong | /strong a href=\"https://www.the"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/usmnt-germany-world-cup-friendly-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 20:45:29 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/06/zohran-mamdani-world-cup-prediction-bracketology",
+      "title": {
+        "ar": "‘Let’s go with the heart’: Zohran Mamdani thinks this African team will win the World Cup",
+        "en": "‘Let’s go with the heart’: Zohran Mamdani thinks this African team will win the World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p The New York City mayor sat down with the Guardian and, using our a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" World Cup Bracketology game /a , made a historic prediction for this summer /p p • a href=\"https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-w",
+        "en": "p The New York City mayor sat down with the Guardian and, using our a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" World Cup Bracketology game /a , made a historic prediction for this summer /p p • a href=\"https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-w"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/06/zohran-mamdani-world-cup-prediction-bracketology",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 06 Jun 2026 19:31:47 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم 2026: جدول المباريات",
+        "en": "كأس العالم 2026: جدول المباريات"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9111/live/adf4db00-5453-11f1-b682-cf91850925ea.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sat, 06 Jun 2026 05:58:20 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
     {
       "id": "https://www.skysports.com/football/england-vs-new-zealand/live/553972",
       "title": {
@@ -250,81 +575,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Sat, 06 Jun 2026 13:58:48 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "title": {
-        "ar": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly",
-        "en": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 11:39:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1750,256 +2000,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Fri, 5 Jun 2026 03:57:12 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48954511/world-cup-new-rules-explained-var-corners-no-gk-outs-red-card-covering-your-mouth",
-      "title": {
-        "ar": "World Cup's new rules explained: VAR for corners, ...",
-        "en": "World Cup's new rules explained: VAR for corners, ..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48954511/world-cup-new-rules-explained-var-corners-no-gk-outs-red-card-covering-your-mouth",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 5 Jun 2026 03:57:12 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48962628/world-cup-predictions-picking-winner-every-game-entire-tournament",
-      "title": {
-        "ar": "Predicting every game of the entire World Cup: All the teams and all the winners",
-        "en": "Predicting every game of the entire World Cup: All the teams and all the winners"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48962628/world-cup-predictions-picking-winner-every-game-entire-tournament",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 5 Jun 2026 03:50:25 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48871263/world-cup-2026-key-players-facts-expectations-fixtures-odds-all-48-teams",
-      "title": {
-        "ar": "Get ready for the biggest World Cup ever! What you...",
-        "en": "Get ready for the biggest World Cup ever! What you..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48871263/world-cup-2026-key-players-facts-expectations-fixtures-odds-all-48-teams",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 5 Jun 2026 03:49:35 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48891969/which-world-cup-records-most-likely-broken-2026",
-      "title": {
-        "ar": "Which World Cup records are most likely to be brok...",
-        "en": "Which World Cup records are most likely to be brok..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48891969/which-world-cup-records-most-likely-broken-2026",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 5 Jun 2026 03:49:34 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48972628/transfer-rumors-news-liverpool-begin-talks-yan-diomande",
-      "title": {
-        "ar": "Transfer rumors, news: Liverpool begin talks for Y...",
-        "en": "Transfer rumors, news: Liverpool begin talks for Y..."
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48972628/transfer-rumors-news-liverpool-begin-talks-yan-diomande",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 5 Jun 2026 03:46:58 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/05/football-regulator-will-reject-call-equality-diversity-and-inclusion-kick-it-out",
-      "title": {
-        "ar": "Football regulator will reject call to play bigger role in promoting equality at clubs",
-        "en": "Football regulator will reject call to play bigger role in promoting equality at clubs"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Kick It Out wants equality, diversity and inclusion targets /p /li li p Regulator decides against after licensing consultation /p /li /ul p The Independent Football Regulator (IFR) is poised to reject calls from Kick It Out to take on a greater role in promoting equality, diversity and inclusion (EDI) throughout the sport. /p p The IFR has ",
-        "en": "ul li p Kick It Out wants equality, diversity and inclusion targets /p /li li p Regulator decides against after licensing consultation /p /li /ul p The Independent Football Regulator (IFR) is poised to reject calls from Kick It Out to take on a greater role in promoting equality, diversity and inclusion (EDI) throughout the sport. /p p The IFR has "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/05/football-regulator-will-reject-call-equality-diversity-and-inclusion-kick-it-out",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 05 Jun 2026 08:29:25 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here",
-      "title": {
-        "ar": "World Cup 2026 wallchart: print out your own here",
-        "en": "World Cup 2026 wallchart: print out your own here"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://uploads.guim.co.uk/2026/06/03/WC26Wallchart.pdf\" Print out and fill in our brilliant wallchart /a and follow the 48 teams at the tournament in USA, Mexico and Canada /p p • a href=\"https://www.theguardian.com/football/world-cup-2026\" All of our World Cup coverage in one handy place /a /p a href=\"https://www.theguardian.com/footbal",
-        "en": "p a href=\"https://uploads.guim.co.uk/2026/06/03/WC26Wallchart.pdf\" Print out and fill in our brilliant wallchart /a and follow the 48 teams at the tournament in USA, Mexico and Canada /p p • a href=\"https://www.theguardian.com/football/world-cup-2026\" All of our World Cup coverage in one handy place /a /p a href=\"https://www.theguardian.com/footbal"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 05 Jun 2026 06:30:28 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/05/iraolas-dynamic-football-will-energise-liverpool-despite-worry-over-workload",
-      "title": {
-        "ar": "Iraola’s dynamic football will energise Liverpool despite worry over workload | Jonathan Wilson",
-        "en": "Iraola’s dynamic football will energise Liverpool despite worry over workload | Jonathan Wilson"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p New manager achieved much at Bournemouth with style reminiscent of Jürgen Klopp’s counterpress /p p There comes a point in most discussions when all the detail and complications fall away and the issue can be crystalised into a single straightforward question. For Liverpool that became: do they have more chance of challenging for the league title",
-        "en": "p New manager achieved much at Bournemouth with style reminiscent of Jürgen Klopp’s counterpress /p p There comes a point in most discussions when all the detail and complications fall away and the issue can be crystalised into a single straightforward question. For Liverpool that became: do they have more chance of challenging for the league title"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/05/iraolas-dynamic-football-will-energise-liverpool-despite-worry-over-workload",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 05 Jun 2026 06:30:28 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/05/cape-verde-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Cape Verde World Cup 2026 team guide",
-        "en": "Cape Verde World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Blue Sharks are in uncharted waters, making their finals debut after a meteoric rise /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations from the 48 countries who q",
-        "en": "p Blue Sharks are in uncharted waters, making their finals debut after a meteoric rise /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations from the 48 countries who q"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/05/cape-verde-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 05 Jun 2026 06:30:27 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48955127/real-madrid-unveil-new-2026-27-home-kit-quest-end-major-trophy-drought-laliga-copa-del-rey-champions-league",
-      "title": {
-        "ar": "Real Madrid unveil new home kit for quest to end m...",
-        "en": "Real Madrid unveil new home kit for quest to end m..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48955127/real-madrid-unveil-new-2026-27-home-kit-quest-end-major-trophy-drought-laliga-copa-del-rey-champions-league",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 4 Jun 2026 19:49:58 EST",
       "rewritten": false,
       "lang": "en"
     }
