@@ -1,8 +1,283 @@
 {
   "version": 2,
-  "updated": "2026-06-08T11:08:53.022Z",
+  "updated": "2026-06-08T16:06:00.118Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/darts/news/12288/11933951/love-the-darts-podcast-sky-sports",
+      "title": {
+        "ar": "Can Littler and Humphries get it right this time and win World Cup of Darts?",
+        "en": "Can Littler and Humphries get it right this time and win World Cup of Darts?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/11/1920x1080/skysports-darts-love-the-darts_7090540.png?20251124115028",
+      "url": "https://www.skysports.com/darts/news/12288/11933951/love-the-darts-podcast-sky-sports",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 08 Jun 2026 16:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13552005/divock-origi-former-liverpool-and-belgium-striker-announces-retirement-from-professional-football",
+      "title": {
+        "ar": "Origi retires: The Liverpool 'legend' who scored when it mattered most",
+        "en": "Origi retires: The Liverpool 'legend' who scored when it mattered most"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-divock-origi-liverpool_7268377.jpg?20260608142325",
+      "url": "https://www.skysports.com/football/news/12040/13552005/divock-origi-former-liverpool-and-belgium-striker-announces-retirement-from-professional-football",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 08 Jun 2026 15:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/cricket/live-blog/12040/13551949/england-vs-australia-live-cricket-score-updates-video-analysis-from-icc-womens-t20-world-cup-warm-up-match-at-sophia-gardens-cardiff",
+      "title": {
+        "ar": "England rally to set Australia 158 to win T20 World Cup warm-up LIVE!",
+        "en": "England rally to set Australia 158 to win T20 World Cup warm-up LIVE!"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-freya-kemp-england_7268478.jpg?20260608165229",
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13551949/england-vs-australia-live-cricket-score-updates-video-analysis-from-icc-womens-t20-world-cup-warm-up-match-at-sophia-gardens-cardiff",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 08 Jun 2026 14:40:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/08/world-cup-week-football-daily-newsletter",
+      "title": {
+        "ar": "Football Daily | It’s World Cup week – will the hope, memes and dreams be as good as it gets?",
+        "en": "Football Daily | It’s World Cup week – will the hope, memes and dreams be as good as it gets?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p Geopolitics World Cup Week is upon us, baby. We stand on the edge of greatness. Who will dream, who will dare to stay up on Friday night for the 3am (BST) kick-off of South Korea v Czechia, ",
+        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p Geopolitics World Cup Week is upon us, baby. We stand on the edge of greatness. Who will dream, who will dare to stay up on Friday night for the 3am (BST) kick-off of South Korea v Czechia, "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/08/world-cup-week-football-daily-newsletter",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 08 Jun 2026 15:03:37 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/08/austria-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Austria World Cup 2026 team guide",
+        "en": "Austria World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Established squad stays true to Ralf Rangnick’s methods with Konrad Laimer and bright new talent Paul Wanner lending some star quality /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the be",
+        "en": "p Established squad stays true to Ralf Rangnick’s methods with Konrad Laimer and bright new talent Paul Wanner lending some star quality /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the be"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/08/austria-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 08 Jun 2026 15:00:30 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c0ry87g5jvxo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كيف سيلعب المنتخب الإيراني في الولايات المتحدة في كأس العالم 2026؟",
+        "en": "كيف سيلعب المنتخب الإيراني في الولايات المتحدة في كأس العالم 2026؟"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e7cb/live/8b0f1560-6349-11f1-8546-8f19e4fe30f4.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c0ry87g5jvxo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Mon, 08 Jun 2026 14:55:03 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/08/world-cup-preparations",
+      "title": {
+        "ar": "Why preparation isn’t everything at a World Cup | Jonathan Wilson",
+        "en": "Why preparation isn’t everything at a World Cup | Jonathan Wilson"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p From high-altitude training to made to measure kits, teams have resorted to all manner of things to adapt to conditions at the tournament /p p strong • /strong a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" strong Predict the winner /strong /a strong | /strong a href=\"http",
+        "en": "p From high-altitude training to made to measure kits, teams have resorted to all manner of things to adapt to conditions at the tournament /p p strong • /strong a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" strong Predict the winner /strong /a strong | /strong a href=\"http"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/08/world-cup-preparations",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 08 Jun 2026 14:52:01 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/08/england-harry-kane-world-cup-ballon-dor-bayern-munich",
+      "title": {
+        "ar": "Bayern’s best ever? Harry Kane goes to World Cup in Ballon d’Or conversation",
+        "en": "Bayern’s best ever? Harry Kane goes to World Cup in Ballon d’Or conversation"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p The England captain has finally assumed his place at the pinnacle of the game – it has been a long road to this point /p p The Bayern Munich honorary president, Uli Hoeness, has a propensity for hyperbole, so when he labelled Harry Kane as the best transfer the club has ever made in the wake of the DFB-Pokal final, which Bayern a href=\"https://ww",
+        "en": "p The England captain has finally assumed his place at the pinnacle of the game – it has been a long road to this point /p p The Bayern Munich honorary president, Uli Hoeness, has a propensity for hyperbole, so when he labelled Harry Kane as the best transfer the club has ever made in the wake of the DFB-Pokal final, which Bayern a href=\"https://ww"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/08/england-harry-kane-world-cup-ballon-dor-bayern-munich",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 08 Jun 2026 12:45:55 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/08/zlatko-dalic-croatia-world-cup-opener-england",
+      "title": {
+        "ar": "Dalic admits Croatia’s World Cup opener against England ‘can destroy everything’",
+        "en": "Dalic admits Croatia’s World Cup opener against England ‘can destroy everything’"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Croatia head coach says England game crucial to hopes /p /li li p Kovacic, Gvardiol and Modric lacking match sharpness /p /li /ul p Zlatko Dalic sees Croatia’s World Cup opener against England as pivotal to their summer fortunes, admitting a softer first match may have been preferable for a team struggling with form and fitness issues. /p p",
+        "en": "ul li p Croatia head coach says England game crucial to hopes /p /li li p Kovacic, Gvardiol and Modric lacking match sharpness /p /li /ul p Zlatko Dalic sees Croatia’s World Cup opener against England as pivotal to their summer fortunes, admitting a softer first match may have been preferable for a team struggling with form and fitness issues. /p p"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/08/zlatko-dalic-croatia-world-cup-opener-england",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 08 Jun 2026 11:08:31 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/crr8l5x2z1eo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "4 منتخبات تكتب التاريخ وتعيش حلم كأس العالم لأول مرة، ما هي؟",
+        "en": "4 منتخبات تكتب التاريخ وتعيش حلم كأس العالم لأول مرة، ما هي؟"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd43/live/94afdc10-617f-11f1-8b8c-6d33e1d5abb6.jpg",
+      "url": "https://www.bbc.com/arabic/articles/crr8l5x2z1eo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sat, 06 Jun 2026 08:22:56 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c5y8l0e31lvo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم 1994: مونديال \"السوكر\" و\"السامبا\" واستبعاد مارادونا وقتل إسكوبار",
+        "en": "كأس العالم 1994: مونديال \"السوكر\" و\"السامبا\" واستبعاد مارادونا وقتل إسكوبار"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a107/live/d2bc0d80-617a-11f1-8ac1-371ebc895245.png",
+      "url": "https://www.bbc.com/arabic/articles/c5y8l0e31lvo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sat, 06 Jun 2026 07:27:21 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
     {
       "id": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "title": {
@@ -400,56 +675,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Mon, 08 Jun 2026 04:00:18 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1775,231 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Sat, 06 Jun 2026 11:25:12 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48981738/how-iceland-women-compete-europe-top-nations-seal-first-world-cup-spot",
-      "title": {
-        "ar": "How can Iceland's women compete with Europe's top nations?",
-        "en": "How can Iceland's women compete with Europe's top nations?"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48981738/how-iceland-women-compete-europe-top-nations-seal-first-world-cup-spot",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sat, 6 Jun 2026 05:10:12 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48956021/16-players-use-world-cup-get-big-transfer-europe",
-      "title": {
-        "ar": "16 players who could use World Cup to get a big tr...",
-        "en": "16 players who could use World Cup to get a big tr..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48956021/16-players-use-world-cup-get-big-transfer-europe",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sat, 6 Jun 2026 04:14:44 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/06/relentless-rise-of-var-new-red-card-offences-and-more-those-new-world-cup-rules-in-full",
-      "title": {
-        "ar": "Relentless rise of VAR, new red card offences and more: those new World Cup rules in full",
-        "en": "Relentless rise of VAR, new red card offences and more: those new World Cup rules in full"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p 2026 tournament will be the biggest, longest and most expensive – and the most intricately refereed – ever seen /p p The 2026 World Cup will be the biggest, longest and most expensive. It will also feature a hefty number of rule changes. New responsibilities for video assistant referees, new red card offences and a number of initiatives to speed ",
-        "en": "p 2026 tournament will be the biggest, longest and most expensive – and the most intricately refereed – ever seen /p p The 2026 World Cup will be the biggest, longest and most expensive. It will also feature a hefty number of rule changes. New responsibilities for video assistant referees, new red card offences and a number of initiatives to speed "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/06/relentless-rise-of-var-new-red-card-offences-and-more-those-new-world-cup-rules-in-full",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 06 Jun 2026 09:00:06 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/48976007/barcelona-keep-dump-summer-transfers-lewandowski-raphinha-marcus-rashford-joao-cancelo",
-      "title": {
-        "ar": "Barcelona Keep or Dump: How to replace Lewandowski...",
-        "en": "Barcelona Keep or Dump: How to replace Lewandowski..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/48976007/barcelona-keep-dump-summer-transfers-lewandowski-raphinha-marcus-rashford-joao-cancelo",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sat, 6 Jun 2026 03:34:09 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
-      "title": {
-        "ar": "Bracketology: predict a path to World Cup victory",
-        "en": "Bracketology: predict a path to World Cup victory"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a",
-        "en": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 10:00:48 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "title": {
-        "ar": "World Cup 2026: guide to all 1,248 players",
-        "en": "World Cup 2026: guide to all 1,248 players"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a",
-        "en": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 08:55:49 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/darts/news/12040/13551270/luke-littler-not-feeling-the-pressure-ahead-of-world-cup-of-darts-return-with-luke-humphries-we-didnt-bond-on-the-stage-last-year",
-      "title": {
-        "ar": "Littler not feeling pressure ahead of World Cup of Darts return with Humphries",
-        "en": "Littler not feeling pressure ahead of World Cup of Darts return with Humphries"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-darts-pdc-pdc-world-cup_7245621.jpg?20260511152557",
-      "url": "https://www.skysports.com/darts/news/12040/13551270/luke-littler-not-feeling-the-pressure-ahead-of-world-cup-of-darts-return-with-luke-humphries-we-didnt-bond-on-the-stage-last-year",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sat, 06 Jun 2026 07:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/live/2026/jun/06/australia-vs-mexico-live-updates-matildas-aus-v-mex-womens-international-football-friendly",
-      "title": {
-        "ar": "Australia v Mexico: women’s international football friendly – live",
-        "en": "Australia v Mexico: women’s international football friendly – live"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Updates from the Matildas clash at McDonald Jones Stadium /p /li li p Kick-off time in Newcastle is 7.15pm AEST /p /li li p Any thoughts? Get in touch with a href=\"mailto:martin.pegan@theguardian.com\" an email /a /p /li /ul p strong Matildas head coach Joe Montemurro /strong said on Friday that he wants to use the two friendlies against Mex",
-        "en": "ul li p Updates from the Matildas clash at McDonald Jones Stadium /p /li li p Kick-off time in Newcastle is 7.15pm AEST /p /li li p Any thoughts? Get in touch with a href=\"mailto:martin.pegan@theguardian.com\" an email /a /p /li /ul p strong Matildas head coach Joe Montemurro /strong said on Friday that he wants to use the two friendlies against Mex"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/live/2026/jun/06/australia-vs-mexico-live-updates-matildas-aus-v-mex-womens-international-football-friendly",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 06 Jun 2026 08:37:00 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/06/fifa-backtracks-on-plastic-water-bottles-at-world-cup-after-backlash-to-ban",
-      "title": {
-        "ar": "Fifa backtracks on plastic water bottles at World Cup after backlash to ban",
-        "en": "Fifa backtracks on plastic water bottles at World Cup after backlash to ban"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Fans will be allowed one sealed bottle at matches /p /li li p World body again alters policy after condemnation /p /li /ul p Fifa has again amended its water bottle policy for the World Cup in North America, allowing fans to bring in one sealed, disposable 590ml bottle into stadiums. /p p Ticket holders had previously been permitted an empt",
-        "en": "ul li p Fans will be allowed one sealed bottle at matches /p /li li p World body again alters policy after condemnation /p /li /ul p Fifa has again amended its water bottle policy for the World Cup in North America, allowing fans to bring in one sealed, disposable 590ml bottle into stadiums. /p p Ticket holders had previously been permitted an empt"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/06/fifa-backtracks-on-plastic-water-bottles-at-world-cup-after-backlash-to-ban",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 06 Jun 2026 08:33:18 GMT",
       "rewritten": false,
       "lang": "en"
     }
