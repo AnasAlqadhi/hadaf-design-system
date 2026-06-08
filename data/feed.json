@@ -1,8 +1,108 @@
 {
   "version": 2,
-  "updated": "2026-06-07T19:40:59.133Z",
+  "updated": "2026-06-08T04:43:59.480Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13551789/ederson-to-manchester-united-midfielders-call-up-to-brazil-world-cup-squad-could-delay-old-trafford-move-paper-talk",
+      "title": {
+        "ar": "Papers: Ederson's Man Utd move at risk of delay after World Cup call-up",
+        "en": "Papers: Ederson's Man Utd move at risk of delay after World Cup call-up"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "url": "https://www.skysports.com/football/news/12040/13551789/ederson-to-manchester-united-midfielders-call-up-to-brazil-world-cup-squad-could-delay-old-trafford-move-paper-talk",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sun, 07 Jun 2026 22:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/08/florentino-perez-to-remain-as-real-madrid-president-after-overwhelming-election-win",
+      "title": {
+        "ar": "Florentino Pérez to remain as Real Madrid president after overwhelming election win",
+        "en": "Florentino Pérez to remain as Real Madrid president after overwhelming election win"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Enrique Riquelme loses challenge against Pérez /p /li li p José Mourinho will now be confirmed as manager /p /li /ul p Florentino Pérez will continue as president of Real Madrid after winning their first elections in 20 years, paving the way for his plans to sell 5% of the club. Pérez, who has been president for 23 years across two spells –",
+        "en": "ul li p Enrique Riquelme loses challenge against Pérez /p /li li p José Mourinho will now be confirmed as manager /p /li /ul p Florentino Pérez will continue as president of Real Madrid after winning their first elections in 20 years, paving the way for his plans to sell 5% of the club. Pérez, who has been president for 23 years across two spells –"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/08/florentino-perez-to-remain-as-real-madrid-president-after-overwhelming-election-win",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 08 Jun 2026 00:06:34 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/08/algeria-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Algeria World Cup 2026 team guide",
+        "en": "Algeria World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p An easy ride through qualifying and a hard-to-read Africa Cup of Nations exit mean the Fennecs are an enigma /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations fro",
+        "en": "p An easy ride through qualifying and a hard-to-read Africa Cup of Nations exit mean the Fennecs are an enigma /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations fro"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/08/algeria-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 07 Jun 2026 23:01:10 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/07/modric-still-casts-a-spell-as-croatia-win-warm-up-with-england-to-come",
+      "title": {
+        "ar": "Modric still casts a spell as Croatia win warm-up with England to come",
+        "en": "Modric still casts a spell as Croatia win warm-up with England to come"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Croatia 2-1 Slovenia /p /li li p Modric scores on what could be last game on home turf /p /li /ul p Luka Modric discarded his protective mask, accepted Zlatko Dalic’s congratulations and half-waved bashfully to a vigorously appreciative crowd. Had this really, finally, been his last official appearance on Croatian soil? The pre-match wisdom",
+        "en": "ul li p Croatia 2-1 Slovenia /p /li li p Modric scores on what could be last game on home turf /p /li /ul p Luka Modric discarded his protective mask, accepted Zlatko Dalic’s congratulations and half-waved bashfully to a vigorously appreciative crowd. Had this really, finally, been his last official appearance on Croatian soil? The pre-match wisdom"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/07/modric-still-casts-a-spell-as-croatia-win-warm-up-with-england-to-come",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sun, 07 Jun 2026 22:47:41 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "title": {
@@ -225,81 +325,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Sun, 07 Jun 2026 15:00:05 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "title": {
-        "ar": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly",
-        "en": "Crystal Palace victorious in Europe and can Arsenal beat PSG? - Football Weekly"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Mark Langdon, Paul Watson and Ed Aarons as Crystal Palace win the Europa Conference League /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/footba"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/audio/2026/may/28/crystal-palace-victorious-in-europe-and-can-arsenal-beat-psg-football-weekly",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 28 May 2026 11:39:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1975,31 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Wed, 03 Jun 2026 17:40:37 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/03/millwall-publish-pride-playbook-to-help-clubs-form-stronger-links-with-lgbtq-teams",
-      "title": {
-        "ar": "Millwall publish ‘Pride playbook’ to help clubs form stronger links with LGBTQ+ teams",
-        "en": "Millwall publish ‘Pride playbook’ to help clubs form stronger links with LGBTQ+ teams"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Lions seek to help extend the reach of inclusive clubs /p /li li p 78-page document is the first of its kind in football /p /li /ul p Millwall have published a first-of-its-kind “Pride playbook” to help football clubs form stronger partnerships with LGBTQ+ teams across the country. /p p The move comes during Pride month as the Lions seek to",
-        "en": "ul li p Lions seek to help extend the reach of inclusive clubs /p /li li p 78-page document is the first of its kind in football /p /li /ul p Millwall have published a first-of-its-kind “Pride playbook” to help football clubs form stronger partnerships with LGBTQ+ teams across the country. /p p The move comes during Pride month as the Lions seek to"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/03/millwall-publish-pride-playbook-to-help-clubs-form-stronger-links-with-lgbtq-teams",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 03 Jun 2026 16:42:52 GMT",
       "rewritten": false,
       "lang": "en"
     }
