@@ -1,8 +1,133 @@
 {
   "version": 2,
-  "updated": "2026-06-08T20:26:07.500Z",
+  "updated": "2026-06-09T04:05:10.584Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13552142/somali-referee-dropped-from-world-cup-omar-artan-misses-out-on-tournament-after-us-visa-denial",
+      "title": {
+        "ar": "Somali referee dropped from World Cup after US visa denial",
+        "en": "Somali referee dropped from World Cup after US visa denial"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-omar-artan-referee_7268690.jpg?20260608231150",
+      "url": "https://www.skysports.com/football/news/12040/13552142/somali-referee-dropped-from-world-cup-omar-artan-misses-out-on-tournament-after-us-visa-denial",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 08 Jun 2026 23:05:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/09/jordan-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Jordan World Cup 2026 team guide",
+        "en": "Jordan World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Jamal Sellami’s first-time qualifiers come up against Lionel Messi and Argentina in a challenging Group J /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations from t",
+        "en": "p Jamal Sellami’s first-time qualifiers come up against Lionel Messi and Argentina in a challenging Group J /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organisations from t"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/09/jordan-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 08 Jun 2026 23:01:38 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/08/djed-spence-england-world-cup-broken-jaw",
+      "title": {
+        "ar": "‘Luckily I play with my feet’: Spence talks up World Cup hopes despite broken jaw",
+        "en": "‘Luckily I play with my feet’: Spence talks up World Cup hopes despite broken jaw"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p England defender getting used to protective brace and hopeful of contributing to Tuchel’s tournament effort /p p In the disorientation of the moment, as Djed Spence lay on the turf, the pain radiating from the left side of his jaw, it was tempting to wonder what flashed through his mind. The Tottenham full-back had been cleaned out by the elbow o",
+        "en": "p England defender getting used to protective brace and hopeful of contributing to Tuchel’s tournament effort /p p In the disorientation of the moment, as Djed Spence lay on the turf, the pain radiating from the left side of his jaw, it was tempting to wonder what flashed through his mind. The Tottenham full-back had been cleaned out by the elbow o"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/08/djed-spence-england-world-cup-broken-jaw",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 08 Jun 2026 21:30:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/08/lauren-hemp-england-lionesses-spain-ukraine",
+      "title": {
+        "ar": "Lauren Hemp confident Lionesses will bounce back from Spain hammering",
+        "en": "Lauren Hemp confident Lionesses will bounce back from Spain hammering"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p European champions beaten 4-0 in Mallorca on Friday /p /li li p Hemp: ‘As a group, we’ve come together and stuck together’ /p /li /ul p Lauren Hemp says the England squad are sticking together after their a href=\"https://www.theguardian.com/football/2026/jun/05/spain-england-world-cup-qualifying-match-report\" heavy defeat against Spain /a o",
+        "en": "ul li p European champions beaten 4-0 in Mallorca on Friday /p /li li p Hemp: ‘As a group, we’ve come together and stuck together’ /p /li /ul p Lauren Hemp says the England squad are sticking together after their a href=\"https://www.theguardian.com/football/2026/jun/05/spain-england-world-cup-qualifying-match-report\" heavy defeat against Spain /a o"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/08/lauren-hemp-england-lionesses-spain-ukraine",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 08 Jun 2026 13:12:48 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم 2026: جدول المباريات",
+        "en": "كأس العالم 2026: جدول المباريات"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9111/live/adf4db00-5453-11f1-b682-cf91850925ea.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sat, 06 Jun 2026 05:58:20 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
     {
       "id": "https://www.skysports.com/darts/news/12040/13552077/world-cup-of-darts-2026-will-englands-luke-littler-and-luke-humphries-right-the-wrongs-of-last-years-showing",
       "title": {
@@ -675,56 +800,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Thu, 04 Jun 2026 08:55:49 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1925,81 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Sun, 07 Jun 2026 00:17:13 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/07/thomas-tuchel-criticises-englands-freestyle-approach-in-win-over-new-zealand",
-      "title": {
-        "ar": "Thomas Tuchel criticises England’s ‘freestyle’ approach in win over New Zealand",
-        "en": "Thomas Tuchel criticises England’s ‘freestyle’ approach in win over New Zealand"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Coach unhappy with players’ positional awareness /p /li li p Style was ‘not part of our training in last four days’ /p /li /ul p Thomas Tuchel was unhappy with England’s “freestyle” performance in the first half of their a href=\"https://www.theguardian.com/football/2026/jun/06/england-new-zealand-world-cup-warm-up-match-report\" 1-0 win over",
-        "en": "ul li p Coach unhappy with players’ positional awareness /p /li li p Style was ‘not part of our training in last four days’ /p /li /ul p Thomas Tuchel was unhappy with England’s “freestyle” performance in the first half of their a href=\"https://www.theguardian.com/football/2026/jun/06/england-new-zealand-world-cup-warm-up-match-report\" 1-0 win over"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/07/thomas-tuchel-criticises-englands-freestyle-approach-in-win-over-new-zealand",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 06 Jun 2026 23:23:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/07/iraq-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Iraq World Cup 2026 team guide",
-        "en": "Iraq World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Graham Arnold’s team have overcome adversity on and off the pitch, but may benefit from the pressure being off them in a tough group /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best",
-        "en": "p Graham Arnold’s team have overcome adversity on and off the pitch, but may benefit from the pressure being off them in a tough group /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/07/iraq-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 06 Jun 2026 23:01:16 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/06/england-1-0-new-zealand-five-talking-points-from-the-world-cup-warm-up",
-      "title": {
-        "ar": "England 1-0 New Zealand: five talking points from the World Cup warm-up | Jacob Steinberg",
-        "en": "England 1-0 New Zealand: five talking points from the World Cup warm-up | Jacob Steinberg"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Bellingham will have been happy to take the armband, O’Reilly is a midfield option but Stones looks a weak link /p p England may as well pack their bags and go home if Harry Kane picks up an injury. The captain laboured through Euro 2024, leaving some to wonder if his international career was winding down, but there is no doubting his importance ",
-        "en": "p Bellingham will have been happy to take the armband, O’Reilly is a midfield option but Stones looks a weak link /p p England may as well pack their bags and go home if Harry Kane picks up an injury. The captain laboured through Euro 2024, leaving some to wonder if his international career was winding down, but there is no doubting his importance "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/06/england-1-0-new-zealand-five-talking-points-from-the-world-cup-warm-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sat, 06 Jun 2026 22:53:35 GMT",
       "rewritten": false,
       "lang": "en"
     }
