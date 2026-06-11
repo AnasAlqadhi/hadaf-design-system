@@ -1,8 +1,308 @@
 {
   "version": 2,
-  "updated": "2026-06-11T16:13:50.121Z",
+  "updated": "2026-06-11T20:29:03.657Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13553162/jose-mourinho-to-real-madrid-former-chelsea-and-man-utd-boss-bernabeu-return-confirmed-by-spanish-giants",
+      "title": {
+        "ar": "Mourinho returns! Real Madrid confirm Jose's re-appointment",
+        "en": "Mourinho returns! Real Madrid confirm Jose's re-appointment"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-laliga-real-madrid_7268260.jpg?20260608120507",
+      "url": "https://www.skysports.com/football/news/12040/13553162/jose-mourinho-to-real-madrid-former-chelsea-and-man-utd-boss-bernabeu-return-confirmed-by-spanish-giants",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 11 Jun 2026 19:55:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
+      "title": {
+        "ar": "Mexico v South Africa: World Cup 2026 opening match – live",
+        "en": "Mexico v South Africa: World Cup 2026 opening match – live"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p ⚽️ Kick-off time: 1pm local/8pm BST/3pm EDT/5am AEST br ⚽️ a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Player guide /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Bracketology /a | a href=\"https://www.t",
+        "en": "p ⚽️ Kick-off time: 1pm local/8pm BST/3pm EDT/5am AEST br ⚽️ a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Player guide /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Bracketology /a | a href=\"https://www.t"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 20:16:11 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/11/scott-mctominay-scotland-world-cup-opener-stomach-bug",
+      "title": {
+        "ar": "McTominay should be fit for Scotland’s World Cup opener despite stomach bug",
+        "en": "McTominay should be fit for Scotland’s World Cup opener despite stomach bug"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Midfielder missed final training session before Haiti game /p /li li p ‘Hopefully that doesn’t spread,’ said Kenny McLean /p /li /ul p Scotland are confident Scott McTominay will be fit to face Haiti on Saturday despite the midfielder sitting out training on Thursday due to a stomach complaint. /p p McTominay, widely considered Scotland’s m",
+        "en": "ul li p Midfielder missed final training session before Haiti game /p /li li p ‘Hopefully that doesn’t spread,’ said Kenny McLean /p /li /ul p Scotland are confident Scott McTominay will be fit to face Haiti on Saturday despite the midfielder sitting out training on Thursday due to a stomach complaint. /p p McTominay, widely considered Scotland’s m"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/scott-mctominay-scotland-world-cup-opener-stomach-bug",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 18:37:51 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/11/real-madrid-confirm-jose-mourinho-manager",
+      "title": {
+        "ar": "Real Madrid confirm José Mourinho’s return as manager after 13 years away",
+        "en": "Real Madrid confirm José Mourinho’s return as manager after 13 years away"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p 63-year-old leaves Benfica to move back to the Bernabéu /p /li li p Marco Silva agrees deal to replace him at Portuguese club /p /li /ul p José Mourinho’s blockbuster return as Real Madrid manager has been confirmed. The 63-year-old, who was in the dugout at the Bernabéu from 2010 until 2013, joins the 15-times European champions from Benfi",
+        "en": "ul li p 63-year-old leaves Benfica to move back to the Bernabéu /p /li li p Marco Silva agrees deal to replace him at Portuguese club /p /li /ul p José Mourinho’s blockbuster return as Real Madrid manager has been confirmed. The 63-year-old, who was in the dugout at the Bernabéu from 2010 until 2013, joins the 15-times European champions from Benfi"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/real-madrid-confirm-jose-mourinho-manager",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 18:29:53 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/11/they-are-adults-tuchel-grants-england-players-day-off-with-few-strings-attached",
+      "title": {
+        "ar": "‘They are adults’: Tuchel grants England players day off with few strings attached",
+        "en": "‘They are adults’: Tuchel grants England players day off with few strings attached"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Manager says team must ‘live up to the trust’ on rest days /p /li li p German suggests Bellingham may play as a ‘free role’ No 9 /p /li /ul p Thomas Tuchel is confident that his England players will not abuse his trust, as he granted them time off with few strings attached at the end of their pre-World Cup training camp in Florida. /p p The",
+        "en": "ul li p Manager says team must ‘live up to the trust’ on rest days /p /li li p German suggests Bellingham may play as a ‘free role’ No 9 /p /li /ul p Thomas Tuchel is confident that his England players will not abuse his trust, as he granted them time off with few strings attached at the end of their pre-World Cup training camp in Florida. /p p The"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/they-are-adults-tuchel-grants-england-players-day-off-with-few-strings-attached",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 18:00:22 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c862wwgw1qyo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "الخرطوم تتنفس كرة القدم من جديد بعد سنوات من الانقطاع بسبب الحرب",
+        "en": "الخرطوم تتنفس كرة القدم من جديد بعد سنوات من الانقطاع بسبب الحرب"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/46cd/live/acaca1c0-65a5-11f1-b0b4-ff7d574215ed.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c862wwgw1qyo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Thu, 11 Jun 2026 17:25:23 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/11/usmnt-world-cup-preview",
+      "title": {
+        "ar": "The United States enter a charged World Cup asking: what is enough?",
+        "en": "The United States enter a charged World Cup asking: what is enough?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Unlike most other countries, the US are playing the 2026 World Cup not just for themselves, but for the future of their voice in the sport /p ul li p a href=\"https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer\" World Cup newsletter /a | a href=\"https://www.theguard",
+        "en": "p Unlike most other countries, the US are playing the 2026 World Cup not just for themselves, but for the future of their voice in the sport /p ul li p a href=\"https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer\" World Cup newsletter /a | a href=\"https://www.theguard"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/usmnt-world-cup-preview",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 16:01:18 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/audio/2026/jun/10/world-cup-2026-preview-groups-i-l-football-weekly",
+      "title": {
+        "ar": "World Cup 2026 preview: Groups I-L – Football Weekly",
+        "en": "World Cup 2026 preview: Groups I-L – Football Weekly"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Jonathan Liew and Philippe Auclair to preview Groups I-L /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/football-weekly-the-guardian/id188674007",
+        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , Jonathan Liew and Philippe Auclair to preview Groups I-L /p p strong Rate, review, share on a href=\"https://itunes.apple.com/podcast/football-weekly-the-guardian/id188674007"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/audio/2026/jun/10/world-cup-2026-preview-groups-i-l-football-weekly",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 10 Jun 2026 04:00:12 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c0ry87g5jvxo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كيف سيلعب المنتخب الإيراني في الولايات المتحدة في كأس العالم 2026؟",
+        "en": "كيف سيلعب المنتخب الإيراني في الولايات المتحدة في كأس العالم 2026؟"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c8d7/live/67018a70-640e-11f1-8546-8f19e4fe30f4.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c0ry87g5jvxo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Mon, 08 Jun 2026 14:55:03 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c77yxnr0demo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "لاعبو كأس العالم يواجهون تحدي السفر الطويل والمناطق الزمنية المختلفة",
+        "en": "لاعبو كأس العالم يواجهون تحدي السفر الطويل والمناطق الزمنية المختلفة"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/862b/live/d549a1d0-631d-11f1-8546-8f19e4fe30f4.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c77yxnr0demo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Mon, 08 Jun 2026 09:41:59 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/watch/video/13553023/world-cup-could-visa-issues-continue-to-define-fifas-biggest-tournament",
       "title": {
@@ -402,81 +702,6 @@
       "pubDate": "Sun, 07 Jun 2026 06:11:07 GMT",
       "rewritten": false,
       "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
-      "title": {
-        "ar": "Bracketology: predict a path to World Cup victory",
-        "en": "Bracketology: predict a path to World Cup victory"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a",
-        "en": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 10:00:48 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "title": {
-        "ar": "World Cup 2026: guide to all 1,248 players",
-        "en": "World Cup 2026: guide to all 1,248 players"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a",
-        "en": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 08:55:49 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
-      "rewritten": false,
-      "lang": "en"
     },
     {
       "id": "https://www.skysports.com/football/mexico-vs-south-africa/live/549767",
@@ -1775,231 +2000,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Wed, 10 Jun 2026 10:02:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13551978/world-cup-2026-winners-predicted-as-holders-argentina-defend-title-in-usa-canada-mexico-tournament",
-      "title": {
-        "ar": "World Cup predictions: Our writers make their picks",
-        "en": "World Cup predictions: Our writers make their picks"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-harry-kane-vinicius_7269338.jpg?20260609173812",
-      "url": "https://www.skysports.com/football/news/12040/13551978/world-cup-2026-winners-predicted-as-holders-argentina-defend-title-in-usa-canada-mexico-tournament",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 10 Jun 2026 08:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/live/2026/jun/10/world-cup-2026-news-england-gear-up-for-friendly-infantino-warns-la-of-happy-barbarians-messi-scores-on-return-live",
-      "title": {
-        "ar": "World Cup 2026 news: England latest; protesters block road to Azteca; Messi scores on return – live",
-        "en": "World Cup 2026 news: England latest; protesters block road to Azteca; Messi scores on return – live"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p News and buildup as World Cup countdown continues /p /li li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Player guide /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Bracketology /a | a href=\"http",
-        "en": "ul li p News and buildup as World Cup countdown continues /p /li li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Player guide /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Bracketology /a | a href=\"http"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/live/2026/jun/10/world-cup-2026-news-england-gear-up-for-friendly-infantino-warns-la-of-happy-barbarians-messi-scores-on-return-live",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 10 Jun 2026 10:00:05 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/10/david-sullivan-west-ham-football-association-safeguarding-investigation",
-      "title": {
-        "ar": "David Sullivan’s contact with West Ham women’s and youth teams restricted since 2023",
-        "en": "David Sullivan’s contact with West Ham women’s and youth teams restricted since 2023"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p ‘Temporary agreement’ in place since Football Association safeguarding investigation began three years ago /p p David Sullivan has faced restrictions on his contact with West Ham’s women’s and youth teams since 2023 because of a safeguarding investigation. /p p The Football Association began an inquiry three years ago after receiving a complaint,",
-        "en": "p ‘Temporary agreement’ in place since Football Association safeguarding investigation began three years ago /p p David Sullivan has faced restrictions on his contact with West Ham’s women’s and youth teams since 2023 because of a safeguarding investigation. /p p The Football Association began an inquiry three years ago after receiving a complaint,"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/10/david-sullivan-west-ham-football-association-safeguarding-investigation",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 10 Jun 2026 09:40:39 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c9920ej97lro?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "كأس العالم: أرقام خالدة تروي حكاية 92 سنة من المونديال",
-        "en": "كأس العالم: أرقام خالدة تروي حكاية 92 سنة من المونديال"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb1f/live/8271c220-64a9-11f1-9c89-85486d952f7c.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c9920ej97lro?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Wed, 10 Jun 2026 08:54:52 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/10/referee-omar-artan-given-heros-welcome-somalia-after-us-entry-blocked",
-      "title": {
-        "ar": "Omar Artan given hero’s welcome in Somalia after referee’s US entry blocked",
-        "en": "Omar Artan given hero’s welcome in Somalia after referee’s US entry blocked"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Artan deemed a threat to national security by US officials /p /li li p ‘I promise you that I will attend the next one’ /p /li /ul p The World Cup referee from Somalia who was denied entry to the US arrived on Wednesday in Somalia’s capital, Mogadishu, where he was received by a crowd of supporters and officials. /p p Omar Artan was due to b",
-        "en": "ul li p Artan deemed a threat to national security by US officials /p /li li p ‘I promise you that I will attend the next one’ /p /li /ul p The World Cup referee from Somalia who was denied entry to the US arrived on Wednesday in Somalia’s capital, Mogadishu, where he was received by a crowd of supporters and officials. /p p Omar Artan was due to b"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/10/referee-omar-artan-given-heros-welcome-somalia-after-us-entry-blocked",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 10 Jun 2026 08:11:00 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/10/how-to-survive-late-night-world-cup-games-longsuffering-australian-guide",
-      "title": {
-        "ar": "How to survive those late-night World Cup games: a longsuffering Australian’s guide",
-        "en": "How to survive those late-night World Cup games: a longsuffering Australian’s guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Football and sleep deprivation walk hand-in-hand in Australia. We’ve tried every approach viewers in the UK and Europe are now contemplating for this year’s tournament /p p Two years ago, as I was preparing for the birth of my first child, a friend offered me some sage advice. There were many sleepless nights ahead. That was a certainty. But ther",
-        "en": "p Football and sleep deprivation walk hand-in-hand in Australia. We’ve tried every approach viewers in the UK and Europe are now contemplating for this year’s tournament /p p Two years ago, as I was preparing for the birth of my first child, a friend offered me some sage advice. There were many sleepless nights ahead. That was a certainty. But ther"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/10/how-to-survive-late-night-world-cup-games-longsuffering-australian-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 10 Jun 2026 07:00:16 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/10/will-bbc-score-own-goal-broadcasting-fifa-world-cup-from-salford",
-      "title": {
-        "ar": "Will the BBC score an own goal by broadcasting the World Cup from Salford?",
-        "en": "Will the BBC score an own goal by broadcasting the World Cup from Salford?"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Football’s staying home for the belt-tightening Beeb, while ITV and Gary Lineker’s popular podcast present from glitzy studios in New York /p p It is the biggest a href=\"https://www.theguardian.com/football/fifa+world-cup-football\" World Cup /a in history, and perhaps the most unpredictable. How will England and Scotland fare in the heat? Who dre",
-        "en": "p Football’s staying home for the belt-tightening Beeb, while ITV and Gary Lineker’s popular podcast present from glitzy studios in New York /p p It is the biggest a href=\"https://www.theguardian.com/football/fifa+world-cup-football\" World Cup /a in history, and perhaps the most unpredictable. How will England and Scotland fare in the heat? Who dre"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/10/will-bbc-score-own-goal-broadcasting-fifa-world-cup-from-salford",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 10 Jun 2026 07:00:14 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/10/dr-congo-world-cup-2026-team-guide",
-      "title": {
-        "ar": "DR Congo World Cup 2026 team guide",
-        "en": "DR Congo World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Sébastian Desabre’s group has a clear collective identity but star forward Yoane Wissa will shoulder huge expectations /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organis",
-        "en": "p Sébastian Desabre’s group has a clear collective identity but star forward Yoane Wissa will shoulder huge expectations /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best media organis"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/10/dr-congo-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 10 Jun 2026 07:00:13 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge",
-      "title": {
-        "ar": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
-        "en": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? /p ul li p a href=\"mailto:knowledge@theguardian.com\" strong Mail us /strong /a strong with your all of your questions and answers /strong /p /li /ul p strong “The opening match of the year’s World Cup is Mexico v South Africa,” /strong notes Ma",
-        "en": "p Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? /p ul li p a href=\"mailto:knowledge@theguardian.com\" strong Mail us /strong /a strong with your all of your questions and answers /strong /p /li /ul p strong “The opening match of the year’s World Cup is Mexico v South Africa,” /strong notes Ma"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 10 Jun 2026 07:00:13 GMT",
       "rewritten": false,
       "lang": "en"
     }
