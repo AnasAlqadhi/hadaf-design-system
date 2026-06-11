@@ -1,8 +1,483 @@
 {
   "version": 2,
-  "updated": "2026-06-11T04:39:30.107Z",
+  "updated": "2026-06-11T10:48:33.783Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/mexico-vs-south-africa/live/549767",
+      "title": {
+        "ar": "Mexico vs South Africa: Predict the score for the World Cup opener",
+        "en": "Mexico vs South Africa: Predict the score for the World Cup opener"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-world-cup-group-a_7253906.jpg?20260520121126",
+      "url": "https://www.skysports.com/football/mexico-vs-south-africa/live/549767",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 11 Jun 2026 11:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/darts/news/12040/13550719/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-luke-littler-and-luke-humphries-return-to-represent-england",
+      "title": {
+        "ar": "World Cup of Darts starts today! Who is playing and how does it work?",
+        "en": "World Cup of Darts starts today! Who is playing and how does it work?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/25/06/1920x1080/skysports-northern-ireland_6943047.jpg?20250615213207",
+      "url": "https://www.skysports.com/darts/news/12040/13550719/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-luke-littler-and-luke-humphries-return-to-represent-england",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/cricket/news/12040/13551969/icc-womens-t20-world-cup-england-want-to-emulate-lionesses-and-inspire-more-women-and-girls-to-play-cricket-ahead-of-tournament",
+      "title": {
+        "ar": "'A huge moment' - Can England seize Women's T20 World Cup opportunity?",
+        "en": "'A huge moment' - Can England seize Women's T20 World Cup opportunity?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-cricket_7270220.jpg?20260610183440",
+      "url": "https://www.skysports.com/cricket/news/12040/13551969/icc-womens-t20-world-cup-england-want-to-emulate-lionesses-and-inspire-more-women-and-girls-to-play-cricket-ahead-of-tournament",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 11 Jun 2026 08:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13552925/england-declan-rice-hungry-for-world-cup-after-arsenals-pl-glory",
+      "title": {
+        "ar": "'I got itchy feet' | Rice raring for World Cup after Arsenal's PL success",
+        "en": "'I got itchy feet' | Rice raring for World Cup after Arsenal's PL success"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-declan-rice-england_7270491.jpg?20260611072724",
+      "url": "https://www.skysports.com/watch/video/13552925/england-declan-rice-hungry-for-world-cup-after-arsenals-pl-glory",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 11 Jun 2026 07:11:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/darts/news/12040/13551189/world-cup-of-darts-2026-players-to-watch-with-paul-lim-motomu-sakai-man-lok-leung-and-nitin-kumar-in-action",
+      "title": {
+        "ar": "World Cup of Darts: Meet the cult stars you MUST watch",
+        "en": "World Cup of Darts: Meet the cult stars you MUST watch"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "live on Sky Sports.]]>",
+        "en": "live on Sky Sports.]]>"
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-nitin-kumar-motomu-sakai_7267578.jpg?20260607155701",
+      "url": "https://www.skysports.com/darts/news/12040/13551189/world-cup-of-darts-2026-players-to-watch-with-paul-lim-motomu-sakai-man-lok-leung-and-nitin-kumar-in-action",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 09 Jun 2026 07:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13552924/england-thomas-tuchel-praises-preparation-for-world-cup-but-demands-the-next-level",
+      "title": {
+        "ar": "'We want the next level' | Tuchel praises preparation as England eye World Cup",
+        "en": "'We want the next level' | Tuchel praises preparation as England eye World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-thomas-tuchel-england_7270482.jpg?20260611071714",
+      "url": "https://www.skysports.com/watch/video/13552924/england-thomas-tuchel-praises-preparation-for-world-cup-but-demands-the-next-level",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 11 Jun 2026 07:10:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13552929/thomas-tuchel-england-set-tone-for-world-cup-bid-in-convincing-costa-rica-win-says-three-lions-boss",
+      "title": {
+        "ar": "Tuchel: England have 'set tone' for World Cup bid",
+        "en": "Tuchel: England have 'set tone' for World Cup bid"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-thomas-tuchel-england_7270485.jpg?20260611071927",
+      "url": "https://www.skysports.com/football/news/12040/13552929/thomas-tuchel-england-set-tone-for-world-cup-bid-in-convincing-costa-rica-win-says-three-lions-boss",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 11 Jun 2026 07:09:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/jun/11/world-cup-2026-countdown-opener-mexico-south-africa-south-korea-czechialive",
+      "title": {
+        "ar": "World Cup 2026: countdown to opener, NYC renames street after Thierry Henry, Infantino tells fans to ‘chill’ – live",
+        "en": "World Cup 2026: countdown to opener, NYC renames street after Thierry Henry, Infantino tells fans to ‘chill’ – live"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p ⚽️ a href=\"https://www.theguardian.com/football/2026/jun/10/gianni-infantino-fifa-criticism-2026-world-cup\" Infantino tells fans to ‘chill’ in response to Fifa’s critics /a br ⚽️ a href=\"https://www.theguardian.com/football/world-cup-2026/overview\" Match centre /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup",
+        "en": "p ⚽️ a href=\"https://www.theguardian.com/football/2026/jun/10/gianni-infantino-fifa-criticism-2026-world-cup\" Infantino tells fans to ‘chill’ in response to Fifa’s critics /a br ⚽️ a href=\"https://www.theguardian.com/football/world-cup-2026/overview\" Match centre /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/11/world-cup-2026-countdown-opener-mexico-south-africa-south-korea-czechialive",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 10:26:52 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/11/world-cup-group-games-10-not-miss-scotland-brazil-netherlands-japan-france-senegal",
+      "title": {
+        "ar": "Don’t have time to watch 72 World Cup group games? Here are 10 not to miss",
+        "en": "Don’t have time to watch 72 World Cup group games? Here are 10 not to miss"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Watching 108 hours of football is not for everyone but there are some crackers in the group stage, including Scotland v Brazil, Netherlands v Japan and France v Senegal /p p By a href=\"https://theanalyst.com/\" Opta Analyst /a /p p The days of watching every game at the World Cup are long gone for most of us. The expansion to 48 teams means 72 gro",
+        "en": "p Watching 108 hours of football is not for everyone but there are some crackers in the group stage, including Scotland v Brazil, Netherlands v Japan and France v Senegal /p p By a href=\"https://theanalyst.com/\" Opta Analyst /a /p p The days of watching every game at the World Cup are long gone for most of us. The expansion to 48 teams means 72 gro"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/world-cup-group-games-10-not-miss-scotland-brazil-netherlands-japan-france-senegal",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 09:00:18 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/11/52-womens-clubs-demand-vote-fa-plans-wsl-academy-sides-join-third-tier",
+      "title": {
+        "ar": "‘We feel betrayed’: 52 clubs demand vote on plans for WSL academy sides to join third tier",
+        "en": "‘We feel betrayed’: 52 clubs demand vote on plans for WSL academy sides to join third tier"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p National League sides write to FA as backlash intensifies /p /li li p Plans viewed as ‘a disaster waiting to happen’ /p /li /ul p An alliance of 52 Women’s National League clubs who oppose plans for Women’s Super League’s academy sides a href=\"https://www.theguardian.com/football/2026/may/22/wsl-academy-sides-heading-for-third-tier-in-engla",
+        "en": "ul li p National League sides write to FA as backlash intensifies /p /li li p Plans viewed as ‘a disaster waiting to happen’ /p /li /ul p An alliance of 52 Women’s National League clubs who oppose plans for Women’s Super League’s academy sides a href=\"https://www.theguardian.com/football/2026/may/22/wsl-academy-sides-heading-for-third-tier-in-engla"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/52-womens-clubs-demand-vote-fa-plans-wsl-academy-sides-join-third-tier",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 08:57:42 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/11/mexico-hoping-football-emerges-from-the-chaos-surrounding-world-cup",
+      "title": {
+        "ar": "Mexico hoping football emerges from the chaos surrounding World Cup",
+        "en": "Mexico hoping football emerges from the chaos surrounding World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p It may just be time to forget the sullied buildup and enjoy the tournament although co-hosts are not optimistic /p p It has been difficult to go anywhere in Mexico City this week without seeing Hugo Sánchez, the great former Real Madrid striker, trying to sell you something. Raúl Jiménez is on a few billboards and Toluca’s Alexis Vega on a couple",
+        "en": "p It may just be time to forget the sullied buildup and enjoy the tournament although co-hosts are not optimistic /p p It has been difficult to go anywhere in Mexico City this week without seeing Hugo Sánchez, the great former Real Madrid striker, trying to sell you something. Raúl Jiménez is on a few billboards and Toluca’s Alexis Vega on a couple"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/mexico-hoping-football-emerges-from-the-chaos-surrounding-world-cup",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 07:00:10 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/11/panama-world-cup-2026-team-guide",
+      "title": {
+        "ar": "Panama World Cup 2026 team guide",
+        "en": "Panama World Cup 2026 team guide"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p After impressive showings in recent major tournaments, Thomas Christiansen’s players are aiming to prove a point on the global stage /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best",
+        "en": "p After impressive showings in recent major tournaments, Thomas Christiansen’s players are aiming to prove a point on the global stage /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/panama-world-cup-2026-team-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 07:00:09 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c98m6r28024o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "\"معبد وكاتدرائية\" كرة القدم، \"أزتيكا\" الملعب الوحيد الذي يستضيف ثلاث بطولات لكأس العالم",
+        "en": "\"معبد وكاتدرائية\" كرة القدم، \"أزتيكا\" الملعب الوحيد الذي يستضيف ثلاث بطولات لكأس العالم"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/56ff/live/994464f0-40e9-11f1-a082-d7855cb345fe.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c98m6r28024o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Thu, 11 Jun 2026 06:29:43 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/jun/11/mexico-football-pitches-aerial-photo-essay",
+      "title": {
+        "ar": "Fields of the Gods: Mexico’s football pitches from above – photo essay",
+        "en": "Fields of the Gods: Mexico’s football pitches from above – photo essay"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p In Mexico, football is played wherever space permits. The Reuters photographer Raquel Cunha spent three months taking photos of amateur matches across Mexico City and beyond /p p Across Mexico, a co-host of the 2026 World Cup, football pitches are laid out wherever communities can find the space. On the edges of towns, on highway underpasses, and",
+        "en": "p In Mexico, football is played wherever space permits. The Reuters photographer Raquel Cunha spent three months taking photos of amateur matches across Mexico City and beyond /p p Across Mexico, a co-host of the 2026 World Cup, football pitches are laid out wherever communities can find the space. On the edges of towns, on highway underpasses, and"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/world/2026/jun/11/mexico-football-pitches-aerial-photo-essay",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 06:00:08 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/11/mo-toure-injury-scare-world-cup-socceroos-striker",
+      "title": {
+        "ar": "Striker Mo Touré sends injury scare through Socceroos camp on eve of World Cup",
+        "en": "Striker Mo Touré sends injury scare through Socceroos camp on eve of World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Australia forward misses training three days from Turkey match /p /li li p Tony Popovic’s squad is thin on specialist attacking options /p /li /ul p Socceroos striker Mo Touré sent a scare through camp days before the team’s World Cup opener after he missed training on Wednesday (Thursday AEST), highlighting the vulnerability of a squad thi",
+        "en": "ul li p Australia forward misses training three days from Turkey match /p /li li p Tony Popovic’s squad is thin on specialist attacking options /p /li /ul p Socceroos striker Mo Touré sent a scare through camp days before the team’s World Cup opener after he missed training on Wednesday (Thursday AEST), highlighting the vulnerability of a squad thi"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/mo-toure-injury-scare-world-cup-socceroos-striker",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 04:46:30 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/11/jude-bellingham-england-world-cup-opener-kane-tuchel-costa-rica-analysis",
+      "title": {
+        "ar": "Jude Bellingham clicks alongside Kane at last. He should start in England’s World Cup opener | Jacob Steinberg",
+        "en": "Jude Bellingham clicks alongside Kane at last. He should start in England’s World Cup opener | Jacob Steinberg"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Midfielder delivered complete performance against Costa Rica that should make up Thomas Tuchel’s mind for him /p p It only took eight seconds for Jude Bellingham to steal the lightning’s thunder. Given the nod over Morgan Rogers, Bellingham set the tone for England when their friendly against Costa Rica finally got under way. The No 10 pressed fr",
+        "en": "p Midfielder delivered complete performance against Costa Rica that should make up Thomas Tuchel’s mind for him /p p It only took eight seconds for Jude Bellingham to steal the lightning’s thunder. Given the nod over Morgan Rogers, Bellingham set the tone for England when their friendly against Costa Rica finally got under way. The No 10 pressed fr"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/jude-bellingham-england-world-cup-opener-kane-tuchel-costa-rica-analysis",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 00:18:11 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/cd0m5xrxj4ro?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "داخل دماغ لاعب كرة القدم",
+        "en": "داخل دماغ لاعب كرة القدم"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0cd4/live/a614c130-6280-11f1-8b8c-6d33e1d5abb6.jpg",
+      "url": "https://www.bbc.com/arabic/articles/cd0m5xrxj4ro?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sun, 07 Jun 2026 15:00:44 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13552812/world-cup-england-win-final-warm-up-against-costa-rica-so-are-they-ready-to-challenge-for-tournament-glory",
       "title": {
@@ -279,31 +754,6 @@
       "lang": "ar"
     },
     {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.skysports.com/football/news/12040/13550717/world-cup-how-usa-is-embracing-football-and-impacting-the-global-game",
       "title": {
         "ar": "Is football impacting the US? Or is the US impacting football?",
@@ -529,31 +979,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
-      "title": {
-        "ar": "Bracketology: predict a path to World Cup victory",
-        "en": "Bracketology: predict a path to World Cup victory"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a",
-        "en": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 10:00:48 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.skysports.com/football/news/12040/13552649/jude-bellingham-jamie-carragher-fears-real-madrid-stars-england-role-could-dominate-airwaves-at-world-cup",
       "title": {
         "ar": "Carragher fears over Bellingham’s England role at World Cup",
@@ -775,31 +1200,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Wed, 10 Jun 2026 10:00:17 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "title": {
-        "ar": "World Cup 2026: guide to all 1,248 players",
-        "en": "World Cup 2026: guide to all 1,248 players"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a",
-        "en": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 08:55:49 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1600,406 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Tue, 09 Jun 2026 19:00:02 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/09/atletico-madrid-reject-129m-bid-from-real-madrid-for-julian-alvarez",
-      "title": {
-        "ar": "Atlético Madrid reject £129m bid from Real Madrid for Julián Alvarez",
-        "en": "Atlético Madrid reject £129m bid from Real Madrid for Julián Alvarez"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Real Madrid reveal they have made offer for Argentinian /p /li li p Arbeloa departs club, paving way for Mourinho return /p /li /ul p Real Madrid have revealed they have had a €150m (£129.4m) bid for Julián Alvarez rejected by city rivals Atlético Madrid. The Argentina striker has scored 49 goals in 106 appearances for Atlético since joinin",
-        "en": "ul li p Real Madrid reveal they have made offer for Argentinian /p /li li p Arbeloa departs club, paving way for Mourinho return /p /li /ul p Real Madrid have revealed they have had a €150m (£129.4m) bid for Julián Alvarez rejected by city rivals Atlético Madrid. The Argentina striker has scored 49 goals in 106 appearances for Atlético since joinin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/09/atletico-madrid-reject-129m-bid-from-real-madrid-for-julian-alvarez",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 09 Jun 2026 18:21:01 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/09/meet-the-philosopher-in-training-who-will-be-at-the-var-monitor-this-world-cup",
-      "title": {
-        "ar": "Meet the philosopher-in-training who will be at the VAR monitor this World Cup",
-        "en": "Meet the philosopher-in-training who will be at the VAR monitor this World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Joe Dickerson is one of North America’s best referees, but he’ll be off the field in a high-pressure position when the World Cup begins /p p strong • /strong a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" strong Predict the winner /strong /a strong | /strong a href=\"https:",
-        "en": "p Joe Dickerson is one of North America’s best referees, but he’ll be off the field in a high-pressure position when the World Cup begins /p p strong • /strong a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" strong Predict the winner /strong /a strong | /strong a href=\"https:"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/09/meet-the-philosopher-in-training-who-will-be-at-the-var-monitor-this-world-cup",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 09 Jun 2026 16:30:02 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/09/colombia-world-cup-2026-team-guide",
-      "title": {
-        "ar": "Colombia World Cup 2026 team guide",
-        "en": "Colombia World Cup 2026 team guide"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Luis Díaz is the leading light of an extremely well-supported team still built around the 2014 golden boot winner James Rodríguez /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best me",
-        "en": "p Luis Díaz is the leading light of an extremely well-supported team still built around the 2014 golden boot winner James Rodríguez /p p em This article is part of the Guardian’s a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\" 2026 World Cup Experts’ Network /a , a cooperation between some of the best me"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/09/colombia-world-cup-2026-team-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 09 Jun 2026 15:00:00 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "title": {
-        "ar": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-        "en": "Women’s transfer window summer 2026: all deals from world’s top six leagues"
-      },
-      "kicker": {
-        "ar": "الدوري الإيطالي",
-        "en": "Serie A"
-      },
-      "excerpt": {
-        "ar": "p Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Continue reading... /a",
-        "en": "p Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 08 Jun 2026 09:00:05 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-      "title": {
-        "ar": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-        "en": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues\" Continue reading... /a",
-        "en": "p All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 08 Jun 2026 09:00:03 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13552254/englands-world-cup-chances-assessed-as-they-are-rated-third-favourites-behind-spain-and-france-between-the-lines",
-      "title": {
-        "ar": "England third favourites? Their real World Cup chances assessed",
-        "en": "England third favourites? Their real World Cup chances assessed"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-between-the-lines_7269170.jpg?20260609145653",
-      "url": "https://www.skysports.com/football/news/12040/13552254/englands-world-cup-chances-assessed-as-they-are-rated-third-favourites-behind-spain-and-france-between-the-lines",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 09 Jun 2026 16:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "title": {
-        "ar": "England latest: My best chance to win World Cup - and maybe my last, says Kane",
-        "en": "England latest: My best chance to win World Cup - and maybe my last, says Kane"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/05/1920x1080/skysports-world-cup-england_7255431.jpg?20260522080147",
-      "url": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 07 Jun 2026 19:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/09/crystal-palace-to-appoint-pierre-sage-head-coach-two-year-deal",
-      "title": {
-        "ar": "Crystal Palace poised to appoint Pierre Sage as head coach on two-year deal",
-        "en": "Crystal Palace poised to appoint Pierre Sage as head coach on two-year deal"
-      },
-      "kicker": {
-        "ar": "الدوري الفرنسي",
-        "en": "Ligue 1"
-      },
-      "excerpt": {
-        "ar": "ul li p Sage guided Lens to second place in Ligue 1 this season /p /li li p Glasner likely to join Milan after rejecting Feyenoord offer /p /li /ul p Crystal Palace are poised to appoint Pierre Sage as Oliver Glasner’s successor after holding productive talks with the Frenchman. /p p Sage, who guided Lens to the Coupe de France and second place in ",
-        "en": "ul li p Sage guided Lens to second place in Ligue 1 this season /p /li li p Glasner likely to join Milan after rejecting Feyenoord offer /p /li /ul p Crystal Palace are poised to appoint Pierre Sage as Oliver Glasner’s successor after holding productive talks with the Frenchman. /p p Sage, who guided Lens to the Coupe de France and second place in "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/09/crystal-palace-to-appoint-pierre-sage-head-coach-two-year-deal",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 09 Jun 2026 14:17:37 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/ce95j1npllxo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "علماء: الفيفا تخاطر بسلامة اللاعبين المشاركين بكأس العالم بسبب الحرارة",
-        "en": "علماء: الفيفا تخاطر بسلامة اللاعبين المشاركين بكأس العالم بسبب الحرارة"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20fb/live/3abb52a0-4f57-11f1-8477-5bdfd2412ea9.jpg",
-      "url": "https://www.bbc.com/arabic/articles/ce95j1npllxo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Tue, 09 Jun 2026 14:10:35 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/09/world-cup-mascots-world-cup-willie-world-cup-2026-maple-zayu-clutch",
-      "title": {
-        "ar": "From World Cup Willie to Tip and Tap: a nostalgic nod to the era of lovably quirky mascots",
-        "en": "From World Cup Willie to Tip and Tap: a nostalgic nod to the era of lovably quirky mascots"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p This year’s World Cup serves up yet more soulless, corporate animal slop to leave fans pining for the days of unique talismans /p p World Cup Willie marched on to the scene in 1966 with a spiky mane, bovver boy stance, bulbous brogues and – intriguingly for a World Cup held entirely in England – a union jack shirt. The product of a five-minute sk",
-        "en": "p This year’s World Cup serves up yet more soulless, corporate animal slop to leave fans pining for the days of unique talismans /p p World Cup Willie marched on to the scene in 1966 with a spiky mane, bovver boy stance, bulbous brogues and – intriguingly for a World Cup held entirely in England – a union jack shirt. The product of a five-minute sk"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/09/world-cup-mascots-world-cup-willie-world-cup-2026-maple-zayu-clutch",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 09 Jun 2026 14:00:53 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/09/world-cup-2026-visa-restrictions-referee-omar-artan-iran-officials",
-      "title": {
-        "ar": "World Cup 2026 visa chaos: from referee Omar Artan to Iranian officials – who is affected?",
-        "en": "World Cup 2026 visa chaos: from referee Omar Artan to Iranian officials – who is affected?"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Fifa has found its tournament squarely caught up in the second Trump administration’s aggressive border restrictions /p p For successive men’s World Cup tournaments Fifa has managed to bulldoze its way through costly immigration and entry requirements. In 2014, Brazil passed a law granting free temporary visas to ticket holders, and for Russia an",
-        "en": "p Fifa has found its tournament squarely caught up in the second Trump administration’s aggressive border restrictions /p p For successive men’s World Cup tournaments Fifa has managed to bulldoze its way through costly immigration and entry requirements. In 2014, Brazil passed a law granting free temporary visas to ticket holders, and for Russia an"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/09/world-cup-2026-visa-restrictions-referee-omar-artan-iran-officials",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 09 Jun 2026 13:45:06 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/blog/live/2026/jun/09/world-cup-reader-qa-post-your-questions-for-ewan-murray-now",
-      "title": {
-        "ar": "World Cup reader Q&A: post your questions for Ewan Murray now",
-        "en": "World Cup reader Q&A: post your questions for Ewan Murray now"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p We’re two days away from the start of the biggest World Cup ever. Football correspondent Ewan Murray is in North Carolina with the Scotland team ahead of their game against Haiti this weekend. br strong br Post your questions in the comments now on Scotland’s chances and anything World Cup-related. Ewan will be here answering them at around 5pm B",
-        "en": "p We’re two days away from the start of the biggest World Cup ever. Football correspondent Ewan Murray is in North Carolina with the Scotland team ahead of their game against Haiti this weekend. br strong br Post your questions in the comments now on Scotland’s chances and anything World Cup-related. Ewan will be here answering them at around 5pm B"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/blog/live/2026/jun/09/world-cup-reader-qa-post-your-questions-for-ewan-murray-now",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 09 Jun 2026 13:18:08 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/picture/2026/jun/09/david-squires-world-cup-reimagined-gianni-infantinos-west-side-story-cartoon",
-      "title": {
-        "ar": "David Squires on … the World Cup reimagined as Gianni Infantino’s West Side Story",
-        "en": "David Squires on … the World Cup reimagined as Gianni Infantino’s West Side Story"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p As football’s greatest spectacle comes to North America, our cartoonist creates a heartwarming narrative around the Fifa president /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires\" strong Buy a cartoon /strong /a strong | /strong a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-c",
-        "en": "p As football’s greatest spectacle comes to North America, our cartoonist creates a heartwarming narrative around the Fifa president /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires\" strong Buy a cartoon /strong /a strong | /strong a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-c"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/picture/2026/jun/09/david-squires-world-cup-reimagined-gianni-infantinos-west-side-story-cartoon",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 09 Jun 2026 11:38:58 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/cx2k5wrrdpvo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "مباراة كرة قدم أشعلت حرباً بين دولتين",
-        "en": "مباراة كرة قدم أشعلت حرباً بين دولتين"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5ce9/live/3e6ef600-63f6-11f1-b1db-af71d47507d6.jpg",
-      "url": "https://www.bbc.com/arabic/articles/cx2k5wrrdpvo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Tue, 09 Jun 2026 11:33:14 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/09/africa-10-contenders-teams-world-cup-2026-morocco-egypt-senegal-cote-d-ivoire",
-      "title": {
-        "ar": "‘We are knocking on the door’: Africa’s 10 contenders target World Cup glory",
-        "en": "‘We are knocking on the door’: Africa’s 10 contenders target World Cup glory"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Morocco’s semi-final appearance in Qatar has raised the possibility of an African team reaching the final, but who are best poised to do so? /p p With a record 10 African teams at the first 48-nation World Cup finals tournament, the big question, after Morocco’s historic a href=\"https://www.theguardian.com/football/2022/dec/14/france-morocco-worl",
-        "en": "p Morocco’s semi-final appearance in Qatar has raised the possibility of an African team reaching the final, but who are best poised to do so? /p p With a record 10 African teams at the first 48-nation World Cup finals tournament, the big question, after Morocco’s historic a href=\"https://www.theguardian.com/football/2022/dec/14/france-morocco-worl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/09/africa-10-contenders-teams-world-cup-2026-morocco-egypt-senegal-cote-d-ivoire",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 09 Jun 2026 11:18:55 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/09/football-regulator-could-force-david-sullivan-sell-west-ham-stake",
-      "title": {
-        "ar": "Football regulator could force David Sullivan to sell West Ham stake",
-        "en": "Football regulator could force David Sullivan to sell West Ham stake"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Former pornographer, who owns 38.8% of club, has been accused of sexually exploitative and predatory behaviour /p p The football regulator could force David Sullivan to sell his stake in West Ham United after the former pornography billionaire was accused of sexually exploitative and predatory behaviour against women over several decades. /p p Th",
-        "en": "p Former pornographer, who owns 38.8% of club, has been accused of sexually exploitative and predatory behaviour /p p The football regulator could force David Sullivan to sell his stake in West Ham United after the former pornography billionaire was accused of sexually exploitative and predatory behaviour against women over several decades. /p p Th"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/09/football-regulator-could-force-david-sullivan-sell-west-ham-stake",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 09 Jun 2026 10:24:10 GMT",
       "rewritten": false,
       "lang": "en"
     }
