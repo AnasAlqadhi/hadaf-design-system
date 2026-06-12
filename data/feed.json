@@ -1,8 +1,383 @@
 {
   "version": 2,
-  "updated": "2026-06-11T20:29:03.657Z",
+  "updated": "2026-06-12T04:41:49.155Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/darts/news/12040/13552971/world-cup-of-darts-wales-jonny-clayton-and-nick-kenny-get-off-to-winning-ways-as-germany-ireland-also-win",
+      "title": {
+        "ar": "World Cup of Darts: Wales' Clayton and Kenny get off to winning start in group stages",
+        "en": "World Cup of Darts: Wales' Clayton and Kenny get off to winning start in group stages"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-jonny-claytonwales_7271250.jpg?20260611222748",
+      "url": "https://www.skysports.com/darts/news/12040/13552971/world-cup-of-darts-wales-jonny-clayton-and-nick-kenny-get-off-to-winning-ways-as-germany-ireland-also-win",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 11 Jun 2026 22:58:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/darts/news/12040/13550475/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-northern-ireland-defend-crown-in-frankfurt",
+      "title": {
+        "ar": "World Cup of Darts 2026 schedule: Wales kick group-stage off with win",
+        "en": "World Cup of Darts 2026 schedule: Wales kick group-stage off with win"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-of-darts_7264633.jpg?20260603160958",
+      "url": "https://www.skysports.com/darts/news/12040/13550475/world-cup-of-darts-2026-schedule-dates-group-stage-draw-as-northern-ireland-defend-crown-in-frankfurt",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 11 Jun 2026 23:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13552946/world-cup-controversy-cannot-take-the-shine-off-the-greatest-show-on-earth-as-football-takes-centre-stage-in-mexico",
+      "title": {
+        "ar": "World Cup issues still cannot take shine off greatest show on earth",
+        "en": "World Cup issues still cannot take shine off greatest show on earth"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "emotional first World Cup goal for Raul Jimenez at the age of 35. ]]>",
+        "en": "emotional first World Cup goal for Raul Jimenez at the age of 35. ]]>"
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-mexico-south-africa_7271185.jpg?20260611210849",
+      "url": "https://www.skysports.com/football/news/12040/13552946/world-cup-controversy-cannot-take-the-shine-off-the-greatest-show-on-earth-as-football-takes-centre-stage-in-mexico",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Fri, 12 Jun 2026 05:35:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13553202/world-cup-of-darts-jonny-clayton-gets-off-to-winning-start-with-new-world-cup-partner",
+      "title": {
+        "ar": "'That is superb!' | Clayton gets off to winning start with new World Cup partner",
+        "en": "'That is superb!' | Clayton gets off to winning start with new World Cup partner"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-darts-world-cup_7271232.jpg?20260611221313",
+      "url": "https://www.skysports.com/watch/video/13553202/world-cup-of-darts-jonny-clayton-gets-off-to-winning-start-with-new-world-cup-partner",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 11 Jun 2026 22:10:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/mexico-vs-south-africa/report/549767",
+      "title": {
+        "ar": "THREE red cards as Mexico get World Cup started with win over South Africa",
+        "en": "THREE red cards as Mexico get World Cup started with win over South Africa"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-mexico-south-africa_7271214.jpg?20260611214704",
+      "url": "https://www.skysports.com/football/mexico-vs-south-africa/report/549767",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 11 Jun 2026 21:45:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/12/south-korea-czechia-world-cup-2026-group-a-match-report",
+      "title": {
+        "ar": "South Korea get off to winning start after rallying from goal down to beat Czechia",
+        "en": "South Korea get off to winning start after rallying from goal down to beat Czechia"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p South Korea rallied from a goal down to defeat the Czech Republic 2-1 and make a winning start to their World Cup Group A campaign, much to the delight of their fans and the sizeable local Mexican support they enjoyed in a festive Guadalajara. /p p The Koreans joined Mexico on three points at the top of the pool after the co-hosts defeated nine-m",
+        "en": "p South Korea rallied from a goal down to defeat the Czech Republic 2-1 and make a winning start to their World Cup Group A campaign, much to the delight of their fans and the sizeable local Mexican support they enjoyed in a festive Guadalajara. /p p The Koreans joined Mexico on three points at the top of the pool after the co-hosts defeated nine-m"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/12/south-korea-czechia-world-cup-2026-group-a-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 12 Jun 2026 04:08:39 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2026/jun/12/the-joy-of-six-forgotten-world-cup-goals",
+      "title": {
+        "ar": "The Joy of Six: forgotten World Cup goals",
+        "en": "The Joy of Six: forgotten World Cup goals"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p From Ogris’s Florentine charge to Quagliarella’s Ellis Park chip, half a dozen World Cup classics that deserve to be better remembered /p p The first six or seven World Cups certainly are not without their charms, but they are noticeably light on the kind of viscerally spectacular goals that we take for granted in the modern game. Hardly surprisi",
+        "en": "p From Ogris’s Florentine charge to Quagliarella’s Ellis Park chip, half a dozen World Cup classics that deserve to be better remembered /p p The first six or seven World Cups certainly are not without their charms, but they are noticeably light on the kind of viscerally spectacular goals that we take for granted in the modern game. Hardly surprisi"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2026/jun/12/the-joy-of-six-forgotten-world-cup-goals",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 12 Jun 2026 04:00:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/11/mexico-south-africa-world-cup-2026",
+      "title": {
+        "ar": "Triumph at the Azteca offers respite from strife on Mexico City’s streets  | Pablo Iglesias Maurer",
+        "en": "Triumph at the Azteca offers respite from strife on Mexico City’s streets  | Pablo Iglesias Maurer"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p One of football’s great arenas roared as El Tri eased past South Africa, offering fans a fleeting escape from the tensions gripping the capital /p p The walk to Estadio Ciudad de México – most fans know it as the Azteca – on Thursday did a pretty good job of laying out the two sides of Mexico as the World Cup kicked off. /p p Flanked by volunteer",
+        "en": "p One of football’s great arenas roared as El Tri eased past South Africa, offering fans a fleeting escape from the tensions gripping the capital /p p The walk to Estadio Ciudad de México – most fans know it as the Azteca – on Thursday did a pretty good job of laying out the two sides of Mexico as the World Cup kicked off. /p p Flanked by volunteer"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/mexico-south-africa-world-cup-2026",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 12 Jun 2026 01:23:37 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/11/jesse-masrch-canada-us-national-anthem-world-cup",
+      "title": {
+        "ar": "Jesse Marsch says he had to ‘beg’ US players to sing anthem as he talks up Canada’s pride",
+        "en": "Jesse Marsch says he had to ‘beg’ US players to sing anthem as he talks up Canada’s pride"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Marsch says players will embrace World Cup occasion /p /li li p Moïse Bombito and Ismaël Koné fit after injuries /p /li li p Weather concerns dismissed: ‘We’ll be ready.’ /p /li /ul p Jesse Marsch urged Canada to embrace the pressure of being co-hosts on the eve of their Group B opener and trumpeted his players’ pride at representing the na",
+        "en": "ul li p Marsch says players will embrace World Cup occasion /p /li li p Moïse Bombito and Ismaël Koné fit after injuries /p /li li p Weather concerns dismissed: ‘We’ll be ready.’ /p /li /ul p Jesse Marsch urged Canada to embrace the pressure of being co-hosts on the eve of their Group B opener and trumpeted his players’ pride at representing the na"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/jesse-masrch-canada-us-national-anthem-world-cup",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 23:47:46 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c9w2l8wwwr5o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "3 حالات طرد في المباراة الافتتاحية لكأس العالم، والمكسيك تهزم جنوب أفريقيا",
+        "en": "3 حالات طرد في المباراة الافتتاحية لكأس العالم، والمكسيك تهزم جنوب أفريقيا"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9dc2/live/8f95d300-65db-11f1-8546-8f19e4fe30f4.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c9w2l8wwwr5o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Thu, 11 Jun 2026 22:01:25 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/11/elliot-anderson-england-2026-world-cup-thomas-tuchel-nottingham-forest-manchester-city-transfer",
+      "title": {
+        "ar": "Elliot Anderson on the rise as face of England amid Manchester City transfer talk",
+        "en": "Elliot Anderson on the rise as face of England amid Manchester City transfer talk"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Midfielder’s meteoric climb could enter different stratosphere if he inspires World Cup glory and seals record move /p p The numbers around Elliot Anderson are rising fast – to extraordinary levels. A little like the player himself. At the beginning of last week, when he flew to Florida with the England squad for their pre-World Cup camp, he was ",
+        "en": "p Midfielder’s meteoric climb could enter different stratosphere if he inspires World Cup glory and seals record move /p p The numbers around Elliot Anderson are rising fast – to extraordinary levels. A little like the player himself. At the beginning of last week, when he flew to Florida with the England squad for their pre-World Cup camp, he was "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/11/elliot-anderson-england-2026-world-cup-thomas-tuchel-nottingham-forest-manchester-city-transfer",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 11 Jun 2026 18:00:22 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c9920ej97lro?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم: أرقام خالدة تروي حكاية 92 سنة من المونديال",
+        "en": "كأس العالم: أرقام خالدة تروي حكاية 92 سنة من المونديال"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb1f/live/8271c220-64a9-11f1-9c89-85486d952f7c.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c9920ej97lro?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Wed, 10 Jun 2026 08:54:52 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
+      "title": {
+        "ar": "Bracketology: predict a path to World Cup victory",
+        "en": "Bracketology: predict a path to World Cup victory"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a",
+        "en": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 10:00:48 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "title": {
+        "ar": "World Cup 2026: guide to all 1,248 players",
+        "en": "World Cup 2026: guide to all 1,248 players"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a",
+        "en": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 08:55:49 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "title": {
+        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
+        "en": "Sign up for the Recap newsletter: our free sport highlights email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
+        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/news/12040/13553162/jose-mourinho-to-real-madrid-former-chelsea-and-man-utd-boss-bernabeu-return-confirmed-by-spanish-giants",
       "title": {
@@ -252,56 +627,6 @@
       "pubDate": "Mon, 08 Jun 2026 09:41:59 GMT",
       "rewritten": false,
       "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "title": {
-        "ar": "Sign up for the Football Daily newsletter: our free football email",
-        "en": "Sign up for the Football Daily newsletter: our free football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
-        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "title": {
-        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
-        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
-        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
-      "rewritten": false,
-      "lang": "en"
     },
     {
       "id": "https://www.skysports.com/watch/video/13553023/world-cup-could-visa-issues-continue-to-define-fifas-biggest-tournament",
@@ -1675,331 +2000,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Wed, 10 Jun 2026 15:00:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/who-scored-blog/2026/jun/10/japan-ecuador-norway-dark-horses-world-cup-morocco-croatia-costa-rica",
-      "title": {
-        "ar": "Why Ecuador, Japan and Norway are the dark horses at this World Cup",
-        "en": "Why Ecuador, Japan and Norway are the dark horses at this World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p It was Morocco in 2022, Croatia in 2028 and Costa Rica in 2014. Which team will make an unexpected run in 2026? /p p By a href=\"https://www.whoscored.com/\" WhoScored /a /p p Every World Cup needs a dark horse: the team nobody quite planned for that disrupts the natural order and is remembered more vividly than the finalists. a href=\"https://www.t",
-        "en": "p It was Morocco in 2022, Croatia in 2028 and Costa Rica in 2014. Which team will make an unexpected run in 2026? /p p By a href=\"https://www.whoscored.com/\" WhoScored /a /p p Every World Cup needs a dark horse: the team nobody quite planned for that disrupts the natural order and is remembered more vividly than the finalists. a href=\"https://www.t"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/who-scored-blog/2026/jun/10/japan-ecuador-norway-dark-horses-world-cup-morocco-croatia-costa-rica",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 10 Jun 2026 14:30:49 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/10/everton-ordered-pay-burnley-premier-league-relegation-legal-case-psr-breaches",
-      "title": {
-        "ar": "Everton ordered to pay Burnley nearly £40m in Premier League relegation legal case",
-        "en": "Everton ordered to pay Burnley nearly £40m in Premier League relegation legal case"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "ul li p Burnley relegated in 2022 after Everton breached PSR /p /li li p Everton ‘angered’ by verdict and have appealed /p /li /ul p Burnley have won a landmark legal case against Everton for breaching Premier League financial rules, with the Merseysiders ordered to pay nearly £40m in compensation. It is the largest financial penalty ever imposed o",
-        "en": "ul li p Burnley relegated in 2022 after Everton breached PSR /p /li li p Everton ‘angered’ by verdict and have appealed /p /li /ul p Burnley have won a landmark legal case against Everton for breaching Premier League financial rules, with the Merseysiders ordered to pay nearly £40m in compensation. It is the largest financial penalty ever imposed o"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/10/everton-ordered-pay-burnley-premier-league-relegation-legal-case-psr-breaches",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 10 Jun 2026 14:29:37 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/10/football-daily-newsletter-doue-brothers-world-cup-2026",
-      "title": {
-        "ar": "Football Daily | Desiré and Guéla Doué lead way at World Cup bursting with brotherly love",
-        "en": "Football Daily | Desiré and Guéla Doué lead way at World Cup bursting with brotherly love"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p In case you missed it last week, there was a brilliant bit of camerawork in France’s warm-up match against the Côte d’Ivoire in Nantes. After the African side drew level through Guéla Doué, ",
-        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p In case you missed it last week, there was a brilliant bit of camerawork in France’s warm-up match against the Côte d’Ivoire in Nantes. After the African side drew level through Guéla Doué, "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/10/football-daily-newsletter-doue-brothers-world-cup-2026",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 10 Jun 2026 14:08:58 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/10/world-cup-2026-guardian-writers-predictions-for-the-tournament",
-      "title": {
-        "ar": "World Cup 2026: Guardian writers’ predictions for the tournament",
-        "en": "World Cup 2026: Guardian writers’ predictions for the tournament"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p From marvelling at teenage wonderkids to tracking the world’s largest coffee pot, our team of writers outline their expectations for the jamboree in North America /p ul li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" strong Use our Bracketology to click your way throug",
-        "en": "p From marvelling at teenage wonderkids to tracking the world’s largest coffee pot, our team of writers outline their expectations for the jamboree in North America /p ul li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" strong Use our Bracketology to click your way throug"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/10/world-cup-2026-guardian-writers-predictions-for-the-tournament",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 10 Jun 2026 13:17:10 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/10/exciting-transfer-window-will-only-exacerbate-womens-footballs-wealth-gap",
-      "title": {
-        "ar": "Exciting transfer window will only exacerbate women’s football’s wealth gap",
-        "en": "Exciting transfer window will only exacerbate women’s football’s wealth gap"
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "p Alexis Putellas leads a host of stars expected to arrive in the WSL but smaller clubs will still struggle to keep pace /p p The whistle has blown on the 2025-26 season for the vast majority of women’s teams around the world, and attention now turns to a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-s",
-        "en": "p Alexis Putellas leads a host of stars expected to arrive in the WSL but smaller clubs will still struggle to keep pace /p p The whistle has blown on the 2025-26 season for the vast majority of women’s teams around the world, and attention now turns to a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-s"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/10/exciting-transfer-window-will-only-exacerbate-womens-footballs-wealth-gap",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 10 Jun 2026 13:06:18 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/10/golden-goal-siphiwe-tshabalala-south-africa-mexico-2010-world-cup",
-      "title": {
-        "ar": "Golden goal: Siphiwe Tshabalala for South Africa v Mexico at the 2010 World Cup",
-        "en": "Golden goal: Siphiwe Tshabalala for South Africa v Mexico at the 2010 World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p The World Cup did not save South Africa. But for one second, it showed us the country we wanted to be /p p Before a href=\"https://www.theguardian.com/football/2010/jun/11/world-cup-2010-south-africa\" Siphiwe Tshabalala’s rocket from his left foot /a , before Peter Drury’s iconic commentary, before the wall of noise from thousands of vuvuzelas and",
-        "en": "p The World Cup did not save South Africa. But for one second, it showed us the country we wanted to be /p p Before a href=\"https://www.theguardian.com/football/2010/jun/11/world-cup-2010-south-africa\" Siphiwe Tshabalala’s rocket from his left foot /a , before Peter Drury’s iconic commentary, before the wall of noise from thousands of vuvuzelas and"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/10/golden-goal-siphiwe-tshabalala-south-africa-mexico-2010-world-cup",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 10 Jun 2026 11:00:18 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/10/folarin-balogun-usmnt-world-cup",
-      "title": {
-        "ar": "Folarin Balogun is the USMNT’s focal point, whether he’s getting touches or not",
-        "en": "Folarin Balogun is the USMNT’s focal point, whether he’s getting touches or not"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The Monaco striker’s impact on the US attack will vary depending on how the team builds up, and where that buildup happens /p p strong • /strong a href=\"https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer\" strong Free newsletter /strong /a strong | /strong a href=\"",
-        "en": "p The Monaco striker’s impact on the US attack will vary depending on how the team builds up, and where that buildup happens /p p strong • /strong a href=\"https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer\" strong Free newsletter /strong /a strong | /strong a href=\""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/10/folarin-balogun-usmnt-world-cup",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Wed, 10 Jun 2026 10:00:17 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13552640/too-good-to-be-true-the-dark-truth-behind-fake-football-shirts",
-      "title": {
-        "ar": "'Too good to be true!' | The dark truth behind fake football shirts",
-        "en": "'Too good to be true!' | The dark truth behind fake football shirts"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-kits_7269868.jpg?20260610110731",
-      "url": "https://www.skysports.com/watch/video/13552640/too-good-to-be-true-the-dark-truth-behind-fake-football-shirts",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 10 Jun 2026 11:04:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "title": {
-        "ar": "Chelsea latest: Michael Olise's brother among released players",
-        "en": "Chelsea latest: Michael Olise's brother among released players"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-xabi-alonso-chelsea_7246434.jpg?20260512120937",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 31 May 2026 19:47:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13545542/world-cup-2026-el-ni241o-extreme-weather-and-the-future-qa-with-climate-scientist-dr-ella-gilbert",
-      "title": {
-        "ar": "El Niño, extreme weather and the future: World Cup Q&A with a climate scientist",
-        "en": "El Niño, extreme weather and the future: World Cup Q&A with a climate scientist"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-dr-ella-gilbert-climate-scientist_7263855.jpg?20260602164218",
-      "url": "https://www.skysports.com/football/news/12040/13545542/world-cup-2026-el-ni241o-extreme-weather-and-the-future-qa-with-climate-scientist-dr-ella-gilbert",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 10 Jun 2026 10:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13552392/england-consigned-to-play-offs-to-reach-world-cup-2027-in-brazil-why-are-lionesses-labouring-so-badly",
-      "title": {
-        "ar": "Laboured Lionesses must sharpen up or risk missing out on World Cup",
-        "en": "Laboured Lionesses must sharpen up or risk missing out on World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-england-keira-walsh_7266818.jpg?20260606142629",
-      "url": "https://www.skysports.com/football/news/12040/13552392/england-consigned-to-play-offs-to-reach-world-cup-2027-in-brazil-why-are-lionesses-labouring-so-badly",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 10 Jun 2026 10:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/darts/news/12040/13551187/world-cup-of-darts-2026-pundit-predictions-for-winners-dark-horses-best-pairings-with-luke-littler-luke-humphries-josh-rock-in-action",
-      "title": {
-        "ar": "World Cup of Darts 2026: Pundit predictions with Littler, Humphries, Rock in action",
-        "en": "World Cup of Darts 2026: Pundit predictions with Littler, Humphries, Rock in action"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "Sky Sports, the pundits take a look at who are their favourites to win, the dark horses, and what looks to be the best pairing...]]>",
-        "en": "Sky Sports, the pundits take a look at who are their favourites to win, the dark horses, and what looks to be the best pairing...]]>"
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-darts-luke-humphries_7245614.jpg?20260511151800",
-      "url": "https://www.skysports.com/darts/news/12040/13551187/world-cup-of-darts-2026-pundit-predictions-for-winners-dark-horses-best-pairings-with-luke-littler-luke-humphries-josh-rock-in-action",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 05 Jun 2026 16:08:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/cricket/india-women-v-england-women/commentary/b4726136-9e8a-5468-a6db-78acaa098b67",
-      "title": {
-        "ar": "England face India in final T20 World Cup warm-up - updates",
-        "en": "England face India in final T20 World Cup warm-up - updates"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-sciver-brunt-england_7269807.jpg?20260610100641",
-      "url": "https://www.skysports.com/cricket/india-women-v-england-women/commentary/b4726136-9e8a-5468-a6db-78acaa098b67",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 10 Jun 2026 10:02:00 BST",
       "rewritten": false,
       "lang": "en"
     }
