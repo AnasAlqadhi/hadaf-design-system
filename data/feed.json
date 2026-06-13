@@ -1,8 +1,408 @@
 {
   "version": 2,
-  "updated": "2026-06-13T14:13:05.350Z",
+  "updated": "2026-06-13T19:44:43.358Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/netball/news/12040/13553780/netball-super-league-london-pulse-set-up-grand-final-against-manchester-thunder-with-victory-over-loughborough-lightning",
+      "title": {
+        "ar": "Pulse promise to 'spoil party' after setting up Thunder final in Manchester",
+        "en": "Pulse promise to 'spoil party' after setting up Thunder final in Manchester"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-sophie-kelly-london-pulse_7272696.jpg?20260613195108",
+      "url": "https://www.skysports.com/netball/news/12040/13553780/netball-super-league-london-pulse-set-up-grand-final-against-manchester-thunder-with-victory-over-loughborough-lightning",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 13 Jun 2026 18:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12040/13553602/barcelona-catalunya-grand-prix-george-russell-back-in-the-groove-after-big-reset-in-title-fight-with-kimi-antonelli",
+      "title": {
+        "ar": "Russell finding his groove again after 'big reset' in Barcelona",
+        "en": "Russell finding his groove again after 'big reset' in Barcelona"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-george-russell-barcelona-catalunya_7272649.jpg?20260613180841",
+      "url": "https://www.skysports.com/f1/news/12040/13553602/barcelona-catalunya-grand-prix-george-russell-back-in-the-groove-after-big-reset-in-title-fight-with-kimi-antonelli",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 13 Jun 2026 18:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/f1/news/12040/13553600/barcelona-catalunya-gp-qualifying-george-russell-pips-lewis-hamilton-to-pole-position-as-charles-lederc-crashes-out",
+      "title": {
+        "ar": "Russell just pips Hamilton to Barcelona pole as Leclerc crashes out",
+        "en": "Russell just pips Hamilton to Barcelona pole as Leclerc crashes out"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-lewis-hamilton-ferrari_7272539.jpg?20260613163903",
+      "url": "https://www.skysports.com/f1/news/12040/13553600/barcelona-catalunya-gp-qualifying-george-russell-pips-lewis-hamilton-to-pole-position-as-charles-lederc-crashes-out",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 13 Jun 2026 16:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13553726/barcelona-catalunya-gp-qualifying-highlights",
+      "title": {
+        "ar": "Russell regains mojo to claim dramatic Barcelona pole over Hamilton!",
+        "en": "Russell regains mojo to claim dramatic Barcelona pole over Hamilton!"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-barcelona-cataluntya_7272531.jpg?20260613162952",
+      "url": "https://www.skysports.com/watch/video/13553726/barcelona-catalunya-gp-qualifying-highlights",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 13 Jun 2026 16:25:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13553679/world-cup-2026-usas-folarin-balogun-stars-against-paraguay-after-rise-at-arsenal-and-switch-away-from-england",
+      "title": {
+        "ar": "How Balogun went from Arsenal and England U21s to America's star",
+        "en": "How Balogun went from Arsenal and England U21s to America's star"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-folarin-balogun-usa_7272370.jpg?20260613133346",
+      "url": "https://www.skysports.com/football/news/12040/13553679/world-cup-2026-usas-folarin-balogun-stars-against-paraguay-after-rise-at-arsenal-and-switch-away-from-england",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 13 Jun 2026 17:30:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.co.uk/arabic/live/cdxdel05y1kt?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم: سويسرا تتقدم على قطر بهدف في أولى مباريات العرب في المونديال",
+        "en": "كأس العالم: سويسرا تتقدم على قطر بهدف في أولى مباريات العرب في المونديال"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d975/live/a1b9ef60-675e-11f1-84bd-073699aa66dd.jpg",
+      "url": "https://www.bbc.co.uk/arabic/live/cdxdel05y1kt?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "2026-06-13T19:44:25.778Z",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live",
+      "title": {
+        "ar": "Qatar v Switzerland: World Cup 2026 – live",
+        "en": "Qatar v Switzerland: World Cup 2026 – live"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p ⚽️ Kick-off 12pm local, 3pm EST, 8pm BST, 4am Sun AEST br ⚽️ a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Player guide /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Bracketology /a | a href=\"https://www",
+        "en": "p ⚽️ Kick-off 12pm local, 3pm EST, 8pm BST, 4am Sun AEST br ⚽️ a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Player guide /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Bracketology /a | a href=\"https://www"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/13/qatar-v-switzerland-world-cup-2026-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 13 Jun 2026 19:37:53 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/13/best-in-asia-no-longer-enough-japan-world-cup-breakthrough",
+      "title": {
+        "ar": "Being the best in Asia is no longer enough for Japan seeking World Cup breakthrough | Jonathan Wilson",
+        "en": "Being the best in Asia is no longer enough for Japan seeking World Cup breakthrough | Jonathan Wilson"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Despite missing key players, Hajime Moriyasu’s side have built strength in depth to challenge the traditional order /p p In 2002 there was a sense that Japan had slightly missed an opportunity. South Korea may have enjoyed the benefit of some favourable refereeing, but they also impressed. They were quick, technically good and tactically extremel",
+        "en": "p Despite missing key players, Hajime Moriyasu’s side have built strength in depth to challenge the traditional order /p p In 2002 there was a sense that Japan had slightly missed an opportunity. South Korea may have enjoyed the benefit of some favourable refereeing, but they also impressed. They were quick, technically good and tactically extremel"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/13/best-in-asia-no-longer-enough-japan-world-cup-breakthrough",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 13 Jun 2026 19:00:21 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/13/world-cup-mascots-drugs-raid-peru",
+      "title": {
+        "ar": "Clutch time: Canadian and US World Cup mascots feature in Peruvian drugs raid",
+        "en": "Clutch time: Canadian and US World Cup mascots feature in Peruvian drugs raid"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Lima police dress as mascots in raid on suspect /p /li li p Zayu the Jaguar left out of police operation /p /li /ul p While tensions between Canada and the United States have risen in the last few years as Donald Trump has made threats to turn his northern neighbor into a 51st state of America, there has been some mutual cooperation in crim",
+        "en": "ul li p Lima police dress as mascots in raid on suspect /p /li li p Zayu the Jaguar left out of police operation /p /li /ul p While tensions between Canada and the United States have risen in the last few years as Donald Trump has made threats to turn his northern neighbor into a 51st state of America, there has been some mutual cooperation in crim"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/13/world-cup-mascots-drugs-raid-peru",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 13 Jun 2026 15:39:53 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c20ypxl5jj6o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم 2026: جدل حفلات الافتتاح، وغياب ترامب، والمقاعد الفارغة",
+        "en": "كأس العالم 2026: جدل حفلات الافتتاح، وغياب ترامب، والمقاعد الفارغة"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/85a3/live/ce02f260-6745-11f1-b4c1-47ccd10ce929.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c20ypxl5jj6o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sat, 13 Jun 2026 15:04:28 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/13/big-lalas-energy-to-ulcerative-colitis-meds-fox-is-this-world-cups-very-soul-in-the-us",
+      "title": {
+        "ar": "Big Lalas Energy to ulcerative colitis meds: Fox is this World Cup’s very soul in the US",
+        "en": "Big Lalas Energy to ulcerative colitis meds: Fox is this World Cup’s very soul in the US"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p The US version of the tournament’s opening ceremony helpfully focused on one of its main themes: aspirational consumerism /p p The 2026 World Cup: a festival of football; a moment to revel in upsets, spectacular goals, stars made, and reputations ruined; a test of Didier Deschamps’s unshakable addiction to Adrien Rabiot. But also: a celebration o",
+        "en": "p The US version of the tournament’s opening ceremony helpfully focused on one of its main themes: aspirational consumerism /p p The 2026 World Cup: a festival of football; a moment to revel in upsets, spectacular goals, stars made, and reputations ruined; a test of Didier Deschamps’s unshakable addiction to Adrien Rabiot. But also: a celebration o"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/13/big-lalas-energy-to-ulcerative-colitis-meds-fox-is-this-world-cups-very-soul-in-the-us",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 13 Jun 2026 14:47:12 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/13/football-daily-newsletter-world-cup-2026-10-things-we-learned-so-far",
+      "title": {
+        "ar": "Football Daily | A cult classic kit, 4-4-2 and refcam: 10 things we’ve noticed in World Cup so far",
+        "en": "Football Daily | A cult classic kit, 4-4-2 and refcam: 10 things we’ve noticed in World Cup so far"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p We’re almost a 25th of the way through the Geopolitics World Cup – four games down, 100 to go – so it’s the perfect time to reflect on what we’ve learned and noticed so far. /p a href=\"https",
+        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p We’re almost a 25th of the way through the Geopolitics World Cup – four games down, 100 to go – so it’s the perfect time to reflect on what we’ve learned and noticed so far. /p a href=\"https"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/13/football-daily-newsletter-world-cup-2026-10-things-we-learned-so-far",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 13 Jun 2026 14:10:33 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/13/ghana-criticises-canada-thomas-partey-visa-world-cup",
+      "title": {
+        "ar": "Ghana strongly criticises Canada for denying Thomas Partey a World Cup visa",
+        "en": "Ghana strongly criticises Canada for denying Thomas Partey a World Cup visa"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p ‘High-handed and extremely unfair,’ government says /p /li li p Official note of protest sent calling for a review /p /li /ul p Ghana’s government has described Canada’s decision to a href=\"https://www.theguardian.com/football/2026/jun/12/thomas-partey-ghana-world-cup-visa-application-to-canada-refused\" deny Thomas Partey a visa /a for his ",
+        "en": "ul li p ‘High-handed and extremely unfair,’ government says /p /li li p Official note of protest sent calling for a review /p /li /ul p Ghana’s government has described Canada’s decision to a href=\"https://www.theguardian.com/football/2026/jun/12/thomas-partey-ghana-world-cup-visa-application-to-canada-refused\" deny Thomas Partey a visa /a for his "
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/13/ghana-criticises-canada-thomas-partey-visa-world-cup",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 13 Jun 2026 12:10:27 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/13/david-beckham-joins-hollywood-walk-of-fame-world-cup",
+      "title": {
+        "ar": "David Beckham joins Hollywood Walk of Fame as World Cup comes to LA",
+        "en": "David Beckham joins Hollywood Walk of Fame as World Cup comes to LA"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Beckham enjoys ‘surreal’ occasion with Tom Cruise /p /li li p Celebrities cheer on USA at their opening match /p /li /ul p David Beckham has been honoured with a star on the Hollywood Walk of Fame. Beckham called the ceremony “surreal” as his wife, Victoria, and his friend Tom Cruise praised him at the ceremony. /p p Cruise lauded Beckham’s",
+        "en": "ul li p Beckham enjoys ‘surreal’ occasion with Tom Cruise /p /li li p Celebrities cheer on USA at their opening match /p /li /ul p David Beckham has been honoured with a star on the Hollywood Walk of Fame. Beckham called the ceremony “surreal” as his wife, Victoria, and his friend Tom Cruise praised him at the ceremony. /p p Cruise lauded Beckham’s"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/13/david-beckham-joins-hollywood-walk-of-fame-world-cup",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 13 Jun 2026 09:09:43 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/f1/live-blog/12040/13553491/f1-barcelona-catalunya-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-spanish-f1-race-weekend",
       "title": {
@@ -275,31 +675,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Sat, 13 Jun 2026 07:33:32 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "title": {
-        "ar": "Sign up for the Recap newsletter: our free sport highlights email",
-        "en": "Sign up for the Recap newsletter: our free sport highlights email"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin",
-        "en": "p The best of our sports journalism from the past seven days and a heads-up on the weekend’s action /p p Subscribe to get our editors’ pick of the Guardian’s award-winning sport coverage. We’ll email you the stand-out features and interviews, insightful analysis and highlights from the archive, plus films, podcasts, galleries and more – all arrivin"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 May 2017 11:00:43 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1625,381 +2000,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Fri, 12 Jun 2026 13:37:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13553329/luka-vuskovic-brighton-make-30m-offer-for-spurs-defender-as-roberto-de-zerbi-maintains-jan-paul-van-hecke-interest",
-      "title": {
-        "ar": "Brighton make £30m Vuskovic offer as Spurs maintain Van Hecke interest",
-        "en": "Brighton make £30m Vuskovic offer as Spurs maintain Van Hecke interest"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-luka-vuskovic_7271562.jpg?20260612123413",
-      "url": "https://www.skysports.com/football/news/12040/13553329/luka-vuskovic-brighton-make-30m-offer-for-spurs-defender-as-roberto-de-zerbi-maintains-jan-paul-van-hecke-interest",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 12 Jun 2026 12:52:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13552272/five-breakout-stars-to-watch-at-2026-world-cup",
-      "title": {
-        "ar": "Next Galactico & Liverpool target: FIVE breakout stars to watch at the WC...",
-        "en": "Next Galactico & Liverpool target: FIVE breakout stars to watch at the WC..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/football-world-cup-breakout_7268969.jpg?20260609114422",
-      "url": "https://www.skysports.com/watch/video/13552272/five-breakout-stars-to-watch-at-2026-world-cup",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Tue, 09 Jun 2026 11:06:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13553275/jude-bellingham-england-got-things-wrong-off-the-pitch-at-euro-2024",
-      "title": {
-        "ar": "Bellingham: England got things wrong off the pitch at Euro 2024",
-        "en": "Bellingham: England got things wrong off the pitch at Euro 2024"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/24/07/1920x1080/skysports-gareth-southgate_6619292.jpg?20240706073043",
-      "url": "https://www.skysports.com/football/news/12040/13553275/jude-bellingham-england-got-things-wrong-off-the-pitch-at-euro-2024",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 12 Jun 2026 11:30:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/49040297/cristiano-ronaldo-world-cup-fitness-portugal-not-seen-play",
-      "title": {
-        "ar": "Ronaldo on WC fitness: Haven't you seen me play?",
-        "en": "Ronaldo on WC fitness: Haven't you seen me play?"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49040297/cristiano-ronaldo-world-cup-fitness-portugal-not-seen-play",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Fri, 12 Jun 2026 11:01:06 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/12/hydration-breaks-adverts-fox-world-cup",
-      "title": {
-        "ar": "Fox’s full-screen ads during World Cup hydration breaks cause dismay in US: ‘Absolute nonsense’",
-        "en": "Fox’s full-screen ads during World Cup hydration breaks cause dismay in US: ‘Absolute nonsense’"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Breaks have been added at World Cup for player safety /p /li li p Fox missed small amount of action during break /p /li /ul p Fox is facing criticism from fans in the US after introducing full-screen adverts while a href=\"https://www.theguardian.com/football/2025/dec/08/fifa-world-cup-2026-cooling-breaks\" players take hydration breaks /a du",
-        "en": "ul li p Breaks have been added at World Cup for player safety /p /li li p Fox missed small amount of action during break /p /li /ul p Fox is facing criticism from fans in the US after introducing full-screen adverts while a href=\"https://www.theguardian.com/football/2025/dec/08/fifa-world-cup-2026-cooling-breaks\" players take hydration breaks /a du"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/12/hydration-breaks-adverts-fox-world-cup",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 12 Jun 2026 13:28:26 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/12/beth-mead-describes-moving-to-manchester-city-as-a-no-brainer",
-      "title": {
-        "ar": "Beth Mead describes moving to Manchester City as a ‘no-brainer’",
-        "en": "Beth Mead describes moving to Manchester City as a ‘no-brainer’"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Ex-Arsenal forward signs three-year deal with champions /p /li li p ‘The way City plays suits me really well,’ says 31-year-old /p /li /ul p Beth Mead believes Manchester City’s playing style suits her own and has described her move to the Women’s Super League champions on a three-year contract as a “no-brainer”. /p p The 31-year-old forwar",
-        "en": "ul li p Ex-Arsenal forward signs three-year deal with champions /p /li li p ‘The way City plays suits me really well,’ says 31-year-old /p /li /ul p Beth Mead believes Manchester City’s playing style suits her own and has described her move to the Women’s Super League champions on a three-year contract as a “no-brainer”. /p p The 31-year-old forwar"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/12/beth-mead-describes-moving-to-manchester-city-as-a-no-brainer",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 12 Jun 2026 12:17:55 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/cn0v8zyg5lqo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "كيف أحبّت الولايات المتحدة كرة القدم؟ مقال في التايمز البريطانية",
-        "en": "كيف أحبّت الولايات المتحدة كرة القدم؟ مقال في التايمز البريطانية"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7e0f/live/351cdb60-664b-11f1-9cfe-f18f6b94142d.jpg",
-      "url": "https://www.bbc.com/arabic/articles/cn0v8zyg5lqo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Fri, 12 Jun 2026 11:35:39 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/12/france-followed-to-world-cup-by-home-politics-after-mbappes-swipe-at-far-right",
-      "title": {
-        "ar": "France followed to World Cup by home politics after Mbappé’s swipe at far right",
-        "en": "France followed to World Cup by home politics after Mbappé’s swipe at far right"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Platini among former players to accuse captain of creating distraction as Deschamps defends captain’s right to speak /p p “If there’s one wish I have, it’s for you to ask my players about the opponents, about football,” Didier Deschamps told journalists after announcing France’s World Cup squad. “I understand that you might feel obliged to ask ot",
-        "en": "p Platini among former players to accuse captain of creating distraction as Deschamps defends captain’s right to speak /p p “If there’s one wish I have, it’s for you to ask my players about the opponents, about football,” Didier Deschamps told journalists after announcing France’s World Cup squad. “I understand that you might feel obliged to ask ot"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/12/france-followed-to-world-cup-by-home-politics-after-mbappes-swipe-at-far-right",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 12 Jun 2026 11:00:45 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/12/thomas-tuchel-england-world-cup",
-      "title": {
-        "ar": "Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes",
-        "en": "Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Leaving Cole Palmer at home surprised me, but I know Thomas from Chelsea – he’s the type of coach to die on his sword /p p In Thomas Tuchel, England have an elite coach. Don’t underestimate him. In my 12 years working at Chelsea, he and Mauricio Pochettino were my two favourite managers. /p p Thomas is a great communicator, he’s demanding and he ",
-        "en": "p Leaving Cole Palmer at home surprised me, but I know Thomas from Chelsea – he’s the type of coach to die on his sword /p p In Thomas Tuchel, England have an elite coach. Don’t underestimate him. In my 12 years working at Chelsea, he and Mauricio Pochettino were my two favourite managers. /p p Thomas is a great communicator, he’s demanding and he "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/12/thomas-tuchel-england-world-cup",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 12 Jun 2026 11:00:43 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c0eyw5qgyp9o?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "ماذا نعرف عن المنتخب القطري المشارك في كأس العالم 2026؟",
-        "en": "ماذا نعرف عن المنتخب القطري المشارك في كأس العالم 2026؟"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5ff5/live/2f2e1130-6649-11f1-8e1d-bbbb1017d210.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c0eyw5qgyp9o?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Fri, 12 Jun 2026 10:28:26 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.espn.com/espn/betting/story/_/id/48807078/fifa-world-cup-betting-preview-best-bets-picks-odds-props-futures-2026",
-      "title": {
-        "ar": "2026 World Cup betting preview: One bet to make on...",
-        "en": "2026 World Cup betting preview: One bet to make on..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48807078/fifa-world-cup-betting-preview-best-bets-picks-odds-props-futures-2026",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 11 Jun 2026 10:36:25 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/cr7x59drp71o?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "حمّل الآن جدول مباريات كأس العالم 2026",
-        "en": "حمّل الآن جدول مباريات كأس العالم 2026"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/842b/live/d224de60-5e8c-11f1-89a3-d1f559421220.png",
-      "url": "https://www.bbc.com/arabic/articles/cr7x59drp71o?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Tue, 09 Jun 2026 06:47:25 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/cvgerwpprn6o?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "\"بطولة كأس العالم ليست لنا، إنما لهم\"، معاناة مشجعين في الحصول على تأشيرة لحضور المونديال",
-        "en": "\"بطولة كأس العالم ليست لنا، إنما لهم\"، معاناة مشجعين في الحصول على تأشيرة لحضور المونديال"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0583/live/e5fa04a0-63c9-11f1-997d-4b8ab5668d59.jpg",
-      "url": "https://www.bbc.com/arabic/articles/cvgerwpprn6o?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Tue, 09 Jun 2026 05:47:31 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.skysports.com/darts/news/12040/13552976/world-cup-of-darts-josh-rock-says-no-pressure-on-reigning-champions-northern-ireland-all-eyes-will-be-on-england",
-      "title": {
-        "ar": "Rock: No pressure on reigning champs Northern Ireland at World Cup of Darts",
-        "en": "Rock: No pressure on reigning champs Northern Ireland at World Cup of Darts"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-josh-rock-daryl-gurney_7271002.jpg?20260611174439",
-      "url": "https://www.skysports.com/darts/news/12040/13552976/world-cup-of-darts-josh-rock-says-no-pressure-on-reigning-champions-northern-ireland-all-eyes-will-be-on-england",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 12 Jun 2026 10:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13553058/how-the-usa-fell-in-love-with-football-world-cup-1994-the-premier-league-and-the-outspoken-vision-of-alan-rothenberg",
-      "title": {
-        "ar": "How the USA fell in love with football",
-        "en": "How the USA fell in love with football"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-graphic-usa_7270862.jpg?20260611152709",
-      "url": "https://www.skysports.com/football/news/12040/13553058/how-the-usa-fell-in-love-with-football-world-cup-1994-the-premier-league-and-the-outspoken-vision-of-alan-rothenberg",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Fri, 12 Jun 2026 08:00:00 BST",
       "rewritten": false,
       "lang": "en"
     }
