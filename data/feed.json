@@ -1,8 +1,808 @@
 {
   "version": 2,
-  "updated": "2026-06-16T05:06:22.528Z",
+  "updated": "2026-06-16T11:23:16.481Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/news/12040/13550660/cristiano-ronaldos-last-world-cup-chance-with-portugal-could-be-his-best-but-roberto-martinez-must-manage-him",
+      "title": {
+        "ar": "Why Ronaldo's last World Cup chance with Portugal could be his best",
+        "en": "Why Ronaldo's last World Cup chance with Portugal could be his best"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/25/06/1920x1080/skysports-cristiano-ronald_6937089.jpg?20250608231205",
+      "url": "https://www.skysports.com/football/news/12040/13550660/cristiano-ronaldos-last-world-cup-chance-with-portugal-could-be-his-best-but-roberto-martinez-must-manage-him",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 16 Jun 2026 12:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13553569/dr-congo-axel-tuanzebe-hoping-leopards-can-make-lasting-impact-beyond-football-at-first-world-cup-since-1974",
+      "title": {
+        "ar": "DR Congo's Tuanzebe: I'm not a politician but we can change the world with football",
+        "en": "DR Congo's Tuanzebe: I'm not a politician but we can change the world with football"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-tuanzebe-dr-congo_7274630.jpg?20260616085632",
+      "url": "https://www.skysports.com/football/news/12040/13553569/dr-congo-axel-tuanzebe-hoping-leopards-can-make-lasting-impact-beyond-football-at-first-world-cup-since-1974",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 16 Jun 2026 12:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13554517/world-cup-2026-iran-the-most-oppressed-team-at-tournament-says-coach-amir-ghalenoei-after-opening-game-vs-new-zealand",
+      "title": {
+        "ar": "Iran coach hits out at treatment of 'most oppressed team' at World Cup",
+        "en": "Iran coach hits out at treatment of 'most oppressed team' at World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-iran-world-cu-world-cup_7274596.jpg?20260616081420",
+      "url": "https://www.skysports.com/football/news/12040/13554517/world-cup-2026-iran-the-most-oppressed-team-at-tournament-says-coach-amir-ghalenoei-after-opening-game-vs-new-zealand",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 16 Jun 2026 08:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/iraq-vs-norway/live/549783",
+      "title": {
+        "ar": "Iraq vs Norway preview: Solbakken gives Odegaard, Haaland fitness updates",
+        "en": "Iraq vs Norway preview: Solbakken gives Odegaard, Haaland fitness updates"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-football_7268793.jpg?20260609084050",
+      "url": "https://www.skysports.com/football/iraq-vs-norway/live/549783",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 16 Jun 2026 12:10:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549736/world-cup-2026-lionel-messis-argentina-want-to-retain-trophy-but-history-suggests-the-holders-risk-spectacular-failure-in-2026",
+      "title": {
+        "ar": "Why is retaining the World Cup so hard? Messi’s Argentina out to buck trend",
+        "en": "Why is retaining the World Cup so hard? Messi’s Argentina out to buck trend"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-lionel-messi-argentina_7265025.jpg?20260604083111",
+      "url": "https://www.skysports.com/football/news/12040/13549736/world-cup-2026-lionel-messis-argentina-want-to-retain-trophy-but-history-suggests-the-holders-risk-spectacular-failure-in-2026",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 16 Jun 2026 10:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49075775/fifa-finds-no-evidence-racist-gesture-var-assistant",
+      "title": {
+        "ar": "FIFA: 'No evidence' of racist gesture by VAR asst....",
+        "en": "FIFA: 'No evidence' of racist gesture by VAR asst...."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49075775/fifa-finds-no-evidence-racist-gesture-var-assistant",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 16 Jun 2026 06:45:47 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49077802/not-model",
+      "title": {
+        "ar": "Bielsa brusk on FIFA photoshoot: 'Not a model'",
+        "en": "Bielsa brusk on FIFA photoshoot: 'Not a model'"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49077802/not-model",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 16 Jun 2026 06:45:47 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49080434/antonio-rudiger-real-madrid-one-year-contract-extension",
+      "title": {
+        "ar": "Rüdiger signs one-year extension at Real Madrid",
+        "en": "Rüdiger signs one-year extension at Real Madrid"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49080434/antonio-rudiger-real-madrid-one-year-contract-extension",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 16 Jun 2026 06:45:47 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49075052/tunisia-manager-joins-exclusive-club-coaches-sacked-world-cup",
+      "title": {
+        "ar": "😞Which coaches were sacked during World Cup?",
+        "en": "😞Which coaches were sacked during World Cup?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49075052/tunisia-manager-joins-exclusive-club-coaches-sacked-world-cup",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 16 Jun 2026 06:45:47 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49077353/world-cup-daily-live-lionel-messi-kylian-mbappe-erling-haaland-argentina-france-norway",
+      "title": {
+        "ar": "World Cup Daily LIVE: Giant inflatable match ball ...",
+        "en": "World Cup Daily LIVE: Giant inflatable match ball ..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49077353/world-cup-daily-live-lionel-messi-kylian-mbappe-erling-haaland-argentina-france-norway",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 16 Jun 2026 06:38:26 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live",
+      "title": {
+        "ar": "World Cup 2026: Iran player’s visa expires after opener; Tunisia hire Renard; Klopp criticised for jibe – live",
+        "en": "World Cup 2026: Iran player’s visa expires after opener; Tunisia hire Renard; Klopp criticised for jibe – live"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p ⚽ All the latest on day six of the tournament br ⚽ a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Player guide /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Bracketology /a | a href=\"https://www.theguardi",
+        "en": "p ⚽ All the latest on day six of the tournament br ⚽ a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Player guide /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Bracketology /a | a href=\"https://www.theguardi"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 16 Jun 2026 11:15:07 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/16/world-cup-luka-modric-croatia-england-20-years-can-he-do-it-one-more-time",
+      "title": {
+        "ar": "Luka Modric has been tormenting England for 20 years. Can he do it one more time?",
+        "en": "Luka Modric has been tormenting England for 20 years. Can he do it one more time?"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p From Zagreb to Wembley and Moscow, the Croatia great has derailed the Three Lions on many occasions. Now he’s ready for one last dance in Dallas /p p When Luka Modric first played against England, Tony Blair was still in office. Arsenal had just moved from Highbury to the Emirates Stadium, Italy were newly crowned world champions and Pep Guardiol",
+        "en": "p From Zagreb to Wembley and Moscow, the Croatia great has derailed the Three Lions on many occasions. Now he’s ready for one last dance in Dallas /p p When Luka Modric first played against England, Tony Blair was still in office. Arsenal had just moved from Highbury to the Emirates Stadium, Italy were newly crowned world champions and Pep Guardiol"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/16/world-cup-luka-modric-croatia-england-20-years-can-he-do-it-one-more-time",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 16 Jun 2026 11:00:06 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49080057/transfer-rumors-news-tottenham-join-arsenal-manchester-city-race-newcastle-sandro-tonali",
+      "title": {
+        "ar": "Transfer rumors, news: Tottenham join Arsenal, Cit...",
+        "en": "Transfer rumors, news: Tottenham join Arsenal, Cit..."
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49080057/transfer-rumors-news-tottenham-join-arsenal-manchester-city-race-newcastle-sandro-tonali",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 16 Jun 2026 05:44:37 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c07yz4lzrd7o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "ماذا نعرف عن منتخب النشامى الذي يتأهل للمرة الأولى لكأس العالم؟",
+        "en": "ماذا نعرف عن منتخب النشامى الذي يتأهل للمرة الأولى لكأس العالم؟"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7eaa/live/9f57d760-696a-11f1-b1db-af71d47507d6.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c07yz4lzrd7o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Tue, 16 Jun 2026 10:42:17 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026",
+      "title": {
+        "ar": "‘I’m not a model!’ Uruguay’s Bielsa defends bizarre World Cup portrait shoot",
+        "en": "‘I’m not a model!’ Uruguay’s Bielsa defends bizarre World Cup portrait shoot"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ul li p Head coach looked downwards in official Fifa photo /p /li li p ‘The picture was taken the way it was taken’ /p /li /ul p The Uruguay head coach Marcelo Bielsa has lived up to his maverick reputation by refusing to cooperate during a bizarre photoshoot for Fifa at the 2026 World Cup. /p p Bielsa – known as em El Loco /em – stared down at the",
+        "en": "ul li p Head coach looked downwards in official Fifa photo /p /li li p ‘The picture was taken the way it was taken’ /p /li /ul p The Uruguay head coach Marcelo Bielsa has lived up to his maverick reputation by refusing to cooperate during a bizarre photoshoot for Fifa at the 2026 World Cup. /p p Bielsa – known as em El Loco /em – stared down at the"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 16 Jun 2026 10:08:21 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/picture/2026/jun/16/david-squires-thirst-for-adverts-other-notes-world-cup-2026",
+      "title": {
+        "ar": "David Squires on … a thirst for adverts and other notes from the World Cup so far",
+        "en": "David Squires on … a thirst for adverts and other notes from the World Cup so far"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Our cartoonist offers up some observations after the tournament’s group games got under way in the US, Mexico and Canada /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires\" strong Buy a cartoon /strong /a strong | /strong a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of",
+        "en": "p Our cartoonist offers up some observations after the tournament’s group games got under way in the US, Mexico and Canada /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires\" strong Buy a cartoon /strong /a strong | /strong a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/picture/2026/jun/16/david-squires-thirst-for-adverts-other-notes-world-cup-2026",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 16 Jun 2026 10:07:33 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/cpd3ew37qe6o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "محاربو الصحراء إلى كأس العالم للمرة الخامسة، فماذا نعرف عن المنتخب الجزائري؟",
+        "en": "محاربو الصحراء إلى كأس العالم للمرة الخامسة، فماذا نعرف عن المنتخب الجزائري؟"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0319/live/832ad160-6969-11f1-b1db-af71d47507d6.jpg",
+      "url": "https://www.bbc.com/arabic/articles/cpd3ew37qe6o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Tue, 16 Jun 2026 10:00:29 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/16/the-perfect-job-meet-the-fans-being-paid-to-watch-all-104-world-cup-games-in-times-square",
+      "title": {
+        "ar": "‘The perfect job’: meet the fans being paid to watch all 104 World Cup games in Times Square",
+        "en": "‘The perfect job’: meet the fans being paid to watch all 104 World Cup games in Times Square"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p A Liverpool fan and an influencer explain what it’s like to be hired for a Truman Show-style experiment /p p When Kevin Kotoko heard that he had been selected as one of Fox’s chief World Cup watchers he had no hesitation in accepting. What self-respecting football fan could turn down the opportunity to be paid $50,000 (£37,000) to take in all 104",
+        "en": "p A Liverpool fan and an influencer explain what it’s like to be hired for a Truman Show-style experiment /p p When Kevin Kotoko heard that he had been selected as one of Fox’s chief World Cup watchers he had no hesitation in accepting. What self-respecting football fan could turn down the opportunity to be paid $50,000 (£37,000) to take in all 104"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/16/the-perfect-job-meet-the-fans-being-paid-to-watch-all-104-world-cup-games-in-times-square",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 16 Jun 2026 10:00:07 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/cpd3ew5pdweo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "ماذا نعرف عن منتخب أسود الرافدين الذين يتأهلون للمرة الثانية؟",
+        "en": "ماذا نعرف عن منتخب أسود الرافدين الذين يتأهلون للمرة الثانية؟"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c006/live/97f495a0-6968-11f1-8546-8f19e4fe30f4.jpg",
+      "url": "https://www.bbc.com/arabic/articles/cpd3ew5pdweo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Tue, 16 Jun 2026 09:50:56 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
+      "title": {
+        "ar": "Key issues for England at 2026 World Cup: Fatigue,...",
+        "en": "Key issues for England at 2026 World Cup: Fatigue,..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 16 Jun 2026 04:33:45 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
+      "title": {
+        "ar": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+        "en": "Cape Verde GK Vozinha stopped World Cup favorites ..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 16 Jun 2026 03:44:46 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49076525/lukaku-seizes-spotlight-salah-de-bruyne-belgium-draw-egypt-2026-world-cup",
+      "title": {
+        "ar": "Lukaku seizes spotlight from Salah, De Bruyne in B...",
+        "en": "Lukaku seizes spotlight from Salah, De Bruyne in B..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49076525/lukaku-seizes-spotlight-salah-de-bruyne-belgium-draw-egypt-2026-world-cup",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 16 Jun 2026 03:42:18 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49014778/can-argentina-really-win-world-cup-again-stats-players-say",
+      "title": {
+        "ar": "Can Argentina really win the World Cup again? What...",
+        "en": "Can Argentina really win the World Cup again? What..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49014778/can-argentina-really-win-world-cup-again-stats-players-say",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 16 Jun 2026 03:34:53 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49066914/michael-olise-key-france-world-cup-chances",
+      "title": {
+        "ar": "Why Michael Olise is the key to France's World Cup...",
+        "en": "Why Michael Olise is the key to France's World Cup..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49066914/michael-olise-key-france-world-cup-chances",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 16 Jun 2026 03:34:53 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/video/2026/jun/16/history-for-cape-verde-as-spain-start-with-a-stutter-world-cup-daily",
+      "title": {
+        "ar": "History for Cape Verde as Spain start with a stutter | World Cup Daily",
+        "en": "History for Cape Verde as Spain start with a stutter | World Cup Daily"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , a href=\"https://bsky.app/profile/barneyronay.bsky.social\" Barney Ronay /a , Dan Bardell and a href=\"https://bsky.app/profile/sidlowe.bsky.social\" Sid Lowe /a as debutants Ca",
+        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , a href=\"https://bsky.app/profile/barneyronay.bsky.social\" Barney Ronay /a , Dan Bardell and a href=\"https://bsky.app/profile/sidlowe.bsky.social\" Sid Lowe /a as debutants Ca"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/video/2026/jun/16/history-for-cape-verde-as-spain-start-with-a-stutter-world-cup-daily",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 16 Jun 2026 07:14:51 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/16/jordan-uzbekistan-debut-asia-world-cup-2026",
+      "title": {
+        "ar": "Jordan and Uzbekistan ready to crash World Cup party with tactical grit and resolve",
+        "en": "Jordan and Uzbekistan ready to crash World Cup party with tactical grit and resolve"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Packed streets of Amman and Tashkent will be lively with Asia’s debutants determined they are not just here to make up the numbers /p p Before eagerly awaited meetings with Lionel Messi and Cristiano Ronaldo comes slightly less glamorous but hugely important first ever World Cup games for Asia’s debutants. Jordan take on Austria on Wednesday befo",
+        "en": "p Packed streets of Amman and Tashkent will be lively with Asia’s debutants determined they are not just here to make up the numbers /p p Before eagerly awaited meetings with Lionel Messi and Cristiano Ronaldo comes slightly less glamorous but hugely important first ever World Cup games for Asia’s debutants. Jordan take on Austria on Wednesday befo"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/16/jordan-uzbekistan-debut-asia-world-cup-2026",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 16 Jun 2026 07:00:47 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49065000/so-close-germany-nearly-got-world-cup-scorigami-that",
+      "title": {
+        "ar": "So close! Germany nearly got a World Cup Scorigami...",
+        "en": "So close! Germany nearly got a World Cup Scorigami..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49065000/so-close-germany-nearly-got-world-cup-scorigami-that",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 15 Jun 2026 23:40:21 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49040890/world-cup-norway-erling-haaland-best-player-interview",
+      "title": {
+        "ar": "'Finally': Norway star Erling Haaland on fulfilling World Cup dream",
+        "en": "'Finally': Norway star Erling Haaland on fulfilling World Cup dream"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49040890/world-cup-norway-erling-haaland-best-player-interview",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Mon, 15 Jun 2026 12:38:51 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "title": {
+        "ar": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+        "en": "Women’s transfer window summer 2026: all deals from world’s top six leagues"
+      },
+      "kicker": {
+        "ar": "الدوري الإيطالي",
+        "en": "Serie A"
+      },
+      "excerpt": {
+        "ar": "p Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Continue reading... /a",
+        "en": "p Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Continue reading... /a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 08 Jun 2026 09:00:05 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "title": {
+        "ar": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+        "en": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues\" Continue reading... /a",
+        "en": "p All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues\" Continue reading... /a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 08 Jun 2026 09:00:03 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "title": {
+        "ar": "Sign up for the Football Daily newsletter: our free football email",
+        "en": "Sign up for the Football Daily newsletter: our free football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/",
+        "en": "p Kick off your afternoon with the Guardian’s take on the world of football /p p Every weekday, we’ll deliver a roundup the football news and gossip in our own belligerent, sometimes intelligent and – very occasionally – funny way. Still not convinced? Find out what you’re missing a href=\"https://www.theguardian.com/football/series/thefiver/latest/"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 14 Nov 2022 09:05:50 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "title": {
+        "ar": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+        "en": "Sign up for the Moving the Goalposts newsletter: our free women’s football email"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl",
+        "en": "p Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson /p p Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainl"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 22 Mar 2022 16:57:35 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.skysports.com/football/belgium-vs-egypt/report/549778",
       "title": {
@@ -300,56 +1100,6 @@
         "en": "The Guardian"
       },
       "pubDate": "Sat, 13 Jun 2026 01:01:57 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
-      "title": {
-        "ar": "Bracketology: predict a path to World Cup victory",
-        "en": "Bracketology: predict a path to World Cup victory"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a",
-        "en": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 10:00:48 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "title": {
-        "ar": "World Cup 2026: guide to all 1,248 players",
-        "en": "World Cup 2026: guide to all 1,248 players"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a",
-        "en": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 08:55:49 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -1250,756 +2000,6 @@
         "en": "Sky Sports"
       },
       "pubDate": "Thu, 04 Jun 2026 22:30:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/espn/story/_/id/49066432/barcelona-teen-hamza-abdelkarim-seen-mohamed-salah-successor-egypt-coach",
-      "title": {
-        "ar": "Egypt coach tabs Barça teen as Salah successor",
-        "en": "Egypt coach tabs Barça teen as Salah successor"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/espn/story/_/id/49066432/barcelona-teen-hamza-abdelkarim-seen-mohamed-salah-successor-egypt-coach",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 15 Jun 2026 00:41:55 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/49065954/world-cup-teams-slam-uefa-boss-uninteresting-match-comments",
-      "title": {
-        "ar": "WC teams blast UEFA chief over expansion criticism...",
-        "en": "WC teams blast UEFA chief over expansion criticism..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49065954/world-cup-teams-slam-uefa-boss-uninteresting-match-comments",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 15 Jun 2026 00:41:55 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/mlb/story/_/id/49066206/boston-red-sox-scotland-fenway-park-tartan-army",
-      "title": {
-        "ar": "⚽ Red Sox host 'Scotland Day' amid World Cup",
-        "en": "⚽ Red Sox host 'Scotland Day' amid World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/mlb/story/_/id/49066206/boston-red-sox-scotland-fenway-park-tartan-army",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 15 Jun 2026 00:41:55 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/49059353/fifa-world-cup-tony-popovic-looks-ahead-socceroos-united-states-clash-turkiye-win",
-      "title": {
-        "ar": "Socceroos boss eyes USMNT after Türkiye upset",
-        "en": "Socceroos boss eyes USMNT after Türkiye upset"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49059353/fifa-world-cup-tony-popovic-looks-ahead-socceroos-united-states-clash-turkiye-win",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 15 Jun 2026 00:22:27 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c0ly11py1xyo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "كأس العالم: سقوط كبير لتونس أمام السويد",
-        "en": "كأس العالم: سقوط كبير لتونس أمام السويد"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/45f6/live/72705c10-6873-11f1-a665-99f3cd4d7f70.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c0ly11py1xyo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Mon, 15 Jun 2026 04:39:04 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/15/sweden-tunisia-world-cup-match-report",
-      "title": {
-        "ar": "Two-goal Yasin Ayari combines with Sweden stars to sweep aside error-prone Tunisia",
-        "en": "Two-goal Yasin Ayari combines with Sweden stars to sweep aside error-prone Tunisia"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p /p p When they picture a messiah, few perhaps imagine a mild-mannered 51-year-old with a greying beard who used to play at left-back for York City. Certainly Chelsea and West Ham fans don’t. But the degree to which Graham Potter is loved in Sweden has to be seen to be believed. He was a down-on-his-luck manager seeking a new start; they were a co",
-        "en": "p /p p When they picture a messiah, few perhaps imagine a mild-mannered 51-year-old with a greying beard who used to play at left-back for York City. Certainly Chelsea and West Ham fans don’t. But the degree to which Graham Potter is loved in Sweden has to be seen to be believed. He was a down-on-his-luck manager seeking a new start; they were a co"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/15/sweden-tunisia-world-cup-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 Jun 2026 04:15:58 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/15/world-cup-adrien-rabiot-we-all-have-a-role-you-have-to-be-humble",
-      "title": {
-        "ar": "France’s Adrien Rabiot: ‘We all have a role. You have to be humble with that’",
-        "en": "France’s Adrien Rabiot: ‘We all have a role. You have to be humble with that’"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p The midfielder on providing the balance to allow attacking stars to shine and wanting a fitting World Cup sign-off for Deschamps /p p France will look a little different this summer. “Naturally, it seems a bit more attacking than usual,” Adrien Rabiot says. “I think it is good because we have the players for it.” Lucas Hernández adds that France ",
-        "en": "p The midfielder on providing the balance to allow attacking stars to shine and wanting a fitting World Cup sign-off for Deschamps /p p France will look a little different this summer. “Naturally, it seems a bit more attacking than usual,” Adrien Rabiot says. “I think it is good because we have the players for it.” Lucas Hernández adds that France "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/15/world-cup-adrien-rabiot-we-all-have-a-role-you-have-to-be-humble",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 Jun 2026 04:01:01 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/15/iraq-head-coach-graham-arnold-world-cup-2026",
-      "title": {
-        "ar": "Iraq head coach Graham Arnold: ‘We’re capable of doing something that will shock the world’",
-        "en": "Iraq head coach Graham Arnold: ‘We’re capable of doing something that will shock the world’"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Australian has had to contend with war, 50C heat and playoffs to steer country to a first World Cup in 40 years /p p Twenty-eight months, 21 games, four rounds, a 117th-minute penalty and a playoff. A coach stuck in Dubai where he watches war start over the water, bombs shaking everything. A team trapped in Baghdad first and Jordan next, missiles",
-        "en": "p Australian has had to contend with war, 50C heat and playoffs to steer country to a first World Cup in 40 years /p p Twenty-eight months, 21 games, four rounds, a 117th-minute penalty and a playoff. A coach stuck in Dubai where he watches war start over the water, bombs shaking everything. A team trapped in Baghdad first and Jordan next, missiles"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/15/iraq-head-coach-graham-arnold-world-cup-2026",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 Jun 2026 04:00:04 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/15/england-world-cup-jordan-henderson-jude-bellingham-x-factor",
-      "title": {
-        "ar": "‘We all love him’: Henderson says Bellingham can be England’s X-factor",
-        "en": "‘We all love him’: Henderson says Bellingham can be England’s X-factor"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Midfielder expects Madrid man to have major impact /p /li li p Henderson: ‘He’s a huge player for us in this tournament’ /p /li /ul p Jordan Henderson says Jude Bellingham is loved by his teammates and will be England’s X-factor at the World Cup. /p p Bellingham, who is vying with Morgan Rogers to start at No 10 against Croatia on Wednesday",
-        "en": "ul li p Midfielder expects Madrid man to have major impact /p /li li p Henderson: ‘He’s a huge player for us in this tournament’ /p /li /ul p Jordan Henderson says Jude Bellingham is loved by his teammates and will be England’s X-factor at the World Cup. /p p Bellingham, who is vying with Morgan Rogers to start at No 10 against Croatia on Wednesday"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/15/england-world-cup-jordan-henderson-jude-bellingham-x-factor",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 Jun 2026 02:22:30 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/15/world-cup-socceroos-recovery-connor-metcalfe-no-sleep",
-      "title": {
-        "ar": "No sleep until 5am: Socceroos’ focus turns to recovery after tiring World Cup travel",
-        "en": "No sleep until 5am: Socceroos’ focus turns to recovery after tiring World Cup travel"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Goalscorer Connor Metcalfe ‘pretty knackered’ after late-night flight /p /li li p Socceroos back in Oakland to continue preparations for US game /p /li /ul p Socceroos goalscorer Connor Metcalfe admitted he hadn’t had the greatest sleep since Australia’s opening World Cup victory over Turkey. /p p “It’s crazy to score, to get the win. I mea",
-        "en": "ul li p Goalscorer Connor Metcalfe ‘pretty knackered’ after late-night flight /p /li li p Socceroos back in Oakland to continue preparations for US game /p /li /ul p Socceroos goalscorer Connor Metcalfe admitted he hadn’t had the greatest sleep since Australia’s opening World Cup victory over Turkey. /p p “It’s crazy to score, to get the win. I mea"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/15/world-cup-socceroos-recovery-connor-metcalfe-no-sleep",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 Jun 2026 02:01:18 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal",
-      "title": {
-        "ar": "Iran’s footballers arrive in US amid peace deal but admit tension ‘undermines joy’",
-        "en": "Iran’s footballers arrive in US amid peace deal but admit tension ‘undermines joy’"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Ghalenoi hopes disruption does not impact his team /p /li li p a href=\"https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer\" World Cup newsletter /a | a href=\"https://www.theguardian.com/football/series/footballweekly\" Daily podcast /a | a href=\"https://app.ad",
-        "en": "ul li p Ghalenoi hopes disruption does not impact his team /p /li li p a href=\"https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer\" World Cup newsletter /a | a href=\"https://www.theguardian.com/football/series/footballweekly\" Daily podcast /a | a href=\"https://app.ad"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 Jun 2026 01:40:40 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/15/cote-d-ivoire-ecuador-world-cup-2026-match-report",
-      "title": {
-        "ar": "Amad Diallo scores 90th-minute winner as Côte d’Ivoire leave it late to sink Ecuador",
-        "en": "Amad Diallo scores 90th-minute winner as Côte d’Ivoire leave it late to sink Ecuador"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p The substitute Amad Diallo struck in the 90th minute to give Côte d’Ivoire a 1-0 win over Ecuador in their ⁠Group E opener. /p p Diallo’s first-time strike of Wilfried Singo’s cross gave the Ivorians their first World Cup victory over South American opposition and ⁠halted Ecuador’s unbeaten run ​at 19 matches. /p a href=\"https://www.theguardian.c",
-        "en": "p The substitute Amad Diallo struck in the 90th minute to give Côte d’Ivoire a 1-0 win over Ecuador in their ⁠Group E opener. /p p Diallo’s first-time strike of Wilfried Singo’s cross gave the Ivorians their first World Cup victory over South American opposition and ⁠halted Ecuador’s unbeaten run ​at 19 matches. /p a href=\"https://www.theguardian.c"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/15/cote-d-ivoire-ecuador-world-cup-2026-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 15 Jun 2026 01:21:44 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c862plnwglwo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "لماذا لا تنطلق مباريات كأس العالم في موعدها المحدد؟",
-        "en": "لماذا لا تنطلق مباريات كأس العالم في موعدها المحدد؟"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/479d/live/a26c7da0-67fa-11f1-8094-9970ec1ebecd.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c862plnwglwo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Mon, 15 Jun 2026 00:15:32 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/14/netherlands-japan-world-cup-match-report",
-      "title": {
-        "ar": "Fortune favours Kamada as Japan rescue World Cup draw with Netherlands",
-        "en": "Fortune favours Kamada as Japan rescue World Cup draw with Netherlands"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p The World Cup continues to produce the unexpected. On a throbbingly hot afternoon in the low flat plains outside Dallas the Netherlands and Japan played out a high-grade, ultimately thrilling Group F game, Daichi Kamada scoring an 89th-minute equaliser to make it 2-2 just as the Dutch looked like taking an early hold on one of the tougher groups.",
-        "en": "p The World Cup continues to produce the unexpected. On a throbbingly hot afternoon in the low flat plains outside Dallas the Netherlands and Japan played out a high-grade, ultimately thrilling Group F game, Daichi Kamada scoring an 89th-minute equaliser to make it 2-2 just as the Dutch looked like taking an early hold on one of the tougher groups."
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/14/netherlands-japan-world-cup-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 14 Jun 2026 22:22:03 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13554096/england-book-spot-in-world-cup-of-darts-final",
-      "title": {
-        "ar": "England defeat Scotland to book spot in World Cup of Darts final!",
-        "en": "England defeat Scotland to book spot in World Cup of Darts final!"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-darts-world-cup-of-darts_7273446.jpg?20260614185423",
-      "url": "https://www.skysports.com/watch/video/13554096/england-book-spot-in-world-cup-of-darts-final",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 14 Jun 2026 18:48:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13554035/barcelona-catalunya-gp-race-highlights",
-      "title": {
-        "ar": "Barcelona-Catalunya GP | Race Highlights",
-        "en": "Barcelona-Catalunya GP | Race Highlights"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-formula-one-barcelona_7273315.jpg?20260614163417",
-      "url": "https://www.skysports.com/watch/video/13554035/barcelona-catalunya-gp-race-highlights",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 14 Jun 2026 16:07:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/darts/news/12040/13553926/world-cup-of-darts-englands-luke-littler-and-luke-humphries-crowned-champions-with-win-over-netherlands-michael-van-gerwen-and-gian-van-veen",
-      "title": {
-        "ar": "Littler and Humphries win World Cup of Darts for England",
-        "en": "Littler and Humphries win World Cup of Darts for England"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-luke-littler-luke-humphries_7273129.jpg?20260614140634",
-      "url": "https://www.skysports.com/darts/news/12040/13553926/world-cup-of-darts-englands-luke-littler-and-luke-humphries-crowned-champions-with-win-over-netherlands-michael-van-gerwen-and-gian-van-veen",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 14 Jun 2026 10:06:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/germany-vs-curacao/report/549774",
-      "title": {
-        "ar": "Germany fire SEVEN past World Cup debutants Curacao",
-        "en": "Germany fire SEVEN past World Cup debutants Curacao"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-kai-havertz-world-cup_7273482.jpg?20260614195532",
-      "url": "https://www.skysports.com/football/germany-vs-curacao/report/549774",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 14 Jun 2026 19:45:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/cricket/news/12040/13554099/t20-world-cup-india-kickstart-tournament-with-resounding-64-run-win-over-pakistan-at-edgbaston",
-      "title": {
-        "ar": "India beat Pakistan by 64 runs in T20 World Cup opener",
-        "en": "India beat Pakistan by 64 runs in T20 World Cup opener"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-deepti-sharma-cricket_7273451.jpg?20260614190924",
-      "url": "https://www.skysports.com/cricket/news/12040/13554099/t20-world-cup-india-kickstart-tournament-with-resounding-64-run-win-over-pakistan-at-edgbaston",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sun, 14 Jun 2026 18:54:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/49060649/omar-artan-somali-referee-fifa-world-cup-full-pay",
-      "title": {
-        "ar": "Sources: Somali ref to receive full World Cup pay",
-        "en": "Sources: Somali ref to receive full World Cup pay"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49060649/omar-artan-somali-referee-fifa-world-cup-full-pay",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sun, 14 Jun 2026 15:14:33 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/49062451/real-madrid-agree-deal-marc-cucurella-chelsea",
-      "title": {
-        "ar": "Sources: Real Madrid agree $69M Cucurella deal",
-        "en": "Sources: Real Madrid agree $69M Cucurella deal"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49062451/real-madrid-agree-deal-marc-cucurella-chelsea",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sun, 14 Jun 2026 15:14:17 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live",
-      "title": {
-        "ar": "Netherlands v Japan: World Cup 2026 – live",
-        "en": "Netherlands v Japan: World Cup 2026 – live"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p ⚽️ Kick-off time: 3pm local/4pm EDT/9pm BST/6am AEST br ⚽️ a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Player guide /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Bracketology /a | a href=\"https://www.t",
-        "en": "p ⚽️ Kick-off time: 3pm local/4pm EDT/9pm BST/6am AEST br ⚽️ a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Player guide /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Bracketology /a | a href=\"https://www.t"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 14 Jun 2026 19:40:50 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/14/were-the-same-as-we-were-then-spain-confident-of-repeating-euros-success",
-      "title": {
-        "ar": "Spain confident of repeating Euros success: ‘We’re the same as we were then’",
-        "en": "Spain confident of repeating Euros success: ‘We’re the same as we were then’"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "p Squad has evolved since 2024 but the European champions are happy to embrace the tag of tournament favourites /p p Spain knew, now everyone else does too. It was almost 1.30am on 15 July 2024 when Álvaro Morata, the captain who had lifted the Henry Delaunay trophy, headed down the slope and towards the team bus parked beneath the Olympic Stadium ",
-        "en": "p Squad has evolved since 2024 but the European champions are happy to embrace the tag of tournament favourites /p p Spain knew, now everyone else does too. It was almost 1.30am on 15 July 2024 when Álvaro Morata, the captain who had lifted the Henry Delaunay trophy, headed down the slope and towards the team bus parked beneath the Olympic Stadium "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/14/were-the-same-as-we-were-then-spain-confident-of-repeating-euros-success",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 14 Jun 2026 19:10:00 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/14/eberechi-eze-england-penalty-shootout-2026-world-cup",
-      "title": {
-        "ar": "‘Why wouldn’t I?’: Eze would take England penalty despite Arsenal shootout miss",
-        "en": "‘Why wouldn’t I?’: Eze would take England penalty despite Arsenal shootout miss"
-      },
-      "kicker": {
-        "ar": "دوري أبطال أوروبا",
-        "en": "Champions League"
-      },
-      "excerpt": {
-        "ar": "ul li p Eze dismisses idea of changing spot-kick technique /p /li li p ‘If there is a penalty to take I’ll be there again’ /p /li /ul p Eberechi Eze says he will not let his missed penalty in the Champions League final stop him from stepping up in a shootout for England in the World Cup. /p p The attacking midfielder sent his kick wide when a href=",
-        "en": "ul li p Eze dismisses idea of changing spot-kick technique /p /li li p ‘If there is a penalty to take I’ll be there again’ /p /li /ul p Eberechi Eze says he will not let his missed penalty in the Champions League final stop him from stepping up in a shootout for England in the World Cup. /p p The attacking midfielder sent his kick wide when a href="
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/14/eberechi-eze-england-penalty-shootout-2026-world-cup",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 14 Jun 2026 18:00:49 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "title": {
-        "ar": "Every team's odds to win the World Cup: Brazil's o...",
-        "en": "Every team's odds to win the World Cup: Brazil's o..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Sun, 14 Jun 2026 12:38:54 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/14/real-madrid-marc-cucurella-chelsea-transfer-window-football",
-      "title": {
-        "ar": "Real Madrid agree to sign Chelsea defender Marc Cucurella in £52m deal",
-        "en": "Real Madrid agree to sign Chelsea defender Marc Cucurella in £52m deal"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Spain left-back will complete transfer after World Cup /p /li li p Cucurella had spoken out against Chelsea hierarchy /p /li /ul p Real Madrid have reached a verbal agreement to sign Marc Cucurella from Chelsea in a package worth up to €60m (£52m). /p p The Spain left-back, who is preparing to face Cape Verde in the World Cup, threw a href=",
-        "en": "ul li p Spain left-back will complete transfer after World Cup /p /li li p Cucurella had spoken out against Chelsea hierarchy /p /li /ul p Real Madrid have reached a verbal agreement to sign Marc Cucurella from Chelsea in a package worth up to €60m (£52m). /p p The Spain left-back, who is preparing to face Cape Verde in the World Cup, threw a href="
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/14/real-madrid-marc-cucurella-chelsea-transfer-window-football",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 14 Jun 2026 17:28:10 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/14/fox-hydration-break-rules-ads-world-cup-fifa-sanction",
-      "title": {
-        "ar": "Fifa will not punish Fox for breaking advertising rules during World Cup opener",
-        "en": "Fifa will not punish Fox for breaking advertising rules during World Cup opener"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p US broadcaster overran ads during hydration break /p /li li p Broadcasts must return 30 seconds before play resumes /p /li /ul p Fox will not face any sanction from Fifa for breaking the governing body’s advertising rules during the opening game of the World Cup between Mexico and South Africa last week. /p p The US broadcaster broke Fifa’s",
-        "en": "ul li p US broadcaster overran ads during hydration break /p /li li p Broadcasts must return 30 seconds before play resumes /p /li /ul p Fox will not face any sanction from Fifa for breaking the governing body’s advertising rules during the opening game of the World Cup between Mexico and South Africa last week. /p p The US broadcaster broke Fifa’s"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/14/fox-hydration-break-rules-ads-world-cup-fifa-sanction",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 14 Jun 2026 16:43:47 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/14/scotland-march-on-towards-history-but-improvement-is-needed-against-morocco",
-      "title": {
-        "ar": "Scotland march on towards history but improvement is needed against Morocco",
-        "en": "Scotland march on towards history but improvement is needed against Morocco"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Precious win gives Steve Clarke’s team a platform but nervy display against Haiti could prove a missed opportunity /p p It felt so typically Scottish that even rare success on the World Cup stage delivered such paradoxes of emotion and analysis. In Ireland, sporting glory is routinely cherished without contradiction. Scots have far more of a tend",
-        "en": "p Precious win gives Steve Clarke’s team a platform but nervy display against Haiti could prove a missed opportunity /p p It felt so typically Scottish that even rare success on the World Cup stage delivered such paradoxes of emotion and analysis. In Ireland, sporting glory is routinely cherished without contradiction. Scots have far more of a tend"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/14/scotland-march-on-towards-history-but-improvement-is-needed-against-morocco",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 14 Jun 2026 16:36:16 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/cz6vp514ldno?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "الفيفا تدفع للحكم الصومالي عمر أرتان كافة مستحقاته عن بطولة كأس العالم",
-        "en": "الفيفا تدفع للحكم الصومالي عمر أرتان كافة مستحقاته عن بطولة كأس العالم"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae55/live/f39db540-67fa-11f1-8094-9970ec1ebecd.jpg",
-      "url": "https://www.bbc.com/arabic/articles/cz6vp514ldno?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Sun, 14 Jun 2026 16:12:03 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/blog/2026/jun/14/young-socceroos-inspiring-australians-world-cup",
-      "title": {
-        "ar": "Young Socceroos offer something new and tantalising: the hope of an adventure like in 2006",
-        "en": "Young Socceroos offer something new and tantalising: the hope of an adventure like in 2006"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Irankunda and co have not yet earned golden generation status but they can revive Australia’s World Cup aspirations /p p There always was a familiar feeling to this youthful squad of Socceroos. That sense of deja vu. That you had seen something like this before. But it took Nestory Irankunda running to the corner flag to remember what it was. /p ",
-        "en": "p Irankunda and co have not yet earned golden generation status but they can revive Australia’s World Cup aspirations /p p There always was a familiar feeling to this youthful squad of Socceroos. That sense of deja vu. That you had seen something like this before. But it took Nestory Irankunda running to the corner flag to remember what it was. /p "
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/blog/2026/jun/14/young-socceroos-inspiring-australians-world-cup",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Sun, 14 Jun 2026 15:00:48 GMT",
       "rewritten": false,
       "lang": "en"
     }
