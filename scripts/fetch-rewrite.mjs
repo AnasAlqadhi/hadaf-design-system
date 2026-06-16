@@ -26,10 +26,12 @@ const DRY_RUN   = process.argv.includes('--dry-run');
 const GEMINI_KEY = process.env.GEMINI_API_KEY || '';
 
 // Free-tier models as of 2026 (gemini-2.0-flash was REMOVED from free tier → 429 limit:0).
-// Primary = better quality (10 RPM / 250 req-day). Fallback = higher quota (15 RPM / 1000 req-day).
+// Primary = flash-lite: proven in prod, highest free quota (15 RPM / 1000 req-day) and
+// returns complete JSON. Fallback = flash (10 RPM / 250 req-day) for extra resilience.
+// Both run with thinking disabled (see thinkingConfig) so the JSON output isn't truncated.
 // Override either via env without code edits.
-const GEMINI_MODEL          = process.env.GEMINI_MODEL          || 'gemini-2.5-flash';
-const GEMINI_MODEL_FALLBACK = process.env.GEMINI_MODEL_FALLBACK || 'gemini-2.5-flash-lite';
+const GEMINI_MODEL          = process.env.GEMINI_MODEL          || 'gemini-2.5-flash-lite';
+const GEMINI_MODEL_FALLBACK = process.env.GEMINI_MODEL_FALLBACK || 'gemini-2.5-flash';
 const endpointFor = (model) =>
   `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${GEMINI_KEY}`;
 
@@ -212,7 +214,14 @@ async function rewriteWithGemini(raw) {
   const body = JSON.stringify({
     systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] },
     contents: [{ parts: [{ text: userMsg }] }],
-    generationConfig: { temperature: 0.75, maxOutputTokens: 900, responseMimeType: 'application/json' },
+    generationConfig: {
+      temperature: 0.75,
+      maxOutputTokens: 1200,
+      responseMimeType: 'application/json',
+      // Gemini 2.5 models "think" by default, consuming the output budget and truncating
+      // the JSON ("Incomplete JSON"). Disable it — we want fast, complete structured output.
+      thinkingConfig: { thinkingBudget: 0 },
+    },
   });
 
   const models = [...new Set([GEMINI_MODEL, GEMINI_MODEL_FALLBACK])];
