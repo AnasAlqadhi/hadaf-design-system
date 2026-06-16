@@ -253,6 +253,33 @@ function TransferSection({ lang }) {
   );
 }
 
+/* ===== WORLD CUP BANNER (homepage promo for the live tournament) ===== */
+function WorldCupBanner({ lang, setRoute }) {
+  return (
+    <button className="hd-wc-banner" onClick={() => setRoute('wc')}
+      aria-label={lang === 'ar' ? 'كأس العالم 2026' : 'FIFA World Cup 2026'}>
+      <span className="hd-wc-banner-scrim" aria-hidden/>
+      <span className="hd-wc-banner-inner">
+        <span className="hd-wc-banner-flag">
+          <span className="hd-wc-live-dot" aria-hidden/>
+          {lang === 'ar' ? 'المونديال مباشر' : 'WORLD CUP LIVE'}
+        </span>
+        <span className="hd-wc-banner-title">
+          {lang === 'ar' ? 'كأس العالم 2026' : 'FIFA World Cup 2026'}
+        </span>
+        <span className="hd-wc-banner-sub">
+          {lang === 'ar'
+            ? 'الأخبار · المباريات · المجموعات — كل لحظات المونديال في مكان واحد'
+            : 'News · Matches · Groups — every World Cup moment in one place'}
+        </span>
+        <span className="hd-wc-banner-cta">
+          {lang === 'ar' ? 'تابع المونديال ←' : 'Follow the tournament →'}
+        </span>
+      </span>
+    </button>
+  );
+}
+
 /* ===== HOME VIEW ===== */
 function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
   const [feed, setFeed]         = useState(MOCK_FEED);
@@ -378,6 +405,12 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
 
   const visibleFeed = filteredFeed.slice(0, visibleCount);
 
+  // World Cup spotlight — pull مونديال articles straight from the live feed
+  const WC_RX = /كأس\s?العالم|مونديال|world\s?cup/i;
+  const wcArticles = feed
+    .filter(a => WC_RX.test(`${t(a.kicker, lang)} ${t(a.title, lang)}`))
+    .slice(0, 4);
+
   return (
     <>
       <HdBreakingBar items={BREAKING_ITEMS} lang={lang}/>
@@ -390,6 +423,7 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
       />
 
       <div className="hd-container">
+        <WorldCupBanner lang={lang} setRoute={setRoute}/>
         {/* Competition filter tabs */}
         <div className="hd-comp-tabs" role="tablist" aria-label={lang === 'ar' ? 'تصفية البطولات' : 'Filter by competition'}>
           {COMP_TABS.map(([k, label]) => (
@@ -417,6 +451,30 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
             </>
           ) : (
             <>
+              {/* World Cup spotlight — live from the feed */}
+              {wcArticles.length >= 2 && (
+                <section className="hd-wc-spotlight">
+                  <div className="hd-section-hd" style={{marginTop:'var(--sp-5)'}}>
+                    <div className="hd-section-hd-left">
+                      <h2>{lang === 'ar' ? '🏆 مونديال 2026' : '🏆 World Cup 2026'}</h2>
+                    </div>
+                    <button className="hd-section-more" onClick={() => setRoute('wc')}>
+                      {lang === 'ar' ? 'كل الأخبار ←' : 'All news →'}
+                    </button>
+                  </div>
+                  <div className="hd-feat-grid">
+                    {wcArticles.map((a, i) => (
+                      <HdArticleCard key={`wc${i}`} variant={i === 0 ? 'feature' : 'standard'} lang={lang}
+                        kicker={t(a.kicker, lang)} title={t(a.title, lang)} image={a.image}
+                        time={t(a.time, lang)} readMin={a.readMin}
+                        url={a.slug ? `article/${a.slug}.html` : (a.url || null)}
+                        external={!a.slug}
+                        onClick={(a.slug || a.url) ? undefined : () => openArticle({...a, body:null})}/>
+                    ))}
+                  </div>
+                </section>
+              )}
+
               {/* Featured 3-col grid */}
               <div className="hd-section-hd" style={{marginTop:'var(--sp-5)'}}>
                 <div className="hd-section-hd-left">
@@ -855,7 +913,9 @@ function VideoView({ lang }) {
 }
 
 /* ===== WORLD CUP PAGE ===== */
-function WorldCupView({ lang }) {
+function WorldCupView({ lang, feed = [], openArticle }) {
+  const WC_RX = /كأس\s?العالم|مونديال|world\s?cup/i;
+  const wcNews = feed.filter(a => WC_RX.test(`${t(a.kicker, lang)} ${t(a.title, lang)}`)).slice(0, 8);
   const groups = [
     { name:'A', teams:[{n:'السعودية',p:2,pts:4},{n:'المكسيك',p:2,pts:4},{n:'أرجنتينا',p:2,pts:3},{n:'بولندا',p:2,pts:0}] },
     { name:'B', teams:[{n:'إنجلترا',p:2,pts:6},{n:'الولايات المتحدة',p:2,pts:3},{n:'إيران',p:2,pts:3},{n:'ويلز',p:2,pts:0}] },
@@ -894,7 +954,40 @@ function WorldCupView({ lang }) {
           <div className="hd-stat-lbl">{lang === 'ar' ? 'مباراة' : 'Matches'}</div>
         </div>
       </div>
-      <div style={{display:'grid',gridTemplateColumns:'repeat(auto-fit,minmax(240px,1fr))',gap:16}}>
+      {wcNews.length > 0 && (
+        <section style={{marginBottom:32}}>
+          <div className="hd-section-hd">
+            <div className="hd-section-hd-left">
+              <h2>{lang === 'ar' ? 'أخبار المونديال' : 'World Cup News'}</h2>
+            </div>
+          </div>
+          <div className="hd-feat-grid">
+            {wcNews.slice(0, 3).map((a, i) => (
+              <HdArticleCard key={`wcn${i}`} variant={i === 0 ? 'feature' : 'standard'} lang={lang}
+                kicker={t(a.kicker, lang)} title={t(a.title, lang)} image={a.image}
+                time={t(a.time, lang)} readMin={a.readMin}
+                url={a.slug ? `article/${a.slug}.html` : (a.url || null)}
+                external={!a.slug}
+                onClick={(a.slug || a.url) ? undefined : () => openArticle && openArticle({...a, body:null})}/>
+            ))}
+          </div>
+          <div className="hd-feed-list" style={{marginTop:12}}>
+            {wcNews.slice(3).map((a, i) => (
+              <HdArticleCard key={`wcl${i}`} variant="compact" lang={lang}
+                kicker={t(a.kicker, lang)} title={t(a.title, lang)} image={a.image}
+                time={t(a.time, lang)} readMin={a.readMin}
+                url={a.slug ? `article/${a.slug}.html` : (a.url || null)}
+                external={!a.slug}
+                onClick={(a.slug || a.url) ? undefined : () => openArticle && openArticle({...a, body:null})}/>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <div className="hd-section-hd"><div className="hd-section-hd-left">
+        <h2>{lang === 'ar' ? 'المجموعات' : 'Groups'}</h2>
+      </div></div>
+      <div style={{display:'grid',gridTemplateColumns:'repeat(auto-fit,minmax(240px,1fr))',gap:16,marginTop:12}}>
         {gdata.map(g => (
           <div key={g.name} className="hd-bracket-section" style={{marginBottom:0}}>
             <div className="hd-bracket-title">{lang === 'ar' ? 'المجموعة' : 'Group'} {g.name}</div>
@@ -1132,7 +1225,7 @@ function App() {
       {route === 'ucl'       && <UCLView lang={lang}/>}
       {route === 'transfers' && <TransfersView lang={lang}/>}
       {route === 'video'     && <VideoView lang={lang}/>}
-      {route === 'wc'        && <WorldCupView lang={lang}/>}
+      {route === 'wc'        && <WorldCupView lang={lang} feed={feed} openArticle={openArticle}/>}
       {route === 'article'   && <ArticleView lang={lang} article={article} setRoute={setRoute}/>}
 
       <HdFooter lang={lang} setRoute={setRoute}/>
