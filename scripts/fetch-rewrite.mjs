@@ -320,10 +320,13 @@ async function main() {
     }
   }
 
-  // Only new articles, newest first
+  // Only new articles. World Cup first (tournament is live), then newest first — so the
+  // limited per-run rewrites go to مونديال news before anything else.
+  const WC_RX = /كأس\s?العالم|مونديال|world\s?cup/i;
+  const isWC = a => WC_RX.test(`${a.title} ${a.desc}`);
   const newRaw = allRaw
     .filter(a => !existingUrls.has(a.link))
-    .sort((a, b) => new Date(b.pub) - new Date(a.pub));
+    .sort((a, b) => (isWC(b) - isWC(a)) || (new Date(b.pub) - new Date(a.pub)));
 
   // Existing articles that failed rewrite — retry them if Gemini key is now available
   const existingFallbacks = (!DRY_RUN && GEMINI_KEY)

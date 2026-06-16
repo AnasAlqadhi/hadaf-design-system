@@ -366,15 +366,23 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
             a.image ? a : { ...a, image: LOCAL_IMAGES[idx % LOCAL_IMAGES.length] });
         }
 
-        // Hero: admin's hero_urls win; otherwise first 4 with remote images
+        // ★ World-Cup-first: the tournament is live, so lead the whole site with مونديال
+        // news. Stable partition keeps recency order within each group.
+        const isWC = a => /كأس\s?العالم|مونديال|world\s?cup/i.test(
+          `${t(a.kicker, lang)} ${t(a.title, lang)}`);
+        merged = [...merged.filter(isWC), ...merged.filter(a => !isWC(a))];
+
+        // Hero: admin's hero_urls win; otherwise World-Cup articles with images first
         let slidePool;
         if (heroOverride && heroOverride.length) {
           slidePool = heroOverride.slice(0, 5);
         } else {
           const remoteImgArticles = merged.filter(a => a.image && a.image.startsWith('http'));
-          slidePool = remoteImgArticles.length >= 3
-            ? remoteImgArticles.slice(0, 4)
-            : [...remoteImgArticles, ...MOCK_HERO_SLIDES].slice(0, 4);
+          const wcImg = remoteImgArticles.filter(isWC);
+          const heroPool = [...wcImg, ...remoteImgArticles.filter(a => !isWC(a))];
+          slidePool = heroPool.length >= 3
+            ? heroPool.slice(0, 4)
+            : [...heroPool, ...MOCK_HERO_SLIDES].slice(0, 4);
         }
         if (slidePool.length) setHeroSlides(slidePool);
         if (merged.length) setFeed(merged);
@@ -407,13 +415,14 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
 
   // World Cup spotlight — pull مونديال articles straight from the live feed
   const WC_RX = /كأس\s?العالم|مونديال|world\s?cup/i;
-  const wcArticles = feed
-    .filter(a => WC_RX.test(`${t(a.kicker, lang)} ${t(a.title, lang)}`))
-    .slice(0, 4);
+  const wcAll = feed.filter(a => WC_RX.test(`${t(a.kicker, lang)} ${t(a.title, lang)}`));
+  const wcArticles = wcAll.slice(0, 4);
+  // Live World Cup headlines for the breaking bar (falls back to static if none yet)
+  const wcHeadlines = wcAll.slice(0, 6).map(a => a.title);
 
   return (
     <>
-      <HdBreakingBar items={BREAKING_ITEMS} lang={lang}/>
+      <HdBreakingBar items={wcHeadlines.length ? wcHeadlines : BREAKING_ITEMS} lang={lang}/>
       <HdLiveTicker matches={liveMatches} lang={lang} onMatchClick={() => setRoute('scores')}/>
 
       <HdHero
