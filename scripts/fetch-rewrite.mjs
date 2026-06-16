@@ -23,14 +23,21 @@ const ROOT      = resolve(__dir, '..');
 const FEED_PATH = resolve(ROOT, 'data', 'feed.json');
 const DRY_RUN   = process.argv.includes('--dry-run');
 
-const GEMINI_KEY      = process.env.GEMINI_API_KEY || '';
-const GEMINI_MODEL    = 'gemini-2.0-flash';
-const GEMINI_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_KEY}`;
+const GEMINI_KEY = process.env.GEMINI_API_KEY || '';
+
+// Free-tier models as of 2026 (gemini-2.0-flash was REMOVED from free tier → 429 limit:0).
+// Primary = better quality (10 RPM / 250 req-day). Fallback = higher quota (15 RPM / 1000 req-day).
+// Override either via env without code edits.
+const GEMINI_MODEL          = process.env.GEMINI_MODEL          || 'gemini-2.5-flash';
+const GEMINI_MODEL_FALLBACK = process.env.GEMINI_MODEL_FALLBACK || 'gemini-2.5-flash-lite';
+const endpointFor = (model) =>
+  `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${GEMINI_KEY}`;
 
 // Log key status upfront so we can see it in Actions logs
 console.log(`🔑 GEMINI_API_KEY: ${GEMINI_KEY ? `set (${GEMINI_KEY.length} chars, starts with ${GEMINI_KEY.slice(0,8)}…)` : '⚠ NOT SET'}`);
 
-const MAX_NEW_PER_RUN   = 3;   // AI rewrites per run — very conservative for free tier
+const MAX_NEW_PER_RUN   = Number(process.env.MAX_NEW_PER_RUN || 15);  // AI rewrites per run (free tier = 250/day)
+const REWRITE_DELAY_MS  = Number(process.env.REWRITE_DELAY_MS || 6500); // spacing to respect 10 RPM on 2.5-flash
 const MAX_ARTICLES_KEPT = 80;  // total articles stored in feed.json
 const MAX_AGE_DAYS      = 7;   // drop articles older than this
 
@@ -40,23 +47,26 @@ const FEEDS = [
   { key: 'bbc_ar',       url: 'https://feeds.bbci.co.uk/arabic/sport/rss.xml',            name: { ar: 'BBC عربي',           en: 'BBC Arabic'      }, lang: 'ar' },
   { key: 'espn',         url: 'https://www.espn.com/espn/rss/soccer/news',                name: { ar: 'ESPN',               en: 'ESPN FC'         }, lang: 'en' },
   { key: 'guardian',     url: 'https://www.theguardian.com/football/rss',                 name: { ar: 'الغارديان',          en: 'The Guardian'    }, lang: 'en' },
-  { key: 'ultrasport',   url: 'https://ultrasport.com/feed/',                             name: { ar: 'الترا سبورت',        en: 'Ultra Sport'     }, lang: 'ar' },
+  { key: 'rt_ar',        url: 'https://arabic.rt.com/rss/sport/',                          name: { ar: 'RT عربي',            en: 'RT Arabic'       }, lang: 'ar' },
 ];
 
 // ─── FOOTBALL FILTER ──────────────────────────────────────────────────────────
 const INCLUDE_RX = new RegExp([
   'football|soccer|fifa|uefa|premier.?league|la.?liga|serie.?a|bundesliga|ligue.?1',
-  'champions.?league|europa.?league|world.?cup|euro|saudi.?pro.?league|roshn',
+  'champions.?league|europa.?league|world.?cup|saudi.?pro.?league|roshn',
   'ronaldo|messi|neymar|mbapp|haaland|benzema|vinicius|modric|salah|kane',
   'manchester|liverpool|chelsea|arsenal|real.?madrid|barcelona|atletico|juventus',
   'milan|inter|bayern|psg|dortmund|al.?hilal|al.?nassr|al.?ittihad|al.?ahli',
-  'كرة.?القدم|مباراة|دوري|الهلال|النصر|الاتحاد|الأهلي|أبطال.?أوروبا|روشن',
-  'منتخب|كأس.?العالم|ريال.?مدريد|برشلونة|ليفربول|مانشستر|رونالدو|ميسي|مبابي',
+  'كرة.?القدم|مباراة|مباريات|دوري|الهلال|النصر|الاتحاد|الأهلي|أبطال.?أوروبا|روشن',
+  'منتخب|كأس.?العالم|مونديال|ريال.?مدريد|برشلونة|ليفربول|مانشستر|رونالدو|ميسي|مبابي',
 ].join('|'), 'i');
 
+// Reject clearly-other sports. Cricket leaks in via "World Cup" (e.g. "T20 World Cup"),
+// so cricket vocabulary (toss/T20/ICC/wicket…) must be excluded explicitly.
 const EXCLUDE_RX = new RegExp([
-  '\\b(tennis|basketball|volleyball|handball|cricket|golf|formula.?1|\\bf1\\b|mma|ufc|nba|nfl|boxing|rugby|cycling)\\b',
-  'تنس|كرة.?السلة|الملاكمة|الرغبي|الكريكيت|الغولف|فورمولا|جودو|سباحة',
+  '\\b(tennis|basketball|volleyball|handball|golf|formula.?1|\\bf1\\b|grand.?prix|mma|ufc|nba|nfl|nhl|mlb|baseball|boxing|rugby|cycling|darts|snooker|athletics|swimming)\\b',
+  '\\b(cricket|\\bt20\\b|\\bt10\\b|\\bodi\\b|\\bicc\\b|wicket|batsman|bowler|innings|\\btoss\\b|test match)\\b',
+  'تنس|كرة.?السلة|الكرة.?الطائرة|كرة.?اليد|الملاكمة|الرغبي|الكريكيت|كريكت|الغولف|فورمولا|الجودو|سباحة|ألعاب.?القوى|سلة',
 ].join('|'), 'i');
 
 function isFootball(text) {
@@ -160,6 +170,36 @@ const SYSTEM_PROMPT = `أنت محرر كروي متحمس لدى موقع "هد
   "body_ar": ["الفقرة الأولى", "الفقرة الثانية", "الفقرة الثالثة"]
 }`;
 
+const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+
+// One raw call to a specific model. Returns parsed JSON or throws an Error
+// whose `.status` carries the HTTP code (so callers can decide to retry / fall back).
+async function callGemini(model, body) {
+  const res = await fetch(endpointFor(model), {
+    method:  'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body,
+    signal:  AbortSignal.timeout(25000),
+  });
+
+  if (!res.ok) {
+    const errText = await res.text();
+    const e = new Error(`Gemini ${res.status} (${model}): ${errText.slice(0, 300)}`);
+    e.status = res.status;
+    throw e;
+  }
+
+  const data = await res.json();
+  const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+  const json = typeof text === 'object' ? text : JSON.parse(text.match(/\{[\s\S]*\}/)?.[0] || '{}');
+  if (!json.title_ar || !Array.isArray(json.body_ar) || !json.body_ar.length) {
+    throw new Error('Incomplete JSON from Gemini');
+  }
+  return json;
+}
+
+// Try the primary model, then the higher-quota fallback model. Each model gets a few
+// attempts with exponential backoff on transient errors (429 quota, 503 overloaded, 5xx).
 async function rewriteWithGemini(raw) {
   if (!GEMINI_KEY) return buildFallback(raw);
 
@@ -175,45 +215,45 @@ async function rewriteWithGemini(raw) {
     generationConfig: { temperature: 0.75, maxOutputTokens: 900, responseMimeType: 'application/json' },
   });
 
-  try {
-    const res  = await fetch(GEMINI_ENDPOINT, {
-      method:  'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body,
-      signal:  AbortSignal.timeout(20000),
-    });
+  const models = [...new Set([GEMINI_MODEL, GEMINI_MODEL_FALLBACK])];
+  let lastErr;
 
-    if (!res.ok) {
-      const err = await res.text();
-      throw new Error(`Gemini ${res.status}: ${err.slice(0, 400)}`);
+  for (const model of models) {
+    for (let attempt = 1; attempt <= 3; attempt++) {
+      try {
+        const json = await callGemini(model, body);
+        return {
+          id:        raw.link,
+          title:     { ar: json.title_ar,  en: raw.title },
+          kicker:    { ar: json.kicker_ar || 'أخبار', en: json.kicker_en || 'Football' },
+          excerpt:   { ar: json.excerpt_ar || '', en: raw.desc },
+          body:      { ar: json.body_ar },
+          image:     raw.image || '',
+          url:       raw.link,
+          source:    raw.source,
+          pubDate:   raw.pub,
+          rewritten: true,
+          lang:      'ar',
+        };
+      } catch (err) {
+        lastErr = err;
+        const transient = err.status === 429 || err.status === 503 || (err.status >= 500 && err.status < 600);
+        // A hard 429 with "limit: 0" means this model has no free quota at all — stop
+        // retrying it and move straight to the fallback model.
+        const quotaZero = err.status === 429 && /limit:\s*0/.test(err.message);
+        if (!transient || quotaZero || attempt === 3) {
+          console.warn(`  ⚠ ${model} attempt ${attempt} failed: ${err.message.split('\n')[0]}`);
+          break;
+        }
+        const backoff = 1500 * attempt;
+        console.warn(`  ↻ ${model} ${err.status} — retrying in ${backoff}ms (attempt ${attempt}/3)`);
+        await sleep(backoff);
+      }
     }
-
-    const data = await res.json();
-    const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
-    // Gemini with responseMimeType:json returns JSON directly, but let's be safe
-    const json = typeof text === 'object' ? text : JSON.parse(text.match(/\{[\s\S]*\}/)?.[0] || '{}');
-
-    if (!json.title_ar || !Array.isArray(json.body_ar) || !json.body_ar.length) {
-      throw new Error('Incomplete JSON from Gemini');
-    }
-
-    return {
-      id:        raw.link,
-      title:     { ar: json.title_ar,  en: raw.title },
-      kicker:    { ar: json.kicker_ar || 'أخبار', en: json.kicker_en || 'Football' },
-      excerpt:   { ar: json.excerpt_ar || '', en: raw.desc },
-      body:      { ar: json.body_ar },
-      image:     raw.image || '',
-      url:       raw.link,
-      source:    raw.source,
-      pubDate:   raw.pub,
-      rewritten: true,
-      lang:      'ar',
-    };
-  } catch (err) {
-    console.warn(`  ⚠ Gemini failed for "${raw.title.slice(0, 50)}": ${err.message}`);
-    return buildFallback(raw);
   }
+
+  console.warn(`  ⚠ Gemini failed for "${raw.title.slice(0, 50)}": ${lastErr?.message?.split('\n')[0] || 'unknown'}`);
+  return buildFallback(raw);
 }
 
 function buildFallback(raw) {
@@ -236,7 +276,8 @@ function buildFallback(raw) {
 // ─── MAIN ─────────────────────────────────────────────────────────────────────
 async function main() {
   console.log(`\n🏟  Hadaf autonomous pipeline  [${DRY_RUN ? 'DRY RUN' : 'LIVE'}]`);
-  console.log(`    Model : Gemini ${GEMINI_MODEL}`);
+  console.log(`    Model : Gemini ${GEMINI_MODEL}  (fallback: ${GEMINI_MODEL_FALLBACK})`);
+  console.log(`    Cap   : ${MAX_NEW_PER_RUN} rewrites/run @ ${REWRITE_DELAY_MS}ms spacing`);
   console.log(`    Key   : ${GEMINI_KEY ? `${GEMINI_KEY.slice(0,8)}… (${GEMINI_KEY.length} chars)` : '⚠ NOT SET — will use fallback only'}\n`);
 
   // Load existing articles
@@ -294,7 +335,7 @@ async function main() {
     const raw = allToWrite[i];
     console.log(`   ✍  [${i+1}/${allToWrite.length}] "${raw.title.slice(0, 65)}…"`);
     rewritten.push(await rewriteWithGemini(raw));
-    if (i < allToWrite.length - 1) await new Promise(r => setTimeout(r, 8000));
+    if (i < allToWrite.length - 1) await sleep(REWRITE_DELAY_MS);
   }
 
   // Retry existing fallbacks — convert stored article back to raw format
@@ -313,7 +354,7 @@ async function main() {
     console.log(`   🔄 retry [${i+1}/${toRetry.length}] "${raw.title.slice(0, 65)}…"`);
     const result = await rewriteWithGemini(raw);
     retried.set(a.id || a.url, result);
-    if (i < toRetry.length - 1) await new Promise(r => setTimeout(r, 8000));
+    if (i < toRetry.length - 1) await sleep(REWRITE_DELAY_MS);
   }
 
   // Apply retries back into existing
@@ -341,6 +382,16 @@ async function main() {
   console.log(`   Retried fallbacks   : ${nRetried}/${toRetry.length}`);
   console.log(`   Fallback (no AI)    : ${nFallback + passthrough.length}`);
   console.log(`   Total in feed       : ${final.length}`);
+
+  // Health alarm: a key is set but NOTHING got rewritten despite having work to do.
+  // This is exactly the silent failure (Gemini free-tier removal) that hid for a month.
+  const attempted = allToWrite.length + toRetry.length;
+  if (!DRY_RUN && GEMINI_KEY && attempted > 0 && (nRewritten + nRetried) === 0) {
+    console.error(`\n🚨 HEALTH ALERT: ${attempted} rewrites attempted, 0 succeeded.`);
+    console.error(`   The AI rewrite is DOWN (likely quota/model). Site is serving raw source text.`);
+    console.error(`   Check the model name + GEMINI_API_KEY quota at https://ai.dev/rate-limit`);
+    process.exitCode = 2; // surface as a failed step so it doesn't pass silently
+  }
 
   if (!DRY_RUN) {
     const out = { version: 2, updated: new Date().toISOString(), count: final.length, articles: final };

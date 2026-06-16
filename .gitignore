@@ -1,6 +1,9 @@
 # API keys — never commit real keys
 site/config.js
 
+# Node (pipeline deps only — installed in CI)
+node_modules/
+
 # OS
 .DS_Store
 Thumbs.db
