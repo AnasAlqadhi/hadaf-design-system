@@ -135,17 +135,16 @@ Each task: **Why → What → Effort** (S ≈ <1h, M ≈ half-day, L ≈ 1–2 d
 ### Phase 3 — SEO & discoverability 🟠 HIGH (this is what makes it "work aside")
 > The pipeline should **publish**, not just populate a dashboard.
 
-- [ ] **P3.1 — Generate static per-article pages.** *(L)* New pipeline step emits
+- [x] **P3.1 — Generate static per-article pages.** ✅ `scripts/build-pages.mjs` emits
   `/article/<slug>.html` per rewritten article: server-rendered Arabic title + body in the
-  HTML (not JS-injected), correct canonical, OG image, and `NewsArticle` JSON-LD. These are
-  the pages Google actually ranks.
-- [ ] **P3.2 — `sitemap.xml` + `robots.txt`.** *(S)* Pipeline regenerates `sitemap.xml`
-  listing every article page on each run; add `robots.txt` pointing to it.
-- [ ] **P3.3 — Publish an RSS/Atom feed of our own.** *(S)* `rss.xml` of Hadaf's rewritten
-  Arabic articles → enables Google News, feed readers, and auto-syndication.
-- [ ] **P3.4 — `NewsArticle` / `BreadcrumbList` structured data** on article pages. *(S)*
-- [ ] **P3.5 — Submit to Google Search Console + Bing.** *(S, manual)* One-time: verify the
-  domain, submit the sitemap. (I'll give you the exact steps.)
+  HTML (not JS-injected), canonical, OG image, `NewsArticle` JSON-LD. Runs in CI.
+- [x] **P3.2 — `sitemap.xml` + `robots.txt`.** ✅ Regenerated every deploy.
+- [x] **P3.3 — Publish an RSS/Atom feed of our own.** ✅ `rss.xml` of rewritten Arabic articles.
+- [x] **P3.4 — `NewsArticle` structured data** on article pages. ✅ (`BreadcrumbList` = later.)
+- [ ] **P3.5 — Submit to Google Search Console + Bing.** *(S, manual — YOUR step)* One-time:
+  verify the property, submit the sitemap. See "Manual steps for you" below.
+- [ ] **P3.6 — SPA internal links to on-site pages.** ✅ Article cards + hero now open
+  `/article/<slug>.html` (same tab) for rewritten articles; fallbacks still link out.
 
 ### Phase 4 — Performance & robustness 🟡 MEDIUM
 - [ ] **P4.1 — Kill in-browser Babel.** *(L)* Add a tiny build step (esbuild/Vite) that
@@ -183,6 +182,17 @@ Each task: **Why → What → Effort** (S ≈ <1h, M ≈ half-day, L ≈ 1–2 d
 
 ---
 
+## 4b. Manual steps for you (can't be automated)
+
+These need your Google account / dashboards — do them once after this deploy lands:
+
+1. **Google Search Console** → add property `https://anasalqadhi.github.io/hadaf-design-system/`
+   (URL-prefix). Verify via the HTML-tag method (paste the meta tag into `index.html` `<head>`
+   — tell me the tag and I'll add it). Then **Sitemaps → submit** `sitemap.xml`.
+2. **Bing Webmaster Tools** → import from Search Console (one click) or add + submit the same sitemap.
+3. *(Optional, recommended)* **Custom domain** (e.g. `hadaf.news`) → much stronger branding +
+   lets `robots.txt`/sitemap sit at the true root. I'll wire the `CNAME` + DNS steps when you have one.
+
 ## 5. Status log
 
 | Date | Change |
@@ -190,5 +200,6 @@ Each task: **Why → What → Effort** (S ≈ <1h, M ≈ half-day, L ≈ 1–2 d
 | 2026-06-16 | Full audit. Root-caused dead pipeline (Gemini free-tier removal of 2.0-flash). Phase 0 hygiene done. Plan written. |
 | 2026-06-16 | **Phase 1 done** (P1.1–P1.4): model → `gemini-2.5-flash` (+ flash-lite fallback), retry/backoff, throughput 3→15, env-configurable. **Phase 2 partial**: P2.1 filter hardened (9/9 unit tests; cricket/tennis/NBA rejected), P2.2 dead `ultrasport` feed replaced with RT Arabic Sport (17 football articles/run). **P4.4 done**: pipeline now hard-fails on 0-of-N rewrites so silent breakage can't recur. Verified via dry-run; live Gemini call pending deploy. |
 | 2026-06-16 | **DEPLOYED & VERIFIED in production.** Discovered `gemini-2.5-flash` truncates JSON (2.5 thinking tokens eat the output budget) → disabled thinking (`thinkingBudget:0`), raised `maxOutputTokens` to 1200, promoted `flash-lite` (1000 req/day) to primary. Live feed climbed **0% → 36% rewritten in two runs** with real Hadaf-voice Arabic headlines; self-heals to ~100% over the next day via the backfill/retry path. **Engine is alive.** |
+| 2026-06-16 | **Phase 3 (SEO) built.** New `scripts/build-pages.mjs` generates static `/article/<slug>.html` (Arabic content + `NewsArticle` JSON-LD + OG + canonical) for every rewritten article, plus `sitemap.xml`, `rss.xml`, `robots.txt` — wired into the deploy workflow (build artifacts, gitignored). Slugs added to feed.json via shared `scripts/lib/slug.mjs`. SPA cards + hero now open on-site article pages (same tab) with source attribution. Verified locally (29 pages, valid XML, 200 over HTTP). |
 
 *(Append future changes here so this file stays the source of truth.)*

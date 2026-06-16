@@ -321,6 +321,8 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
           time:    { ar: relativeTime(a.pubDate, 'ar'), en: relativeTime(a.pubDate, 'en') },
           readMin: Math.max(2, Math.round((a.excerpt?.en || a.excerpt || '').split(' ').length / 200) + 2),
           url:     a.url,
+          slug:    a.slug,              // present on AI-rewritten articles → on-site page
+          body:    a.body,
           excerpt: a.excerpt,
           pubDate: a.pubDate,
         }));
@@ -356,7 +358,8 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
   }, [lang]);
 
   function onSlideClick(slide) {
-    if (slide.url) window.open(slide.url, '_blank', 'noopener,noreferrer');
+    if (slide.slug) window.location.href = `article/${slide.slug}.html`;  // our on-site page
+    else if (slide.url) window.open(slide.url, '_blank', 'noopener,noreferrer');
     else openArticle(slide);
   }
 
@@ -425,8 +428,9 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
                   <HdArticleCard key={i} variant="feature" lang={lang}
                     kicker={t(a.kicker, lang)} title={t(a.title, lang)} image={a.image}
                     time={t(a.time, lang)} readMin={a.readMin}
-                    url={a.url || null}
-                    onClick={a.url ? undefined : () => openArticle({...a, body:null})}/>
+                    url={a.slug ? `article/${a.slug}.html` : (a.url || null)}
+                    external={!a.slug}
+                    onClick={(a.slug || a.url) ? undefined : () => openArticle({...a, body:null})}/>
                 ))}
               </div>
 
@@ -443,8 +447,9 @@ function HomeView({ lang, setRoute, openArticle, onFeedLoad }) {
                   <HdArticleCard key={i} variant="standard" lang={lang}
                     kicker={t(a.kicker, lang)} title={t(a.title, lang)} image={a.image}
                     time={t(a.time, lang)} readMin={a.readMin}
-                    url={a.url || null}
-                    onClick={a.url ? undefined : () => openArticle({...a, body:null})}/>
+                    url={a.slug ? `article/${a.slug}.html` : (a.url || null)}
+                    external={!a.slug}
+                    onClick={(a.slug || a.url) ? undefined : () => openArticle({...a, body:null})}/>
                 ))}
               </div>
 

@@ -1,10 +1,14 @@
 /* global React */
 
-function ArticleCard({ kicker, title, image, time, readMin, variant = 'standard', onClick, lang, url }) {
-  // Use <a> for external links (better SEO + accessibility), <article> for internal
+function ArticleCard({ kicker, title, image, time, readMin, variant = 'standard', onClick, lang, url, external = true }) {
+  // <a> for any link (better SEO + accessibility), <article> for in-app JS navigation.
+  // external=true → open the source in a new tab; external=false → same-tab nav to our
+  // own on-site article page (so internal links are crawlable and keep readers on Hadaf).
   const Tag = url ? 'a' : 'article';
   const linkProps = url
-    ? { href: url, target: '_blank', rel: 'noopener noreferrer', onClick }
+    ? (external
+        ? { href: url, target: '_blank', rel: 'noopener noreferrer', onClick }
+        : { href: url, onClick })
     : { onClick, tabIndex: 0, role: 'button' };
 
   if (variant === 'feature') {

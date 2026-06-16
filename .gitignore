@@ -4,6 +4,12 @@ site/config.js
 # Node (pipeline deps only — installed in CI)
 node_modules/
 
+# Generated SEO build artifacts (built fresh each deploy by scripts/build-pages.mjs)
+/article/
+/sitemap.xml
+/rss.xml
+/robots.txt
+
 # OS
 .DS_Store
 Thumbs.db

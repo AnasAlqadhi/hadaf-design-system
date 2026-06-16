@@ -17,6 +17,7 @@ import { XMLParser }    from 'fast-xml-parser';
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath }    from 'node:url';
+import { makeSlug }         from './lib/slug.mjs';
 
 const __dir     = dirname(fileURLToPath(import.meta.url));
 const ROOT      = resolve(__dir, '..');
@@ -400,6 +401,12 @@ async function main() {
     console.error(`   The AI rewrite is DOWN (likely quota/model). Site is serving raw source text.`);
     console.error(`   Check the model name + GEMINI_API_KEY quota at https://ai.dev/rate-limit`);
     process.exitCode = 2; // surface as a failed step so it doesn't pass silently
+  }
+
+  // Give every rewritten (on-site) article a stable slug so the SEO page generator and
+  // the site link to the same URL. Fallback articles stay link-outs (no slug, no page).
+  for (const a of final) {
+    if (a.rewritten && !a.slug) a.slug = makeSlug(a);
   }
 
   if (!DRY_RUN) {

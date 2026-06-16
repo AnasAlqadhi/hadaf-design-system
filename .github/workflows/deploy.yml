@@ -69,6 +69,14 @@ jobs:
             echo "✅ Committed updated feed.json"
           fi
 
+      # ── Step 2b: Generate static SEO pages + sitemap/rss/robots ────────────
+      # Emits article/<slug>.html for every rewritten article so Google can index
+      # real pages (not the JS-only SPA). Build artifacts — not committed.
+      - name: Generate article pages & sitemap
+        run: |
+          node scripts/build-pages.mjs
+          echo "SEO pages generated"
+
       # ── Step 3: Inject browser API keys into config.js ─────────────────────
       - name: Inject API config
         env:
