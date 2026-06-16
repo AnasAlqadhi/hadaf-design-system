@@ -189,5 +189,6 @@ Each task: **Why → What → Effort** (S ≈ <1h, M ≈ half-day, L ≈ 1–2 d
 |------|--------|
 | 2026-06-16 | Full audit. Root-caused dead pipeline (Gemini free-tier removal of 2.0-flash). Phase 0 hygiene done. Plan written. |
 | 2026-06-16 | **Phase 1 done** (P1.1–P1.4): model → `gemini-2.5-flash` (+ flash-lite fallback), retry/backoff, throughput 3→15, env-configurable. **Phase 2 partial**: P2.1 filter hardened (9/9 unit tests; cricket/tennis/NBA rejected), P2.2 dead `ultrasport` feed replaced with RT Arabic Sport (17 football articles/run). **P4.4 done**: pipeline now hard-fails on 0-of-N rewrites so silent breakage can't recur. Verified via dry-run; live Gemini call pending deploy. |
+| 2026-06-16 | **DEPLOYED & VERIFIED in production.** Discovered `gemini-2.5-flash` truncates JSON (2.5 thinking tokens eat the output budget) → disabled thinking (`thinkingBudget:0`), raised `maxOutputTokens` to 1200, promoted `flash-lite` (1000 req/day) to primary. Live feed climbed **0% → 36% rewritten in two runs** with real Hadaf-voice Arabic headlines; self-heals to ~100% over the next day via the backfill/retry path. **Engine is alive.** |
 
 *(Append future changes here so this file stays the source of truth.)*
