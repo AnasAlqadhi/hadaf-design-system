@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-06-16T20:43:13.648Z",
+  "updated": "2026-06-16T21:13:56.555Z",
   "count": 80,
   "articles": [
     {
@@ -34,6 +34,138 @@
       "rewritten": true,
       "lang": "ar",
       "slug": "2026-10rkvz2"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49020508/fifa-world-cup-live-updates-france-kick-tournament-vs-senegal",
+      "title": {
+        "ar": "World Cup live updates: Two-goal Mbappé stars as F...",
+        "en": "World Cup live updates: Two-goal Mbappé stars as F..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49020508/fifa-world-cup-live-updates-france-kick-tournament-vs-senegal",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 16 Jun 2026 17:04:10 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49084431/neymar-trains-alone-brazil-world-cup-camp-calf-injury",
+      "title": {
+        "ar": "Neymar trains alone for 1st time at Brazil WC camp...",
+        "en": "Neymar trains alone for 1st time at Brazil WC camp..."
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49084431/neymar-trains-alone-brazil-world-cup-camp-calf-injury",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 16 Jun 2026 16:22:16 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.espn.com/soccer/story/_/id/49076822/stats-usmnt-win-vs-paraguay-signal-deep-world-cup-run-possible",
+      "title": {
+        "ar": "USMNT in World Cup quarterfinals? There's a real c...",
+        "en": "USMNT in World Cup quarterfinals? There's a real c..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/soccer/story/_/id/49076822/stats-usmnt-win-vs-paraguay-signal-deep-world-cup-run-possible",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Tue, 16 Jun 2026 16:18:21 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/crkvnz3zdy5o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "النشامى يحلمون.. جيل أردني جديد يقتحم المونديال!",
+        "en": "\"حالمون\" أردنيون في كأس العالم، فماذا يريد \"النشامى\" من المونديال؟"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "الأردن يتأهل لكأس العالم لأول مرة في تاريخه، فما هي طموحات النشامى في هذا المحفل العالمي؟",
+        "en": ""
+      },
+      "body": {
+        "ar": [
+          "وصل الحلم الأردني إلى أعلى مستوياته! منتخب النشامى يزف بشرى التأهل لكأس العالم، محققاً إنجازاً تاريخياً يكتب بماء الذهب.",
+          "هذا الجيل الاستثنائي من اللاعبين الأردنيين، بقيادة نجمهم المتألق، يطمحون لترك بصمة لا تُنسى في المونديال، متجاوزين مجرد المشاركة.",
+          "إنها فرصة ذهبية للجماهير العربية لمساندة منتخب يمثلهم بشغف، وإثبات أن الأحلام الكبيرة يمكن أن تتحقق بالإصرار والعمل الجاد."
+        ]
+      },
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fecd/live/619058e0-68e7-11f1-a322-77bd30adf518.jpg",
+      "url": "https://www.bbc.com/arabic/articles/crkvnz3zdy5o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Tue, 16 Jun 2026 21:01:13 GMT",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "post-3qn4bl"
+    },
+    {
+      "id": "https://arabic.rt.com/sport/1800809-%D8%A7%D9%84%D9%81%D9%8A%D9%81%D8%A7-%D9%8A%D9%81%D8%A7%D8%AC%D8%A6-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AB%D9%8A%D8%B1-%D9%82%D8%A8%D9%84-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B4%D9%88%D8%A7%D8%B1%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84/",
+      "title": {
+        "ar": "الفيفا يفاجئ العراق بقرار مثير قبل انطلاق مشواره في المونديال",
+        "en": "الفيفا يفاجئ العراق بقرار مثير قبل انطلاق مشواره في المونديال"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a31b3864c59b753a6180b05.jpeg",
+      "url": "https://arabic.rt.com/sport/1800809-%D8%A7%D9%84%D9%81%D9%8A%D9%81%D8%A7-%D9%8A%D9%81%D8%A7%D8%AC%D8%A6-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%D8%AB%D9%8A%D8%B1-%D9%82%D8%A8%D9%84-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D8%B4%D9%88%D8%A7%D8%B1%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84/",
+      "source": {
+        "ar": "RT عربي",
+        "en": "RT Arabic"
+      },
+      "pubDate": "Tue, 16 Jun 2026 20:50:44 +0000",
+      "rewritten": false,
+      "lang": "ar"
     },
     {
       "id": "https://www.bbc.co.uk/arabic/live/cvgep96zpl9t?at_medium=RSS&at_campaign=rss",
@@ -979,6 +1111,63 @@
       "lang": "ar"
     },
     {
+      "id": "https://www.theguardian.com/football/2026/jun/16/iran-new-zealand-world-cup-2026-group-g-match-report",
+      "title": {
+        "ar": "Iran twice come from behind to claim draw in World Cup opener with New Zealand",
+        "en": "Iran twice come from behind to claim draw in World Cup opener with New Zealand"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p /p p During 101 minutes of action in Los Angeles, Iran were finally able to focus on football. The buildup had been unprecedented, messy and chaotic. But then, in the aftermath of an entertaining draw with New Zealand, Iran’s captain, Mehdi Taremi, described their World Cup as a “disaster”, explaining how the Fifa president, Gianni Infantino, wen",
+        "en": "p /p p During 101 minutes of action in Los Angeles, Iran were finally able to focus on football. The buildup had been unprecedented, messy and chaotic. But then, in the aftermath of an entertaining draw with New Zealand, Iran’s captain, Mehdi Taremi, described their World Cup as a “disaster”, explaining how the Fifa president, Gianni Infantino, wen"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/16/iran-new-zealand-world-cup-2026-group-g-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 16 Jun 2026 03:19:12 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/16/saudi-arabia-uruguay-world-cup-match-report",
+      "title": {
+        "ar": "أراوخو ينقذ الأوروغواي من صدمة سعودية مدوية في كأس العالم!",
+        "en": "Araújo to the rescue as Uruguay deny Saudi Arabia another World Cup shock"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "أراوخو يظهر في اللحظة الحاسمة ليحرم السعودية من انتصار تاريخي كاد يزلزل المونديال.",
+        "en": "p Fifa’s embrace of rapacious American capitalism may have found its limits in Miami, one of the entertainment capitals of the world. /p p Despite just seven tickets showing as available on its website at kick-off there were thousands of empty seats – and empty concourses – throughout most of this game, a hard-fought draw which leaves Group H deadl"
+      },
+      "body": {
+        "ar": [
+          "نجح رونالد أراوخو في إنقاذ منتخب الأوروغواي من هزيمة وشيكة أمام منتخب السعودية، محققاً تعادلاً بطعم الانتصار في مباراة مثيرة ضمن منافسات كأس العالم.",
+          "المنتخب السعودي، الذي أظهر روحاً قتالية عالية وتنظيماً دفاعياً محكماً، كان قريباً جداً من تحقيق مفاجأة أخرى تضاف لسلسلة إنجازاته في البطولة، قبل أن يتدخل مدافع برشلونة في التوقيت المثالي ليعدل النتيجة ويُبعد شبح الخسارة عن فريقه.",
+          "هذه النتيجة تُبقي على آمال الأوروغواي في التأهل، بينما تؤكد أن الأخضر السعودي بات رقماً صعباً لا يستهان به، قادراً على مقارعة كبار القارة والعالم في المحفل الكروي الأكبر."
+        ]
+      },
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/16/saudi-arabia-uruguay-world-cup-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 16 Jun 2026 00:26:58 GMT",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "arau-jo-to-the-rescue-as-uruguay-deny-saudi-arabia-another-w-1i86zhj"
+    },
+    {
       "id": "https://www.theguardian.com/football/2026/jun/15/belgium-egypt-world-cup-2026-group-g-match-report",
       "title": {
         "ar": "Lukaku makes instant impact to force own goal and rescue draw for Belgium against Egypt",
@@ -1157,6 +1346,31 @@
       "slug": "fifa-plans-israel-v-palestine-fixture-as-opening-game-of-new-1mnj6gk"
     },
     {
+      "id": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "title": {
+        "ar": "Every team's odds to win the World Cup: Brazil's o...",
+        "en": "Every team's odds to win the World Cup: Brazil's o..."
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "source": {
+        "ar": "ESPN",
+        "en": "ESPN FC"
+      },
+      "pubDate": "Sun, 14 Jun 2026 12:38:54 EST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
       "id": "https://www.bbc.com/arabic/articles/c2eyx7prvnyo?at_medium=RSS&at_campaign=rss",
       "title": {
         "ar": "تونس في المونديال: هل يصمد نسور قرطاج أمام عمالقة العالم؟",
@@ -1246,52 +1460,27 @@
       "slug": "post-9rfpjx"
     },
     {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
+      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
       "title": {
-        "ar": "Bracketology: predict a path to World Cup victory",
-        "en": "Bracketology: predict a path to World Cup victory"
+        "ar": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+        "en": "Women’s transfer window summer 2026: all deals from world’s top six leagues"
       },
       "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
+        "ar": "الدوري الإيطالي",
+        "en": "Serie A"
       },
       "excerpt": {
-        "ar": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a",
-        "en": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a"
+        "ar": "p Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Continue reading... /a",
+        "en": "p Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Continue reading... /a"
       },
       "body": null,
       "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
       "source": {
         "ar": "الغارديان",
         "en": "The Guardian"
       },
-      "pubDate": "Thu, 04 Jun 2026 10:00:48 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "title": {
-        "ar": "World Cup 2026: guide to all 1,248 players",
-        "en": "World Cup 2026: guide to all 1,248 players"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a",
-        "en": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 08:55:49 GMT",
+      "pubDate": "Mon, 08 Jun 2026 09:00:05 GMT",
       "rewritten": false,
       "lang": "en"
     },
@@ -2056,181 +2245,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Tue, 16 Jun 2026 04:33:45 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
-      "title": {
-        "ar": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-        "en": "Cape Verde GK Vozinha stopped World Cup favorites ..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 16 Jun 2026 03:44:46 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/49076525/lukaku-seizes-spotlight-salah-de-bruyne-belgium-draw-egypt-2026-world-cup",
-      "title": {
-        "ar": "Lukaku seizes spotlight from Salah, De Bruyne in B...",
-        "en": "Lukaku seizes spotlight from Salah, De Bruyne in B..."
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49076525/lukaku-seizes-spotlight-salah-de-bruyne-belgium-draw-egypt-2026-world-cup",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 16 Jun 2026 03:42:18 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/49014778/can-argentina-really-win-world-cup-again-stats-players-say",
-      "title": {
-        "ar": "Can Argentina really win the World Cup again? What...",
-        "en": "Can Argentina really win the World Cup again? What..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49014778/can-argentina-really-win-world-cup-again-stats-players-say",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 16 Jun 2026 03:34:53 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/49066914/michael-olise-key-france-world-cup-chances",
-      "title": {
-        "ar": "Why Michael Olise is the key to France's World Cup...",
-        "en": "Why Michael Olise is the key to France's World Cup..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49066914/michael-olise-key-france-world-cup-chances",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 16 Jun 2026 03:34:53 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/video/2026/jun/16/history-for-cape-verde-as-spain-start-with-a-stutter-world-cup-daily",
-      "title": {
-        "ar": "History for Cape Verde as Spain start with a stutter | World Cup Daily",
-        "en": "History for Cape Verde as Spain start with a stutter | World Cup Daily"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , a href=\"https://bsky.app/profile/barneyronay.bsky.social\" Barney Ronay /a , Dan Bardell and a href=\"https://bsky.app/profile/sidlowe.bsky.social\" Sid Lowe /a as debutants Ca",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , a href=\"https://bsky.app/profile/barneyronay.bsky.social\" Barney Ronay /a , Dan Bardell and a href=\"https://bsky.app/profile/sidlowe.bsky.social\" Sid Lowe /a as debutants Ca"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/video/2026/jun/16/history-for-cape-verde-as-spain-start-with-a-stutter-world-cup-daily",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 16 Jun 2026 07:14:51 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/16/jordan-uzbekistan-debut-asia-world-cup-2026",
-      "title": {
-        "ar": "Jordan and Uzbekistan ready to crash World Cup party with tactical grit and resolve",
-        "en": "Jordan and Uzbekistan ready to crash World Cup party with tactical grit and resolve"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Packed streets of Amman and Tashkent will be lively with Asia’s debutants determined they are not just here to make up the numbers /p p Before eagerly awaited meetings with Lionel Messi and Cristiano Ronaldo comes slightly less glamorous but hugely important first ever World Cup games for Asia’s debutants. Jordan take on Austria on Wednesday befo",
-        "en": "p Packed streets of Amman and Tashkent will be lively with Asia’s debutants determined they are not just here to make up the numbers /p p Before eagerly awaited meetings with Lionel Messi and Cristiano Ronaldo comes slightly less glamorous but hugely important first ever World Cup games for Asia’s debutants. Jordan take on Austria on Wednesday befo"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/16/jordan-uzbekistan-debut-asia-world-cup-2026",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 16 Jun 2026 07:00:47 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/49065000/so-close-germany-nearly-got-world-cup-scorigami-that",
-      "title": {
-        "ar": "So close! Germany nearly got a World Cup Scorigami...",
-        "en": "So close! Germany nearly got a World Cup Scorigami..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49065000/so-close-germany-nearly-got-world-cup-scorigami-that",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Mon, 15 Jun 2026 23:40:21 EST",
       "rewritten": false,
       "lang": "en"
     }
