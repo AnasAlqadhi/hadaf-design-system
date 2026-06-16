@@ -1,86 +1,70 @@
-// Hadaf Service Worker — offline shell strategy
-// Caches the app shell on install; serves from cache, updates in background.
+// Hadaf Service Worker — network-first for content, cache-first for static assets.
+//
+// Why network-first: this is a NEWS site. The previous "cache-first" strategy served a
+// stale copy on every repeat visit, so new articles + new deploys only appeared on a
+// second visit — making the live site look frozen. Now, when you're online you always
+// get the freshest HTML/JS/data; the cache is only a fallback for offline.
+//
+// Bump CACHE_VERSION whenever this strategy changes to wipe old caches on activate.
 
-const CACHE_NAME = 'hadaf-shell-v1';
-const SHELL_ASSETS = [
-  '/hadaf-design-system/',
-  '/hadaf-design-system/index.html',
-  '/hadaf-design-system/colors_and_type.css',
-  '/hadaf-design-system/site/styles.css',
-  '/hadaf-design-system/site/Nav.jsx',
-  '/hadaf-design-system/site/Hero.jsx',
-  '/hadaf-design-system/site/MatchCard.jsx',
-  '/hadaf-design-system/site/ArticleCard.jsx',
-  '/hadaf-design-system/site/LeagueTable.jsx',
-  '/hadaf-design-system/site/Bits.jsx',
-  '/hadaf-design-system/site/cache.js',
-  '/hadaf-design-system/site/api.js',
-  '/hadaf-design-system/site/sportmonksApi.js',
-  '/hadaf-design-system/site/newsApi.js',
-  '/hadaf-design-system/site/videoApi.js',
-  '/hadaf-design-system/site/articleStore.js',
-  '/hadaf-design-system/site/ScoresView.jsx',
-  '/hadaf-design-system/site/Admin.jsx',
-  '/hadaf-design-system/site/App.jsx',
-  '/hadaf-design-system/assets/logo/hadaf-wordmark.png',
-  '/hadaf-design-system/assets/imagery/stadium-night.png',
-  '/hadaf-design-system/assets/imagery/match-action-goal.png',
-  '/hadaf-design-system/assets/imagery/match-action-strike.png',
-  '/hadaf-design-system/assets/imagery/player-portrait.png',
-  '/hadaf-design-system/assets/imagery/ball-macro.png',
-  '/hadaf-design-system/assets/crests/team-blue.svg',
-  '/hadaf-design-system/assets/crests/team-yellow.svg',
-  '/hadaf-design-system/assets/crests/team-black.svg',
-  '/hadaf-design-system/assets/crests/team-red.svg',
-];
+const CACHE_VERSION = 'v3';
+const CACHE_NAME = `hadaf-${CACHE_VERSION}`;
+const BASE = '/hadaf-design-system/';
 
-// Install: pre-cache the shell
+// Minimal offline fallback shell (kept small on purpose).
+const PRECACHE = [BASE, BASE + 'index.html'];
+
 self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE_NAME)
-      .then(cache => cache.addAll(SHELL_ASSETS.map(url => new Request(url, { cache: 'reload' }))))
+      .then(cache => cache.addAll(PRECACHE.map(u => new Request(u, { cache: 'reload' }))))
       .then(() => self.skipWaiting())
-      .catch(() => self.skipWaiting()) // don't block install on cache failures
+      .catch(() => self.skipWaiting())
   );
 });
 
-// Activate: clear old caches
 self.addEventListener('activate', event => {
   event.waitUntil(
     caches.keys()
-      .then(keys => Promise.all(
-        keys.filter(k => k !== CACHE_NAME).map(k => caches.delete(k))
-      ))
+      .then(keys => Promise.all(keys.filter(k => k !== CACHE_NAME).map(k => caches.delete(k))))
       .then(() => self.clients.claim())
   );
 });
 
-// Fetch: stale-while-revalidate for same-origin; network-only for external
+// Treat images/fonts as static (cache-first); everything else is content (network-first).
+const STATIC_RX = /\.(png|jpe?g|webp|gif|svg|ico|woff2?|ttf|otf)$/i;
+
 self.addEventListener('fetch', event => {
   const { request } = event;
-  const url = new URL(request.url);
-
-  // Only intercept GET requests to same origin
   if (request.method !== 'GET') return;
-  if (!url.pathname.startsWith('/hadaf-design-system/') && url.origin !== self.location.origin) return;
 
-  // Don't intercept API calls (data should always be fresh)
-  const isApiCall = url.hostname !== self.location.hostname;
-  if (isApiCall) return;
+  const url = new URL(request.url);
+  if (url.origin !== self.location.origin) return; // never touch external APIs/CDNs
 
+  // Static assets: cache-first (fast, they rarely change).
+  if (STATIC_RX.test(url.pathname)) {
+    event.respondWith(
+      caches.open(CACHE_NAME).then(cache =>
+        cache.match(request).then(cached =>
+          cached || fetch(request).then(res => { if (res.ok) cache.put(request, res.clone()); return res; })
+        )
+      )
+    );
+    return;
+  }
+
+  // Content (HTML / JS / JSX / CSS / JSON): network-first, fall back to cache offline.
   event.respondWith(
-    caches.open(CACHE_NAME).then(cache =>
-      cache.match(request).then(cached => {
-        const networkFetch = fetch(request)
-          .then(response => {
-            if (response.ok) cache.put(request, response.clone());
-            return response;
-          })
-          .catch(() => null);
-
-        // Return cached immediately, update in background
-        return cached || networkFetch;
+    fetch(request)
+      .then(res => {
+        if (res.ok) {
+          const copy = res.clone();
+          caches.open(CACHE_NAME).then(cache => cache.put(request, copy));
+        }
+        return res;
       })
-    )
+      .catch(() =>
+        caches.match(request).then(cached => cached || caches.match(BASE))
+      )
   );
 });

@@ -1,12 +1,12 @@
 name: Deploy Hadaf to GitHub Pages
 
-# Runs on every push to main, every 6 hours (keeps news fresh),
+# Runs on every push to main, every 2 hours (keeps news fresh),
 # and can be triggered manually from the GitHub Actions tab.
 on:
   push:
     branches: [main]
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 permissions:
