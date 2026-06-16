@@ -1,8 +1,33 @@
 {
   "version": 2,
-  "updated": "2026-06-16T21:13:56.555Z",
+  "updated": "2026-06-16T21:52:20.053Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.skysports.com/football/france-vs-senegal/report/549782",
+      "title": {
+        "ar": "Brilliant Mbappe becomes France's top scorer in win over Senegal",
+        "en": "Brilliant Mbappe becomes France's top scorer in win over Senegal"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-kylian-mbappe-france_7275371.jpg?20260616215556",
+      "url": "https://www.skysports.com/football/france-vs-senegal/report/549782",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Tue, 16 Jun 2026 21:45:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
     {
       "id": "https://arabic.rt.com/sport/1800485-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D9%85%D9%86-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026-%D8%AA%D8%A7%D8%A8%D8%B9%D9%88%D8%A7-%D8%A7%D9%84%D8%AD%D8%AF%D8%AB-%D9%84%D8%AD%D8%B8%D8%A9-%D8%A8%D9%84%D8%AD%D8%B8%D8%A9/",
       "title": {
@@ -61,6 +86,31 @@
       "lang": "en"
     },
     {
+      "id": "https://arabic.rt.com/sport/1800823-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%8A%D8%AB%D8%A3%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026/",
+      "title": {
+        "ar": "منتخب فرنسا \"يثأر\" من السنغال في مونديال 2026 (فيديو)",
+        "en": "منتخب فرنسا \"يثأر\" من السنغال في مونديال 2026 (فيديو)"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a31bff74236046ccc181d06.jpg",
+      "url": "https://arabic.rt.com/sport/1800823-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%8A%D8%AB%D8%A3%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026/",
+      "source": {
+        "ar": "RT عربي",
+        "en": "RT Arabic"
+      },
+      "pubDate": "Tue, 16 Jun 2026 21:32:10 +0000",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
       "id": "https://www.espn.com/soccer/story/_/id/49084431/neymar-trains-alone-brazil-world-cup-camp-calf-injury",
       "title": {
         "ar": "Neymar trains alone for 1st time at Brazil WC camp...",
@@ -109,6 +159,63 @@
       "pubDate": "Tue, 16 Jun 2026 16:18:21 EST",
       "rewritten": false,
       "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report",
+      "title": {
+        "ar": "Mbappé’s belter steals show as fluid France see off late Senegal challenge",
+        "en": "Mbappé’s belter steals show as fluid France see off late Senegal challenge"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p This was an ominous start from the World Cup favourites. A sputtering first-half performance gave way to a second period characterised by a combination of physical intensity and technical ability that few club sides, never mind nations, can match. Add on a record-equalling, then surpassing, couple of goals for Kylian Mbappé and some superlative p",
+        "en": "p This was an ominous start from the World Cup favourites. A sputtering first-half performance gave way to a second period characterised by a combination of physical intensity and technical ability that few club sides, never mind nations, can match. Add on a record-equalling, then surpassing, couple of goals for Kylian Mbappé and some superlative p"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 16 Jun 2026 21:13:40 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://arabic.rt.com/sport/1800803-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026-%D8%A7%D9%84%D9%85%D9%88%D8%B9%D8%AF-%D9%88%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9/",
+      "title": {
+        "ar": "أسود الرافدين على موعد مع التاريخ.. العراق والنرويج في تصفيات المونديال!",
+        "en": "العراق يواجه النرويج في مونديال 2026.. الموعد والتشكيلة والقنوات الناقلة"
+      },
+      "kicker": {
+        "ar": "تصفيات كأس العالم",
+        "en": "World Cup Qualifiers"
+      },
+      "excerpt": {
+        "ar": "ترقبوا مواجهة نارية بين العراق والنرويج في مشوار التأهل لمونديال 2026.",
+        "en": ""
+      },
+      "body": {
+        "ar": [
+          "أعلن الاتحاد الدولي لكرة القدم عن جدول مباريات تصفيات كأس العالم 2026، والتي سيشهد مواجهة قوية بين منتخب أسود الرافدين ونظيره النرويجي.",
+          "تأتي هذه المباراة ضمن الجولة الافتتاحية للتصفيات، ويسعى المنتخب العراقي لتحقيق انطلاقة قوية أمام خصم أوروبي قوي.",
+          "هذه المواجهة تمثل فرصة ذهبية للجماهير العربية لمتابعة منتخبهم في مشوار التأهل، وتعزيز آمالهم في الوصول إلى المحفل العالمي الكبير."
+        ]
+      },
+      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a31bc534236046b4d764939.jpg",
+      "url": "https://arabic.rt.com/sport/1800803-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026-%D8%A7%D9%84%D9%85%D9%88%D8%B9%D8%AF-%D9%88%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9/",
+      "source": {
+        "ar": "RT عربي",
+        "en": "RT Arabic"
+      },
+      "pubDate": "Tue, 16 Jun 2026 21:13:07 +0000",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "2026-4vkxzn"
     },
     {
       "id": "https://www.bbc.com/arabic/articles/crkvnz3zdy5o?at_medium=RSS&at_campaign=rss",
@@ -997,6 +1104,56 @@
       "slug": "2026-gxxb0p"
     },
     {
+      "id": "https://www.theguardian.com/football/video/2026/jun/16/history-for-cape-verde-as-spain-start-with-a-stutter-world-cup-daily",
+      "title": {
+        "ar": "History for Cape Verde as Spain start with a stutter | World Cup Daily",
+        "en": "History for Cape Verde as Spain start with a stutter | World Cup Daily"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , a href=\"https://bsky.app/profile/barneyronay.bsky.social\" Barney Ronay /a , Dan Bardell and a href=\"https://bsky.app/profile/sidlowe.bsky.social\" Sid Lowe /a as debutants Ca",
+        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , a href=\"https://bsky.app/profile/barneyronay.bsky.social\" Barney Ronay /a , Dan Bardell and a href=\"https://bsky.app/profile/sidlowe.bsky.social\" Sid Lowe /a as debutants Ca"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/video/2026/jun/16/history-for-cape-verde-as-spain-start-with-a-stutter-world-cup-daily",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 16 Jun 2026 07:14:51 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/16/jordan-uzbekistan-debut-asia-world-cup-2026",
+      "title": {
+        "ar": "Jordan and Uzbekistan ready to crash World Cup party and take on giants",
+        "en": "Jordan and Uzbekistan ready to crash World Cup party and take on giants"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Packed streets of Amman and Tashkent will be lively with Asia’s debutants determined they are not just here to make up the numbers /p p Before eagerly awaited meetings with Lionel Messi and Cristiano Ronaldo comes slightly less glamorous but hugely important first ever World Cup games for Asia’s debutants. Jordan take on Austria on Wednesday befo",
+        "en": "p Packed streets of Amman and Tashkent will be lively with Asia’s debutants determined they are not just here to make up the numbers /p p Before eagerly awaited meetings with Lionel Messi and Cristiano Ronaldo comes slightly less glamorous but hugely important first ever World Cup games for Asia’s debutants. Jordan take on Austria on Wednesday befo"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/16/jordan-uzbekistan-debut-asia-world-cup-2026",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Tue, 16 Jun 2026 07:00:47 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
       "id": "https://arabic.rt.com/sport/1800513-%D8%B1%D8%B6%D8%A7%D8%A6%D9%8A%D8%A7%D9%86-%D9%8A%D9%83%D8%B3%D8%B1-%D8%B5%D9%85%D9%88%D8%AF-%D8%A7%D9%84%D8%A3%D8%AC%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84/",
       "title": {
         "ar": "رضائيان يكتب التاريخ: جيل جديد يطيح بأسطورة إيران في المونديال!",
@@ -1460,29 +1617,61 @@
       "slug": "post-9rfpjx"
     },
     {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
       "title": {
-        "ar": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-        "en": "Women’s transfer window summer 2026: all deals from world’s top six leagues"
+        "ar": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+        "en": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues"
       },
       "kicker": {
-        "ar": "الدوري الإيطالي",
-        "en": "Serie A"
+        "ar": "البريميرليغ",
+        "en": "Premier League"
       },
       "excerpt": {
-        "ar": "p Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Continue reading... /a",
-        "en": "p Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Continue reading... /a"
+        "ar": "p All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide /p ul li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Women’s transfer window interactive guide /a /p /li /ul a href=\"https://www.theguardian.",
+        "en": "p All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide /p ul li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Women’s transfer window interactive guide /a /p /li /ul a href=\"https://www.theguardian."
       },
       "body": null,
       "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
       "source": {
         "ar": "الغارديان",
         "en": "The Guardian"
       },
-      "pubDate": "Mon, 08 Jun 2026 09:00:05 GMT",
+      "pubDate": "Mon, 08 Jun 2026 09:00:03 GMT",
       "rewritten": false,
       "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
+      "title": {
+        "ar": "تحدي العمالقة: اصنع طريق بطل كأس العالم 2026 بنفسك!",
+        "en": "Bracketology: predict a path to World Cup victory"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "موقع هدف يضع بين يديك فرصة استثنائية لتوقع مسار كأس العالم 2026 من البداية للنهاية!",
+        "en": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a"
+      },
+      "body": {
+        "ar": [
+          "يا جماهير كرة القدم، هل أنتم مستعدون للتحدي الأكبر؟ موقع هدف يدعوكم للانغماس في عالم كأس العالم 2026، وتحديد مسار منتخبكم المفضل نحو المجد الكروي خطوة بخطوة.",
+          "من الآن فصاعداً، لم تعد مجرد متفرج! يمكنك التنبؤ بنتائج دور المجموعات، ثم تخطي عقبات الأدوار الإقصائية المثيرة، وصولاً إلى النهائي الكبير لترشح البطل الذي تراه الأجدر باللقب الأغلى.",
+          "هذه فرصتك لتثبت أنك خبير حقيقي في اللعبة وتتوقع المفاجآت أو ترشح المنطق، فهل ستنجح في تتويج منتخبك المفضل بطلاً للعالم وتفوز بتحدي البراكيوتولوجي؟ هيا بنا ننطلق في هذه المغامرة الكروية المثيرة!"
+        ]
+      },
+      "image": "",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 10:00:48 GMT",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "bracketology-predict-a-path-to-world-cup-victory-hzds81"
     },
     {
       "id": "https://www.skysports.com/rugby-league/news/12040/13554727/rugby-league-world-cup-jake-connor-recalled-by-england-coach-brian-mcdermott-in-build-up-to-this-autumns-tournament",
@@ -2070,181 +2259,6 @@
         "en": "ESPN FC"
       },
       "pubDate": "Tue, 16 Jun 2026 05:44:37 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c07yz4lzrd7o?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "ماذا نعرف عن منتخب النشامى الذي يتأهل للمرة الأولى لكأس العالم؟",
-        "en": "ماذا نعرف عن منتخب النشامى الذي يتأهل للمرة الأولى لكأس العالم؟"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7eaa/live/9f57d760-696a-11f1-b1db-af71d47507d6.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c07yz4lzrd7o?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Tue, 16 Jun 2026 10:42:17 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026",
-      "title": {
-        "ar": "‘I’m not a model!’ Uruguay’s Bielsa defends bizarre World Cup portrait shoot",
-        "en": "‘I’m not a model!’ Uruguay’s Bielsa defends bizarre World Cup portrait shoot"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ul li p Head coach looked downwards in official Fifa photo /p /li li p ‘The picture was taken the way it was taken’ /p /li /ul p The Uruguay head coach Marcelo Bielsa has lived up to his maverick reputation by refusing to cooperate during a bizarre photoshoot for Fifa at the 2026 World Cup. /p p Bielsa – known as em El Loco /em – stared down at the",
-        "en": "ul li p Head coach looked downwards in official Fifa photo /p /li li p ‘The picture was taken the way it was taken’ /p /li /ul p The Uruguay head coach Marcelo Bielsa has lived up to his maverick reputation by refusing to cooperate during a bizarre photoshoot for Fifa at the 2026 World Cup. /p p Bielsa – known as em El Loco /em – stared down at the"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 16 Jun 2026 10:08:21 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/picture/2026/jun/16/david-squires-thirst-for-adverts-other-notes-world-cup-2026",
-      "title": {
-        "ar": "David Squires on … a thirst for adverts and other notes from the World Cup so far",
-        "en": "David Squires on … a thirst for adverts and other notes from the World Cup so far"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p Our cartoonist offers up some observations after the tournament’s group games got under way in the US, Mexico and Canada /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires\" strong Buy a cartoon /strong /a strong | /strong a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of",
-        "en": "p Our cartoonist offers up some observations after the tournament’s group games got under way in the US, Mexico and Canada /p ul li p a href=\"https://guardianprintshop.com/collections/david-squires\" strong Buy a cartoon /strong /a strong | /strong a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/picture/2026/jun/16/david-squires-thirst-for-adverts-other-notes-world-cup-2026",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 16 Jun 2026 10:07:33 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/cpd3ew37qe6o?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "محاربو الصحراء إلى كأس العالم للمرة الخامسة، فماذا نعرف عن المنتخب الجزائري؟",
-        "en": "محاربو الصحراء إلى كأس العالم للمرة الخامسة، فماذا نعرف عن المنتخب الجزائري؟"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0319/live/832ad160-6969-11f1-b1db-af71d47507d6.jpg",
-      "url": "https://www.bbc.com/arabic/articles/cpd3ew37qe6o?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Tue, 16 Jun 2026 10:00:29 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/16/the-perfect-job-meet-the-fans-being-paid-to-watch-all-104-world-cup-games-in-times-square",
-      "title": {
-        "ar": "‘The perfect job’: meet the fans being paid to watch all 104 World Cup games in Times Square",
-        "en": "‘The perfect job’: meet the fans being paid to watch all 104 World Cup games in Times Square"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "p A Liverpool fan and an influencer explain what it’s like to be hired for a Truman Show-style experiment /p p When Kevin Kotoko heard that he had been selected as one of Fox’s chief World Cup watchers he had no hesitation in accepting. What self-respecting football fan could turn down the opportunity to be paid $50,000 (£37,000) to take in all 104",
-        "en": "p A Liverpool fan and an influencer explain what it’s like to be hired for a Truman Show-style experiment /p p When Kevin Kotoko heard that he had been selected as one of Fox’s chief World Cup watchers he had no hesitation in accepting. What self-respecting football fan could turn down the opportunity to be paid $50,000 (£37,000) to take in all 104"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/16/the-perfect-job-meet-the-fans-being-paid-to-watch-all-104-world-cup-games-in-times-square",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Tue, 16 Jun 2026 10:00:07 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/cpd3ew5pdweo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "ماذا نعرف عن منتخب أسود الرافدين الذين يتأهلون للمرة الثانية؟",
-        "en": "ماذا نعرف عن منتخب أسود الرافدين الذين يتأهلون للمرة الثانية؟"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c006/live/97f495a0-6968-11f1-8546-8f19e4fe30f4.jpg",
-      "url": "https://www.bbc.com/arabic/articles/cpd3ew5pdweo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Tue, 16 Jun 2026 09:50:56 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
-      "title": {
-        "ar": "Key issues for England at 2026 World Cup: Fatigue,...",
-        "en": "Key issues for England at 2026 World Cup: Fatigue,..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Tue, 16 Jun 2026 04:33:45 EST",
       "rewritten": false,
       "lang": "en"
     }
