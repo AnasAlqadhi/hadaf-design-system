@@ -1,8 +1,346 @@
 {
   "version": 2,
-  "updated": "2026-06-18T23:46:27.324Z",
+  "updated": "2026-06-19T04:04:47.671Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://arabic.rt.com/sport/1801568-%D9%86%D8%A8%D8%B6-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AA%D8%A7%D8%B3%D8%B9-%D9%88%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9/",
+      "title": {
+        "ar": "مونديال 2026: الجولة الثانية تنطلق.. هل تتغير خارطة الطريق؟",
+        "en": "نبض مونديال 2026..اليوم التاسع وانطلاقة الجولة الثانية!"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "اليوم التاسع من بطولة كأس العالم 2026 يشهد بداية مثيرة للجولة الثانية، مع ترقب جماهيري لمعرفة ما ستحمله المواجهات من مفاجآت وتغييرات في مسار المنتخبات نحو الأدوار المتقدمة.",
+        "en": ""
+      },
+      "body": {
+        "ar": [
+          "مع اكتمال الجولة الأولى، تبدأ اليوم رحلة الحسم في مونديال 2026، حيث ستدخل المنتخبات أرض الملعب للمرة الثانية في مشوارها نحو المجد الكروي.",
+          "هذه المرحلة الحاسمة تحمل في طياتها آمالاً عريضة لفرق تسعى لتأكيد أحقيتها بالعبور، وتحديات قوية لفرق أخرى تبحث عن تصحيح المسار بعد نتائج غير مرضية.",
+          "الجماهير العربية على موعد مع إثارة لا تنتهي، فكل مباراة الآن تعني الكثير، وقد تشهد هذه الجولة ميلاد نجوم جدد أو تأكيد أساطير في عالم الساحرة المستديرة."
+        ]
+      },
+      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a349c5e4c59b747365d2a1e.jpg",
+      "url": "https://arabic.rt.com/sport/1801568-%D9%86%D8%A8%D8%B6-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AA%D8%A7%D8%B3%D8%B9-%D9%88%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9/",
+      "source": {
+        "ar": "RT عربي",
+        "en": "RT Arabic"
+      },
+      "pubDate": "Sat, 20 Jun 2026 01:35:06 +0000",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "2026-hey8jq"
+    },
+    {
+      "id": "https://arabic.rt.com/sport/1801572-%D8%A3%D9%86%D8%AA%D9%85-%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D9%83%D8%A7%D9%84%D9%82%D9%85%D8%A7%D9%85%D8%A9-%D8%B1%D8%AF-%D9%81%D8%B9%D9%84-%D9%86%D8%A7%D8%B1%D9%8A-%D9%85%D9%86-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%AF%D9%81%D8%A7%D8%B9%D8%A7-%D8%B9%D9%86-%D9%85%D9%8A%D8%B3%D9%8A/",
+      "title": {
+        "ar": "\"أنتم إعلام كالقمامة\".. رد فعل ناري من رئيس الأرجنتين دفاعا عن ميسي",
+        "en": "\"أنتم إعلام كالقمامة\".. رد فعل ناري من رئيس الأرجنتين دفاعا عن ميسي"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a34b9a242360456ba0dc2d8.jpg",
+      "url": "https://arabic.rt.com/sport/1801572-%D8%A3%D9%86%D8%AA%D9%85-%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D9%83%D8%A7%D9%84%D9%82%D9%85%D8%A7%D9%85%D8%A9-%D8%B1%D8%AF-%D9%81%D8%B9%D9%84-%D9%86%D8%A7%D8%B1%D9%8A-%D9%85%D9%86-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%AF%D9%81%D8%A7%D8%B9%D8%A7-%D8%B9%D9%86-%D9%85%D9%8A%D8%B3%D9%8A/",
+      "source": {
+        "ar": "RT عربي",
+        "en": "RT Arabic"
+      },
+      "pubDate": "Fri, 19 Jun 2026 03:38:41 +0000",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/19/mexico-south-korea-world-cup-2026-group-a-match-report",
+      "title": {
+        "ar": "خطأ فادح يكلف كوريا الجنوبية.. والمكسيك أول المتأهلين لمونديال 2026!",
+        "en": "South Korea howler gifts Mexico victory as World Cup co-hosts reach knockout phase"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "الأخطاء الدفاعية قد تكلف الكثير، وهذا ما حدث لكوريا الجنوبية أمام المكسيك في ثاني مواجهات المونديال.",
+        "en": "p /p p It wasn’t pretty, distinguished by little other than its black v lilac colour scheme, but Mexico became the first side at the 2026 World Cup to secure their place in the knockout stage. If they and England both top their groups, the path is open for an apocalyptic meeting at the Azteca in the last 16. The question for Mexico and South Korea "
+      },
+      "body": {
+        "ar": [
+          "في مباراة لم تشهد الكثير من التألق، بل تميزت بألوانها فقط، تأهلت المكسيك لتصبح أول فريق في مونديال 2026 يضمن مكانه في دور الـ 16، وذلك بفضل هدية قاتلة من دفاع كوريا الجنوبية.",
+          "النتيجة تفتح الباب أمام مواجهة نارية محتملة بين المكسيك وإنجلترا في ثمن النهائي، إذا تصدر كل منهما مجموعته، مما يزيد من حماس الجماهير.",
+          "السؤال الآن للمكسيك وكوريا الجنوبية هو كيف سيتعاملان مع هذه الضغوطات في المباريات القادمة، وهل ستكون هذه البداية كافية للمكسيك لمواصلة المشوار؟"
+        ]
+      },
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/19/mexico-south-korea-world-cup-2026-group-a-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 19 Jun 2026 03:06:51 GMT",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "south-korea-howler-gifts-mexico-victory-as-world-cup-co-host-1vjztwr"
+    },
+    {
+      "id": "https://arabic.rt.com/sport/1801571-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026-%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83-%D8%AA%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9-%D8%A8%D9%87%D8%AF%D9%81-%D8%AB%D9%85%D9%8A%D9%86/",
+      "title": {
+        "ar": "المكسيك تضرب بقوة! أول المتأهلين لدور الـ 16 في مونديال 2026",
+        "en": "بعد تخطي كوريا الجنوبية.. المكسيك أول المتأهلين إلى الأدوار الإقصائية في مونديال 2026"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "المنتخب المكسيكي يحقق إنجازاً تاريخياً ويضمن مقعده في الأدوار الإقصائية قبل نهاية دور المجموعات.",
+        "en": ""
+      },
+      "body": {
+        "ar": [
+          "في ليلة تاريخية، أسدل المنتخب المكسيكي الستار على تأهله المبكر إلى دور الـ 16 في مونديال 2026، بعد فوزه المستحق على كوريا الجنوبية. أداء قوي وأهداف حاسمة أكدت أحقية \"التريكولور\" في عبور عقبة دور المجموعات.",
+          "المنتخب المكسيكي، بقيادة مدربه المخضرم، قدم أداءً تكتيكياً مميزاً، حيث نجح في السيطرة على مجريات اللعب وهدد مرمى الخصم بكرات خطيرة. هذا الفوز لا يعكس فقط قوة الفريق بل يبرهن على جاهزيته للمنافسة على اللقب.",
+          "هذا التأهل المبكر يبعث برسالة قوية لباقي المنتخبات، مؤكداً أن المكسيك قادمة بقوة نحو تحقيق حلم المونديال. الجماهير المكسيكية تحتفل بهذا الإنجاز الذي يضع بصمة مميزة في تاريخ كرة القدم."
+        ]
+      },
+      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a34ab494c59b746a639b40b.jpg",
+      "url": "https://arabic.rt.com/sport/1801571-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026-%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83-%D8%AA%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9-%D8%A8%D9%87%D8%AF%D9%81-%D8%AB%D9%85%D9%8A%D9%86/",
+      "source": {
+        "ar": "RT عربي",
+        "en": "RT Arabic"
+      },
+      "pubDate": "Fri, 19 Jun 2026 03:04:12 +0000",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "2026-1av5s1b"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/19/australia-v-usa-socceroos-usmnt-confected-hostility-2026-world-cup",
+      "title": {
+        "ar": "نسوا العداوة المفتعلة... أمريكا وأستراليا: توأمان في رحلة المونديال!",
+        "en": "Forget the confected World Cup hostility, the US and Australia mirror each other"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "مواجهة المجموعة الرابعة بين الولايات المتحدة وأستراليا ليست سوى محطة في مسيرة كروية متشابهة للبلدين، رغم ضجيج التنافس المبالغ فيه.",
+        "en": "p The Group D clash between the United States and Socceroos has been hyped as next step in a heated rivalry but the nations are on similar football journeys /p p Listen to the hyperbole spewed by the loudest voices, and the World Cup clash between co-hosts the United States and Australia in Seattle is the latest contest in a heated a href=\"https://"
+      },
+      "body": {
+        "ar": [
+          "تتجه أنظار عشاق كرة القدم نحو مواجهة مثيرة في كأس العالم بين الولايات المتحدة الأمريكية وأستراليا، والتي يسعى البعض لتصويرها كقمة عداء وتنافس تاريخي. لكن الحقيقة على أرض الملعب تختلف تماماً، فالمنتخبان يسيران على خطى متوازية في رحلتهما الكروية.",
+          "بالرغم من التهويل الإعلامي والحديث عن عداوة متجذرة، إلا أن كلا المنتخبين يمثلان دولتين طموحتين تسعيان لتطوير كرة القدم والارتقاء بها عالمياً. المباراة في سياتل ستكون فرصة حقيقية لإظهار التقدم الذي أحرزه كل منهما، بدلاً من التركيز على صراع وهمي.",
+          "هذه المباراة ليست مجرد صراع على النقاط، بل هي شهادة على تطور كرة القدم خارج معاقلها التقليدية؛ الجمهور العربي يتطلع لمشاهدة قمة كروية حقيقية تعكس الشغف والتطور، لا مجرد عداوة مفتعلة لا أساس لها من الصحة."
+        ]
+      },
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/19/australia-v-usa-socceroos-usmnt-confected-hostility-2026-world-cup",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 19 Jun 2026 02:00:19 GMT",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "forget-the-confected-world-cup-hostility-the-us-and-australi-v3e1fu"
+    },
+    {
+      "id": "https://arabic.rt.com/sport/1801569-%D8%B1%D8%BA%D9%85-%D8%A7%D9%84%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%A7-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A3%D9%88%D8%B2%D8%A8%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D9%8A%D8%AA%D8%B1%D9%83-%D8%A8%D8%B5%D9%85%D8%AA%D9%87-%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026/",
+      "title": {
+        "ar": "أوزبكستان تُبهر العالم بأخلاقها العالية في مونديال 2026!",
+        "en": "رغم الخسارة أمام كولومبيا.. منتخب أوزبكستان يترك بصمته الأخلاقية في مونديال 2026 (صورة)"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "News"
+      },
+      "excerpt": {
+        "ar": "روح رياضية عالية من أوزبكستان رغم الخسارة، درس أخلاقي لكل الفرق.",
+        "en": ""
+      },
+      "body": {
+        "ar": [
+          "حتى في لحظات الهزيمة، أثبت منتخب أوزبكستان أنه بطل حقيقي بأخلاقه الرفيعة في مونديال 2026. لقطة إنسانية رائعة تركت بصمة لا تُنسى في قلوب الجماهير.",
+          "بعد نهاية المباراة أمام كولومبيا، قام لاعبو أوزبكستان بمواساة لاعبي الخصم وتقديم الدعم لهم، في مشهد يعكس قيم الروح الرياضية الأصيلة التي نفتقدها أحيانًا في عالم كرة القدم.",
+          "هذا التصرف النبيل ليس مجرد خبر عابر، بل هو درس لكل الفرق واللاعبين، ويؤكد أن كرة القدم أكبر من مجرد انتصارات وهزائم، إنها قيم وأخلاق تبقى خالدة."
+        ]
+      },
+      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a349f6a42360456ab2ba44c.jpg",
+      "url": "https://arabic.rt.com/sport/1801569-%D8%B1%D8%BA%D9%85-%D8%A7%D9%84%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%A7-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A3%D9%88%D8%B2%D8%A8%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D9%8A%D8%AA%D8%B1%D9%83-%D8%A8%D8%B5%D9%85%D8%AA%D9%87-%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026/",
+      "source": {
+        "ar": "RT عربي",
+        "en": "RT Arabic"
+      },
+      "pubDate": "Fri, 19 Jun 2026 01:46:50 +0000",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "2026-1dd6tfv"
+    },
+    {
+      "id": "https://arabic.rt.com/sport/1801226-%D9%86%D8%A8%D8%B6-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89/",
+      "title": {
+        "ar": "مونديال 2026.. اليوم الأخير من الجولة الأولى يشعل الحماس!",
+        "en": "نبض مونديال 2026..اليوم الثامن والأخير من الجولة الأولى!"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "ختام الجولة الأولى بمواجهات نارية ترسم ملامح الصعود!",
+        "en": ""
+      },
+      "body": {
+        "ar": [
+          "وصلنا لليوم الثامن والأخير من الجولة الأولى لمونديال 2026، حيث تتجه الأنظار نحو الملاعب التي ستشهد صراعات حاسمة. المنتخبات تبحث عن النقاط الثلاث لضمان عبور الدور الأول بثبات.",
+          "تشهد هذه الجولة مواجهات قوية تحمل في طياتها آمال جماهير عريضة. كل فريق يقاتل على أرض الملعب لتقديم أفضل ما لديه، فالتاريخ لا يرحم والفرص لا تتكرر.",
+          "هذا اليوم الأخير يحدد مسار العديد من المنتخبات في البطولة، فهل ستكون هناك مفاجآت مدوية أم ستسير الأمور كما توقعها المحللون؟ الأكيد أن الإثارة والمتعة الكروية مضمونة حتى صافرة النهاية."
+        ]
+      },
+      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a334ce94c59b730d12fe958.jpg",
+      "url": "https://arabic.rt.com/sport/1801226-%D9%86%D8%A8%D8%B6-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89/",
+      "source": {
+        "ar": "RT عربي",
+        "en": "RT Arabic"
+      },
+      "pubDate": "Fri, 19 Jun 2026 01:42:56 +0000",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "2026-1hcfjwd"
+    },
+    {
+      "id": "https://arabic.rt.com/sport/1801557-%D8%B2%D9%88%D8%AC%D8%A7%D8%AA-%D9%88%D8%B9%D8%B4%D9%8A%D9%82%D8%A7%D8%AA-%D9%84%D8%A7%D8%B9%D8%A8%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D9%8A%D8%AE%D8%B7%D9%81%D9%86-%D8%A7%D9%84%D8%A3%D9%86%D8%B8%D8%A7%D8%B1-%D8%A8%D8%A5%D8%B7%D9%84%D8%A7%D9%84%D8%A7%D8%AA%D9%87%D9%86-%D9%88%D8%A3%D8%B9%D9%85%D8%A7%D9%84%D9%87%D9%86-%D8%B5%D9%88%D8%B1/",
+      "title": {
+        "ar": "نجمات الظل يخطفن الأضواء في المونديال! إطلالات وأعمال زوجات وعشيقات نجوم كرة القدم تشعل السوشيال ميديا!",
+        "en": "زوجات وعشيقات لاعبي المونديال يخطفن الأنظار بإطلالاتهن وأعمالهن (صور)"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "بعيداً عن المستطيل الأخضر، زوجات وعشيقات نجوم المونديال يخطفن الأضواء بإطلالاتهن وأعمالهن المثيرة للجدل، ويشعلن حماس الجماهير.",
+        "en": ""
+      },
+      "body": {
+        "ar": [
+          "بينما تشتعل المنافسة على أرض الملعب، يبدو أن هناك \"مونديال\" آخر يدور خلف الكواليس، حيث تتصدر زوجات وعشيقات نجوم كرة القدم المشهد بإطلالاتهن الجريئة وأنشطتهن الملفتة، مما جعلهن حديث الساعة على منصات التواصل الاجتماعي.",
+          "لم يعد التركيز مقتصراً على أهداف اللاعبين ومراوغاتهم فقط، بل امتد ليشمل حياة هؤلاء النجمات اللاتي يشاركن أضواء الشهرة، سواء من خلال دعمهن لأزواجهن أو عبر أعمالهن الخاصة في عالم الأزياء والموضة والأعمال الخيرية، لتضفن بريقاً خاصاً للحدث الكروي الأكبر.",
+          "هذا التوهج خارج الملعب يعكس جانباً آخر من عالم كرة القدم، حيث يتابع الجمهور بشغف ليس فقط أداء اللاعبين، بل كل ما يتعلق بنجومهم المفضلين وحياتهم الشخصية، ليتحول المونديال إلى مهرجان شامل يجمع بين سحر المستطيل الأخضر وبريق الشهرة."
+        ]
+      },
+      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a348a6f4c59b746a639b3fb.png",
+      "url": "https://arabic.rt.com/sport/1801557-%D8%B2%D9%88%D8%AC%D8%A7%D8%AA-%D9%88%D8%B9%D8%B4%D9%8A%D9%82%D8%A7%D8%AA-%D9%84%D8%A7%D8%B9%D8%A8%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-%D9%8A%D8%AE%D8%B7%D9%81%D9%86-%D8%A7%D9%84%D8%A3%D9%86%D8%B8%D8%A7%D8%B1-%D8%A8%D8%A5%D8%B7%D9%84%D8%A7%D9%84%D8%A7%D8%AA%D9%87%D9%86-%D9%88%D8%A3%D8%B9%D9%85%D8%A7%D9%84%D9%87%D9%86-%D8%B5%D9%88%D8%B1/",
+      "source": {
+        "ar": "RT عربي",
+        "en": "RT Arabic"
+      },
+      "pubDate": "Fri, 19 Jun 2026 00:39:26 +0000",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "post-hu1fu1"
+    },
+    {
+      "id": "https://arabic.rt.com/sport/1801563-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D9%82%D8%B7%D8%B1-%D9%8A%D8%AA%D8%B9%D8%B1%D8%B6-%D9%84%D9%87%D8%B2%D9%8A%D9%85%D8%A9-%D8%B3%D8%A7%D8%AD%D9%82%D8%A9-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/",
+      "title": {
+        "ar": "صدمة مدوية! العنابي يتلقى هزيمة قاسية في طريقه لمونديال 2026!",
+        "en": "منتخب قطر يتعرض لهزيمة ساحقة في مونديال 2026 (فيديو)"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "فيديو يوثق لحظات مريرة لمنتخب قطر في تصفيات كأس العالم 2026.",
+        "en": ""
+      },
+      "body": {
+        "ar": [
+          "تلقى منتخب قطر صدمة قوية ومؤلمة في مشواره بتصفيات كأس العالم 2026، حيث مُني بهزيمة ساحقة ومفاجئة. هذا الأداء المخيب للآمال يضع العنابي في موقف حرج ويستدعي وقفة جادة لإعادة تقييم المسار.",
+          "جاءت الهزيمة بنتيجة ثقيلة لم يتوقعها أشد المتشائمين، مما أثار تساؤلات عديدة حول جاهزية الفريق ومدى قدرته على المنافسة. الفيديو المتداول يؤكد مدى صعوبة المباراة والتفوق الواضح للمنافس في كل أرجاء الملعب.",
+          "الجمهور القطري والعربي ينتظر ردة فعل قوية من اللاعبين والجهاز الفني لتجاوز هذه الكبوة والعودة بقوة إلى سكة الانتصارات. فالطريق إلى مونديال 2026 لا يزال طويلاً ومليئاً بالتحديات، والعنابي بحاجة ماسة لروح قتالية مختلفة."
+        ]
+      },
+      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a348c58423604599c2054b0.jpg",
+      "url": "https://arabic.rt.com/sport/1801563-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D9%82%D8%B7%D8%B1-%D9%8A%D8%AA%D8%B9%D8%B1%D8%B6-%D9%84%D9%87%D8%B2%D9%8A%D9%85%D8%A9-%D8%B3%D8%A7%D8%AD%D9%82%D8%A9-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/",
+      "source": {
+        "ar": "RT عربي",
+        "en": "RT Arabic"
+      },
+      "pubDate": "Fri, 19 Jun 2026 00:38:57 +0000",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "2026-mjul2q"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/cy49er83wvlo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "قطر تتكبد خسارة قاسية أمام كندا بسداسية نظيفة بمباراة شهدت طرد لاعبَين من \"العنابي\"",
+        "en": "قطر تتكبد خسارة قاسية أمام كندا بسداسية نظيفة بمباراة شهدت طرد لاعبَين من \"العنابي\""
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e659/live/5d2a04a0-6b70-11f1-b1db-af71d47507d6.jpg",
+      "url": "https://www.bbc.com/arabic/articles/cy49er83wvlo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Fri, 19 Jun 2026 00:36:37 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/18/canada-qatar-world-cup-2026-group-b-match-report",
+      "title": {
+        "ar": "كندا تُسحق قطر بتسعة لاعبين... وفوز تاريخي مُرّ بإصابة كونيه!",
+        "en": "Canada rout nine-man Qatar but Koné injury sours first-ever World Cup win"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "فوز كندي كاسح بسداسية نظيفة على قطر في أولى مبارياتها بكأس العالم، لكن إصابة حاسمة ألقت بظلالها على الفرحة.",
+        "en": "p At full strength, Canada can go toe-to-toe with any opponent in the Americas. After steady climbs up the Concacaf charts and a credible run to the 2024 Copa América semi-final, all hope was that a talented squad could find their stride at a home World Cup. /p p That belief came to life on Thursday, as Jesse Marsch’s side played a dominant 6-0 win"
+      },
+      "body": {
+        "ar": [
+          "منتخب كندا يُطلق العنان لقوته الهجومية ويكتسح نظيره القطري بسداسية نظيفة في أولى مبارياتهما بكأس العالم، ليحقق أول فوز تاريخي له في البطولة الكبرى. فوز ساحق جاء على حساب تسعة لاعبين من العنابي الذي انهار تمامًا في الشوط الثاني.",
+          "هذا الانتصار الكبير يرسل رسالة قوية من الكنديين بأنهم قادمون بقوة في هذه النسخة، مؤكدين على تطورهم اللافت بعد مشوار مميز في كوبا أمريكا 2024. لكن الفرحة لم تكتمل، حيث تلقى الفريق ضربة موجعة بإصابة نجم الوسط كونيه، مما يثير المخاوف حول مدى جاهزيته للمواجهات القادمة.",
+          "الجماهير الكندية تحتفل بفوز تاريخي يُسجل بأحرف من ذهب، لكنها تترقب بقلق شديد تطورات إصابة كونيه، التي قد تؤثر على طموحاتهم في مواصلة المشوار. هل يستطيع الكنديون تجاوز هذه العقبة ومواصلة الإبهار في كأس العالم على أرضهم؟"
+        ]
+      },
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/18/canada-qatar-world-cup-2026-group-b-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Fri, 19 Jun 2026 00:20:03 GMT",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "canada-rout-nine-man-qatar-but-kone-injury-sours-first-ever-2njyv9"
+    },
     {
       "id": "https://www.bbc.co.uk/arabic/live/c0jy74ny1ngt?at_medium=RSS&at_campaign=rss",
       "title": {
@@ -68,6 +406,31 @@
       "slug": "canada-v-qatar-world-cup-2026-live-a1z40c"
     },
     {
+      "id": "https://arabic.rt.com/sport/1801551-%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D9%8A%D8%A8%D8%B1%D9%85-%D8%A3%D9%88%D9%84%D9%89-%D8%B5%D9%81%D9%82%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A%D8%A9-%D9%88%D9%8A%D8%AE%D8%B7%D8%B7-%D9%84%D8%A3%D8%AE%D8%B1%D9%89-%D8%A8%D9%80100-%D9%85%D9%84%D9%8A%D9%88%D9%86/",
+      "title": {
+        "ar": "ليفربول يبرم أولى صفقاته الصيفية.. ويخطط لأخرى بـ100 مليون",
+        "en": "ليفربول يبرم أولى صفقاته الصيفية.. ويخطط لأخرى بـ100 مليون"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a3472cb4c59b7405d3e422f.jpg",
+      "url": "https://arabic.rt.com/sport/1801551-%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D9%8A%D8%A8%D8%B1%D9%85-%D8%A3%D9%88%D9%84%D9%89-%D8%B5%D9%81%D9%82%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A%D8%A9-%D9%88%D9%8A%D8%AE%D8%B7%D8%B7-%D9%84%D8%A3%D8%AE%D8%B1%D9%89-%D8%A8%D9%80100-%D9%85%D9%84%D9%8A%D9%88%D9%86/",
+      "source": {
+        "ar": "RT عربي",
+        "en": "RT Arabic"
+      },
+      "pubDate": "Thu, 18 Jun 2026 23:35:27 +0000",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
       "id": "https://www.theguardian.com/football/2026/jun/18/usmnt-christian-pulisic-status-mauricio-pochettino",
       "title": {
         "ar": "بيلبورد: مستقبل بوليسيتش معلق.. هل يشارك ضد أستراليا؟",
@@ -98,6 +461,31 @@
       "rewritten": true,
       "lang": "ar",
       "slug": "mauricio-pochettino-noncommittal-on-christian-pulisic-status-1hkfmbu"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/19/when-real-come-for-you-its-very-difficult-to-say-no-cucurella-explains-chelsea-exit",
+      "title": {
+        "ar": "‘When Real come for you it’s very difficult to say no’: Cucurella explains Chelsea exit",
+        "en": "‘When Real come for you it’s very difficult to say no’: Cucurella explains Chelsea exit"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "ul li p Full-back moving back to Spain in £52m deal /p /li li p Player reveals he had telephone call with Mourinho /p /li /ul p Marc Cucurella has admitted that he had not expected to leave Chelsea and that his £52m signing for Real Madrid was done in a day and a half. The Spain left-back also defended himself against the backlash from Barcelona fa",
+        "en": "ul li p Full-back moving back to Spain in £52m deal /p /li li p Player reveals he had telephone call with Mourinho /p /li /ul p Marc Cucurella has admitted that he had not expected to leave Chelsea and that his £52m signing for Real Madrid was done in a day and a half. The Spain left-back also defended himself against the backlash from Barcelona fa"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/19/when-real-come-for-you-its-very-difficult-to-say-no-cucurella-explains-chelsea-exit",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 18 Jun 2026 23:01:15 GMT",
+      "rewritten": false,
+      "lang": "en"
     },
     {
       "id": "https://www.theguardian.com/football/2026/jun/18/england-thomas-tuchel-gareth-southgate-2026-world-cup-croatia",
@@ -189,313 +577,6 @@
       "lang": "en"
     },
     {
-      "id": "https://arabic.rt.com/sport/1801228-%D8%A8%D8%A8%D8%B1%D8%AC-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%83%D9%88%D8%A7%D8%A8-%D9%85%D8%B4%D8%AC%D8%B9-%D8%B1%D9%88%D8%B3%D9%8A-%D9%8A%D8%AA%D8%AD%D9%88%D9%84-%D8%A5%D9%84%D9%89-%D9%86%D8%AC%D9%85-%D9%81%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2026/",
-      "title": {
-        "ar": "ببرج من الأكواب.. مشجع روسي يتحول إلى نجم في كأس العالم 2026",
-        "en": "ببرج من الأكواب.. مشجع روسي يتحول إلى نجم في كأس العالم 2026"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a3353684236043fc9629846.jpg",
-      "url": "https://arabic.rt.com/sport/1801228-%D8%A8%D8%A8%D8%B1%D8%AC-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%83%D9%88%D8%A7%D8%A8-%D9%85%D8%B4%D8%AC%D8%B9-%D8%B1%D9%88%D8%B3%D9%8A-%D9%8A%D8%AA%D8%AD%D9%88%D9%84-%D8%A5%D9%84%D9%89-%D9%86%D8%AC%D9%85-%D9%81%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2026/",
-      "source": {
-        "ar": "RT عربي",
-        "en": "RT Arabic"
-      },
-      "pubDate": "Thu, 18 Jun 2026 02:10:05 +0000",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://arabic.rt.com/sport/1801227-%D9%87%D8%A7%D8%B1%D9%8A-%D9%83%D9%8A%D9%86-%D9%8A%D8%AD%D8%B7%D9%85-%D8%B1%D9%82%D9%85%D8%A7-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88/",
-      "title": {
-        "ar": "هاري كين يحطم رقما قياسيا في تاريخ كأس العالم ويتجاوز رونالدو",
-        "en": "هاري كين يحطم رقما قياسيا في تاريخ كأس العالم ويتجاوز رونالدو"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a334f264236043d292348bc.jpg",
-      "url": "https://arabic.rt.com/sport/1801227-%D9%87%D8%A7%D8%B1%D9%8A-%D9%83%D9%8A%D9%86-%D9%8A%D8%AD%D8%B7%D9%85-%D8%B1%D9%82%D9%85%D8%A7-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88/",
-      "source": {
-        "ar": "RT عربي",
-        "en": "RT Arabic"
-      },
-      "pubDate": "Thu, 18 Jun 2026 01:55:07 +0000",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "كأس العالم 2026: الفيفا يكشف الستار عن جدول المباريات المنتظر!",
-        "en": "كأس العالم 2026: جدول المباريات"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "مواعيد المباريات المنتظرة للنسخة التاريخية من المونديال أصبحت بين أيدينا، والترقب يبلغ ذروته!",
-        "en": ""
-      },
-      "body": {
-        "ar": [
-          "أخيرًا، وبعد طول انتظار وترقب، كشف الاتحاد الدولي لكرة القدم (الفيفا) عن جدول مباريات كأس العالم 2026، والذي سيقام في ثلاث دول لأول مرة: الولايات المتحدة، كندا، والمكسيك. هذا الإعلان يضع حجر الأساس لبطولة استثنائية ستشهد مشاركة 48 منتخبًا وتمددًا في عدد المباريات.",
-          "البطولة الأكبر في تاريخ المونديال ستبدأ في 11 يونيو 2026، ومن المقرر أن تستضيف مدينة نيويورك (نيو جيرسي) المباراة النهائية في 19 يوليو من العام نفسه. عشاق كرة القدم حول العالم الآن يمكنهم البدء في التخطيط لرحلاتهم ومتابعة منتخباتهم المفضلة في رحلتها نحو المجد الكروي.",
-          "هذا الجدول الرسمي يعني أن العد التنازلي الحقيقي قد بدأ، وستشتعل المنافسة بين المنتخبات على أرض الملعب لنيل اللقب الأغلى. كونوا على الموعد يا جماهير الساحرة المستديرة، فنسخة 2026 تعد بالكثير من الإثارة واللحظات التي لا تُنسى!"
-        ]
-      },
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9111/live/adf4db00-5453-11f1-b682-cf91850925ea.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Wed, 17 Jun 2026 08:57:43 GMT",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "2026-1awd2dg"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/cg4wzqw5pv5o?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "جيل جديد لمنتخب الجزائر يتحدى الكبار في كأس العالم 2026",
-        "en": "جيل جديد لمنتخب الجزائر يتحدى الكبار في كأس العالم 2026"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edbc/live/6ca92f70-6a24-11f1-b107-6ded809b7b86.jpg",
-      "url": "https://www.bbc.com/arabic/articles/cg4wzqw5pv5o?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Tue, 16 Jun 2026 19:01:12 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c3e2gz3k5leo?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "كأس العالم 2026: العراق يعود بعد غياب طويل",
-        "en": "كأس العالم 2026: العراق يعود بعد غياب طويل"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/04e9/live/57daf640-64b2-11f1-999e-8f2282ab1220.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c3e2gz3k5leo?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Tue, 16 Jun 2026 14:01:18 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c07yz4lzrd7o?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "ماذا نعرف عن منتخب النشامى الذي يتأهل للمرة الأولى لكأس العالم؟",
-        "en": "ماذا نعرف عن منتخب النشامى الذي يتأهل للمرة الأولى لكأس العالم؟"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7eaa/live/9f57d760-696a-11f1-b1db-af71d47507d6.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c07yz4lzrd7o?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Tue, 16 Jun 2026 10:42:17 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/cpd3ew37qe6o?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "محاربو الصحراء إلى كأس العالم للمرة الخامسة، فماذا نعرف عن المنتخب الجزائري؟",
-        "en": "محاربو الصحراء إلى كأس العالم للمرة الخامسة، فماذا نعرف عن المنتخب الجزائري؟"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0319/live/832ad160-6969-11f1-b1db-af71d47507d6.jpg",
-      "url": "https://www.bbc.com/arabic/articles/cpd3ew37qe6o?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Tue, 16 Jun 2026 10:00:29 GMT",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13549635/morgan-rogers-arsenal-target-aston-villa-forward-paper-talk",
-      "title": {
-        "ar": "Papers: Liverpool target £86m star",
-        "en": "Papers: Liverpool target £86m star"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "url": "https://www.skysports.com/football/news/12040/13549635/morgan-rogers-arsenal-target-aston-villa-forward-paper-talk",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 18 Jun 2026 23:05:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs",
-      "title": {
-        "ar": "Premier League ins and outs - the confirmed deals so far...",
-        "en": "Premier League ins and outs - the confirmed deals so far..."
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-transfer-ins-outs_7152975.jpg?20260202081247",
-      "url": "https://www.skysports.com/football/news/12040/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Mon, 25 May 2026 18:00:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/12040/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two",
-      "title": {
-        "ar": "EFL latest: Wrexham interested in departing Newcastle chief",
-        "en": "EFL latest: Wrexham interested in departing Newcastle chief"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-peter-cklamovski_7276452.png?20260618091856",
-      "url": "https://www.skysports.com/football/live-blog/12040/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Wed, 17 Jun 2026 15:40:00 BST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://arabic.rt.com/sport/1801551-%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D9%8A%D8%A8%D8%B1%D9%85-%D8%A3%D9%88%D9%84%D9%89-%D8%B5%D9%81%D9%82%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A%D8%A9-%D9%88%D9%8A%D8%AE%D8%B7%D8%B7-%D9%84%D8%A3%D8%AE%D8%B1%D9%89-%D8%A8%D9%80100-%D9%85%D9%84%D9%8A%D9%88%D9%86/",
-      "title": {
-        "ar": "ليفربول يبرم أولى صفقاته الصيفية.. ويخطط لأخرى بـ100 مليون",
-        "en": "ليفربول يبرم أولى صفقاته الصيفية.. ويخطط لأخرى بـ100 مليون"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a3472cb4c59b7405d3e422f.jpg",
-      "url": "https://arabic.rt.com/sport/1801551-%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D9%8A%D8%A8%D8%B1%D9%85-%D8%A3%D9%88%D9%84%D9%89-%D8%B5%D9%81%D9%82%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D8%B5%D9%8A%D9%81%D9%8A%D8%A9-%D9%88%D9%8A%D8%AE%D8%B7%D8%B7-%D9%84%D8%A3%D8%AE%D8%B1%D9%89-%D8%A8%D9%80100-%D9%85%D9%84%D9%8A%D9%88%D9%86/",
-      "source": {
-        "ar": "RT عربي",
-        "en": "RT Arabic"
-      },
-      "pubDate": "Thu, 18 Jun 2026 23:35:27 +0000",
-      "rewritten": false,
-      "lang": "ar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/19/when-real-come-for-you-its-very-difficult-to-say-no-cucurella-explains-chelsea-exit",
-      "title": {
-        "ar": "‘When Real come for you it’s very difficult to say no’: Cucurella explains Chelsea exit",
-        "en": "‘When Real come for you it’s very difficult to say no’: Cucurella explains Chelsea exit"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "ul li p Full-back moving back to Spain in £52m deal /p /li li p Player reveals he had telephone call with Mourinho /p /li /ul p Marc Cucurella has admitted that he had not expected to leave Chelsea and that his £52m signing for Real Madrid was done in a day and a half. The Spain left-back also defended himself against the backlash from Barcelona fa",
-        "en": "ul li p Full-back moving back to Spain in £52m deal /p /li li p Player reveals he had telephone call with Mourinho /p /li /ul p Marc Cucurella has admitted that he had not expected to leave Chelsea and that his £52m signing for Real Madrid was done in a day and a half. The Spain left-back also defended himself against the backlash from Barcelona fa"
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/19/when-real-come-for-you-its-very-difficult-to-say-no-cucurella-explains-chelsea-exit",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 18 Jun 2026 23:01:15 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
       "id": "https://www.theguardian.com/football/2026/jun/18/tottenham-52m-van-hecke-de-zerbi-defence",
       "title": {
         "ar": "Tottenham complete £52m Van Hecke signing as De Zerbi focuses on defence",
@@ -519,70 +600,6 @@
       "pubDate": "Thu, 18 Jun 2026 21:09:41 GMT",
       "rewritten": false,
       "lang": "en"
-    },
-    {
-      "id": "https://www.skysports.com/watch/video/13555416/between-the-lines-which-players-and-teams-have-beat-the-heat-at-2026-world-cup",
-      "title": {
-        "ar": "نجوم المونديال تحت الشمس الحارقة: من صمد ومن ذبل؟",
-        "en": "Which players and teams have beat the heat so far at World Cup?"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "مع اشتداد الحرارة في ملاعب قطر، يبرز نجوم تألقوا رغم الظروف الصعبة، بينما خفت بريق آخرين.",
-        "en": ""
-      },
-      "body": {
-        "ar": [
-          "لم تكن الأجواء في قطر مجرد تحدٍ كروي، بل اختبار حقيقي لقدرة اللاعبين على التحمل في ظل درجات حرارة مرتفعة. بعض الأسماء فرضت نفسها بقوة، مقدمة أداءً استثنائياً يتجاوز التوقعات.",
-          "في المقابل، عانى البعض الآخر للتأقلم مع الظروف المناخية، مما أثر على إيقاعهم وقدرتهم على تقديم أفضل ما لديهم. الفرق التي نجحت في إدارة طاقمها الفني والبدني بشكل فعال هي من تصدرت المشهد.",
-          "هذا التحدي يضيف بعداً جديداً لإثارة المونديال، حيث يضع الجمهور أمام مواقف دراماتيكية قد تغير مسار المباريات وتكشف عن المعادن الحقيقية للاعبين والمنتخبات."
-        ]
-      },
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-world-cup_7276872.jpg?20260618171658",
-      "url": "https://www.skysports.com/watch/video/13555416/between-the-lines-which-players-and-teams-have-beat-the-heat-at-2026-world-cup",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 18 Jun 2026 17:13:00 BST",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "which-players-and-teams-have-beat-the-heat-so-far-at-world-c-1os3sfc"
-    },
-    {
-      "id": "https://arabic.rt.com/sport/1801226-%D9%86%D8%A8%D8%B6-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89/",
-      "title": {
-        "ar": "مونديال 2026.. اليوم الأخير من الجولة الأولى يشعل الحماس!",
-        "en": "نبض مونديال 2026..اليوم الثامن والأخير من الجولة الأولى!"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "ختام الجولة الأولى بمواجهات نارية ترسم ملامح الصعود!",
-        "en": ""
-      },
-      "body": {
-        "ar": [
-          "وصلنا لليوم الثامن والأخير من الجولة الأولى لمونديال 2026، حيث تتجه الأنظار نحو الملاعب التي ستشهد صراعات حاسمة. المنتخبات تبحث عن النقاط الثلاث لضمان عبور الدور الأول بثبات.",
-          "تشهد هذه الجولة مواجهات قوية تحمل في طياتها آمال جماهير عريضة. كل فريق يقاتل على أرض الملعب لتقديم أفضل ما لديه، فالتاريخ لا يرحم والفرص لا تتكرر.",
-          "هذا اليوم الأخير يحدد مسار العديد من المنتخبات في البطولة، فهل ستكون هناك مفاجآت مدوية أم ستسير الأمور كما توقعها المحللون؟ الأكيد أن الإثارة والمتعة الكروية مضمونة حتى صافرة النهاية."
-        ]
-      },
-      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a334ce94c59b730d12fe958.jpg",
-      "url": "https://arabic.rt.com/sport/1801226-%D9%86%D8%A8%D8%B6-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89/",
-      "source": {
-        "ar": "RT عربي",
-        "en": "RT Arabic"
-      },
-      "pubDate": "Fri, 19 Jun 2026 01:42:56 +0000",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "2026-1hcfjwd"
     },
     {
       "id": "https://arabic.rt.com/sport/1801509-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026-%D9%85%D9%86%D8%B9-%D8%AF%D8%AE%D9%88%D9%84-%D9%84%D8%A7%D8%B9%D8%A8-%D8%A5%D9%84%D9%89-%D9%83%D9%86%D8%AF%D8%A7-%D9%82%D8%A8%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%83%D9%88%D8%AA-%D8%AF%D9%8A%D9%81%D9%88%D8%A7%D8%B1-%D9%88%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/",
@@ -907,6 +924,445 @@
       "pubDate": "Thu, 18 Jun 2026 17:19:02 GMT",
       "rewritten": false,
       "lang": "ar"
+    },
+    {
+      "id": "https://arabic.rt.com/sport/1801228-%D8%A8%D8%A8%D8%B1%D8%AC-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%83%D9%88%D8%A7%D8%A8-%D9%85%D8%B4%D8%AC%D8%B9-%D8%B1%D9%88%D8%B3%D9%8A-%D9%8A%D8%AA%D8%AD%D9%88%D9%84-%D8%A5%D9%84%D9%89-%D9%86%D8%AC%D9%85-%D9%81%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2026/",
+      "title": {
+        "ar": "ببرج من الأكواب.. مشجع روسي يتحول إلى نجم في كأس العالم 2026",
+        "en": "ببرج من الأكواب.. مشجع روسي يتحول إلى نجم في كأس العالم 2026"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a3353684236043fc9629846.jpg",
+      "url": "https://arabic.rt.com/sport/1801228-%D8%A8%D8%A8%D8%B1%D8%AC-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%83%D9%88%D8%A7%D8%A8-%D9%85%D8%B4%D8%AC%D8%B9-%D8%B1%D9%88%D8%B3%D9%8A-%D9%8A%D8%AA%D8%AD%D9%88%D9%84-%D8%A5%D9%84%D9%89-%D9%86%D8%AC%D9%85-%D9%81%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2026/",
+      "source": {
+        "ar": "RT عربي",
+        "en": "RT Arabic"
+      },
+      "pubDate": "Thu, 18 Jun 2026 02:10:05 +0000",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://arabic.rt.com/sport/1801227-%D9%87%D8%A7%D8%B1%D9%8A-%D9%83%D9%8A%D9%86-%D9%8A%D8%AD%D8%B7%D9%85-%D8%B1%D9%82%D9%85%D8%A7-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88/",
+      "title": {
+        "ar": "هاري كين يحطم رقما قياسيا في تاريخ كأس العالم ويتجاوز رونالدو",
+        "en": "هاري كين يحطم رقما قياسيا في تاريخ كأس العالم ويتجاوز رونالدو"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a334f264236043d292348bc.jpg",
+      "url": "https://arabic.rt.com/sport/1801227-%D9%87%D8%A7%D8%B1%D9%8A-%D9%83%D9%8A%D9%86-%D9%8A%D8%AD%D8%B7%D9%85-%D8%B1%D9%82%D9%85%D8%A7-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88/",
+      "source": {
+        "ar": "RT عربي",
+        "en": "RT Arabic"
+      },
+      "pubDate": "Thu, 18 Jun 2026 01:55:07 +0000",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/cn94ly47dx1o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم: ليونيل ميسي يكسر قرابة 10 أرقام قياسية خلال مباراة الأرجنتين والجزائر، فما هي؟",
+        "en": "كأس العالم: ليونيل ميسي يكسر قرابة 10 أرقام قياسية خلال مباراة الأرجنتين والجزائر، فما هي؟"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c9df/live/72d91f50-6a3c-11f1-9b8b-e9d622652531.jpg",
+      "url": "https://www.bbc.com/arabic/articles/cn94ly47dx1o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Wed, 17 Jun 2026 11:53:57 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم 2026: الفيفا يكشف الستار عن جدول المباريات المنتظر!",
+        "en": "كأس العالم 2026: جدول المباريات"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "مواعيد المباريات المنتظرة للنسخة التاريخية من المونديال أصبحت بين أيدينا، والترقب يبلغ ذروته!",
+        "en": ""
+      },
+      "body": {
+        "ar": [
+          "أخيرًا، وبعد طول انتظار وترقب، كشف الاتحاد الدولي لكرة القدم (الفيفا) عن جدول مباريات كأس العالم 2026، والذي سيقام في ثلاث دول لأول مرة: الولايات المتحدة، كندا، والمكسيك. هذا الإعلان يضع حجر الأساس لبطولة استثنائية ستشهد مشاركة 48 منتخبًا وتمددًا في عدد المباريات.",
+          "البطولة الأكبر في تاريخ المونديال ستبدأ في 11 يونيو 2026، ومن المقرر أن تستضيف مدينة نيويورك (نيو جيرسي) المباراة النهائية في 19 يوليو من العام نفسه. عشاق كرة القدم حول العالم الآن يمكنهم البدء في التخطيط لرحلاتهم ومتابعة منتخباتهم المفضلة في رحلتها نحو المجد الكروي.",
+          "هذا الجدول الرسمي يعني أن العد التنازلي الحقيقي قد بدأ، وستشتعل المنافسة بين المنتخبات على أرض الملعب لنيل اللقب الأغلى. كونوا على الموعد يا جماهير الساحرة المستديرة، فنسخة 2026 تعد بالكثير من الإثارة واللحظات التي لا تُنسى!"
+        ]
+      },
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9111/live/adf4db00-5453-11f1-b682-cf91850925ea.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c707l8z10rno?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Wed, 17 Jun 2026 08:57:43 GMT",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "2026-1awd2dg"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report",
+      "title": {
+        "ar": "Messi dazzles to equal World Cup scoring record as Argentina breeze past Algeria",
+        "en": "Messi dazzles to equal World Cup scoring record as Argentina breeze past Algeria"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Those in attendance at Argentina’s opening match against Algeria could be forgiven, for a moment, for thinking they were at one of the great Argentinian cathedrals of football – La Bombonera em , /em or maybe the national stadium, El Monumental em . /em Kansas City Stadium, awash in the colors of the em Albiceleste, /em roared with the sound of n",
+        "en": "p Those in attendance at Argentina’s opening match against Algeria could be forgiven, for a moment, for thinking they were at one of the great Argentinian cathedrals of football – La Bombonera em , /em or maybe the national stadium, El Monumental em . /em Kansas City Stadium, awash in the colors of the em Albiceleste, /em roared with the sound of n"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 17 Jun 2026 03:08:57 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/17/iraq-norway-world-cup-group-i-match-report",
+      "title": {
+        "ar": "Norway’s Erling Haaland punishes Iraq with double on World Cup debut",
+        "en": "Norway’s Erling Haaland punishes Iraq with double on World Cup debut"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "p Surely nobody expected anything different. Erling Haaland’s arrival on the biggest football stage of all involved a match-defining performance. Kylian Mbappé had laid down a marker with two goals in a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\" France’s win against Senegal /a . Haaland res",
+        "en": "p Surely nobody expected anything different. Erling Haaland’s arrival on the biggest football stage of all involved a match-defining performance. Kylian Mbappé had laid down a marker with two goals in a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\" France’s win against Senegal /a . Haaland res"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/17/iraq-norway-world-cup-group-i-match-report",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Wed, 17 Jun 2026 00:17:03 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/crkvnz3zdy5o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "\"حالمون\" أردنيون في كأس العالم، فماذا يريد \"النشامى\" من المونديال؟",
+        "en": "\"حالمون\" أردنيون في كأس العالم، فماذا يريد \"النشامى\" من المونديال؟"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e1c/live/1fb1d780-6a51-11f1-9ea9-fdea8f57a693.png",
+      "url": "https://www.bbc.com/arabic/articles/crkvnz3zdy5o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Tue, 16 Jun 2026 21:01:13 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/cg4wzqw5pv5o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "جيل جديد لمنتخب الجزائر يتحدى الكبار في كأس العالم 2026",
+        "en": "جيل جديد لمنتخب الجزائر يتحدى الكبار في كأس العالم 2026"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edbc/live/6ca92f70-6a24-11f1-b107-6ded809b7b86.jpg",
+      "url": "https://www.bbc.com/arabic/articles/cg4wzqw5pv5o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Tue, 16 Jun 2026 19:01:12 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c3e2gz3k5leo?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "كأس العالم 2026: العراق يعود بعد غياب طويل",
+        "en": "كأس العالم 2026: العراق يعود بعد غياب طويل"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/04e9/live/57daf640-64b2-11f1-999e-8f2282ab1220.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c3e2gz3k5leo?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Tue, 16 Jun 2026 14:01:18 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c07yz4lzrd7o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "ماذا نعرف عن منتخب النشامى الذي يتأهل للمرة الأولى لكأس العالم؟",
+        "en": "ماذا نعرف عن منتخب النشامى الذي يتأهل للمرة الأولى لكأس العالم؟"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7eaa/live/9f57d760-696a-11f1-b1db-af71d47507d6.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c07yz4lzrd7o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Tue, 16 Jun 2026 10:42:17 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/cpd3ew37qe6o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "محاربو الصحراء إلى كأس العالم للمرة الخامسة، فماذا نعرف عن المنتخب الجزائري؟",
+        "en": "محاربو الصحراء إلى كأس العالم للمرة الخامسة، فماذا نعرف عن المنتخب الجزائري؟"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0319/live/832ad160-6969-11f1-b1db-af71d47507d6.jpg",
+      "url": "https://www.bbc.com/arabic/articles/cpd3ew37qe6o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Tue, 16 Jun 2026 10:00:29 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "title": {
+        "ar": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+        "en": "Women’s transfer window summer 2026: all deals from world’s top six leagues"
+      },
+      "kicker": {
+        "ar": "الدوري الإيطالي",
+        "en": "Serie A"
+      },
+      "excerpt": {
+        "ar": "p Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Continue reading... /a",
+        "en": "p Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Continue reading... /a"
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 08 Jun 2026 09:00:05 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "title": {
+        "ar": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+        "en": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues"
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "p All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide /p ul li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Women’s transfer window interactive guide /a /p /li /ul a href=\"https://www.theguardian.",
+        "en": "p All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide /p ul li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Women’s transfer window interactive guide /a /p /li /ul a href=\"https://www.theguardian."
+      },
+      "body": null,
+      "image": "",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Mon, 08 Jun 2026 09:00:03 GMT",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13549635/morgan-rogers-arsenal-target-aston-villa-forward-paper-talk",
+      "title": {
+        "ar": "Papers: Liverpool target £86m star",
+        "en": "Papers: Liverpool target £86m star"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "url": "https://www.skysports.com/football/news/12040/13549635/morgan-rogers-arsenal-target-aston-villa-forward-paper-talk",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 18 Jun 2026 23:05:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12040/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs",
+      "title": {
+        "ar": "Premier League ins and outs - the confirmed deals so far...",
+        "en": "Premier League ins and outs - the confirmed deals so far..."
+      },
+      "kicker": {
+        "ar": "البريميرليغ",
+        "en": "Premier League"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-transfer-ins-outs_7152975.jpg?20260202081247",
+      "url": "https://www.skysports.com/football/news/12040/13546618/transfer-news-summer-transfer-window-2026-premier-league-deals-ins-and-outs",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Mon, 25 May 2026 18:00:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/12040/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two",
+      "title": {
+        "ar": "EFL latest: Wrexham interested in departing Newcastle chief",
+        "en": "EFL latest: Wrexham interested in departing Newcastle chief"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-peter-cklamovski_7276452.png?20260618091856",
+      "url": "https://www.skysports.com/football/live-blog/12040/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Wed, 17 Jun 2026 15:40:00 BST",
+      "rewritten": false,
+      "lang": "en"
+    },
+    {
+      "id": "https://www.skysports.com/watch/video/13555416/between-the-lines-which-players-and-teams-have-beat-the-heat-at-2026-world-cup",
+      "title": {
+        "ar": "نجوم المونديال تحت الشمس الحارقة: من صمد ومن ذبل؟",
+        "en": "Which players and teams have beat the heat so far at World Cup?"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "مع اشتداد الحرارة في ملاعب قطر، يبرز نجوم تألقوا رغم الظروف الصعبة، بينما خفت بريق آخرين.",
+        "en": ""
+      },
+      "body": {
+        "ar": [
+          "لم تكن الأجواء في قطر مجرد تحدٍ كروي، بل اختبار حقيقي لقدرة اللاعبين على التحمل في ظل درجات حرارة مرتفعة. بعض الأسماء فرضت نفسها بقوة، مقدمة أداءً استثنائياً يتجاوز التوقعات.",
+          "في المقابل، عانى البعض الآخر للتأقلم مع الظروف المناخية، مما أثر على إيقاعهم وقدرتهم على تقديم أفضل ما لديهم. الفرق التي نجحت في إدارة طاقمها الفني والبدني بشكل فعال هي من تصدرت المشهد.",
+          "هذا التحدي يضيف بعداً جديداً لإثارة المونديال، حيث يضع الجمهور أمام مواقف دراماتيكية قد تغير مسار المباريات وتكشف عن المعادن الحقيقية للاعبين والمنتخبات."
+        ]
+      },
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-football-world-cup_7276872.jpg?20260618171658",
+      "url": "https://www.skysports.com/watch/video/13555416/between-the-lines-which-players-and-teams-have-beat-the-heat-at-2026-world-cup",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Thu, 18 Jun 2026 17:13:00 BST",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "which-players-and-teams-have-beat-the-heat-so-far-at-world-c-1os3sfc"
     },
     {
       "id": "https://www.theguardian.com/football/live/2026/jun/18/czechia-v-south-africa-world-cup-live",
@@ -1854,504 +2310,6 @@
       "rewritten": true,
       "lang": "ar",
       "slug": "world-cup-can-still-make-a-mockery-of-predictions-dx3atz"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/12040/13554246/world-cup-2026-xxxx-among-players-to-have-caught-the-eye-in-the-first-week-of-the-tournament",
-      "title": {
-        "ar": "نجوم المونديال: عشرة أسماء خطفت الأضواء في الأسبوع الأول!",
-        "en": "Ten players who've caught the eye in the first week of the World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "مع انطلاق العرس الكروي الأكبر، برزت أسماء لامعة تركت بصمتها مبكراً وأشعلت الحماس الجماهيري.",
-        "en": ""
-      },
-      "body": {
-        "ar": [
-          "مع انقضاء الأسبوع الأول من كأس العالم، ارتفعت أسهم عشرة لاعبين بشكل صاروخي، مقدمين مستويات استثنائية جعلتهم حديث الجماهير والنقاد على حد سواء.",
-          "من الأهداف الحاسمة إلى التمريرات الساحرة والتدخلات الدفاعية البطولية، أظهر هؤلاء النجوم جاهزية عالية ورغبة جامحة في قيادة منتخباتهم نحو المجد الكروي.",
-          "هذه الانطلاقة القوية تبشر ببطولة مليئة بالإثارة والندية، وتجعلنا نترقب بشغف ما سيقدمه هؤلاء اللاعبون وغيرهم في قادم المباريات الحاسمة."
-        ]
-      },
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-world-cup-ivory-coast_7275822.jpg?20260617124916",
-      "url": "https://www.skysports.com/football/news/12040/13554246/world-cup-2026-xxxx-among-players-to-have-caught-the-eye-in-the-first-week-of-the-tournament",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Thu, 18 Jun 2026 10:00:00 BST",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "ten-players-who-ve-caught-the-eye-in-the-first-week-of-the-w-1d7nx0h"
-    },
-    {
-      "id": "https://www.theguardian.com/football/live/2026/jun/18/world-cup-2026-england-croatia-fans-czechia-south-africa-switzerland-bosnia-and-herzegovina-canada-qatar-mexico-south-korea-live",
-      "title": {
-        "ar": "إنجلترا تُمتع الجماهير.. والفيفا تؤكد: لا اختراقات أمنية في مونديال 2026!",
-        "en": "World Cup 2026: England turn on the style; Fifa denies ticketless fans breached security – live"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "كتيبة الأسود الثلاثة تقدم أداءً استثنائياً، والفيفا تُطمئن الجماهير حول الإجراءات الأمنية.",
-        "en": "p ⚽ All the latest news from day eight of the tournament br ⚽ a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Player guide /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Bracketology /a | a href=\"https://www."
-      },
-      "body": {
-        "ar": [
-          "قدم منتخب إنجلترا أداءً راقياً أبهر الجميع في منافسات كأس العالم 2026، مسجلاً انتصاراً قوياً استعرض فيه نجومه مهاراتهم العالية.",
-          "في المقابل، خرج الاتحاد الدولي لكرة القدم (الفيفا) ليؤكد عدم وجود أي اختراقات أمنية، نافياً بذلك الشائعات حول دخول جماهير بدون تذاكر.",
-          "هذا الأداء المميز من إنجلترا يضعها كمرشح قوي للمضي قدماً في البطولة، بينما تظل تأكيدات الفيفا مطمئنة لكل عشاق الساحرة المستديرة حول العالم."
-        ]
-      },
-      "image": "",
-      "url": "https://www.theguardian.com/football/live/2026/jun/18/world-cup-2026-england-croatia-fans-czechia-south-africa-switzerland-bosnia-and-herzegovina-canada-qatar-mexico-south-korea-live",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 18 Jun 2026 08:29:34 GMT",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "world-cup-2026-england-turn-on-the-style-fifa-denies-ticketl-1au25j8"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/49098972/world-cup-overreactions-takeaways-now-all-48-teams-played-first-games",
-      "title": {
-        "ar": "جنون المونديال: دروس لن تُنسى بعد اكتمال عقد المتأهلين!",
-        "en": "World Cup overreactions: Takeaways now that all 48..."
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "الكل يتساءل: من هو المرشح الأقوى لرفع الكأس؟",
-        "en": ""
-      },
-      "body": {
-        "ar": [
-          "انتهت التصفيات المونديالية، ووصلت 48 دولة إلى المحفل العالمي، مما يعني أننا سنشهد منافسات شرسة ومشوقة.",
-          "المنتخبات الكبرى أثبتت قوتها، لكن هناك مفاجآت قد تغير مسار البطولة، والكل يترقب كيف ستتوزع الأوراق.",
-          "هذا التوسع الجديد يفتح الباب أمام أحلام جديدة وفرص تاريخية لمنتخبات لم تعتد الظهور، ويزيد الحماس لدى الجماهير حول العالم."
-        ]
-      },
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49098972/world-cup-overreactions-takeaways-now-all-48-teams-played-first-games",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 18 Jun 2026 03:24:49 EST",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "world-cup-overreactions-takeaways-now-that-all-48-unocar"
-    },
-    {
-      "id": "https://www.theguardian.com/football/video/2026/jun/18/england-handbrake-off-cristiano-ronaldo-stuck-in-park-world-cup-daily-video",
-      "title": {
-        "ar": "المنتخب الإنجليزي يطلق العنان لهجومه.. ورونالدو في موقف المتفرج!",
-        "en": "England take the handbrake off but Ronaldo is stuck in park | World Cup Daily – video"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "الإنجليز يقلبون الطاولة على خصومهم، بينما رونالدو يبدو ضائعاً في الملعب.",
-        "en": "p a href=\"https://bsky.app/profile/maxrushden.bsky.social\" Max Rushden /a is joined by a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\" Barry Glendenning /a , a href=\"https://bsky.app/profile/nickames82.bsky.social\" Nick Ames /a , Lucy Ward and a href=\"https://bsky.app/profile/jacobsteinberg1.bsky.social\" Jacob Steinberg /a as Eng"
-      },
-      "body": {
-        "ar": [
-          "شهدنا تحولاً جذرياً في أداء المنتخب الإنجليزي، حيث أطلق لاعبوه العنان لطاقاتهم الهجومية بشكل لافت.",
-          "في المقابل، بدا النجم المخضرم كريستيانو رونالدو عاجزاً عن مجاراة الإيقاع السريع للمباراة، وكأنه فقد بريقه المعهود.",
-          "هذا الأداء المتباين يثير تساؤلات حول مستقبل رونالدو مع المنتخب، ومدى قدرة إنجلترا على الاستمرار بهذا الزخم في البطولة."
-        ]
-      },
-      "image": "",
-      "url": "https://www.theguardian.com/football/video/2026/jun/18/england-handbrake-off-cristiano-ronaldo-stuck-in-park-world-cup-daily-video",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 18 Jun 2026 08:17:14 GMT",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "england-take-the-handbrake-off-but-ronaldo-is-stuck-in-park-1hwio7"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/49096885/scotland-tartan-army-world-cup-boston-haiti-red-sox-fenway-park",
-      "title": {
-        "ar": "اسكتلندا في المونديال: روح 'التارتان آرمي' تشعل الأجواء!",
-        "en": "Full hearts, empty kegs, can't lose: Scotland's Tartan Army takes over World Cup"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "الجماهير الاسكتلندية تشعل المدرجات بأغانيها وحماسها الأسطوري في كأس العالم.",
-        "en": ""
-      },
-      "body": {
-        "ar": [
-          "حتى لو لم تكن اسكتلندا طرفاً في المنافسة، فإن روح 'التارتان آرمي' حاضرة بقوة في المونديال، ملحقةً أجواءً احتفالية فريدة.",
-          "بعيداً عن نتائج الفريق على أرض الملعب، فإن شغف الجماهير الاسكتلندية ووفاؤهم لفريقهم يتجاوز كل التوقعات، ليصبحوا هم نجوم المدرجات بلا منازع.",
-          "هذا الحضور الجماهيري المميز يثبت أن كرة القدم ليست مجرد لعبة، بل هي شغف ووحدة تتجسد في كل مشجع يرفع علمه ويغني بحماس."
-        ]
-      },
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49096885/scotland-tartan-army-world-cup-boston-haiti-red-sox-fenway-park",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Thu, 18 Jun 2026 03:16:11 EST",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "full-hearts-empty-kegs-can-t-lose-scotland-s-tartan-army-tak-tp05x7"
-    },
-    {
-      "id": "https://arabic.rt.com/sport/1801291-%D8%AA%D9%88%D8%AE%D9%8A%D9%84-%D9%8A%D9%86%D8%AA%D9%82%D8%AF-%D8%A7%D9%84%D9%81%D9%8A%D9%81%D8%A7-%D8%A7%D9%84%D9%85%D8%B5%D9%88%D8%B1%D9%88%D9%86-%D8%A3%D9%81%D8%B3%D8%AF%D9%88%D8%A7-%D9%84%D8%AD%D8%B8%D8%AA%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84/",
-      "title": {
-        "ar": "توخيل يشتكي: المصورون سرقوا فرحتي قبل مونديال قطر!",
-        "en": "توخيل ينتقد الفيفا: المصورون أفسدوا لحظتي الخاصة قبل انطلاق المونديال"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "News"
-      },
-      "excerpt": {
-        "ar": "المدرب الألماني توماس توخيل يوجه انتقادات لاذعة للفيفا بسبب ما وصفه بتطفل المصورين على لحظاته الشخصية.",
-        "en": ""
-      },
-      "body": {
-        "ar": [
-          "عبر المدرب الألماني توماس توخيل عن استيائه الشديد من تصرفات المصورين التابعين للفيفا، مؤكداً أنهم أفسدوا عليه لحظة خاصة جداً قبل انطلاق منافسات كأس العالم في قطر.",
-          "وأوضح توخيل أن ما حدث كان بمثابة اقتحام لخصوصيته، حيث لم يمنحوا له المساحة الكافية للاستمتاع بلحظة مهمة بالنسبة له، مما جعله يشعر بالضيق والغضب.",
-          "هذه التصريحات تثير تساؤلات حول تنظيم الفيفا لفعاليات كأس العالم وكيفية تعاملها مع المدربين واللاعبين في لحظاتهم الشخصية، وهو ما قد يؤثر على صورة البطولة."
-        ]
-      },
-      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a33a7cc4236046f3c5b36f9.jpg",
-      "url": "https://arabic.rt.com/sport/1801291-%D8%AA%D9%88%D8%AE%D9%8A%D9%84-%D9%8A%D9%86%D8%AA%D9%82%D8%AF-%D8%A7%D9%84%D9%81%D9%8A%D9%81%D8%A7-%D8%A7%D9%84%D9%85%D8%B5%D9%88%D8%B1%D9%88%D9%86-%D8%A3%D9%81%D8%B3%D8%AF%D9%88%D8%A7-%D9%84%D8%AD%D8%B8%D8%AA%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84/",
-      "source": {
-        "ar": "RT عربي",
-        "en": "RT Arabic"
-      },
-      "pubDate": "Thu, 18 Jun 2026 08:15:53 +0000",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "post-xnj2b5"
-    },
-    {
-      "id": "https://arabic.rt.com/sport/1801267-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%88%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%B9%D9%82%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D9%85%D9%86-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026/",
-      "title": {
-        "ar": "مونديال 2026: جولات ثأرية وحسابات معقدة في انتظار العملاقين!",
-        "en": "مواجهات نارية وحسابات معقدة في الجولة الثانية من مونديال 2026"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "الجولة الثانية من تصفيات كأس العالم 2026 تعد بالكثير من الإثارة والصراعات الكروية التي ستحبس الأنفاس.",
-        "en": ""
-      },
-      "body": {
-        "ar": [
-          "تتجه أنظار عشاق الساحرة المستديرة نحو الجولة الثانية من تصفيات مونديال 2026، حيث تشتعل المنافسة وتتعقد الحسابات بين المنتخبات المتنافسة على بطاقات التأهل.",
-          "تشهد هذه الجولة مواجهات قوية تحمل طابعاً خاصاً، حيث تسعى بعض المنتخبات لتصحيح المسار بعد نتائج غير مرضية، بينما يطمح آخرون لتعزيز صدارتهم وتأكيد جدارتهم.",
-          "ما تعنيه هذه الجولة هو أن كل نقطة باتت ثمينة، وأن المباريات القادمة ستحمل معها دراما كروية لا مثيل لها، قد ترسم ملامح المتأهلين مبكراً أو تبقي الأمور معلقة حتى الرمق الأخير."
-        ]
-      },
-      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a3391394c59b72ec150851a.jpg",
-      "url": "https://arabic.rt.com/sport/1801267-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%88%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%B9%D9%82%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D9%85%D9%86-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026/",
-      "source": {
-        "ar": "RT عربي",
-        "en": "RT Arabic"
-      },
-      "pubDate": "Thu, 18 Jun 2026 07:06:28 +0000",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "2026-3uzxtw"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/18/world-cup-viewed-from-afar-like-ambient-noise",
-      "title": {
-        "ar": "المونديال من بعيد مجرد ضجيج.. وخبرة الميدان لا تُعوض!",
-        "en": "The World Cup viewed from afar is more like ambient noise – a far cry from working at it | Jonathan Liew"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "تغطية المونديال ترفع نبضات قلبك، لكن مشاهدته من بعيد تجعلك تنام!",
-        "en": "p Covering a tournament, my smartwatch showed my heart rate was 10-20 beats above normal. How luxurious to half-watch /p p I fell asleep at some point during the a href=\"https://www.theguardian.com/football/2026/jun/14/netherlands-japan-world-cup-match-report\" Netherlands v Japan /a game. It had been a hot and drowsy day by the shores of Lake Annec"
-      },
-      "body": {
-        "ar": [
-          "المتابعون من خلف الشاشات لا يدركون حجم الإثارة والمتعة الحقيقية التي يعيشها من في قلب الحدث. تغطية كأس العالم ترفع معدل ضربات القلب، بينما مشاهدتها من المنزل قد تجعلك تغفو في منتصف المباريات!",
-          "الخوض في تفاصيل المباريات، الشعور بالحرارة، الأجواء المحيطة، كل هذا يصنع تجربة لا تُقارن. حتى متابعة لقاء قوي مثل هولندا ضد اليابان قد لا يكون كافياً لإبقائك مستيقظاً وأنت بعيد عن الملعب.",
-          "المونديال ليس مجرد أرقام وإحصائيات، بل هو شغف وانفعال. الأجواء المحيطة بالبطولة، سواء كانت حماسة الجماهير أو ضغط المباريات، هي ما يجعلها حدثاً استثنائياً لا يمكن الشعور به إلا عن قرب."
-        ]
-      },
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/18/world-cup-viewed-from-afar-like-ambient-noise",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 18 Jun 2026 07:00:04 GMT",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "the-world-cup-viewed-from-afar-is-more-like-ambient-noise-a-nkd7p6"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/18/mexico-south-korea-drone-training-world-cup-2026",
-      "title": {
-        "ar": "المكسيك تسقط طائرة تجسس أجنبية قرب معسكر كوريا الجنوبية.. هل كانت تخطط لشيء؟",
-        "en": "Mexico military brings down ‘unfortunate’ drone near South Korea World Cup training camp"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "News"
-      },
-      "excerpt": {
-        "ar": "الجيش المكسيكي يتدخل بقوة لإسقاط طائرة مجهولة قرب معسكر كوريا الجنوبية قبل مواجهة المونديال.",
-        "en": "ul li p Unclear if drone was spying or if arrests made /p /li li p South Korea say drone would not have spotted tactics /p /li /ul p Mexican military forces intercepted and brought down a drone that flew near the South Korea team’s training camp ahead of its World Cup match against Mexico, a federal official told the Associated Press. /p p Military"
-      },
-      "body": {
-        "ar": [
-          "في حادثة غريبة، أسقطت القوات المكسيكية طائرة مجهولة حلقت قرب معسكر منتخب كوريا الجنوبية استعداداً لمواجهة مرتقبة في كأس العالم.",
-          "لم تتضح بعد طبيعة الطائرة أو ما إذا كانت تحمل أجهزة تجسس، فيما أكد المنتخب الكوري الجنوبي أن الطائرة لن تتمكن من كشف تكتيكاتهم.",
-          "تثير الحادثة تساؤلات حول الجهة التي تقف وراء الطائرة وما إذا كانت هناك نوايا خبيثة، خاصة في أجواء المونديال التنافسية."
-        ]
-      },
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/18/mexico-south-korea-drone-training-world-cup-2026",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 18 Jun 2026 06:24:48 GMT",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "mexico-military-brings-down-unfortunate-drone-near-south-kor-1pulqgd"
-    },
-    {
-      "id": "https://arabic.rt.com/sport/1801258-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2026-%D8%A8%D8%B9%D8%AF-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D9%85%D8%B4%D8%AA%D8%B9%D9%84%D8%A9/",
-      "title": {
-        "ar": "مونديال 2026: إثارة البداية.. من يتربع على عرش المجموعات؟",
-        "en": "ترتيب مجموعات كأس العالم 2026 بعد نهاية الجولة الأولى.. منافسة مشتعلة"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "انطلقت التصفيات المؤهلة لمونديال 2026 بقوة، وشهدت الجولة الأولى مفاجآت ونتائج مثيرة تضع المنتخبات أمام تحديات كبيرة.",
-        "en": ""
-      },
-      "body": {
-        "ar": [
-          "بعد نهاية الجولة الأولى من تصفيات كأس العالم 2026، بدأت ملامح المنافسة تتضح في المجموعات المختلفة. المنتخبات المرشحة تبحث عن بداية قوية، بينما تسعى فرق أخرى لكتابة التاريخ.",
-          "شهدت المباريات حماسًا كبيرًا وأداءً رجوليًا من اللاعبين، مع تسجيل أهداف رائعة وصراعات تكتيكية بين المدربين. بعض المنتخبات أثبتت قوتها، والبعض الآخر فاجأ الجميع.",
-          "هذه النتائج المبكرة تضع الأسس لمرحلة قادمة مليئة بالتشويق، حيث كل نقطة لها ثمنها في سباق التأهل للمونديال الأكبر تاريخيًا."
-        ]
-      },
-      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a338cf34236043d0514f018.jpg",
-      "url": "https://arabic.rt.com/sport/1801258-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2026-%D8%A8%D8%B9%D8%AF-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D9%85%D8%B4%D8%AA%D8%B9%D9%84%D8%A9/",
-      "source": {
-        "ar": "RT عربي",
-        "en": "RT Arabic"
-      },
-      "pubDate": "Thu, 18 Jun 2026 06:15:46 +0000",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "2026-pmzhqu"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/18/world-cup-2026-socceroos-australia-usa-which-team-will-win-how",
-      "title": {
-        "ar": "أستراليا العملاق ضد أمريكا البنتاغون: خطط الحرب في كأس العالم!",
-        "en": "Australia superpower v USA pentagon: how each team can win their World Cup clash"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "صراع العمالقة يشتعل في المجموعة الرابعة: السوكروز والولايات المتحدة في مواجهة مصيرية.",
-        "en": "p The Socceroos and United States both made a fast start to their campaign – here is what the Group D rivals must do to maintain momentum in Seattle /p p strong Back Nestory Irankunda: /strong the 20-year-old was expected to be an impact player at this World Cup, coming on as a substitute to affect matches against tiring opposition. A a href=\"https"
-      },
-      "body": {
-        "ar": [
-          "البداية النارية للسوكروز والولايات المتحدة تتطلب تركيزاً مضاعفاً للحفاظ على الزخم في سياتل. المنافسة في المجموعة الرابعة تزداد شراسة.",
-          "المنتخب الأسترالي يراهن على تحركات نجمه الشاب، إيريكانديا، الذي يُتوقع أن يكون له دور حاسم بتغيير مجرى المباريات أمام الخصوم المنهكين.",
-          "كيف سيخطط كل منتخب لعبوره؟ الإجابة ستتضح قريباً في معركة تكتيكية لن تُنسى قد تحدد مسار هذا الصدام العالمي."
-        ]
-      },
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/18/world-cup-2026-socceroos-australia-usa-which-team-will-win-how",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 18 Jun 2026 06:00:02 GMT",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "australia-superpower-v-usa-pentagon-how-each-team-can-win-th-kqucj"
-    },
-    {
-      "id": "https://arabic.rt.com/sport/1801251-%D9%84%D9%86-%D9%86%D8%B1%D8%A7%D9%87-%D9%83%D9%84-4-%D8%A3%D8%B9%D9%88%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%B3-%D8%A7%D9%84%D8%A3%D8%B3%D8%B7%D9%88%D8%B1%D9%8A-%D8%A3%D9%88%D8%AA%D8%B4%D9%88%D8%A7-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B9%D8%AA%D8%B2%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%B9%D8%AF-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026/",
-      "title": {
-        "ar": "وداعاً يا أسطورة! أوتشوا يجهز نفسه لآخر بطولة عالمية.. وداعاً يا بطل!",
-        "en": "لن نراه كل 4 أعوام.. الحارس الأسطوري أوتشوا يعلن اعتزاله الدولي بعد مونديال 2026"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "الحارس المكسيكي الأسطوري غييرمو أوتشوا يضع اللمسات الأخيرة على مسيرته الدولية.",
-        "en": ""
-      },
-      "body": {
-        "ar": [
-          "أسدل الحارس المكسيكي العملاق، غييرمو أوتشوا، الستار على مسيرته الدولية العريقة، معلناً أن بطولة كأس العالم 2026 ستكون ختامه مسك.",
-          "أوتشوا، الذي أصبح أيقونة في عالم كرة القدم بفضل تصدياته الخارقة في المونديال، قرر إنهاء حقبة استثنائية بعد مسيرة حافلة بالإنجازات والتألق.",
-          "وداعاً يا أوتشوا، لن ننساك أبداً! لقد شرفت المكسيك ولامست قلوب الملايين حول العالم، وستبقى بصماتك محفورة في تاريخ اللعبة."
-        ]
-      },
-      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a3382184c59b7332815ec7f.jpg",
-      "url": "https://arabic.rt.com/sport/1801251-%D9%84%D9%86-%D9%86%D8%B1%D8%A7%D9%87-%D9%83%D9%84-4-%D8%A3%D8%B9%D9%88%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%B3-%D8%A7%D9%84%D8%A3%D8%B3%D8%B7%D9%88%D8%B1%D9%8A-%D8%A3%D9%88%D8%AA%D8%B4%D9%88%D8%A7-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B9%D8%AA%D8%B2%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D8%A8%D8%B9%D8%AF-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026/",
-      "source": {
-        "ar": "RT عربي",
-        "en": "RT Arabic"
-      },
-      "pubDate": "Thu, 18 Jun 2026 05:33:45 +0000",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "4-2026-9xmope"
-    },
-    {
-      "id": "https://arabic.rt.com/sport/1801234-%D8%AC%D8%AF%D9%84-%D8%AA%D8%AD%D9%83%D9%8A%D9%85%D9%8A-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF%D8%A7%D8%AA-%D9%84%D8%B9%D8%AF%D9%85-%D8%B7%D8%B1%D8%AF-%D9%85%D9%8A%D8%B3%D9%8A-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1/",
-      "title": {
-        "ar": "نار يا حبيبي نار! جدل مونديالي يشتعل حول ميسي وبطاقة حمراء ضائعة ضد الجزائر!",
-        "en": "جدل تحكيمي في مونديال 2026.. انتقادات لعدم طرد ميسي أمام الجزائر"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "هل أفلت الأسطورة ميسي من طرد مستحق أمام محاربي الصحراء في مونديال 2026؟",
-        "en": ""
-      },
-      "body": {
-        "ar": [
-          "شهدت مباراة الأرجنتين والجزائر في كأس العالم 2026 جدلاً تحكيميًا واسعًا، حيث طالبت الجماهير والنقاد بطرد النجم ليونيل ميسي بعد تدخل عنيف.",
-          "اللقطة التي أثارت الغضب أظهرت ميسي يتدخل بقوة مفرطة على لاعب جزائري، لكن حكم المباراة اكتفى بالبطاقة الصفراء، ما اعتبره الكثيرون قرارًا غير منصف.",
-          "هذا القرار قد يفتح الباب أمام نقاشات حادة حول معايير التحكيم في البطولات الكبرى وتأثيرها على سير المباريات ونتائجها، فهل نشهد تعديلاً في قرارات الفيفا مستقبلاً؟"
-        ]
-      },
-      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a33735e42360441fb1aafd7.jpg",
-      "url": "https://arabic.rt.com/sport/1801234-%D8%AC%D8%AF%D9%84-%D8%AA%D8%AD%D9%83%D9%8A%D9%85%D9%8A-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF%D8%A7%D8%AA-%D9%84%D8%B9%D8%AF%D9%85-%D8%B7%D8%B1%D8%AF-%D9%85%D9%8A%D8%B3%D9%8A-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1/",
-      "source": {
-        "ar": "RT عربي",
-        "en": "RT Arabic"
-      },
-      "pubDate": "Thu, 18 Jun 2026 04:26:21 +0000",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "2026-1l2bkj8"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-group-k-match-report",
-      "title": {
-        "ar": "كولومبيا تستهل حملتها في المونديال بفوز صعب على أوزبكستان العنيدة",
-        "en": "Colombia squeeze past dogged Uzbekistan to open World Cup campaign with victory"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "بداية قوية لمنتخب كولومبيا في كأس العالم بعد تخطي عقبة أوزبكستان.",
-        "en": "p /p p Some very good things have come from Croydon, the often overlooked town in south London. The film director David Lean was born there, as was Roy Hodgson, the actor Peggy Ashcroft and the sexologist Havelock Ellis. Amy Winehouse studied in Croydon. The Bill and Peep Show were filmed there, as was the title sequence of the 1980s sitcom Terry a"
-      },
-      "body": {
-        "ar": [
-          "حقق منتخب كولومبيا فوزًا ثمينًا في مباراته الافتتاحية في كأس العالم، بعد مواجهة قوية أمام منتخب أوزبكستان الذي أبلى بلاءً حسنًا.",
-          "قدم المنتخب الكولومبي أداءً بطوليًا، لكنه واجه مقاومة شرسة من لاعبي أوزبكستان الذين تمسكوا بالدفاع ببسالة طوال اللقاء.",
-          "هذا الانتصار يمنح كولومبيا دفعة معنوية كبيرة في بداية مشوارها في البطولة، ويؤكد طموحاتهم في المنافسة على اللقب العالمي."
-        ]
-      },
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-group-k-match-report",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 18 Jun 2026 04:22:57 GMT",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "colombia-squeeze-past-dogged-uzbekistan-to-open-world-cup-ca-9lfyzn"
-    },
-    {
-      "id": "https://www.espn.com/soccer/story/_/id/49098603/portugal-cristiano-ronaldo-problem-congo-dr-roberto-martinez-fifa-world-cup-analysis",
-      "title": {
-        "ar": "Portugal have a Ronaldo problem (again)",
-        "en": "Portugal have a Ronaldo problem (again)"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.espn.com/soccer/story/_/id/49098603/portugal-cristiano-ronaldo-problem-congo-dr-roberto-martinez-fifa-world-cup-analysis",
-      "source": {
-        "ar": "ESPN",
-        "en": "ESPN FC"
-      },
-      "pubDate": "Wed, 17 Jun 2026 23:14:25 EST",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://arabic.rt.com/sport/1801232-%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%A7-%D8%AA%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A3%D9%88%D8%B2%D8%A8%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D8%AA%D8%B9%D8%AA%D9%84%D9%8A-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026/",
-      "title": {
-        "ar": "كولومبيا تحسم القمة أمام أوزبكستان وتعتلي صدارة المجموعة في مونديال 2026",
-        "en": "كولومبيا تحسم القمة أمام أوزبكستان وتعتلي صدارة المجموعة في مونديال 2026"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
-      },
-      "excerpt": {
-        "ar": "",
-        "en": ""
-      },
-      "body": null,
-      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a3368474c59b72be5205b76.jpg",
-      "url": "https://arabic.rt.com/sport/1801232-%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%A7-%D8%AA%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A3%D9%88%D8%B2%D8%A8%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D8%AA%D8%B9%D8%AA%D9%84%D9%8A-%D8%B5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026/",
-      "source": {
-        "ar": "RT عربي",
-        "en": "RT Arabic"
-      },
-      "pubDate": "Thu, 18 Jun 2026 04:04:23 +0000",
-      "rewritten": false,
-      "lang": "ar"
     }
   ]
 }
