@@ -1,40 +1,8 @@
 {
   "version": 2,
-  "updated": "2026-06-20T13:59:49.469Z",
+  "updated": "2026-06-20T15:49:25.286Z",
   "count": 80,
   "articles": [
-    {
-      "id": "https://www.skysports.com/cricket/news/12040/13556022/womens-t20-world-cup-australia-in-98-run-win-over-netherlands-to-continue-unbeaten-start-to-tournament",
-      "title": {
-        "ar": "راقصات السامبا يزلزلن هولندا بسباعية تاريخية!",
-        "en": "Australia extend winning World Cup start in big Netherlands win"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "أستراليا تواصل انطلاقتها الصاروخية في المونديال بسحق هولندا بسبعة أهداف!",
-        "en": ""
-      },
-      "body": {
-        "ar": [
-          "منتخب أستراليا يكتب التاريخ في كأس العالم للسيدات، بعد أن حقق انتصاراً ساحقاً على نظيره الهولندي بسبعة أهداف مقابل ثلاثة، في مباراة استعراضية للقوة والمهارة.",
-          "المنتخب الأسترالي قدم أداءً هجومياً نارياً، استغل فيه أخطاء الدفاع الهولندي وسجل أهدافاً رائعة، ليؤكد جدارته بالصدارة في مجموعته.",
-          "هذا الفوز الكبير يرفع معنويات الأستراليات ويضع بصمة قوية لهن في البطولة، مما يجعلهم مرشحين بقوة للمنافسة على اللقب."
-        ]
-      },
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-t20-womens-world-cup_7278545.jpg?20260620135032",
-      "url": "https://www.skysports.com/cricket/news/12040/13556022/womens-t20-world-cup-australia-in-98-run-win-over-netherlands-to-continue-unbeaten-start-to-tournament",
-      "source": {
-        "ar": "سكاي سبورتس",
-        "en": "Sky Sports"
-      },
-      "pubDate": "Sat, 20 Jun 2026 14:00:00 BST",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "australia-extend-winning-world-cup-start-in-big-netherlands-4phaoq"
-    },
     {
       "id": "https://arabic.rt.com/sport/1801927-%D9%86%D8%A8%D8%B6-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D8%B1-%D9%8A%D8%B4%D8%B9%D9%84-%D8%B3%D8%A8%D8%A7%D9%82-%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D9%84/",
       "title": {
@@ -66,6 +34,127 @@
       "rewritten": true,
       "lang": "ar",
       "slug": "2026-g0bmbg"
+    },
+    {
+      "id": "https://www.bbc.com/arabic/articles/c77ynk8dm24o?at_medium=RSS&at_campaign=rss",
+      "title": {
+        "ar": "أسرع، وأطول قامة، وأكثر عطاءً: كيف تغيرت أجسام لاعبي كرة القدم البارزين خلال 50 عاماً",
+        "en": "أسرع، وأطول قامة، وأكثر عطاءً: كيف تغيرت أجسام لاعبي كرة القدم البارزين خلال 50 عاماً"
+      },
+      "kicker": {
+        "ar": "أخبار",
+        "en": "Football"
+      },
+      "excerpt": {
+        "ar": "",
+        "en": ""
+      },
+      "body": null,
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9aae/live/4f45a9a0-6a41-11f1-8546-8f19e4fe30f4.jpg",
+      "url": "https://www.bbc.com/arabic/articles/c77ynk8dm24o?at_medium=RSS&at_campaign=rss",
+      "source": {
+        "ar": "BBC عربي",
+        "en": "BBC Arabic"
+      },
+      "pubDate": "Sat, 20 Jun 2026 15:43:39 GMT",
+      "rewritten": false,
+      "lang": "ar"
+    },
+    {
+      "id": "https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live",
+      "title": {
+        "ar": "مونديال 2026 يبدأ: هولندا والسويد في مواجهة نارية!",
+        "en": "Netherlands v Sweden: World Cup 2026 – live"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "انطلاق الحدث الكروي الأكبر في العالم، استعدوا للإثارة!",
+        "en": "p ⚽️ World Cup kick-off: 1pm local time/6pm BST/3am AEST br ⚽️ a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Player guide /a | a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Bracketology /a | a href=\"https://www"
+      },
+      "body": {
+        "ar": [
+          "اليوم يشهد انطلاقة قوية لمونديال 2026، حيث تلتقي هولندا مع السويد في قمة كروية مرتقبة.",
+          "تبدأ المباراة في تمام الساعة الواحدة ظهراً بالتوقيت المحلي، مما يعني بداية حماسية لعشاق الساحرة المستديرة حول العالم.",
+          "هذه المواجهة تفتح الباب أمام رحلة التوقعات والتكهنات حول مسار المنتخبات نحو اللقب الأعظم في كرة القدم."
+        ]
+      },
+      "image": "",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 20 Jun 2026 15:40:47 GMT",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "netherlands-v-sweden-world-cup-2026-live-vgzhj2"
+    },
+    {
+      "id": "https://arabic.rt.com/sport/1802032-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%A3%D9%84%D9%82%D9%87-%D9%81%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D8%AA%D8%AD%D8%B1%D9%83-%D9%84%D8%B6%D9%85-%D8%A3%D9%8A%D9%88%D8%A8-%D8%A8%D9%88%D8%B9%D8%AF%D9%8A/",
+      "title": {
+        "ar": "ريال مدريد يضع عينيه على نجم كأس العالم.. هل يرحل بوعدي عن أجاكس؟",
+        "en": "بعد تألقه في كأس العالم.. ريال مدريد يتحرك لضم أيوب بوعدي"
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "بعد المستويات الخارقة في مونديال قطر، الأضواء تتجه نحو نجم شاب واعد.",
+        "en": ""
+      },
+      "body": {
+        "ar": [
+          "ريال مدريد، عملاق إسبانيا، يضع اللمسات الأخيرة على خططه لضم أيوب بوعدي، لاعب أجاكس أمستردام، الذي خطف الأنظار في كأس العالم.",
+          "المستويات المذهلة التي قدمها بوعدي مع منتخب بلاده جعلت منه هدفاً لأكبر الأندية الأوروبية، لكن الميرينغي يبدو الأقرب لضمه.",
+          "هذه الصفقة، إن تمت، ستشكل إضافة قوية لخطط ريال مدريد المستقبلية، وتعزز من طموحاته في المنافسة على كافة الألقاب."
+        ]
+      },
+      "image": "https://mf.b37mrtl.ru/media/pics/2026.06/thumbnail/6a3699e44236047bf14115d5.jpg",
+      "url": "https://arabic.rt.com/sport/1802032-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%A3%D9%84%D9%82%D9%87-%D9%81%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D8%AA%D8%AD%D8%B1%D9%83-%D9%84%D8%B6%D9%85-%D8%A3%D9%8A%D9%88%D8%A8-%D8%A8%D9%88%D8%B9%D8%AF%D9%8A/",
+      "source": {
+        "ar": "RT عربي",
+        "en": "RT Arabic"
+      },
+      "pubDate": "Sat, 20 Jun 2026 14:19:45 +0000",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "post-1izw8zq"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/jun/20/turkey-exit-tears-world-cup-2026-football-daily-newsletter",
+      "title": {
+        "ar": "تركيا.. هل نحتاج إلى تغيير اسم آخر أم تغيير فكر كروي؟",
+        "en": "Football Daily | Turkey need another rebrand after failing to take flight at World Cup"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "فشل منتخب تركيا في إظهار أي بصمة حقيقية في المحافل الكبرى، فهل المشكلة في الاسم أم في الأداء؟",
+        "en": "p a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\" strong Sign up now! Sign up now! Sign up now? Sign up now! /strong /a /p p When Turkey changed to Türkiye in 2022, president Recep Tayyip Erdoğan announced it was because the new name was “the best representation and expression of the Turkish people’s culture, civi"
+      },
+      "body": {
+        "ar": [
+          "بعد تغيير اسم الدولة من Turkey إلى Türkiye في عام 2022، أعلن الرئيس رجب طيب أردوغان أن هذا الاسم الجديد يمثل أفضل تعبير عن ثقافة الشعب التركي وحضارته وقيمه، فهل ينطبق هذا على الأداء الكروي؟ للأسف، المنتخب التركي يواصل خيبات الأمل، ولم يتمكن من ترك بصمة تذكر في كأس العالم، وهو ما يدفعنا للتساؤل عن جدوى التغيير الشكلي دون التغيير الجوهري.",
+          "تاريخياً، المنتخب التركي يمتلك لاعبين موهوبين وشغفاً جماهيرياً لا يُضاهى، لكنه دائماً ما يفتقر إلى الانسجام والتكتيك الذي يؤهله للمنافسة بقوة على أعلى المستويات. هذا الفشل المتكرر لا يمكن تفسيره بالحظ العاثر فقط، بل هو انعكاس لغياب استراتيجية كروية واضحة المعالم، وفشل في استغلال الإمكانيات الكبيرة المتاحة.",
+          "الجماهير التركية العاشقة تستحق أفضل من مجرد مشاركات باهتة؛ إنها تتطلع لرؤية منتخبها ينافس بقوة ويترك بصمة خالدة في تاريخ كرة القدم العالمية. حان الوقت لكي تعيد الكرة التركية تقييم نفسها، ليس فقط بتغيير الأسماء، بل بتطوير شامل يطال الفلسفة التدريبية، اكتشاف المواهب، وبناء منتخب قادر على تحقيق أحلام الملايين."
+        ]
+      },
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/20/turkey-exit-tears-world-cup-2026-football-daily-newsletter",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Sat, 20 Jun 2026 13:22:15 GMT",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "football-daily-turkey-need-another-rebrand-after-failing-to-m9p9r9"
     },
     {
       "id": "https://arabic.rt.com/sport/1802017-%D8%A7%D9%84%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%AA%D8%AE%D9%81%D9%8A%D9%81-%D9%82%D9%8A%D9%88%D8%AF-%D8%B3%D9%81%D8%B1-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A3%D9%85%D8%A7%D9%85-%D9%85%D8%B5%D8%B1-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026/",
@@ -1156,6 +1245,102 @@
       "slug": "post-168lneo"
     },
     {
+      "id": "https://www.theguardian.com/football/2026/jun/18/tottenham-52m-van-hecke-de-zerbi-defence",
+      "title": {
+        "ar": "الهامستر فان خيك في توتنهام: دي زيربي يبني حصناً دفاعياً!",
+        "en": "Tottenham complete £52m Van Hecke signing as De Zerbi focuses on defence"
+      },
+      "kicker": {
+        "ar": "الانتقالات",
+        "en": "Transfers"
+      },
+      "excerpt": {
+        "ar": "الهامستر فان خيك يرتدي قميص توتنهام رسمياً لتعزيز الخط الخلفي.",
+        "en": "ul li p Spurs bolster backline with third summer signing /p /li li p Defender reunited with former Brighton head coach /p /li /ul p Tottenham have completed their third signing of the summer after Jan Paul van Hecke joined from Brighton. Spurs made a move for Dutch international centre-back Van Hecke after a terrible 2025-26 campaign where Roberto "
+      },
+      "body": {
+        "ar": [
+          "أكمل توتنهام ثالث صفقاته الصيفية بتعاقده مع المدافع الهولندي جان بول فان خيك قادماً من برايتون. هذه الخطوة تأتي لتدعيم الخط الخلفي الذي عانى كثيراً في الموسم الماضي.",
+          "يعود فان خيك ليعمل مجدداً تحت قيادة المدرب الإيطالي روبرتو دي زيربي، الذي يعرف إمكانياته جيداً من فترتهما معاً في برايتون. الصفقة تعزز من خيارات دي زيربي الدفاعية بشكل كبير.",
+          "هذه الصفقة تبشر جماهير توتنهام بموسم دفاعي أقوى، حيث يسعى دي زيربي لبناء فريق صلب قادر على المنافسة بجدية. عيون 'السبيرز' الآن تتجه نحو المزيد من التدعيمات لملء المراكز الأخرى."
+        ]
+      },
+      "image": "",
+      "url": "https://www.theguardian.com/football/2026/jun/18/tottenham-52m-van-hecke-de-zerbi-defence",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 18 Jun 2026 21:09:41 GMT",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "tottenham-complete-52m-van-hecke-signing-as-de-zerbi-focuses-17n5hus"
+    },
+    {
+      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "title": {
+        "ar": "كأس العالم 2026: دليل الـ 1248 نجمًا... لا يفوتك أي لاعب!",
+        "en": "World Cup 2026: guide to all 1,248 players"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "استعدوا لأكبر محفل كروي، لأننا نقدم لكم كل ما تحتاجونه عن نجوم المونديال القادم!",
+        "en": "p Everything you need to know (and more) about every squad member. Click on the player pictures for more information /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\" Continue reading... /a"
+      },
+      "body": {
+        "ar": [
+          "هل أنت مستعد لأضخم دليل كروي على الإطلاق؟ موقع \"هدف\" يقدم لك مرجعًا شاملًا لكل لاعب سيشارك في كأس العالم 2026، من حراس المرمى وصولاً إلى أشرس المهاجمين.",
+          "تخيل أن يكون بين يديك ملف كامل عن كل فرد في قوائم المنتخبات المشاركة، كل التفاصيل والإحصائيات التي تروي عطشك الكروي بأسلوب المشجع الحقيقي، هذا الدليل سيجعلك خبيرًا في كل تشكيلة.",
+          "لا تفوت فرصة التعمق في عالم نجوم المونديال القادم، واكتشف كل خبايا وأسرار اللاعبين الذين سيبهرون العالم، كن مستعدًا لمتابعة البطولة بكل شغف ومعرفة!"
+        ]
+      },
+      "image": "",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "source": {
+        "ar": "الغارديان",
+        "en": "The Guardian"
+      },
+      "pubDate": "Thu, 04 Jun 2026 08:55:49 GMT",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "world-cup-2026-guide-to-all-1-248-players-1v08cpf"
+    },
+    {
+      "id": "https://www.skysports.com/cricket/news/12040/13556022/womens-t20-world-cup-australia-in-98-run-win-over-netherlands-to-continue-unbeaten-start-to-tournament",
+      "title": {
+        "ar": "راقصات السامبا يزلزلن هولندا بسباعية تاريخية!",
+        "en": "Australia extend winning World Cup start in big Netherlands win"
+      },
+      "kicker": {
+        "ar": "كأس العالم",
+        "en": "World Cup"
+      },
+      "excerpt": {
+        "ar": "أستراليا تواصل انطلاقتها الصاروخية في المونديال بسحق هولندا بسبعة أهداف!",
+        "en": ""
+      },
+      "body": {
+        "ar": [
+          "منتخب أستراليا يكتب التاريخ في كأس العالم للسيدات، بعد أن حقق انتصاراً ساحقاً على نظيره الهولندي بسبعة أهداف مقابل ثلاثة، في مباراة استعراضية للقوة والمهارة.",
+          "المنتخب الأسترالي قدم أداءً هجومياً نارياً، استغل فيه أخطاء الدفاع الهولندي وسجل أهدافاً رائعة، ليؤكد جدارته بالصدارة في مجموعته.",
+          "هذا الفوز الكبير يرفع معنويات الأستراليات ويضع بصمة قوية لهن في البطولة، مما يجعلهم مرشحين بقوة للمنافسة على اللقب."
+        ]
+      },
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-t20-womens-world-cup_7278545.jpg?20260620135032",
+      "url": "https://www.skysports.com/cricket/news/12040/13556022/womens-t20-world-cup-australia-in-98-run-win-over-netherlands-to-continue-unbeaten-start-to-tournament",
+      "source": {
+        "ar": "سكاي سبورتس",
+        "en": "Sky Sports"
+      },
+      "pubDate": "Sat, 20 Jun 2026 14:00:00 BST",
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "australia-extend-winning-world-cup-start-in-big-netherlands-4phaoq"
+    },
+    {
       "id": "https://www.theguardian.com/football/2026/jun/19/gary-oneil-set-to-leave-strasbourg-ipswich-head-coach",
       "title": {
         "ar": "جاري أونيل يخلع عباءة ستراسبورغ ويقود سفينة إبسويتش نحو المجد!",
@@ -1414,18 +1599,24 @@
     {
       "id": "https://www.espn.com/soccer/story/_/id/49117341/cristiano-ronaldo-portugal-ruben-dias-world-cup-2026",
       "title": {
-        "ar": "Portugal's Dias: Ronaldo criticism 'nothing new'",
+        "ar": "دياس يدافع عن الأسطورة: انتقاد رونالدو؟ هذا أمر معتاد!",
         "en": "Portugal's Dias: Ronaldo criticism 'nothing new'"
       },
       "kicker": {
-        "ar": "أخبار",
-        "en": "Football"
+        "ar": "كأس العالم",
+        "en": "World Cup"
       },
       "excerpt": {
-        "ar": "",
+        "ar": "روبن دياس يصف الانتقادات الموجهة لكريستيانو رونالدو بأنها «لا جديدة» بالنسبة لهم كلاعبين في المنتخب البرتغالي.",
         "en": ""
       },
-      "body": null,
+      "body": {
+        "ar": [
+          "في خضم استعدادات البرتغال لمواجهة التشيك في يورو 2024، خرج قلب الدفاع روبن دياس بتصريحات قوية، مؤكداً أن الانتقادات الموجهة لأسطورتهم كريستيانو رونالدو ليست أمراً جديداً عليهم كلاعبين، بل هي جزء من مسيرته الطويلة والحافلة.",
+          "وأضاف مدافع مانشستر سيتي أن وجود رونالدو في المنتخب يمنحهم حافزاً إضافياً وقوة دفع هائلة، مشدداً على أن اللاعبين اعتادوا على الضغوط المحيطة به، وأنهم يركزون على العمل الجماعي لتحقيق أهدافهم في البطولة.",
+          "هذا التصريح يعكس الروح القتالية والوحدة داخل معسكر البرتغال، ويؤكد أن رفاق الدون لن يتأثروا بالضجيج الخارجي، بل سيتخذونه وقوداً لتقديم أفضل ما لديهم وإسعاد الجماهير البرتغالية والعربية التي تعشق الأسطورة."
+        ]
+      },
       "image": "",
       "url": "https://www.espn.com/soccer/story/_/id/49117341/cristiano-ronaldo-portugal-ruben-dias-world-cup-2026",
       "source": {
@@ -1433,8 +1624,9 @@
         "en": "ESPN FC"
       },
       "pubDate": "Fri, 19 Jun 2026 15:57:15 EST",
-      "rewritten": false,
-      "lang": "en"
+      "rewritten": true,
+      "lang": "ar",
+      "slug": "portugal-s-dias-ronaldo-criticism-nothing-new-119pvid"
     },
     {
       "id": "https://www.theguardian.com/football/live/2026/jun/19/scotland-v-morocco-world-cup-2026-live",
@@ -1748,95 +1940,6 @@
       "rewritten": true,
       "lang": "ar",
       "slug": "lionel-messi-s-family-ask-for-humanity-as-his-father-receive-mdgw5e"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "title": {
-        "ar": "صيحات الميركاتو النسائي لعام 2026: صفقات تهز العروش!",
-        "en": "Women’s transfer window summer 2026: all deals from world’s top six leagues"
-      },
-      "kicker": {
-        "ar": "الانتقالات",
-        "en": "Transfers"
-      },
-      "excerpt": {
-        "ar": "ميركاتو صيفي ساخن ينتظر الكرة النسائية العالمية، وكل الأنظار تتجه نحو الصفقات الكبرى التي ستشعل الدوريات الستة الكبرى.",
-        "en": "p Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide /p ul li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues\" Men’s transfer window interactive guide /a /p /li /ul a href=\"http"
-      },
-      "body": {
-        "ar": [
-          "شهد الميركاتو الصيفي لعام 2026 حراكاً غير مسبوق في عالم كرة القدم النسائية، حيث تم الإعلان عن مجموعة من الصفقات البارزة التي من المتوقع أن تعيد تشكيل خارطة المنافسة.",
-          "تتضمن هذه الصفقات انتقالات مؤثرة عبر الدوريات الستة الكبرى: NWSL، WSL، Liga F، Frauen-Bundesliga، Première Ligue، وSerie A Femminile، مما يعد بموسم مليء بالإثارة والندية.",
-          "هذه التحركات الاستراتيجية ستكون حديث الجماهير، وتترقب جماهير الساحرة المستديرة تأثير هذه الصفقات على أداء الفرق وطموحاتها في حصد الألقاب القارية والمحلية."
-        ]
-      },
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 08 Jun 2026 09:00:05 GMT",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "women-s-transfer-window-summer-2026-all-deals-from-world-s-t-1bo5mfi"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-      "title": {
-        "ar": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-        "en": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues"
-      },
-      "kicker": {
-        "ar": "البريميرليغ",
-        "en": "Premier League"
-      },
-      "excerpt": {
-        "ar": "p All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide /p ul li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Women’s transfer window interactive guide /a /p /li /ul a href=\"https://www.theguardian.",
-        "en": "p All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide /p ul li p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/08/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues\" Women’s transfer window interactive guide /a /p /li /ul a href=\"https://www.theguardian."
-      },
-      "body": null,
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Mon, 08 Jun 2026 09:00:03 GMT",
-      "rewritten": false,
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
-      "title": {
-        "ar": "تحدي العمالقة: اصنع طريق بطل كأس العالم بنفسك!",
-        "en": "Bracketology: predict a path to World Cup victory"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "توقع مسار المنتخبات نحو المجد، من المجموعات حتى النهائي الكبير.",
-        "en": "p Click your way through the group stage and the knockouts to crown champion /p a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\" Continue reading... /a"
-      },
-      "body": {
-        "ar": [
-          "يا عشاق المستديرة، حان وقت إظهار خبرتكم الكروية! موقع 'هدف' يطرح لكم تحديًا ناريًا: تخيلوا أنفسكم مدربين أو محللين، واصنعوا مسار منتخبكم المفضل نحو التتويج بلقب كأس العالم.",
-          "المهمة واضحة ومثيرة: خوضوا غمار دور المجموعات بتوقعاتكم، ثم انطلقوا في أدوار خروج المغلوب الحاسمة، مباراة تلو الأخرى، حتى تتوجوا البطل الذي ترونه الأجدر برفع الكأس الذهبية.",
-          "هل أنتم مستعدون لهذه المغامرة التكتيكية؟ شاركونا توقعاتكم، وادخلوا عالم 'Bracketology' لتكتشفوا كم أنتم قريبون من الواقع الكروي! فهل ستكونون أصحاب الرؤية الصائبة؟"
-        ]
-      },
-      "image": "",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Thu, 04 Jun 2026 10:00:48 GMT",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "bracketology-predict-a-path-to-world-cup-victory-hzds81"
     },
     {
       "id": "https://www.skysports.com/football/turkey-vs-paraguay/report/549796",
@@ -2368,102 +2471,6 @@
       "rewritten": true,
       "lang": "ar",
       "slug": "new-zealand-edge-ireland-in-thriller-to-keep-world-cup-hopes-drwtum"
-    },
-    {
-      "id": "https://www.bbc.com/arabic/articles/c9q203q2zw9o?at_medium=RSS&at_campaign=rss",
-      "title": {
-        "ar": "رسالة من نساء اليابان للاعبين: نريد هذا الانضباط في الملاعب!",
-        "en": "\"افعلوا ذلك في المنزل أيضاً\"، رسالة نساء يابانيات للرجال بعد تنظيف ملعب كأس العالم"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "News"
-      },
-      "excerpt": {
-        "ar": "نساء اليابان يرسلن رسالة قوية للاعبين بعد مشهد تنظيف الملعب.",
-        "en": ""
-      },
-      "body": {
-        "ar": [
-          "في لفتة إنسانية راقية، أقدمت الجماهير اليابانية على تنظيف مدرجات ملعبهم في كأس العالم بعد انتهاء المباراة، وهو مشهد أثار إعجاب العالم.",
-          "هذه المبادرة الرائعة لم تمر مرور الكرام، حيث وجهت نساء يابانيات رسالة مفادها: \"نرغب في رؤية هذا الالتزام والانضباط داخل الملعب أيضاً\".",
-          "هل ستصل هذه الرسالة للاعبين؟ وهل سنرى هذا الحس بالمسؤولية ينعكس على أدائهم داخل المستطيل الأخضر؟ الجماهير العربية تترقب."
-        ]
-      },
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a7b9/live/3612e4d0-6bd5-11f1-bb90-8330b45f9c8e.jpg",
-      "url": "https://www.bbc.com/arabic/articles/c9q203q2zw9o?at_medium=RSS&at_campaign=rss",
-      "source": {
-        "ar": "BBC عربي",
-        "en": "BBC Arabic"
-      },
-      "pubDate": "Fri, 19 Jun 2026 18:03:22 GMT",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "post-1a0fewj"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/19/argentina-tv-host-resigns-falsely-reporting-death-jorge-messi",
-      "title": {
-        "ar": "صدمة في الأرجنتين: مذيعة تعلن وفاة والد ميسي كذبًا وتدفع الثمن!",
-        "en": "Argentinian TV host resigns after falsely reporting death of Lionel Messi’s father"
-      },
-      "kicker": {
-        "ar": "أخبار",
-        "en": "News"
-      },
-      "excerpt": {
-        "ar": "خبر كاذب يهز الأرجنتين حول والد الأسطورة ليونيل ميسي يطيح بمذيعة وطاقم إخباري!",
-        "en": "ul li p Florencia Peña quits after the broadcast on Luzu TV /p /li li p Luzu says ‘those responsible’ relieved of their duties /p /li /ul p Members of a news crew in Argentina have lost their jobs after falsely reporting the death of Lionel Messi’s father. /p p Florencia Peña announced on Luzu ⁠TV that Jorge Messi had died and went on to suggest th"
-      },
-      "body": {
-        "ar": [
-          "شهدت الأرجنتين موجة غضب عارمة بعدما أعلنت المذيعة فلورنسيا بينا، عبر قناة Luzu TV، خبرًا كاذبًا ومفجعًا عن وفاة خورخي ميسي، والد الأسطورة ليونيل ميسي. هذا الخطأ الفادح لم يمر مرور الكرام، حيث أعلنت بينا استقالتها من القناة تحت وطأة الضغط الجماهيري والإعلامي.",
-          "القناة الأرجنتينية سارعت لاتخاذ إجراءات صارمة، مؤكدة أنها 'أعفت المسؤولين' عن هذا الخطأ الجسيم من مهامهم، في محاولة لامتصاص الغضب وتصحيح الموقف. الخبر الكاذب انتشر كالنار في الهشيم، مثيرًا قلقًا واسعًا في الأوساط الكروية وبين عشاق البرغوث في كل مكان.",
-          "هذه الحادثة المؤسفة تذكرنا بأهمية التحقق الدقيق من الأخبار، خاصة تلك المتعلقة بشخصيات بحجم ميسي وعائلته، فالمشجع العربي والعالمي يستحق المصداقية. الجماهير كانت ولا تزال تنتظر الأخبار الصحيحة، ومثل هذه الأخطاء تهز ثقتها في الإعلام بشكل عام."
-        ]
-      },
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/19/argentina-tv-host-resigns-falsely-reporting-death-jorge-messi",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 19 Jun 2026 17:47:11 GMT",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "argentinian-tv-host-resigns-after-falsely-reporting-death-of-1rgyk5j"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/jun/19/life-hollywood-bubble-second-fiddle-us-need-for-world-cup-success",
-      "title": {
-        "ar": "أمريكا في دوامة كأس العالم: هل تنسي هوليوود نجومها؟",
-        "en": "Life in Hollywood bubble plays second fiddle to US need for World Cup success | Max Rushden"
-      },
-      "kicker": {
-        "ar": "كأس العالم",
-        "en": "World Cup"
-      },
-      "excerpt": {
-        "ar": "الضغوط تتصاعد على نجوم أمريكا في وطنهم، فهل ينجحون في تحقيق حلم المونديال؟",
-        "en": "p Working at a tournament brings its own demands but nothing like the pressure on home players for a good showing /p p Greetings from Los Angeles – from your own podcasting correspondent. England aside, it’s been 20 years since I was in the host country for a major tournament. Professional commitments make this a marginally different experience fro"
-      },
-      "body": {
-        "ar": [
-          "من لوس أنجلوس، تبدو أجواء هوليوود براقة، لكنها لا تقارن بالضغوط الحقيقية التي تواجه نجوم المنتخب الأمريكي في كأس العالم على أرضهم. هذه التجربة تختلف عن أي شيء آخر، حتى عن المشاركات السابقة في بطولات عالمية.",
-          "بينما ينشغل الإعلام العالمي بتفاصيل البطولة، يتركز التحدي الأكبر على اللاعبين المحليين. فالمسؤولية الملقاة على عاتقهم هائلة، والآمال المعلقة عليهم تفوق أي حسابات شخصية أو مهنية.",
-          "هذا المونديال ليس مجرد بطولة، بل هو فرصة لتاريخ جديد لكرة القدم الأمريكية. هل سيتمكن هؤلاء النجوم من تجاوز بريق هوليوود وتحقيق النجاح المنشود الذي ينتظره عشاق الكرة في كل مكان؟"
-        ]
-      },
-      "image": "",
-      "url": "https://www.theguardian.com/football/2026/jun/19/life-hollywood-bubble-second-fiddle-us-need-for-world-cup-success",
-      "source": {
-        "ar": "الغارديان",
-        "en": "The Guardian"
-      },
-      "pubDate": "Fri, 19 Jun 2026 17:05:44 GMT",
-      "rewritten": true,
-      "lang": "ar",
-      "slug": "life-in-hollywood-bubble-plays-second-fiddle-to-us-need-for-un2r7m"
     }
   ]
 }
