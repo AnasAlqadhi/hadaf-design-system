@@ -1,12 +1,8 @@
 name: Deploy Hadaf to GitHub Pages
 
-# Runs on every push to main, every 2 hours (keeps news fresh),
-# and can be triggered manually from the GitHub Actions tab.
+# Manual-only: automatic push + schedule triggers were removed to stop
+# recurring failed runs. Re-add `push`/`schedule` here to restore auto-deploys.
 on:
-  push:
-    branches: [main]
-  schedule:
-    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 permissions:
